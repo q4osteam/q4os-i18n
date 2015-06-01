@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Software Centre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-30 11:23+0200\n"
+"PO-Revision-Date: 2015-05-30 11:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/form1.cpp:182
+msgid "<p>"
+msgstr ""
+
+#: src/form1.cpp:182
+msgid "Uninstall"
+msgstr ""
+
+#: src/form1.cpp:182
+msgid "Uninstall now"
+msgstr ""
+
+#: src/form1.cpp:182
+msgid "Cancel"
+msgstr ""
+
+#: src/form1.cpp:243
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr ""
+
+#: src/form1.cpp:243
+#: src/form1.cpp:255
+msgid "Info"
+msgstr ""
+
+#: src/form1.cpp:255
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:469
+#: build/.ui/ui_form1.cpp:557
+msgid "config_file"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:471
+#: build/.ui/ui_form1.cpp:558
+msgid "Application"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:473
+#: build/.ui/ui_form1.cpp:559
+msgid "package"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:475
+#: build/.ui/ui_form1.cpp:560
+msgid "download"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:477
+#: build/.ui/ui_form1.cpp:561
+msgid "Rating"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:479
+#: build/.ui/ui_form1.cpp:562
+msgid "Description"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:481
+#: build/.ui/ui_form1.cpp:563
+msgid "rating_num"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:556
+msgid "Q4OS Software Centre"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:564
+msgid "Search:"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:566
+msgid "Package manager"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:567
+msgid "Run 'Synaptic' - system package manager"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:569
+msgid "Desktop profiler"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:570
+msgid "Run 'Desktop Profiler' tool"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:572
+msgid "Install application"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:573
+msgid "Install selected applications"
+msgstr ""
+

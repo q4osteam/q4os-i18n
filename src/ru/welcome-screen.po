@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Welcome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-30 11:35+0200\n"
+"PO-Revision-Date: 2015-05-06 07:28+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#: src/form1.cpp:111
+msgid "<p>Do you want to turn Desktop Effects on ?</p>"
+msgstr "<p>Вы хотите включить эффекты рабочего стола ?</p>"
+
+#: src/form1.cpp:111 src/form1.cpp:119 src/form1.cpp:123
+msgid "Desktop effects"
+msgstr "Эффекты рабочего стола"
+
+#: src/form1.cpp:111 src/form1.cpp:113
+msgid "Turn ON"
+msgstr "Включить"
+
+#: src/form1.cpp:111 src/form1.cpp:113 src/form1.cpp:153
+msgid "Revert to defaults"
+msgstr "Вернуть первоначальные настройки"
+
+#: src/form1.cpp:113
+msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
+msgstr "<p>Похоже, Ваш компьютер слишком слаб для поддержки эффектов рабочего стола. Нормальная работа не гарантируется.</p><p>Вы все еще хотите включить эффекты рабочего стола ?</p>"
+
+#: src/form1.cpp:113
+msgid "Warning !"
+msgstr "Внимание!"
+
+#: src/form1.cpp:119
+msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
+msgstr "<p>Эффекты рабочего стола включены. Пожалуйста, войдите в систему снова, чтобы изменения вступили в силу./p>"
+
+#: src/form1.cpp:123
+msgid "<p>Desktop effects have been disabled.</p>"
+msgstr "<p>Эффекты рабочего стола отключены.</p>"
+
+#: src/form1.cpp:135
+msgid "<p>Do you want to switch the Start Menu ?</p>"
+msgstr "<p>Вы хотите переключить Главное Меню ?</p>"
+
+#: src/form1.cpp:135 src/form1.cpp:141
+msgid "Start menu configuration"
+msgstr "Настройка Главного Меню"
+
+#: src/form1.cpp:135
+msgid "Switch to Kickoff"
+msgstr "Переключить на Kickoff"
+
+#: src/form1.cpp:135
+msgid "Revert to Classic"
+msgstr "Вернуть классический вид"
+
+#: src/form1.cpp:141
+msgid "<p>Start Menu is now set to Classic style.<p>"
+msgstr "<p>Выбран классический стиль Главного Меню.<p>"
+
+#: src/form1.cpp:153
+msgid "<p>Do you want to enable Automatic login ?</p>"
+msgstr "<p>Вы хотите включить автоматический вход в систему ?</p>"
+
+#: src/form1.cpp:153
+msgid "Autologin configuration"
+msgstr "Настройка Автовхода"
+
+#: src/form1.cpp:153
+msgid "Enable Autologin"
+msgstr "Включить Автовход"
+
+#: src/form1.cpp:157
+msgid "<p>Automatic login is now enabled.<p>"
+msgstr "<p>Автоматический вход в систему включен.<p>"
+
+#: src/form1.cpp:157 src/form1.cpp:162
+msgid "Automatic login"
+msgstr "Автоматический вход"
+
+#: src/form1.cpp:162
+msgid "<p>Automatic login is now disabled.<p>"
+msgstr "<p>Автоматический вход в систему отключен.<p>"
+
+#: src/form1.cpp:202
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr "<p>Обнаружена установка VirtualBox !</p><p>Действия отключены на время установки. Пожалуйста, дождитесь окончания процесса. </p>"
+
+#: src/form1.cpp:202
+msgid "Info"
+msgstr ""
+
+#: build/.ui/ui_form1.cpp:3875
+msgid "Welcome screen"
+msgstr "Окно приветствия"
+
+#: build/.ui/ui_form1.cpp:3876
+msgid "Close"
+msgstr "Закрыть"
+
+#: build/.ui/ui_form1.cpp:3877
+msgid "Show this dialog on startup"
+msgstr "Показывать это окно при запуске"
+
+#: build/.ui/ui_form1.cpp:3890
+msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надежность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3878
+msgid "Run Desktop Profiler"
+msgstr "Готовые наборы программ"
+
+#: build/.ui/ui_form1.cpp:3879
+msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
+msgstr "<font size=\"4\"><p>Мастер настройки за один клик установит и настроит набор дополнительных программ и утилит .</p><p>Вам будет предложено на выбор несколько наборов.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3880
+msgid "Install Applications"
+msgstr "Установить программы"
+
+#: build/.ui/ui_form1.cpp:3881
+msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
+msgstr "<font size=\"4\"><p>Вы будете перенаправлены на интернет страницу Q4OS для скачивания и установки отдельных полезных приложений.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3882
+msgid "Install Proprietary Codecs"
+msgstr "Установить видео кодеки"
+
+#: build/.ui/ui_form1.cpp:3883
+msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
+msgstr "<font size=\"4\"><p>Запуск скрипта для установки коллекции профессиональных кодеков.</p><p>Они используются медиаплеерами (например VLC, Mplayer) для воспроизведения DVD дисков и отдельных аудио и видео файлов.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3884
+msgid "Turn on Desktop effects"
+msgstr "Включить эффекты"
+
+#: build/.ui/ui_form1.cpp:3885
+msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
+msgstr "<font size=\"4\"><p>Нажимая на кнопку, Вы включаете эффекты рабочего стола (эффекты теней, сглаживания и т.п.)</p><p>Учтите, что устаревшее оборудование не сможет обеспечить их нормальную работу. Ваш компьютер будет предварительно протестирован на совместимость с эффектами.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3886
+msgid "Switch to Kickoff start menu"
+msgstr "Включить меню Kickoff"
+
+#: build/.ui/ui_form1.cpp:3887
+msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
+msgstr "<font size=\"4\"><p>Позволяет переключиться на Kickoff, альтернативный стиль Главного меню.</p><p>Хорошо организованное современное меню, сочетающее в себе функции поиска, избранного, истории запуска и многое другое.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3888
+msgid "Set Autologin"
+msgstr "Настроить Автовход"
+
+#: build/.ui/ui_form1.cpp:3889
+msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
+msgstr "<font size=\"4\"><p>Позволяет после загрузки системы входить в систему сразу, без ввода Вашего пароля.</p></font>"
+
+#~ msgid "Welcome screen message"
+#~ msgstr "Сообщение окна приветствия"
