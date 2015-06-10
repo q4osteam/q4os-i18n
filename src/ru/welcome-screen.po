@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-05-06 07:28+0800\n"
+"PO-Revision-Date: 2015-05-31 01:45+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.6\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: src/form1.cpp:111
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
@@ -99,7 +99,7 @@ msgstr "<p>Обнаружена установка VirtualBox !</p><p>Дейст
 
 #: src/form1.cpp:202
 msgid "Info"
-msgstr ""
+msgstr "Сведения"
 
 #: build/.ui/ui_form1.cpp:3875
 msgid "Welcome screen"
@@ -119,11 +119,11 @@ msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в 
 
 #: build/.ui/ui_form1.cpp:3878
 msgid "Run Desktop Profiler"
-msgstr "Готовые наборы программ"
+msgstr "Запуск Профайлера"
 
 #: build/.ui/ui_form1.cpp:3879
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr "<font size=\"4\"><p>Мастер настройки за один клик установит и настроит набор дополнительных программ и утилит .</p><p>Вам будет предложено на выбор несколько наборов.</p></font>"
+msgstr "<font size=\"4\"><p>Профайлер - это мастер настройки, который за один клик установит и настроит набор дополнительных программ и утилит .</p><p>Вам будет предложено на выбор несколько наборов.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3880
 msgid "Install Applications"

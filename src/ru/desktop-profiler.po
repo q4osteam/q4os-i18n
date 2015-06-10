@@ -8,95 +8,143 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:21+0200\n"
-"PO-Revision-Date: 2015-05-30 11:21+0100\n"
+"PO-Revision-Date: 2015-06-07 23:56+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
 
 #: src/form1.cpp:69
-msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
+msgid ""
+"<p>Q4OS is now installed as a very basic desktop environment. You can keep "
+"your system in minimal, clean state and make setup of other software by "
+"yourself. Otherwise, you might want to run the Desktop Profiler and let it "
+"to install and configure recommended additional software automatically, you "
+"are allowed to select between different desktop profiles. Desktop Profiler "
+"is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh "
+"Q4OS</b> installation fast and clean and skip additional installation now ?</"
+"p>"
 msgstr ""
+"<p>Q4OS установлена с минимальным набором компонентов. Вы можете установить "
+"и настроить все необходимые Вам компоненты самостоятельно. Также Вы можете "
+"использовать Профайлер, который позволяет автоматически установить наборы "
+"рекомендуемых приложений на Ваш выбор. Вы можете запустить Профайлер через "
+"Главное меню.</p><p>Желаете пропустить установку <b>дополнительного</b> "
+"программного обеспечения?</p>"
 
 #: src/form1.cpp:69
 msgid "Q4OS Setup"
-msgstr ""
+msgstr "Установка Q4OS"
 
 #: src/form1.cpp:69
 msgid "Keep clean"
-msgstr ""
+msgstr "Оставить как есть"
 
 #: src/form1.cpp:69
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Запуск Профайлера рабочего стола"
 
 #: src/form1.cpp:114
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgid ""
+"<p>Package system is busy, not ready to install now. Setup cannot continue.</"
+"p><p>The lock is caused, very probably, by ongoing background system "
+"updates. If this is the case, you have to wait a moment for package system "
+"to finish these operations. Please make sure you are not installing another "
+"application and repeat setup few minutes later.</p>"
 msgstr ""
+"<p>Пакетная система занята, установка не может быть продолжена.</p><p>Скорее "
+"всего, блокировка вызвана фоновым процессом обновления системы.  В таком "
+"случае подождите несколько минут и повторите попытку снова. Также убедитесь, "
+"что паралельно не запущена установка другой программы.</p>"
 
 #: src/form1.cpp:129
-msgid "<p>Unsufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
+msgid ""
+"<p>Unsufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 "
+"is necessary for required software.</p>"
 msgstr ""
+"<p>Неподдерживаемое оборудование!</p><p>В Вашем процессоре отсутствует "
+"поддержка инструкций SSE2, которые необходимы для данного ПО</p>"
 
 #: src/form1.cpp:150
-msgid "<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
+msgid ""
+"<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware "
+"resources for profile you have selected, it's not recommended to install the "
+"profile.</p>"
 msgstr ""
+"<p>Неподдерживаемое оборудование!</p><p>Ресурсов Вашего компьютера может "
+"оказаться недостаточно для выбранного Вами профиля. Дальнейшая его установка "
+"не рекомендуется</p>"
 
 #: src/form2.cpp:142
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Вы действительно хотите прервать выполнение операции?"
 
 #: src/form2.cpp:167
-msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
+msgid ""
+"Installation process has requested to logoff this session. Do you want re-"
+"login just now ?"
 msgstr ""
+"Для завершения установки необходимо повторно войти в систему. Вы хотите "
+"сделать это прямо сейчас?"
 
 #: src/form2.cpp:182
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "Пожалуйста, перезапустите X сервер."
 
 #: src/form2.cpp:189
-msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgid ""
+"Please reboot your computer as soon as possible. Do you want reboot just "
+"now ?"
+msgstr "Необходимо перезагрузить компьютер. Перезагрузить компьютер сейчас?"
 
 #: build/.ui/ui_form2.cpp:77
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "Профайлер - прогресс установки"
 
 #: build/.ui/ui_form2.cpp:78
 msgid "Next >"
-msgstr ""
+msgstr "Далее >"
 
 #: build/.ui/ui_form1.cpp:647
 msgid "Desktop Profiler - batch software installer"
-msgstr ""
+msgstr "Профайлер - готовые наборы программ"
 
 #: build/.ui/ui_form1.cpp:648
 msgid "Select a profile:"
-msgstr ""
+msgstr "Выберите профиль:"
 
 #: build/.ui/ui_form1.cpp:649
 msgid "Profile description"
-msgstr ""
+msgstr "Описание профиля"
 
 #: build/.ui/ui_form1.cpp:650
 msgid "Apply >"
-msgstr ""
+msgstr "Применить >"
 
 #: build/.ui/ui_form1.cpp:652
-msgid "Keep installed Q4OS operating system, you are free to setup anything by yourself"
-msgstr ""
+msgid ""
+"Keep installed Q4OS operating system, you are free to setup anything by "
+"yourself"
+msgstr "Оставить систему как есть - вы можете установить все самостоятельно"
 
 #: build/.ui/ui_form1.cpp:653
-msgid "Basic Q4OS Desktop with common utilities, command-line tools and libraries"
+msgid ""
+"Basic Q4OS Desktop with common utilities, command-line tools and libraries"
 msgstr ""
+"Базовая версия системы, с основными утилитами, библиотеками и инструментами "
+"коммандной строки"
 
 #: build/.ui/ui_form1.cpp:654
-msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
+msgid ""
+"Full featured Desktop with Web Browser, Office Suite and recommended "
+"applications set"
 msgstr ""
+"Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором "
+"рекоммендуемого программного обеспечения."
 
 #: build/.ui/ui_form1.cpp:655
 msgid "Select a profile"
-msgstr ""
-
+msgstr "Выберите профиль"
