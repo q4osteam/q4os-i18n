@@ -8,95 +8,95 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:21+0200\n"
-"PO-Revision-Date: 2015-05-30 11:21+0100\n"
+"PO-Revision-Date: 2015-06-12 13:26+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
 
 #: src/form1.cpp:69
 msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
-msgstr ""
+msgstr "<p>Q4OS est maintenant installé en tant que système bureautique propre et minimal. Vous pouvez le garder ainsi comme base pour choisir les logiciels supplémentaires à ajouter par vos soins. Autrement vous avez la possibilité d'exécuter le gestionnaire de profil burautique qui se chargera d'installer un ensemble d'applications fort courantes. Vous avez la possibilité de choisir entre différents profils burautiques. Cet outil est également disponible dans le menu démarrer.</p><p>Souhaitez vous <b>garder le système bureautique en cet état minimal</b> sans exécuter le gestionnaire de profil immédiatement ?</p>"
 
 #: src/form1.cpp:69
 msgid "Q4OS Setup"
-msgstr ""
+msgstr "Configuration de Q4OS"
 
 #: src/form1.cpp:69
 msgid "Keep clean"
-msgstr ""
+msgstr "Système minimaliste"
 
 #: src/form1.cpp:69
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Gestionnaire de profil"
 
 #: src/form1.cpp:114
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>Le gestionnaire de paquets est en cours d'utilisation et n'est donc pas prêt à installer un autre logiciel immédiatement. La configuration est interrompue.</p><p>Ce blocage est très certainement causé par une mise à jour système actuellement en cours. Si cela est le cas vous devrez attendre un instant le temps que cela soit terminé pour enfin poursuivre votre opération. Vérifiez évidemment que vous n'êtes pas en train d'installer une autre application présentement et répétez votre tentative dans quelques minutes.</p>"
 
 #: src/form1.cpp:129
 msgid "<p>Unsufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Votre matériel est insuffisament puissant.</p><p>Votre processeur n'a pas la fonctionnalité SSE2 absolument requise pour ce logiciel.</p>"
 
 #: src/form1.cpp:150
 msgid "<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Votre matériel est insuffisament puissant.</p><p>Votre ordinateur n'a pas les ressources suffisantes pour le profil bureautique que vous avez choisi, il n'est donc pas recommandé d'installer celui-ci.</p>"
 
 #: src/form2.cpp:142
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Souhaitez-vous vraiment annuler l'opération en cours ?"
 
 #: src/form2.cpp:167
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr ""
+msgstr "Le processus d'installation requière de se déconnecter de cette session.  Souhaitez-vous vous déconnecter puis reconnecter immadiatement ?"
 
 #: src/form2.cpp:182
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "Merci de bien vouloir redémarrez le service d'affichage « X » dès que possible (p.ex. de façon brutale avec Ctrl-Alt-Backspace)."
 
 #: src/form2.cpp:189
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgstr "SVP redémarrez votre ordinateur dès que possible.  Souhaitez-vous redémarrer immédiatement ?"
 
 #: build/.ui/ui_form2.cpp:77
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "Gestionnaire de profil -- progression de l'installation"
 
 #: build/.ui/ui_form2.cpp:78
 msgid "Next >"
-msgstr ""
+msgstr "Suivant >"
 
 #: build/.ui/ui_form1.cpp:647
 msgid "Desktop Profiler - batch software installer"
-msgstr ""
+msgstr "Gestionnaire de profil -- installeur de logiciel en mode batch"
 
 #: build/.ui/ui_form1.cpp:648
 msgid "Select a profile:"
-msgstr ""
+msgstr "Choisissez un profil :"
 
 #: build/.ui/ui_form1.cpp:649
 msgid "Profile description"
-msgstr ""
+msgstr "Description du profil"
 
 #: build/.ui/ui_form1.cpp:650
 msgid "Apply >"
-msgstr ""
+msgstr "Appliquer >"
 
 #: build/.ui/ui_form1.cpp:652
 msgid "Keep installed Q4OS operating system, you are free to setup anything by yourself"
-msgstr ""
+msgstr "Garder le système Q4OS d'installé, vous êtes libre de configurer ce que vous souhaiterez même"
 
 #: build/.ui/ui_form1.cpp:653
 msgid "Basic Q4OS Desktop with common utilities, command-line tools and libraries"
-msgstr ""
+msgstr "Utilitaire bureautiques Q4OS de base, lignes de commandes et bibliothèques"
 
 #: build/.ui/ui_form1.cpp:654
 msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
-msgstr ""
+msgstr "Ensemble bureautique complet avec navigateur Web, une suite bureautique et autres applications recommandées"
 
 #: build/.ui/ui_form1.cpp:655
 msgid "Select a profile"
-msgstr ""
-
+msgstr "Choisissez un profil"

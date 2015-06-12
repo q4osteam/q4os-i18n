@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-05-08 14:17+0100\n"
+"PO-Revision-Date: 2015-06-12 13:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -99,7 +99,7 @@ msgstr "<p>Une installation de Virtualbox est en cours !</p><p>Veuillez attendre
 
 #: src/form1.cpp:202
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: build/.ui/ui_form1.cpp:3875
 msgid "Welcome screen"
@@ -123,7 +123,7 @@ msgstr "Gestionnaire de profil"
 
 #: build/.ui/ui_form1.cpp:3879
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr "<font size=\"4\"><p>Le gestionnaire de profile installe et paramètre un ensemble d'applications supplémentaires en un seul click.</p><p>Vous aurez la possibilité de choisir entre différents profils bureautiques.</p></font>"
+msgstr "<font size=\"4\"><p>Le gestionnaire de profil installe et paramètre un ensemble d'applications supplémentaires en un seul click.</p><p>Vous aurez la possibilité de choisir entre différents profils bureautiques.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3880
 msgid "Install Applications"

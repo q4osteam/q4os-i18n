@@ -8,107 +8,99 @@ msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:23+0200\n"
-"PO-Revision-Date: 2015-05-30 11:23+0100\n"
+"PO-Revision-Date: 2015-06-12 13:32+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
 
 #: src/form1.cpp:182
 msgid "<p>"
-msgstr ""
+msgstr "<p>"
 
 #: src/form1.cpp:182
 msgid "Uninstall"
-msgstr ""
+msgstr "Désinstaller"
 
 #: src/form1.cpp:182
 msgid "Uninstall now"
-msgstr ""
+msgstr "Désinstaller maintenant"
 
 #: src/form1.cpp:182
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: src/form1.cpp:243
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>Le système a détecté une installation de Virtualbox !</p><p>Les actions sont désactivées durant l'installation de Virtualbox, svp attentez la fin de cette installation.</p>"
 
-#: src/form1.cpp:243
-#: src/form1.cpp:255
+#: src/form1.cpp:243 src/form1.cpp:255
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: src/form1.cpp:255
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>Vous n'avez appliqué aucun profil bureautique. Il est recommandé d'appliquer un profil bureautique avant d'installer des applications.</p><p>SVP exécutez le <b>gestionnaire de profil</b> pour choisir un profil.<p>"
 
-#: build/.ui/ui_form1.cpp:469
-#: build/.ui/ui_form1.cpp:557
+#: build/.ui/ui_form1.cpp:469 build/.ui/ui_form1.cpp:557
 msgid "config_file"
-msgstr ""
+msgstr "config_file"
 
-#: build/.ui/ui_form1.cpp:471
-#: build/.ui/ui_form1.cpp:558
+#: build/.ui/ui_form1.cpp:471 build/.ui/ui_form1.cpp:558
 msgid "Application"
-msgstr ""
+msgstr "Application"
 
-#: build/.ui/ui_form1.cpp:473
-#: build/.ui/ui_form1.cpp:559
+#: build/.ui/ui_form1.cpp:473 build/.ui/ui_form1.cpp:559
 msgid "package"
-msgstr ""
+msgstr "paquet"
 
-#: build/.ui/ui_form1.cpp:475
-#: build/.ui/ui_form1.cpp:560
+#: build/.ui/ui_form1.cpp:475 build/.ui/ui_form1.cpp:560
 msgid "download"
-msgstr ""
+msgstr "télécharger"
 
-#: build/.ui/ui_form1.cpp:477
-#: build/.ui/ui_form1.cpp:561
+#: build/.ui/ui_form1.cpp:477 build/.ui/ui_form1.cpp:561
 msgid "Rating"
-msgstr ""
+msgstr "Notation"
 
-#: build/.ui/ui_form1.cpp:479
-#: build/.ui/ui_form1.cpp:562
+#: build/.ui/ui_form1.cpp:479 build/.ui/ui_form1.cpp:562
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
-#: build/.ui/ui_form1.cpp:481
-#: build/.ui/ui_form1.cpp:563
+#: build/.ui/ui_form1.cpp:481 build/.ui/ui_form1.cpp:563
 msgid "rating_num"
-msgstr ""
+msgstr "rating_num"
 
 #: build/.ui/ui_form1.cpp:556
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Centre de logiciels Q4OS"
 
 #: build/.ui/ui_form1.cpp:564
 msgid "Search:"
-msgstr ""
+msgstr "Chercher :"
 
 #: build/.ui/ui_form1.cpp:566
 msgid "Package manager"
-msgstr ""
+msgstr "Gestionnaire de paquets"
 
 #: build/.ui/ui_form1.cpp:567
 msgid "Run 'Synaptic' - system package manager"
-msgstr ""
+msgstr "Exécuter le gestionnaire de paquets « Synaptic »"
 
 #: build/.ui/ui_form1.cpp:569
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Gestionnaire de profil"
 
 #: build/.ui/ui_form1.cpp:570
 msgid "Run 'Desktop Profiler' tool"
-msgstr ""
+msgstr "Exécuter le gestionnaire de profil"
 
 #: build/.ui/ui_form1.cpp:572
 msgid "Install application"
-msgstr ""
+msgstr "Installer l'application"
 
 #: build/.ui/ui_form1.cpp:573
 msgid "Install selected applications"
-msgstr ""
-
+msgstr "Installer les applications sélectionnées"
