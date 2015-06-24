@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:21+0200\n"
-"PO-Revision-Date: 2015-06-24 20:16+0100\n"
+"PO-Revision-Date: 2015-06-24 20:57+0100\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: src/form1.cpp:69
 msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
-msgstr "<p>Q4OS został zainstalowany w trybie bardzo prostego środowiska. Możesz pozostawić swój system w minimalnym, czystym stanie i zainstalować pozostałe elementy samodzielnie. W innym wypadku możesz uruchomić Konfigurator Pulpitu  i pozwolić mu zainstalowac i skonfigurować zalecane dodatkowe oprogramowanie automatycznie. Masz możliwość wyboru pomiędzy kilkoma profilami. Konfigurator Pulpitu jest także dostępny w Start Menu.</p><p>Czy chciałbyś <b>zachować świeżą instalację Q4OS</b>, szybką i czystą pomijając instalację dodatkowego oprogramowania teraz?</p>"
+msgstr "<p>Q4OS został zainstalowany jako bardzo proste środowiska. Możesz pozostawić swój system w minimalnym, czystym stanie i zainstalować pozostałe elementy samodzielnie. W innym wypadku możesz uruchomić Konfigurator Pulpitu i pozwolić mu zainstalować i skonfigurować zalecane dodatkowe oprogramowanie automatycznie. Masz możliwość wyboru pomiędzy kilkoma profilami. Konfigurator Pulpitu jest także dostępny w Start Menu.</p><p>Czy chciałbyś <b>zachować świeżą instalację Q4OS</b>, szybką i czystą pomijając instalację dodatkowego oprogramowania teraz?</p>"
 
 #: src/form1.cpp:69
 msgid "Q4OS Setup"
@@ -35,15 +35,15 @@ msgstr "Uruchom Konfigurator Pulpitu"
 
 #: src/form1.cpp:114
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Menadżer paczek programów jest zajęty i nie może instalować w tej chwili. Instalator nie może kontynuować.</p><p>Blokada prawdopodobnie jest wynikiem aktualizacji systemu odbywającej się w tle. Jeżeli tak jest, musisz zaczekać chwilę aż menadżer zakończy swoją pracę. Proszę zwrócić uwagę, by nie powtarzać drugi raz instalacji tego samego programu za kilka minut.</p>"
+msgstr "<p>Menedżer paczek programów jest zajęty i nie może instalować w tej chwili. Instalator nie może kontynuować.</p><p>Blokada prawdopodobnie jest wynikiem aktualizacji systemu odbywającej się w tle. Jeżeli tak jest, musisz zaczekać chwilę aż menadżer zakończy swoją pracę. Proszę zwrócić uwagę, by nie powtarzać drugi raz instalacji tego samego programu za kilka minut.</p>"
 
 #: src/form1.cpp:129
 msgid "<p>Unsufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr "<p>Wykryto niewystarczający sprzęt !</p><p>Twój procesor (CPU) nie posiada instrukcji SSE2, których wymaga program.</p>"
+msgstr "<p>Wykryto niewystarczający zasób sprzętowy!</p><p>Twój procesor (CPU) nie posiada instrukcji SSE2, których wymaga program.</p>"
 
 #: src/form1.cpp:150
 msgid "<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr "<p>Wykryto niewystarczający sprzęt!</p><p>Twój komputer ma za małe zasoby sprzetowe dla profilu, który wybrałeś. Jego instalacja jest nie zalecana.</p>"
+msgstr "<p>Wykryto niewystarczający zasób sprzętowy!</p><p>Twój komputer ma za małe zasoby sprzętowe dla profilu, który wybrałeś. Jego instalacja jest nie zalecana.</p>"
 
 #: src/form2.cpp:142
 msgid "Do you really want to cancel pending operation ?"
@@ -51,11 +51,11 @@ msgstr "Czy na pewno chcesz przerwać trwającą operację?"
 
 #: src/form2.cpp:167
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr "Proces instalacji wymaga ponownego zalogowania tego użytkownika. Czy chcesz się zalogowac ponownie teraz?"
+msgstr "Proces instalacji wymaga ponownego zalogowania tego użytkownika. Czy chcesz się zalogować ponownie teraz?"
 
 #: src/form2.cpp:182
 msgid "Please restart X server as soon as possible."
-msgstr "Prosze zresartować X server najszybciej jak to możliwe."
+msgstr "Proszę zresartować X server najszybciej jak to możliwe."
 
 #: src/form2.cpp:189
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
@@ -87,7 +87,7 @@ msgstr "Zastosuj >"
 
 #: build/.ui/ui_form1.cpp:652
 msgid "Keep installed Q4OS operating system, you are free to setup anything by yourself"
-msgstr "Pozostawia czysty system Q4OS, konfigurujesz wszystko samodzielnie"
+msgstr "Pozostawia czysty system Q4OS, masz możliwość konfiguracji wszystkiego samodzielnie"
 
 #: build/.ui/ui_form1.cpp:653
 msgid "Basic Q4OS Desktop with common utilities, command-line tools and libraries"
@@ -95,7 +95,7 @@ msgstr "Podstawowy pulpit Q4OS ze standardowymi programami (także linii komend)
 
 #: build/.ui/ui_form1.cpp:654
 msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
-msgstr "Pełne środowisko z przeglądarką internetową, pakietem biurowym i rekomendowanym zestawem programów"
+msgstr "Pełne środowisko z przeglądarką internetową, pakietem biurowym i zalecanym zestawem programów"
 
 #: build/.ui/ui_form1.cpp:655
 msgid "Select a profile"

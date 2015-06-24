@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 10:57+0200\n"
-"PO-Revision-Date: 2015-06-24 18:45+0100\n"
+"PO-Revision-Date: 2015-06-24 21:01+0100\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -39,7 +39,7 @@ msgstr "< Wstecz"
 
 #: build/.ui/ui_form6.cpp:2247
 msgid "Setup action:"
-msgstr "Działanie Instalatora:"
+msgstr "Działanie instalatora:"
 
 #: build/.ui/ui_form6.cpp:2248 build/.ui/ui_form3.cpp:2244
 #: build/.ui/ui_form5.cpp:2238 build/.ui/ui_form4.cpp:2250
@@ -117,7 +117,7 @@ msgid ""
 msgstr ""
 "<p><h2>Kończenie kreatora instalacji _SUBST_SWNAME_</h2><br></p>\n"
 "<p>Program _SUBST_SWNAME_ został zainstalowany na twoim komputerze.<br></p>\n"
-"<p>Naciśnij Zakończ by sfinalizować pracę instalatora.<br><br><br><br><br><br></p>\n"
+"<p>Naciśnij 'Zakończ' by sfinalizować pracę instalatora.<br><br><br><br><br><br></p>\n"
 "<p>Odwiedź stronę _SUBST_SWNAME_ by zapoznać się z nowinami, FAQ i obsługą techniczną.</p>"
 
 #: build/.ui/ui_form4.cpp:2248
@@ -127,7 +127,7 @@ msgstr ""
 # It would be good to add quotation or bold font for better button to click noticing.
 #: build/.ui/ui_form4.cpp:2249
 msgid "Press Page Down to see the rest of agreement."
-msgstr "Naciśnij przycisk Page Down (PgDn) by zobaczyć resztę umowy."
+msgstr "Naciśnij przycisk 'Page Down' (PgDn) by zobaczyć resztę umowy."
 
 #: build/.ui/ui_form4.cpp:2253
 msgid "License Agreement"
@@ -140,7 +140,7 @@ msgstr "Prosze zapoznać się z licencją przed instalacją"
 # It would be good to add quotation or bold font for better button to click noticing.
 #: build/.ui/ui_form4.cpp:2256
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr "Jeżeli akceptujesz postanowienia licencyjne, naciśnij Zgadzam się by kontynuować. Musisz zaakceptować umowę aby zainstalować program _SUBST_SWNAME_."
+msgstr "Jeżeli akceptujesz postanowienia licencyjne, naciśnij 'Zgadzam się' by kontynuować. Musisz zaakceptować umowę aby zainstalować program _SUBST_SWNAME_."
 
 #: build/.ui/ui_form4.cpp:2257
 msgid "I Agree >"
@@ -163,4 +163,4 @@ msgid ""
 msgstr ""
 "<p><h2>Witaj w kreatorze instalacji _SUBST_SWNAME_</h2></p>\n"
 "<p>Ten kreator przeprowadzi cię przez proces instalacji programu _SUBST_SWNAME_.</p>\n"
-"<p>Naciśnij Dalej by kontynuować.</p>\n"
+"<p>Naciśnij 'Dalej' by kontynuować.</p>\n"

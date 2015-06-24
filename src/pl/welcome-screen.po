@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-06-24 19:40+0100\n"
+"PO-Revision-Date: 2015-06-24 20:52+0100\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -43,7 +43,7 @@ msgstr "Uwaga!"
 
 #: src/form1.cpp:119
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr "<p>Efekty pulpitu zostały włączone. Prosze się zalogowac ponownie by zmiany zaczęły działać.</p>"
+msgstr "<p>Efekty pulpitu zostały włączone. Prosze się zalogować ponownie by zmiany zaczęły działać.</p>"
 
 #: src/form1.cpp:123
 msgid "<p>Desktop effects have been disabled.</p>"
@@ -51,7 +51,7 @@ msgstr "<p>Efekty pulpitu zostały wyłączone.</p>"
 
 #: src/form1.cpp:135
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr "<p>Czy chciałbyś przełączyć Menu Start?</p>"
+msgstr "<p>Czy chciałbyś przełączyć Start Menu?</p>"
 
 #: src/form1.cpp:135 src/form1.cpp:141
 msgid "Start menu configuration"
@@ -95,7 +95,7 @@ msgstr "<p>Automatyczne logowanie zostało wyłączone.<p>"
 
 #: src/form1.cpp:202
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, Proszę zaczekać do końca instalacji Virtualbox.</p>"
+msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, proszę zaczekać do końca instalacji Virtualbox.</p>"
 
 #: src/form1.cpp:202
 msgid "Info"
@@ -147,7 +147,7 @@ msgstr "Włącz Efekty Pulpitu"
 
 #: build/.ui/ui_form1.cpp:3885
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr "<font size=\"4\"><p>Naciśnij ten przycisk aby włączyć efekty wygładzania i efektów wizualnych.</p><p>Uwaga, efekty pulpitu działają płynnie jedynie na nowszych komputerach, nie jest zalecane używanie ich na starszym sprzęcie Krótki test systemu zostanie wykonany by upewnić się czy komputer jest gotowy by zaakceptować taką konfigurację.</p></font>"
+msgstr "<font size=\"4\"><p>Naciśnij ten przycisk aby włączyć efekty wygładzania i efektów wizualnych.</p><p>Uwaga, efekty pulpitu działają płynnie jedynie na nowszych komputerach, nie jest zalecane używanie ich na starszym sprzęcie. Krótki test systemu zostanie wykonany by upewnić się czy komputer jest gotowy by zaakceptować taką konfigurację.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3886
 msgid "Switch to Kickoff start menu"

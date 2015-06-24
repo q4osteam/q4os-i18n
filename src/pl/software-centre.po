@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:23+0200\n"
-"PO-Revision-Date: 2015-06-24 19:40+0100\n"
+"PO-Revision-Date: 2015-06-24 20:52+0100\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -35,7 +35,7 @@ msgstr "Anuluj"
 
 #: src/form1.cpp:243
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, Proszę zaczekać do końca instalacji Virtualbox.</p>"
+msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, proszę zaczekać do końca instalacji Virtualbox.</p>"
 
 #: src/form1.cpp:243 src/form1.cpp:255
 msgid "Info"
@@ -43,7 +43,7 @@ msgstr "Info"
 
 #: src/form1.cpp:255
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>Nie ustawiłeś jeszcze żadnego profilu pulpitu. Bardzo zalecane jest go wybranie przed instalacją programów.</p><p>Prosze uruchomić <b>Konfigurator Pulpitu</b> by wybrać i zastosować profil.</p>"
+msgstr "<p>Nie ustawiłeś jeszcze żadnego profilu pulpitu. Bardzo zalecane jest jego wybranie przed instalacją programów.</p><p>Proszę uruchomić <b>Konfigurator Pulpitu</b> by wybrać i zastosować profil.</p>"
 
 #: build/.ui/ui_form1.cpp:469 build/.ui/ui_form1.cpp:557
 msgid "config_file"
@@ -83,11 +83,11 @@ msgstr "Szukaj:"
 
 #: build/.ui/ui_form1.cpp:566
 msgid "Package manager"
-msgstr "Menadżer paczek z programami"
+msgstr "Menedżer paczek z programami"
 
 #: build/.ui/ui_form1.cpp:567
 msgid "Run 'Synaptic' - system package manager"
-msgstr "Uruchom 'Synaptic' - systemowy menadżer paczek z programami"
+msgstr "Uruchom 'Synaptic' - systemowy menedżer paczek z programami"
 
 #: build/.ui/ui_form1.cpp:569
 msgid "Desktop profiler"
@@ -103,4 +103,4 @@ msgstr "Instaluj aplikację"
 
 #: build/.ui/ui_form1.cpp:573
 msgid "Install selected applications"
-msgstr "Instaluj wybrana aplikację"
+msgstr "Instaluj wybrane aplikację"
