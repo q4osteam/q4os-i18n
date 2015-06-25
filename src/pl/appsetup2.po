@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Marcin Wilk <marcin@marcinwilk.eu>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 10:57+0200\n"
-"PO-Revision-Date: 2015-06-24 21:01+0100\n"
+"PO-Revision-Date: 2015-06-25 20:51+0100\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -39,7 +39,7 @@ msgstr "< Wstecz"
 
 #: build/.ui/ui_form6.cpp:2247
 msgid "Setup action:"
-msgstr "Działanie instalatora:"
+msgstr "Wykonywana operacja:"
 
 #: build/.ui/ui_form6.cpp:2248 build/.ui/ui_form3.cpp:2244
 #: build/.ui/ui_form5.cpp:2238 build/.ui/ui_form4.cpp:2250
