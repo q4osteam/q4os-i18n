@@ -20,8 +20,6 @@ for CFDIR in * ; do
     echo "Processing-2 $CFDIR"
     cd $CFDIR
     find . -name appsetup2.mo -execdir rm '{}' \;
-    find . -name desktop-profiler.mo -execdir rm '{}' \;
-    find . -name software-centre.mo -execdir rm '{}' \;
     cd ..
   fi
 done
