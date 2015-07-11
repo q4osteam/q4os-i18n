@@ -2,7 +2,7 @@
 
 cd src
 #for CFDIR in *
-for CFDIR in cs fr he ru ; do
+for CFDIR in cs fr he ru pl ; do
   if [ -d "$CFDIR" ] ; then
     echo "Processing-1 $CFDIR"
     cd $CFDIR
@@ -20,8 +20,6 @@ for CFDIR in * ; do
     echo "Processing-2 $CFDIR"
     cd $CFDIR
     find . -name appsetup2.mo -execdir rm '{}' \;
-    find . -name desktop-profiler.mo -execdir rm '{}' \;
-    find . -name software-centre.mo -execdir rm '{}' \;
     cd ..
   fi
 done
