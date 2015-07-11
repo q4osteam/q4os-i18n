@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-06-25 21:16+0100\n"
+"PO-Revision-Date: 2015-06-25 21:23+0100\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -131,7 +131,7 @@ msgstr "Instaluj aplikacje"
 
 #: build/.ui/ui_form1.cpp:3881
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr "<font size=\"4\"><p>Uruchamia centrum oprogramowania, które pozwoli Ci w łatwy sposób wybrać, pobrać i zainstalować wybrane programy.</p></font>"
+msgstr "<font size=\"4\"><p>Uruchamia centrum oprogramowania, które pozwoli Ci w łatwy sposób wskazać, pobrać i zainstalować wybrane programy.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3882
 msgid "Install Proprietary Codecs"
