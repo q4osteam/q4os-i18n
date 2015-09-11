@@ -2,7 +2,7 @@
 
 cd src
 #for CFDIR in *
-for CFDIR in cs fr he ru pl ; do
+for CFDIR in cs fr he pl pt pt_pt ru ; do
   if [ -d "$CFDIR" ] ; then
     echo "Processing-1 $CFDIR"
     cd $CFDIR
