@@ -8,158 +8,160 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-05-30 11:35+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2015-09-11 23:00+0100\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
 
 #: src/form1.cpp:111
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>Quer ativar os efeitos da Área de trabalho ?</p>"
 
 #: src/form1.cpp:111 src/form1.cpp:119 src/form1.cpp:123
 msgid "Desktop effects"
-msgstr ""
+msgstr "Efeitos do desktop"
 
 #: src/form1.cpp:111 src/form1.cpp:113
 msgid "Turn ON"
-msgstr ""
+msgstr "Ligar"
 
 #: src/form1.cpp:111 src/form1.cpp:113 src/form1.cpp:153
 msgid "Revert to defaults"
-msgstr ""
+msgstr "Reverter para pré-definição"
 
 #: src/form1.cpp:113
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>O seu hardware parece ser fraco para executar os efeitos da área de trabalho, não é recomendado ativar os efeitos.</p><p>Tem a certeza que quer ativar os efeitos da Área de trabalho ?</p>"
 
 #: src/form1.cpp:113
 msgid "Warning !"
-msgstr ""
+msgstr "Aviso !"
 
 #: src/form1.cpp:119
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr ""
+msgstr "<p>Os efeitos da área de trabalho foram ativados. Por favor, reinicie a sessão para que as alterações entrem em vigor.</p>"
 
 #: src/form1.cpp:123
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
+msgstr "<p>Os efeitos da área de trabalho foram desativados.</p>"
 
 #: src/form1.cpp:135
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
+msgstr "<p>Você quer mudar o Menu Iniciar ?</p>"
 
 #: src/form1.cpp:135 src/form1.cpp:141
 msgid "Start menu configuration"
-msgstr ""
+msgstr "Começar a configuração do menu"
 
 #: src/form1.cpp:135
 msgid "Switch to Kickoff"
-msgstr ""
+msgstr "Mudar para Kickoff"
 
 #: src/form1.cpp:135
 msgid "Revert to Classic"
-msgstr ""
+msgstr "Reverter para Clássico"
 
 #: src/form1.cpp:141
 msgid "<p>Start Menu is now set to Classic style.<p>"
-msgstr ""
+msgstr "<p>O menu Iniciar está agora definido para o estilo clássico.<p>"
 
 #: src/form1.cpp:153
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
+msgstr "<p>Quer ativar o início de sessão automático ?</p>"
 
 #: src/form1.cpp:153
 msgid "Autologin configuration"
-msgstr ""
+msgstr "Configuração do início de sessão automático"
 
 #: src/form1.cpp:153
 msgid "Enable Autologin"
-msgstr ""
+msgstr "Ativar início de sessão automático"
 
 #: src/form1.cpp:157
 msgid "<p>Automatic login is now enabled.<p>"
-msgstr ""
+msgstr "<p>O início de sessão automático está agora ativado.<p>"
 
 #: src/form1.cpp:157 src/form1.cpp:162
 msgid "Automatic login"
-msgstr ""
+msgstr "Início de sessão automático"
 
 #: src/form1.cpp:162
 msgid "<p>Automatic login is now disabled.<p>"
-msgstr ""
+msgstr "<p>O início de sessão automático está agora desativado.<p>"
 
 #: src/form1.cpp:202
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>Instalação Virtualbox foi detectada !</p><p>As ações são desativadas durante a instalação Virtualbox, por favor aguarde até que a instalação Virtualbox termine.</p>"
 
 #: src/form1.cpp:202
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: build/.ui/ui_form1.cpp:3875
 msgid "Welcome screen"
-msgstr ""
+msgstr "Ecrã de boas vindas"
 
 #: build/.ui/ui_form1.cpp:3876
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: build/.ui/ui_form1.cpp:3877
 msgid "Show this dialog on startup"
-msgstr ""
+msgstr "Mostrar este diálogo no início"
 
 #: build/.ui/ui_form1.cpp:3890
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operativo para o desktop, rápido e poderoso focado na estabilidade de longo prazo, estilo clássico e confiável da interface do utilizador .</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3878
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Executar o Perfil de Desktop"
 
 #: build/.ui/ui_form1.cpp:3879
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>O Perfil da Área de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Você terá permissão para selecionar entre diferentes perfis de área de trabalho.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3880
 msgid "Install Applications"
-msgstr ""
+msgstr "Instalar Aplicações"
 
 #: build/.ui/ui_form1.cpp:3881
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Você será direcionado para os recursos da rede Q4OS para transferir e instalar aplicações úteis independentes.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3882
 msgid "Install Proprietary Codecs"
-msgstr ""
+msgstr "Instalar Codecs Proprietários"
 
 #: build/.ui/ui_form1.cpp:3883
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma coleção extra de codecs de qualidade profissional.</p><p>Leitores multimédia, como o VLC ou o Mplayer fazem uso destes codecs, a fim de fornecer suporte para reprodução de DVD e ficheiros multimédia codificados por esses codecs.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3884
 msgid "Turn on Desktop effects"
-msgstr ""
+msgstr "Ativar os efeitos do Desktop"
 
 #: build/.ui/ui_form1.cpp:3885
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavização e os efeitos de embelezamento da área de trabalho.</p><p>Note, os efeitos da área de trabalho irão funcionar perfeitamente somente em hardware moderno, não é recomendável usá-lo com hardware antigo. Um pequeno teste do sistema será realizado para garantir que o hardware está pronto para aceitar a configuração.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3886
 msgid "Switch to Kickoff start menu"
-msgstr ""
+msgstr "Mudar para o menu Kickoff"
 
 #: build/.ui/ui_form1.cpp:3887
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Muda para um menu Iniciar Kickoff alternativo.</p><p>Bem organizado, menu iniciar de estilo moderno oferece uma barra de pesquisa, separador de favoritos, histórico e muito mais.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3888
 msgid "Set Autologin"
-msgstr ""
+msgstr "Definir login automático"
 
 #: build/.ui/ui_form1.cpp:3889
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Evita o ecrã de início de sessão e inicia a sessão sem introduzir a sua senha após a inicialização do sistema.</p></font>"

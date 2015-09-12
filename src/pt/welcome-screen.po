@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-09-04 20:58+0100\n"
+"PO-Revision-Date: 2015-09-11 23:00+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt\n"
@@ -24,7 +24,7 @@ msgstr "<p>Quer ativar os efeitos da Área de trabalho ?</p>"
 
 #: src/form1.cpp:111 src/form1.cpp:119 src/form1.cpp:123
 msgid "Desktop effects"
-msgstr "Efeitos da Área de trabalho"
+msgstr "Efeitos do desktop"
 
 #: src/form1.cpp:111 src/form1.cpp:113
 msgid "Turn ON"
@@ -112,15 +112,15 @@ msgstr "Fechar"
 
 #: build/.ui/ui_form1.cpp:3877
 msgid "Show this dialog on startup"
-msgstr "Mostrar este diálogo no início da sessão"
+msgstr "Mostrar este diálogo no início"
 
 #: build/.ui/ui_form1.cpp:3890
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operativo para a área de trabalho, rápido e poderoso focado na estabilidade de longo prazo, estilo clássico e confiável da interface do utilizador .</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operativo para o desktop, rápido e poderoso focado na estabilidade de longo prazo, estilo clássico e confiável da interface do utilizador .</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3878
 msgid "Run Desktop Profiler"
-msgstr "Executar o Perfil da Área de trabalho"
+msgstr "Executar o Perfil de Desktop"
 
 #: build/.ui/ui_form1.cpp:3879
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
@@ -144,7 +144,7 @@ msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma cole
 
 #: build/.ui/ui_form1.cpp:3884
 msgid "Turn on Desktop effects"
-msgstr "Ativar os efeitos da Área de trabalho"
+msgstr "Ativar os efeitos do Desktop"
 
 #: build/.ui/ui_form1.cpp:3885
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
@@ -152,7 +152,7 @@ msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavizaç
 
 #: build/.ui/ui_form1.cpp:3886
 msgid "Switch to Kickoff start menu"
-msgstr "Mudar para o menu iniciar Kickoff"
+msgstr "Mudar para o menu Kickoff"
 
 #: build/.ui/ui_form1.cpp:3887
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
@@ -160,7 +160,7 @@ msgstr "<font size=\"4\"><p>Muda para um menu Iniciar Kickoff alternativo.</p><p
 
 #: build/.ui/ui_form1.cpp:3888
 msgid "Set Autologin"
-msgstr "Definir início de sessão automático"
+msgstr "Definir login automático"
 
 #: build/.ui/ui_form1.cpp:3889
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
