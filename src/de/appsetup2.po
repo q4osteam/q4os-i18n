@@ -8,112 +8,104 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 10:57+0200\n"
-"PO-Revision-Date: 2015-05-30 11:06+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2015-12-30 01:20+0100\n"
+"Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: src/form6.cpp:156
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Wollen sie den laufenden Prozess wirklich abbrechen ?"
 
 #: build/.ui/ui_form6.cpp:2244
 msgid "Widget_ui_form6"
-msgstr ""
+msgstr "Widget_ui_form6"
 
-#: build/.ui/ui_form6.cpp:2245
-#: build/.ui/ui_form3.cpp:2252
-#: build/.ui/ui_form5.cpp:2243
-#: build/.ui/ui_form7.cpp:418
-#: build/.ui/ui_form4.cpp:2251
-#: build/.ui/ui_form2.cpp:412
+#: build/.ui/ui_form6.cpp:2245 build/.ui/ui_form3.cpp:2252
+#: build/.ui/ui_form5.cpp:2243 build/.ui/ui_form7.cpp:418
+#: build/.ui/ui_form4.cpp:2251 build/.ui/ui_form2.cpp:412
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
-#: build/.ui/ui_form6.cpp:2246
-#: build/.ui/ui_form3.cpp:2245
-#: build/.ui/ui_form5.cpp:2242
-#: build/.ui/ui_form7.cpp:419
+#: build/.ui/ui_form6.cpp:2246 build/.ui/ui_form3.cpp:2245
+#: build/.ui/ui_form5.cpp:2242 build/.ui/ui_form7.cpp:419
 #: build/.ui/ui_form4.cpp:2252
 msgid "< Back"
-msgstr ""
+msgstr "< Zurück"
 
 #: build/.ui/ui_form6.cpp:2247
 msgid "Setup action:"
-msgstr ""
+msgstr "Konfiguration:"
 
-#: build/.ui/ui_form6.cpp:2248
-#: build/.ui/ui_form3.cpp:2244
-#: build/.ui/ui_form5.cpp:2238
-#: build/.ui/ui_form4.cpp:2250
+#: build/.ui/ui_form6.cpp:2248 build/.ui/ui_form3.cpp:2244
+#: build/.ui/ui_form5.cpp:2238 build/.ui/ui_form4.cpp:2250
 msgid "Q4OS Install System v0.2.0"
-msgstr ""
+msgstr "Q4OS Installationssystem v0.2.0"
 
 #: build/.ui/ui_form6.cpp:2249
 msgid "Installing"
-msgstr ""
+msgstr "Installieren"
 
 #: build/.ui/ui_form6.cpp:2250
 msgid "Please wait while software is being installed"
-msgstr ""
+msgstr "Bitte warten, bis die Software installiert ist"
 
-#: build/.ui/ui_form6.cpp:2252
-#: build/.ui/ui_form3.cpp:2251
+#: build/.ui/ui_form6.cpp:2252 build/.ui/ui_form3.cpp:2251
 #: build/.ui/ui_form2.cpp:411
 msgid "Next >"
-msgstr ""
+msgstr "Fortfahren >"
 
 #: build/.ui/ui_form3.cpp:2243
 msgid "Widget_ui_form3"
-msgstr ""
+msgstr "Widget_ui_form3"
 
 #: build/.ui/ui_form3.cpp:2246
 msgid "result:"
-msgstr ""
+msgstr "Resultat:"
 
 #: build/.ui/ui_form3.cpp:2247
 msgid "passed OK !"
-msgstr ""
+msgstr "Erfolgreich !"
 
 #: build/.ui/ui_form3.cpp:2248
 msgid "Fast system checks"
-msgstr ""
+msgstr "Schnelle Systemüberprüfung"
 
 #: build/.ui/ui_form3.cpp:2249
 msgid "System is prechecking installation environment"
-msgstr ""
+msgstr "Das System überprüft die Installationsumgebung"
 
 #: build/.ui/ui_form5.cpp:2237
 msgid "Widget_ui_form5"
-msgstr ""
+msgstr "Widget_ui_form5"
 
 #: build/.ui/ui_form5.cpp:2239
 msgid "Get permissions"
-msgstr ""
+msgstr "Berechtigungen erlangen"
 
 #: build/.ui/ui_form5.cpp:2241
 msgid "System asks for installation permissions"
-msgstr ""
+msgstr "Das System benötigt Installationserlaubnis"
 
 #: build/.ui/ui_form5.cpp:2244
 msgid "Install >"
-msgstr ""
+msgstr "Installieren >"
 
 #: build/.ui/ui_form5.cpp:2245
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "Tippen Sie zum Fortfahren ihr Passwort ein:"
 
-#: build/.ui/ui_form7.cpp:416
-#: build/.ui/ui_form2.cpp:410
+#: build/.ui/ui_form7.cpp:416 build/.ui/ui_form2.cpp:410
 msgid "setup wizard"
-msgstr ""
+msgstr "Installationsassistent"
 
 #: build/.ui/ui_form7.cpp:417
 msgid "Finish >"
-msgstr ""
+msgstr "Fertigstellen >"
 
 #: build/.ui/ui_form7.cpp:420
 msgid ""
@@ -122,43 +114,57 @@ msgid ""
 "<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
+"<p><h2>Der _SUBST_SWNAME_ Installationsassistent wird fertiggestellt</"
+"h2><br></p>\n"
+"<p>_SUBST_SWNAME_ wurde auf Ihrem Computer installiert.<br></p>\n"
+"<p>Klicken Sie auf Fertigstellen, um den Assistenten zu schliessen.<br><br><br><br><br><br></p>\n"
+"<p>Besuchen sie die _SUBST_SWNAME_-Website um mehr darüber zu erfahren</p>"
 
 #: build/.ui/ui_form4.cpp:2248
 msgid "Widget_ui_form4"
-msgstr ""
+msgstr "Widget_ui_form4"
 
 #: build/.ui/ui_form4.cpp:2249
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "Drücken Sie Page Down, um den Rest der Vereinbarung zu sehen."
 
 #: build/.ui/ui_form4.cpp:2253
 msgid "License Agreement"
-msgstr ""
+msgstr "Lizenzvereinbarung"
 
 #: build/.ui/ui_form4.cpp:2254
 msgid "Please review the license terms before install"
-msgstr ""
+msgstr "Bitte lesen Sie die Lizenzvereinbarung vor der Installation gut durch"
 
 #: build/.ui/ui_form4.cpp:2256
-msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
+msgid ""
+"If you accept the terms of the agreement, click I Agree to continue. You "
+"must accept the agreement to install _SUBST_SWNAME_ software."
 msgstr ""
+"Wenn Sie die Vereinbarung akzeptieren, klicken Sie zum Fortfahren Ich Stimme "
+"Zu. Sie müssen die Vereinbarung akzeptieren, um _SUBST_SWNAME_ installieren "
+"zu können."
 
 #: build/.ui/ui_form4.cpp:2257
 msgid "I Agree >"
-msgstr ""
+msgstr "Ich Stimme Zu >"
 
 #: build/.ui/ui_form4.cpp:2258
 msgid "License text ..."
-msgstr ""
+msgstr "Lizenz ..."
 
 #: build/.ui/ui_form4.cpp:2259
 msgid "I Agree"
-msgstr ""
+msgstr "Ich Stimme Zu"
 
 #: build/.ui/ui_form2.cpp:413
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
-"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
+"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ "
+"application.</p>\n"
 "<p>Click Next to continue.</p>\n"
 msgstr ""
-
+"<p><h2>Willkommmen zum _SUBST_SWNAME_ Installationsassistenten</h2></p>\n"
+"<p>Dieser Assistent wird Sie durch die Installation von _SUBST_SWNAME_ "
+"begleiten.</p>\n"
+"<p>Klicken Sie zum Fortfahren auf Fortfahren.</p>\n"
