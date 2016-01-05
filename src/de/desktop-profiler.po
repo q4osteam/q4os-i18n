@@ -80,7 +80,7 @@ msgid ""
 "profile.</p>"
 msgstr ""
 "<p>Inkompatible Hardware erkannt !</p><p>Ihr Computer hat nicht genügend "
-"Hardware-Ressourcen für das Profil, das Sie ausgewählt haben. Es wird NICHT "
+"Hardware-Ressourcen für das Profil, das Sie ausgewählt haben. Es wird nicht "
 "empfohlen, das Profil zu installieren.</p>"
 
 #: src/form2.cpp:142

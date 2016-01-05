@@ -224,7 +224,7 @@ msgstr ""
 
 #: build/.ui/ui_form1.cpp:3888
 msgid "Set Autologin"
-msgstr "Automatische Anmeldung"
+msgstr "Autoanmeldung anwenden"
 
 #: build/.ui/ui_form1.cpp:3889
 msgid ""
