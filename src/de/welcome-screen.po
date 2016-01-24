@@ -142,7 +142,7 @@ msgstr ""
 "und effizienten Desktop-Betriebssystem, fokussierend auf langhaltige "
 "Stabilität, Zuverlässigkeit und einer Klassisch-aussehender "
 "Benutzeroberfläche.</p><p align=justify>Q4OS ist als ein sehr einfaches "
-"Desktop-System mit minimaler Software aufgebaut. Jetzt ist es an er Zeit, um "
+"Desktop-System mit minimaler Software aufgebaut. Jetzt ist es an der Zeit, um "
 "ihr Desktop einzustellen, wobei sie die untenstehenden Verknüpfungen "
 "benutzen können.</p></font>"
 
