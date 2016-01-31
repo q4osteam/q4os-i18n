@@ -8,158 +8,223 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 11:35+0200\n"
-"PO-Revision-Date: 2015-05-30 11:35+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2016-01-31 14:25+0100\n"
+"Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: src/form1.cpp:111
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>Vuoi abilitare gli effetti grafici del desktop?</p>"
 
 #: src/form1.cpp:111 src/form1.cpp:119 src/form1.cpp:123
 msgid "Desktop effects"
-msgstr ""
+msgstr "Effetti grafici del desktop"
 
 #: src/form1.cpp:111 src/form1.cpp:113
 msgid "Turn ON"
-msgstr ""
+msgstr "Abilita"
 
 #: src/form1.cpp:111 src/form1.cpp:113 src/form1.cpp:153
 msgid "Revert to defaults"
-msgstr ""
+msgstr "Ritorna alle impostazioni predefinite"
 
 #: src/form1.cpp:113
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
+msgid ""
+"<p>Your hardware seems to be low to run desktop effects, it's not "
+"recommended to turn effects on.</p><p>Do you really want to turn Desktop "
+"Effects on ?</p>"
 msgstr ""
+"<p>Il tuo sistema sembra essere poco performante per  abilitare gli effetti "
+"grafici del desktop, non è raccomandabile abilitarli.</p><p>Vuoi veramente "
+"abilitarli?</p>"
 
 #: src/form1.cpp:113
 msgid "Warning !"
-msgstr ""
+msgstr "Attenzione !"
 
 #: src/form1.cpp:119
-msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
+msgid ""
+"<p>Desktop effects have been enabled. Please login again to take changes "
+"effect.</p>"
 msgstr ""
+"<p>Gli effetti grafici del desktop sono stati abilitati. Per favore fai di "
+"nuovo login per attivare i cambiamenti.</p>"
 
 #: src/form1.cpp:123
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
+msgstr "<p>Gli effetti grafici del desktop sono stati disabilitati.</p>"
 
 #: src/form1.cpp:135
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
+msgstr "<p>Vuoi cambiare il menu di avvio?</p>"
 
 #: src/form1.cpp:135 src/form1.cpp:141
 msgid "Start menu configuration"
-msgstr ""
+msgstr "Configurazione del menu di avvio"
 
 #: src/form1.cpp:135
 msgid "Switch to Kickoff"
-msgstr ""
+msgstr "Usa il menu Kickoff"
 
 #: src/form1.cpp:135
 msgid "Revert to Classic"
-msgstr ""
+msgstr "Ritorna al menu classico"
 
 #: src/form1.cpp:141
 msgid "<p>Start Menu is now set to Classic style.<p>"
-msgstr ""
+msgstr "<p>Il menu di avvio è ora impostato con lo stile classico.<p>"
 
 #: src/form1.cpp:153
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
+msgstr "<p>Vuoi abilitare il login automatico?</p>"
 
 #: src/form1.cpp:153
 msgid "Autologin configuration"
-msgstr ""
+msgstr "Configurazione login automatico"
 
 #: src/form1.cpp:153
 msgid "Enable Autologin"
-msgstr ""
+msgstr "Abilita login automatico"
 
 #: src/form1.cpp:157
 msgid "<p>Automatic login is now enabled.<p>"
-msgstr ""
+msgstr "<p>Il login automatico è ora abilitato.<p>"
 
 #: src/form1.cpp:157 src/form1.cpp:162
 msgid "Automatic login"
-msgstr ""
+msgstr "Login automatico"
 
 #: src/form1.cpp:162
 msgid "<p>Automatic login is now disabled.<p>"
-msgstr ""
+msgstr "<p>Il login automatico è ora disabilitato.<p>"
 
 #: src/form1.cpp:202
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgid ""
+"<p>Virtualbox installation has been detected !</p><p>Actions are disabled "
+"during Virtualbox setup, please wait until end of the Virtualbox "
+"installation.</p>"
 msgstr ""
 
 #: src/form1.cpp:202
 msgid "Info"
-msgstr ""
+msgstr "Informazioni"
 
 #: build/.ui/ui_form1.cpp:3875
 msgid "Welcome screen"
-msgstr ""
+msgstr "Schermata di benvenuto"
 
 #: build/.ui/ui_form1.cpp:3876
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 #: build/.ui/ui_form1.cpp:3877
 msgid "Show this dialog on startup"
-msgstr ""
+msgstr "Mostra questa finestra all'avvio"
 
 #: build/.ui/ui_form1.cpp:3890
-msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
+msgid ""
+"<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful "
+"desktop operating system focused on long-term stability, reliability and "
+"classic style user interface.</p><p align=justify>Q4OS is installed as a "
+"very basic and clean desktop environment with the minimal software kit. Now "
+"it's the right time to adjust your new desktop, you might want to make use "
+"of tweaking shortcuts below.</p></font>"
 msgstr ""
+"<font size=\"4\"><p align=justify><b>Benvenuto in Q4OS</b>, un sistema "
+"operativo veloce e potente focalizzato sulla stabilità a lungo termine, "
+"sull'affidabilità e su un'interfaccia dallo stile classico.</p><p "
+"align=justify>Q4OS è installato in maniera molto minimale e pulita con pochi "
+"programmi aggiuntivi. Ora puoi scegliere di configurare il tuo nuovo "
+"desktop, e le scorciatoie qui sotto sono un ottimo inizio.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3878
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Esegui Desktop Profiler"
 
 #: build/.ui/ui_form1.cpp:3879
-msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
+msgid ""
+"<font size=\"4\"><p>Desktop Profiler will automatically install and "
+"configure set of additional Applications and tools, all in single click.</"
+"p><p>You will be allowed to select between different desktop profiles.</p></"
+"font>"
 msgstr ""
+"<font size=\"4\"><p>Desktop Profiler installerà e configurerà "
+"automaticamente un insieme di applicazioni e programmi in modo facile con un "
+"singolo click.</p><p>Potrai scegliere tra differenti profili del desktop.</"
+"p></font>"
 
 #: build/.ui/ui_form1.cpp:3880
 msgid "Install Applications"
-msgstr ""
+msgstr "Installa applicazioni"
 
 #: build/.ui/ui_form1.cpp:3881
-msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
+msgid ""
+"<font size=\"4\"><p>You will be directed to Q4OS web resources to download "
+"and install standalone useful applications.</p></font>"
 msgstr ""
+"<font size=\"4\"><p>Sarai rediretto sul sito web di Q4OS per scaricare e "
+"installare applicazioni utili selezionandole una ad una.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3882
 msgid "Install Proprietary Codecs"
-msgstr ""
+msgstr "Installa Codec proprietari"
 
 #: build/.ui/ui_form1.cpp:3883
-msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
+msgid ""
+"<font size=\"4\"><p>Run an interactive script to install extra collection of "
+"professional quality codecs.</p><p>Media players such as VLC or Mplayer make "
+"use of these codecs in order to provide support for playback of DVD and "
+"multimedia files encoded through these codecs.</p></font>"
 msgstr ""
+"<font size=\"4\"><p>Esegui un programma interarrivo per installare altri "
+"codec di qualità professionale.</p><p>I lettori multimediali come VLC o "
+"Mplayer useranno questi codec per poter leggere i DVD e i files multimediali "
+"codificati con questi codec.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3884
 msgid "Turn on Desktop effects"
-msgstr ""
+msgstr "Abilita gli effetti grafici del desktop"
 
 #: build/.ui/ui_form1.cpp:3885
-msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
+msgid ""
+"<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing "
+"and beautifying effects on.</p><p>Note, desktop effects will work flawlessly "
+"on modern hardware only, it's not recommended to use it with legacy "
+"hardware. A short system testing will be performed to ensure the hardware is "
+"ready to accept the configuration.</p></font>"
 msgstr ""
+"<font size=\"4\"><p>Cliccando su questo pulsante abiliterai gli effetti "
+"grafici del desktop.</p><p>Nota che questi effetti funzioneranno senza "
+"problemi solo su hardware moderno, e sono sconsigliati con hardware vetusto. "
+"Un rapido controllo del sistema verrà eseguito per assicurarsi che il tuo "
+"hardware possa accettare la configurazione.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3886
 msgid "Switch to Kickoff start menu"
-msgstr ""
+msgstr "Usa il menu di avvio Kickoff"
 
 #: build/.ui/ui_form1.cpp:3887
-msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
+msgid ""
+"<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well "
+"arranged, modern style start menu offers search bar, favorites tab, history "
+"and more.</p></font>"
 msgstr ""
+"<font size=\"4\"><p>Usa il menu di avvio alternativo Kickoff.</p><p>Ben "
+"disposto, con uno stile moderno questo menu offre una barra di ricerca, "
+"mostra i programmi preferiti, la cronologia ed altro.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3888
 msgid "Set Autologin"
-msgstr ""
+msgstr "Imposta login automatico"
 
 #: build/.ui/ui_form1.cpp:3889
-msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
+msgid ""
+"<font size=\"4\"><p>Bypass login screen and login without entering your "
+"password after the system boot.</p></font>"
 msgstr ""
+"<font size=\"4\"><p>Non mostrare la schermata di login e accedi senza "
+"immettere la tua password all'avvio del sistema.</p></font>"

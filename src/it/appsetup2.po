@@ -8,63 +8,55 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-30 10:57+0200\n"
-"PO-Revision-Date: 2015-05-30 11:06+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2016-01-31 14:03+0100\n"
+"Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: src/form6.cpp:156
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Vuoi veramente annullare l'operazione in corso?"
 
 #: build/.ui/ui_form6.cpp:2244
 msgid "Widget_ui_form6"
 msgstr ""
 
-#: build/.ui/ui_form6.cpp:2245
-#: build/.ui/ui_form3.cpp:2252
-#: build/.ui/ui_form5.cpp:2243
-#: build/.ui/ui_form7.cpp:418
-#: build/.ui/ui_form4.cpp:2251
-#: build/.ui/ui_form2.cpp:412
+#: build/.ui/ui_form6.cpp:2245 build/.ui/ui_form3.cpp:2252
+#: build/.ui/ui_form5.cpp:2243 build/.ui/ui_form7.cpp:418
+#: build/.ui/ui_form4.cpp:2251 build/.ui/ui_form2.cpp:412
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
-#: build/.ui/ui_form6.cpp:2246
-#: build/.ui/ui_form3.cpp:2245
-#: build/.ui/ui_form5.cpp:2242
-#: build/.ui/ui_form7.cpp:419
+#: build/.ui/ui_form6.cpp:2246 build/.ui/ui_form3.cpp:2245
+#: build/.ui/ui_form5.cpp:2242 build/.ui/ui_form7.cpp:419
 #: build/.ui/ui_form4.cpp:2252
 msgid "< Back"
-msgstr ""
+msgstr "< Indietro"
 
 #: build/.ui/ui_form6.cpp:2247
 msgid "Setup action:"
 msgstr ""
 
-#: build/.ui/ui_form6.cpp:2248
-#: build/.ui/ui_form3.cpp:2244
-#: build/.ui/ui_form5.cpp:2238
-#: build/.ui/ui_form4.cpp:2250
+#: build/.ui/ui_form6.cpp:2248 build/.ui/ui_form3.cpp:2244
+#: build/.ui/ui_form5.cpp:2238 build/.ui/ui_form4.cpp:2250
 msgid "Q4OS Install System v0.2.0"
-msgstr ""
+msgstr "Programma di installazione di Q4OS v0.2.0"
 
 #: build/.ui/ui_form6.cpp:2249
 msgid "Installing"
-msgstr ""
+msgstr "Installazione in corso"
 
 #: build/.ui/ui_form6.cpp:2250
 msgid "Please wait while software is being installed"
-msgstr ""
+msgstr "Per cortesia attendi mentre i programmi sono installati"
 
-#: build/.ui/ui_form6.cpp:2252
-#: build/.ui/ui_form3.cpp:2251
+#: build/.ui/ui_form6.cpp:2252 build/.ui/ui_form3.cpp:2251
 #: build/.ui/ui_form2.cpp:411
 msgid "Next >"
-msgstr ""
+msgstr "Avanti >"
 
 #: build/.ui/ui_form3.cpp:2243
 msgid "Widget_ui_form3"
@@ -72,19 +64,19 @@ msgstr ""
 
 #: build/.ui/ui_form3.cpp:2246
 msgid "result:"
-msgstr ""
+msgstr "risultato:"
 
 #: build/.ui/ui_form3.cpp:2247
 msgid "passed OK !"
-msgstr ""
+msgstr "Esito positivo!"
 
 #: build/.ui/ui_form3.cpp:2248
 msgid "Fast system checks"
-msgstr ""
+msgstr "Controlli veloci del sistema"
 
 #: build/.ui/ui_form3.cpp:2249
 msgid "System is prechecking installation environment"
-msgstr ""
+msgstr "Controllo preliminare dell'ambiente di installazione in corso"
 
 #: build/.ui/ui_form5.cpp:2237
 msgid "Widget_ui_form5"
@@ -92,28 +84,27 @@ msgstr ""
 
 #: build/.ui/ui_form5.cpp:2239
 msgid "Get permissions"
-msgstr ""
+msgstr "Ottieni i permessi"
 
 #: build/.ui/ui_form5.cpp:2241
 msgid "System asks for installation permissions"
-msgstr ""
+msgstr "Il sistema chiede i permessi per l'installazione"
 
 #: build/.ui/ui_form5.cpp:2244
 msgid "Install >"
-msgstr ""
+msgstr "Installa >"
 
 #: build/.ui/ui_form5.cpp:2245
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "Immetti la tua password per continuare:"
 
-#: build/.ui/ui_form7.cpp:416
-#: build/.ui/ui_form2.cpp:410
+#: build/.ui/ui_form7.cpp:416 build/.ui/ui_form2.cpp:410
 msgid "setup wizard"
-msgstr ""
+msgstr "Assistente di configurazione"
 
 #: build/.ui/ui_form7.cpp:417
 msgid "Finish >"
-msgstr ""
+msgstr "Finito >"
 
 #: build/.ui/ui_form7.cpp:420
 msgid ""
@@ -122,6 +113,12 @@ msgid ""
 "<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
+"<p><h2>Completamento dell'assistente di configurazione di _SUBST_SWNAME_</"
+"h2><br></p>\n"
+"<p>Il programma _SUBST_SWNAME_ è stato installato nel tuo computer.<br></p>\n"
+"<p>Premi Finito per chiudere l'assistente.<br><br><br><br><br><br></p>\n"
+"<p>Visita il sito _SUBST_SWNAME_ per le ultime novità, le domande frequenti "
+"e il supporto</p>"
 
 #: build/.ui/ui_form4.cpp:2248
 msgid "Widget_ui_form4"
@@ -129,36 +126,45 @@ msgstr ""
 
 #: build/.ui/ui_form4.cpp:2249
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "Premi Pagina Giù per vedere il resto della licenza."
 
 #: build/.ui/ui_form4.cpp:2253
 msgid "License Agreement"
-msgstr ""
+msgstr "Contratto di licenza"
 
 #: build/.ui/ui_form4.cpp:2254
 msgid "Please review the license terms before install"
-msgstr ""
+msgstr "Per cortesia rileggi i termini di licenza prima di installare"
 
 #: build/.ui/ui_form4.cpp:2256
-msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
+msgid ""
+"If you accept the terms of the agreement, click I Agree to continue. You "
+"must accept the agreement to install _SUBST_SWNAME_ software."
 msgstr ""
+"Se accetti i termini di licenza, premi Accetto per continuare. Devi "
+"accettare i termini di licenza per installare _SUBST_SWNAME_ ."
 
 #: build/.ui/ui_form4.cpp:2257
 msgid "I Agree >"
-msgstr ""
+msgstr "Accetto >"
 
 #: build/.ui/ui_form4.cpp:2258
 msgid "License text ..."
-msgstr ""
+msgstr "Contratto di licenza..."
 
 #: build/.ui/ui_form4.cpp:2259
 msgid "I Agree"
-msgstr ""
+msgstr "Accetto"
 
 #: build/.ui/ui_form2.cpp:413
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
-"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
+"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ "
+"application.</p>\n"
 "<p>Click Next to continue.</p>\n"
 msgstr ""
-
+"<p><h2>Benvenuti nell'assistente di configurazione di _SUBST_SWNAME_</h2></"
+"p>\n"
+"<p>Questo assistente vi guiderà nell'installazione del programma "
+"_SUBST_SWNAME_ .</p>\n"
+"<p>Premi Avanti per continuare.</p>\n"
