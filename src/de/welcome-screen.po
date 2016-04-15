@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-15 10:17+0200\n"
-"PO-Revision-Date: 2016-04-15 11:10+0100\n"
+"PO-Revision-Date: 2016-04-15 11:52+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -117,7 +117,7 @@ msgstr "<p>Wollen sie zum Startmenü wechseln ?</p>"
 
 #: src/form2.cpp:37
 msgid "Cancel"
-msgstr "Aufheben"
+msgstr "Abbrechen"
 
 #: src/form2.cpp:54
 #: src/form2.cpp:69
