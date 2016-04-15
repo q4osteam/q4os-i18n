@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-30 11:35+0200\n"
+"POT-Creation-Date: 2016-04-15 10:17+0200\n"
 "PO-Revision-Date: 2015-05-17 14:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,88 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.6\n"
 
-#: src/form1.cpp:111
+#: src/form1.cpp:126
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
 msgstr "<p>האם ברצונך להפעיל את האפקטים בשולחן העבודה?</p>"
 
-#: src/form1.cpp:111 src/form1.cpp:119 src/form1.cpp:123
+#: src/form1.cpp:126 src/form1.cpp:134 src/form1.cpp:138
 msgid "Desktop effects"
 msgstr "אפקטים בשולחן העבודה"
 
-#: src/form1.cpp:111 src/form1.cpp:113
+#: src/form1.cpp:126 src/form1.cpp:128
 msgid "Turn ON"
 msgstr "הפעלה"
 
-#: src/form1.cpp:111 src/form1.cpp:113 src/form1.cpp:153
+#: src/form1.cpp:126 src/form1.cpp:128 src/form1.cpp:171
 msgid "Revert to defaults"
 msgstr "חזרה להגדרות ברירת המחדל"
 
-#: src/form1.cpp:113
+#: src/form1.cpp:128
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
 msgstr "<p>משאבי החומרה מוגבלים ולא מאפשרים להפעיל אפקטים בשולחן העבודה, לא מומלץ להפעיל אפקטים.</p><p>האם באמת להפעיל את האפקטים בשולחן העבודה?</p>"
 
-#: src/form1.cpp:113
+#: src/form1.cpp:128
 msgid "Warning !"
 msgstr "אזהרה!"
 
-#: src/form1.cpp:119
+#: src/form1.cpp:134
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
 msgstr "<p>אפקטים בשולחן העבודה הופעלו. יש לצאת מהמערכת ולהיכנס שוב כדי להפעיל שינויים.</p>"
 
-#: src/form1.cpp:123
+#: src/form1.cpp:138
 msgid "<p>Desktop effects have been disabled.</p>"
 msgstr "<p>אפקטים בשולחן העבודה בוטלו.</p>"
 
-#: src/form1.cpp:135
-msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr "<p>האם לשנות את תפריט התחל?</p>"
-
-#: src/form1.cpp:135 src/form1.cpp:141
-msgid "Start menu configuration"
-msgstr "התאמת תפריט התחל"
-
-#: src/form1.cpp:135
-msgid "Switch to Kickoff"
-msgstr "מעבר לתפריט התחלה"
-
-#: src/form1.cpp:135
-msgid "Revert to Classic"
-msgstr "חזור למצב קלאסי"
-
-#: src/form1.cpp:141
-msgid "<p>Start Menu is now set to Classic style.<p>"
-msgstr "תפריט התחל מכוון למצב קלאסי"
-
-#: src/form1.cpp:153
+#: src/form1.cpp:171
 msgid "<p>Do you want to enable Automatic login ?</p>"
 msgstr "<p>האם ברצונך להיכנס למערכת באופן אוטומטי?<p/>"
 
-#: src/form1.cpp:153
+#: src/form1.cpp:171
 msgid "Autologin configuration"
 msgstr "התאמת כניסה אוטומטית"
 
-#: src/form1.cpp:153
+#: src/form1.cpp:171
 msgid "Enable Autologin"
 msgstr "הפעלת כניסה אוטומטית"
 
-#: src/form1.cpp:157
+#: src/form1.cpp:175
 msgid "<p>Automatic login is now enabled.<p>"
 msgstr "כניסה אוטומטית מופעלת מעכשיו"
 
-#: src/form1.cpp:157 src/form1.cpp:162
+#: src/form1.cpp:175 src/form1.cpp:180
 msgid "Automatic login"
 msgstr "כניסה אוטומטית"
 
-#: src/form1.cpp:162
+#: src/form1.cpp:180
 msgid "<p>Automatic login is now disabled.<p>"
 msgstr "כניסה אוטומטית מבוטלת מעכשיו"
 
-#: src/form1.cpp:202
+#: src/form1.cpp:191
+msgid "<p>ARM CPU architecture detected. It doesn't support proprietary multimedia codecs.</p>"
+msgstr ""
+
+#: src/form1.cpp:191 src/form1.cpp:220
+msgid "Info"
+msgstr ""
+
+#: src/form1.cpp:220
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p class=\"auto-style1\">זוהתה התקנה וירטואלית!<br><br>פעולות נוספות מנוטרלות במהלך הקמת התקנה וירטואלית. יש להמתין עד לסיום ההתקנה.</p>"
 
-#: src/form1.cpp:202
-msgid "Info"
+#: src/form2.cpp:19
+msgid "Switch to Kickoff"
+msgstr "מעבר לתפריט התחלה"
+
+#: src/form2.cpp:20
+msgid "Switch to Bourbon"
+msgstr ""
+
+#: src/form2.cpp:21
+msgid "Revert to Classic"
+msgstr "חזור למצב קלאסי"
+
+#: src/form2.cpp:28 src/form2.cpp:61 src/form2.cpp:76 src/form2.cpp:91
+msgid "Start menu configuration"
+msgstr "התאמת תפריט התחל"
+
+#: src/form2.cpp:33
+msgid "<p>Do you want to switch the Start Menu ?</p>"
+msgstr "<p>האם לשנות את תפריט התחל?</p>"
+
+#: src/form2.cpp:37
+msgid "Cancel"
+msgstr ""
+
+#: src/form2.cpp:54 src/form2.cpp:69 src/form2.cpp:84
+msgid "Working ..."
+msgstr ""
+
+#: src/form2.cpp:61
+msgid "<p>Start Menu is now set to Kickoff style.<p>"
+msgstr ""
+
+#: src/form2.cpp:76
+msgid "<p>Start Menu is now set to Bourbon style.<p>"
+msgstr ""
+
+#: src/form2.cpp:91
+msgid "<p>Start Menu is now set to Classic style.<p>"
+msgstr "תפריט התחל מכוון למצב קלאסי"
+
+#: build/.ui/ui_form2.cpp:290
+msgid "Form1"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:291
+msgid "textLabel1"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:292
+msgid "pushButton1"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:293
+msgid "pushButton2"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:294
+msgid "pushButton3"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:295
+msgid "pushButton4"
 msgstr ""
 
 #: build/.ui/ui_form1.cpp:3875
@@ -112,10 +160,6 @@ msgstr "סגירה"
 #: build/.ui/ui_form1.cpp:3877
 msgid "Show this dialog on startup"
 msgstr "הראה דיאלוג זה בכניסה "
-
-#: build/.ui/ui_form1.cpp:3890
-msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<p dir=rtl align=justify class=\"auto-style1\"><strong>ברוכים הבאים ל-Q4OS, </strong>מערכת הפעלה מהירה וחזקה ממוקדת בתמיכה לטווח ארוך, יציבות, אמינות וממשק בעל מראה קלאסי.</p><p dir=rtl align=justify class=\"auto-style1\">Q4OS מותקנת כמערכת בסיסית ונקיה עם מינימום תוכנות נלוות. ניתן כעת להתאים את שולחן העבודה על-ידי שימוש בקיצור הדרך שלמטה.</p>"
 
 #: build/.ui/ui_form1.cpp:3878
 msgid "Run Desktop Profiler"
@@ -164,6 +208,10 @@ msgstr "הגדרת כניסה אוטומטית"
 #: build/.ui/ui_form1.cpp:3889
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>כניסה אוטומטית למערכת ללא הכנסת סיסמה אחרי אתחול. </p></font>"
+
+#: build/.ui/ui_form1.cpp:3890
+msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
+msgstr "<p dir=rtl align=justify class=\"auto-style1\"><strong>ברוכים הבאים ל-Q4OS, </strong>מערכת הפעלה מהירה וחזקה ממוקדת בתמיכה לטווח ארוך, יציבות, אמינות וממשק בעל מראה קלאסי.</p><p dir=rtl align=justify class=\"auto-style1\">Q4OS מותקנת כמערכת בסיסית ונקיה עם מינימום תוכנות נלוות. ניתן כעת להתאים את שולחן העבודה על-ידי שימוש בקיצור הדרך שלמטה.</p>"
 
 #~ msgid "Welcome screen message"
 #~ msgstr "הודעת מסך פתיחה"

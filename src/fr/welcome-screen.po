@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-30 11:35+0200\n"
+"POT-Creation-Date: 2016-04-15 10:17+0200\n"
 "PO-Revision-Date: 2015-06-12 13:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,89 +17,137 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.6\n"
 
-#: src/form1.cpp:111
+#: src/form1.cpp:126
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
 msgstr "<p>Voulez-vous activer les effets visuels ?</p>"
 
-#: src/form1.cpp:111 src/form1.cpp:119 src/form1.cpp:123
+#: src/form1.cpp:126 src/form1.cpp:134 src/form1.cpp:138
 msgid "Desktop effects"
 msgstr "Effets visuels"
 
-#: src/form1.cpp:111 src/form1.cpp:113
+#: src/form1.cpp:126 src/form1.cpp:128
 msgid "Turn ON"
 msgstr "Activer"
 
-#: src/form1.cpp:111 src/form1.cpp:113 src/form1.cpp:153
+#: src/form1.cpp:126 src/form1.cpp:128 src/form1.cpp:171
 msgid "Revert to defaults"
 msgstr "Paramètres par défaut"
 
-#: src/form1.cpp:113
+#: src/form1.cpp:128
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
 msgstr "<p>Votre matériel semble insuffisament puissant pour se payer le luxe des effets visuels, il est recommandé de les laisser désactivés.</p><p>Souhaitez vous vraiment activer les effets visuels ?</p>"
 
-#: src/form1.cpp:113
+#: src/form1.cpp:128
 msgid "Warning !"
 msgstr "Attention !"
 
-#: src/form1.cpp:119
+#: src/form1.cpp:134
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
 msgstr "<p>Les effets visuels sont activés. Renouvellez la session pour que les changements soient appliqués.</p>"
 
-#: src/form1.cpp:123
+#: src/form1.cpp:138
 msgid "<p>Desktop effects have been disabled.</p>"
 msgstr "<p>Les effets visuels sont désactivés.</p>"
 
-#: src/form1.cpp:135
-msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr "<p>Voulez-vous changer le menu Démarrer ?</p>"
-
-#: src/form1.cpp:135 src/form1.cpp:141
-msgid "Start menu configuration"
-msgstr "Paramètres du menu Démarrer"
-
-#: src/form1.cpp:135
-msgid "Switch to Kickoff"
-msgstr "Style « Kickoff »"
-
-#: src/form1.cpp:135
-msgid "Revert to Classic"
-msgstr "Retour au style « Classic »"
-
-#: src/form1.cpp:141
-msgid "<p>Start Menu is now set to Classic style.<p>"
-msgstr "<p>Le style « Classic » est activé pour le menu Démarrer</p>"
-
-#: src/form1.cpp:153
+#: src/form1.cpp:171
 msgid "<p>Do you want to enable Automatic login ?</p>"
 msgstr "<p>Souhaitez-vous activer le démarrage automatique de la session sans authentification ?</p>"
 
-#: src/form1.cpp:153
+#: src/form1.cpp:171
 msgid "Autologin configuration"
 msgstr "Paramètres de l'ouverture automatique de session"
 
-#: src/form1.cpp:153
+#: src/form1.cpp:171
 msgid "Enable Autologin"
 msgstr "Activer l'ouverture automatique de session"
 
-#: src/form1.cpp:157
+#: src/form1.cpp:175
 msgid "<p>Automatic login is now enabled.<p>"
 msgstr "<p>L'ouverture automatique de session est activée.</p>"
 
-#: src/form1.cpp:157 src/form1.cpp:162
+#: src/form1.cpp:175 src/form1.cpp:180
 msgid "Automatic login"
 msgstr "Ouverture automatique de session"
 
-#: src/form1.cpp:162
+#: src/form1.cpp:180
 msgid "<p>Automatic login is now disabled.<p>"
 msgstr "<p>L'ouverture automatique de session est désactivée.</p>"
 
-#: src/form1.cpp:202
+#: src/form1.cpp:191
+msgid "<p>ARM CPU architecture detected. It doesn't support proprietary multimedia codecs.</p>"
+msgstr ""
+
+#: src/form1.cpp:191 src/form1.cpp:220
+msgid "Info"
+msgstr "Info"
+
+#: src/form1.cpp:220
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Une installation de Virtualbox est en cours !</p><p>Veuillez attendre qu'elle soit terminée avant d'entreprendre d'autres actions.</p>"
 
-#: src/form1.cpp:202
-msgid "Info"
-msgstr "Info"
+#: src/form2.cpp:19
+msgid "Switch to Kickoff"
+msgstr "Style « Kickoff »"
+
+#: src/form2.cpp:20
+msgid "Switch to Bourbon"
+msgstr ""
+
+#: src/form2.cpp:21
+msgid "Revert to Classic"
+msgstr "Retour au style « Classic »"
+
+#: src/form2.cpp:28 src/form2.cpp:61 src/form2.cpp:76 src/form2.cpp:91
+msgid "Start menu configuration"
+msgstr "Paramètres du menu Démarrer"
+
+#: src/form2.cpp:33
+msgid "<p>Do you want to switch the Start Menu ?</p>"
+msgstr "<p>Voulez-vous changer le menu Démarrer ?</p>"
+
+#: src/form2.cpp:37
+msgid "Cancel"
+msgstr ""
+
+#: src/form2.cpp:54 src/form2.cpp:69 src/form2.cpp:84
+msgid "Working ..."
+msgstr ""
+
+#: src/form2.cpp:61
+msgid "<p>Start Menu is now set to Kickoff style.<p>"
+msgstr ""
+
+#: src/form2.cpp:76
+msgid "<p>Start Menu is now set to Bourbon style.<p>"
+msgstr ""
+
+#: src/form2.cpp:91
+msgid "<p>Start Menu is now set to Classic style.<p>"
+msgstr "<p>Le style « Classic » est activé pour le menu Démarrer</p>"
+
+#: build/.ui/ui_form2.cpp:290
+msgid "Form1"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:291
+msgid "textLabel1"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:292
+msgid "pushButton1"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:293
+msgid "pushButton2"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:294
+msgid "pushButton3"
+msgstr ""
+
+#: build/.ui/ui_form2.cpp:295
+msgid "pushButton4"
+msgstr ""
 
 #: build/.ui/ui_form1.cpp:3875
 msgid "Welcome screen"
@@ -112,10 +160,6 @@ msgstr "Fermer"
 #: build/.ui/ui_form1.cpp:3877
 msgid "Show this dialog on startup"
 msgstr "Affichier cet élément au démarrage"
-
-#: build/.ui/ui_form1.cpp:3890
-msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<font size=\"4\"><p align=justify><b>Bienvenue sur le système Q4OS</b> pour stations de travail et bureautique. Ce système est destiné à être rapide, efficace, stable et fiable dans la durée, avec une interface utilisateur traditionnelle.<br>Q4OS est installé en tant que système bureautique basique et propre avec un kit logiciel minimal. Il est maintenant temps d'ajuster quelques paramètres de votre environnement en cliquant sur les raccourcis ci-dessous.</p></font>"
 
 #: build/.ui/ui_form1.cpp:3878
 msgid "Run Desktop Profiler"
@@ -164,6 +208,10 @@ msgstr "Authentification automatique"
 #: build/.ui/ui_form1.cpp:3889
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>Eviter l'écran d'authentification en ouvrant directement une session, après le démarrage du système.</p></font>"
+
+#: build/.ui/ui_form1.cpp:3890
+msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Bienvenue sur le système Q4OS</b> pour stations de travail et bureautique. Ce système est destiné à être rapide, efficace, stable et fiable dans la durée, avec une interface utilisateur traditionnelle.<br>Q4OS est installé en tant que système bureautique basique et propre avec un kit logiciel minimal. Il est maintenant temps d'ajuster quelques paramètres de votre environnement en cliquant sur les raccourcis ci-dessous.</p></font>"
 
 #~ msgid "Welcome screen message"
 #~ msgstr "Message d'accueil"

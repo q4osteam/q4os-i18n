@@ -17,7 +17,7 @@ do
     cd $CFDIR
     if [ -f "$1.po" ] ; then
       echo "Updating $1.po"
-      msgmerge -U --no-wrap $1.po ../../empty.po
+      msgmerge -U --no-fuzzy-matching --no-wrap $1.po ../../empty.po
       rm -f "$1.po~"
     else
       echo "Creating $1.po"
