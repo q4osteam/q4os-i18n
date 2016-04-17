@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-15 10:17+0200\n"
-"PO-Revision-Date: 2015-09-11 23:00+0100\n"
+"PO-Revision-Date: 2016-04-17 19:59+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt\n"
@@ -16,21 +16,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.6.10\n"
 
 #: src/form1.cpp:126
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
 msgstr "<p>Quer ativar os efeitos da Área de trabalho ?</p>"
 
-#: src/form1.cpp:126 src/form1.cpp:134 src/form1.cpp:138
+#: src/form1.cpp:126
+#: src/form1.cpp:134
+#: src/form1.cpp:138
 msgid "Desktop effects"
 msgstr "Efeitos do desktop"
 
-#: src/form1.cpp:126 src/form1.cpp:128
+#: src/form1.cpp:126
+#: src/form1.cpp:128
 msgid "Turn ON"
 msgstr "Ligar"
 
-#: src/form1.cpp:126 src/form1.cpp:128 src/form1.cpp:171
+#: src/form1.cpp:126
+#: src/form1.cpp:128
+#: src/form1.cpp:171
 msgid "Revert to defaults"
 msgstr "Reverter para pré-definição"
 
@@ -66,7 +71,8 @@ msgstr "Ativar início de sessão automático"
 msgid "<p>Automatic login is now enabled.<p>"
 msgstr "<p>O início de sessão automático está agora ativado.<p>"
 
-#: src/form1.cpp:175 src/form1.cpp:180
+#: src/form1.cpp:175
+#: src/form1.cpp:180
 msgid "Automatic login"
 msgstr "Início de sessão automático"
 
@@ -76,9 +82,10 @@ msgstr "<p>O início de sessão automático está agora desativado.<p>"
 
 #: src/form1.cpp:191
 msgid "<p>ARM CPU architecture detected. It doesn't support proprietary multimedia codecs.</p>"
-msgstr ""
+msgstr "<p>Arquitetura ARM CPU detetada. Não suporta codecs multimédia proprietário.</p>"
 
-#: src/form1.cpp:191 src/form1.cpp:220
+#: src/form1.cpp:191
+#: src/form1.cpp:220
 msgid "Info"
 msgstr "Info"
 
@@ -92,13 +99,16 @@ msgstr "Mudar para Kickoff"
 
 #: src/form2.cpp:20
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Mudar para Bourbon"
 
 #: src/form2.cpp:21
 msgid "Revert to Classic"
 msgstr "Reverter para Clássico"
 
-#: src/form2.cpp:28 src/form2.cpp:61 src/form2.cpp:76 src/form2.cpp:91
+#: src/form2.cpp:28
+#: src/form2.cpp:61
+#: src/form2.cpp:76
+#: src/form2.cpp:91
 msgid "Start menu configuration"
 msgstr "Começar a configuração do menu"
 
@@ -108,19 +118,21 @@ msgstr "<p>Você quer mudar o Menu Iniciar ?</p>"
 
 #: src/form2.cpp:37
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
-#: src/form2.cpp:54 src/form2.cpp:69 src/form2.cpp:84
+#: src/form2.cpp:54
+#: src/form2.cpp:69
+#: src/form2.cpp:84
 msgid "Working ..."
-msgstr ""
+msgstr "Trabalhando..."
 
 #: src/form2.cpp:61
 msgid "<p>Start Menu is now set to Kickoff style.<p>"
-msgstr ""
+msgstr "<p>O Menu Iniciar está agora definido para o estilo Kickoff.<p>"
 
 #: src/form2.cpp:76
 msgid "<p>Start Menu is now set to Bourbon style.<p>"
-msgstr ""
+msgstr "<p>O Menu Iniciar está agora definido para o estilo Bourbon.<p>"
 
 #: src/form2.cpp:91
 msgid "<p>Start Menu is now set to Classic style.<p>"
@@ -128,27 +140,27 @@ msgstr "<p>O menu Iniciar está agora definido para o estilo clássico.<p>"
 
 #: build/.ui/ui_form2.cpp:290
 msgid "Form1"
-msgstr ""
+msgstr "Formulário1"
 
 #: build/.ui/ui_form2.cpp:291
 msgid "textLabel1"
-msgstr ""
+msgstr "etiquetaTexto1"
 
 #: build/.ui/ui_form2.cpp:292
 msgid "pushButton1"
-msgstr ""
+msgstr "pressionarBotão1"
 
 #: build/.ui/ui_form2.cpp:293
 msgid "pushButton2"
-msgstr ""
+msgstr "pressionarBotão2"
 
 #: build/.ui/ui_form2.cpp:294
 msgid "pushButton3"
-msgstr ""
+msgstr "pressionarBotão3"
 
 #: build/.ui/ui_form2.cpp:295
 msgid "pushButton4"
-msgstr ""
+msgstr "pressionarBotão4"
 
 #: build/.ui/ui_form1.cpp:3875
 msgid "Welcome screen"
@@ -213,3 +225,4 @@ msgstr "<font size=\"4\"><p>Evita o ecrã de início de sessão e inicia a sess�
 #: build/.ui/ui_form1.cpp:3890
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operativo para o desktop, rápido e poderoso focado na estabilidade de longo prazo, estilo clássico e confiável da interface do utilizador .</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
+
