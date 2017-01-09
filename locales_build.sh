@@ -19,6 +19,7 @@ for CFDIR in * ; do
   if [ -d "$CFDIR" ] ; then
     echo "Processing-2 $CFDIR"
     cd $CFDIR
+    find . -name update-manager.mo -execdir rm '{}' \;
     find . -name appsetup2.mo -execdir rm '{}' \;
     cd ..
   fi
