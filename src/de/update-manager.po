@@ -3,13 +3,12 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-08 17:38+0100\n"
-"PO-Revision-Date: 2017-01-08 17:38+0100\n"
+"PO-Revision-Date: 2017-01-13 16:15+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: \n"
@@ -17,7 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ui_form3.cpp:106 form2.cpp:590
+#: ui_form3.cpp:106
+#: form2.cpp:590
 msgid "Available updates"
 msgstr ""
 
@@ -33,7 +33,8 @@ msgstr ""
 msgid "Don't show this dialog"
 msgstr ""
 
-#: ui_form3.cpp:111 ui_form3.cpp:112
+#: ui_form3.cpp:111
+#: ui_form3.cpp:112
 msgid "If checked, next updates will be performed without user confirmation"
 msgstr ""
 
@@ -53,20 +54,31 @@ msgstr ""
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr ""
 
-#: form2.cpp:165 form2.cpp:166 form2.cpp:168
+#: form2.cpp:165
+#: form2.cpp:166
+#: form2.cpp:168
 msgid "Checking permissions"
 msgstr ""
 
-#: form2.cpp:168 form2.cpp:172 thread1.cpp:85 thread1.cpp:159 thread1.cpp:180
-#: thread1.cpp:229 thread1.cpp:265 thread1.cpp:293
+#: form2.cpp:168
+#: form2.cpp:172
+#: thread1.cpp:85
+#: thread1.cpp:159
+#: thread1.cpp:180
+#: thread1.cpp:229
+#: thread1.cpp:265
+#: thread1.cpp:293
 msgid "Ok"
 msgstr ""
 
-#: form2.cpp:169 form2.cpp:170 form2.cpp:172
+#: form2.cpp:169
+#: form2.cpp:170
+#: form2.cpp:172
 msgid "Checking SW database to be free"
 msgstr ""
 
-#: form2.cpp:173 form2.cpp:174
+#: form2.cpp:173
+#: form2.cpp:174
 msgid "Locking SW database"
 msgstr ""
 
@@ -82,21 +94,28 @@ msgstr ""
 msgid "Setup action"
 msgstr ""
 
-#: form2.cpp:262 form2.cpp:428 form2.cpp:580 thread1.cpp:354
+#: form2.cpp:262
+#: form2.cpp:428
+#: form2.cpp:580
+#: thread1.cpp:354
 msgid "Close"
 msgstr ""
 
-#: form2.cpp:416 form2.cpp:443
+#: form2.cpp:416
+#: form2.cpp:443
 msgid "Waiting"
 msgstr ""
 
-#: form2.cpp:423 form2.cpp:424
+#: form2.cpp:423
+#: form2.cpp:424
 msgid "Canceled !"
 msgstr ""
 
-#: form2.cpp:433 ui_form2.cpp:99 thread1.cpp:363
+#: form2.cpp:433
+#: ui_form2.cpp:99
+#: thread1.cpp:363
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: form2.cpp:445
 msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
@@ -126,7 +145,8 @@ msgstr ""
 msgid "Closing.."
 msgstr ""
 
-#: form2.cpp:639 form2.cpp:642
+#: form2.cpp:639
+#: form2.cpp:642
 msgid "Success. The most recent update has been implemented."
 msgstr ""
 
@@ -140,7 +160,7 @@ msgstr ""
 
 #: form2.cpp:648
 msgid "Finish >"
-msgstr ""
+msgstr "Fertigstellen >"
 
 #: ui_form2.cpp:97
 msgid "Update Manager - install progress"
@@ -150,7 +170,8 @@ msgstr ""
 msgid "textLabel1"
 msgstr ""
 
-#: ui_form2.cpp:100 ui_form2.cpp:101
+#: ui_form2.cpp:100
+#: ui_form2.cpp:101
 msgid "Show details"
 msgstr ""
 
@@ -160,30 +181,40 @@ msgstr ""
 
 #: form3.cpp:18
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: form3.cpp:19
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
-#: thread1.cpp:70 thread1.cpp:71 thread1.cpp:85 thread1.cpp:87 thread1.cpp:88
+#: thread1.cpp:70
+#: thread1.cpp:71
+#: thread1.cpp:85
+#: thread1.cpp:87
+#: thread1.cpp:88
 msgid "Checking apt pinning"
 msgstr ""
 
-#: thread1.cpp:87 thread1.cpp:88
+#: thread1.cpp:87
+#: thread1.cpp:88
 msgid "need to be fixed"
 msgstr ""
 
-#: thread1.cpp:144 thread1.cpp:145 thread1.cpp:154 thread1.cpp:155
+#: thread1.cpp:144
+#: thread1.cpp:145
+#: thread1.cpp:154
+#: thread1.cpp:155
 #: thread1.cpp:159
 msgid "Performing upgrade"
 msgstr ""
 
-#: thread1.cpp:154 thread1.cpp:155
+#: thread1.cpp:154
+#: thread1.cpp:155
 msgid "Failed!"
 msgstr ""
 
-#: thread1.cpp:163 thread1.cpp:164
+#: thread1.cpp:163
+#: thread1.cpp:164
 msgid "System update completed successfully."
 msgstr ""
 
@@ -191,52 +222,88 @@ msgstr ""
 msgid "Finished :)"
 msgstr ""
 
-#: thread1.cpp:171 thread1.cpp:172 thread1.cpp:175 thread1.cpp:176
+#: thread1.cpp:171
+#: thread1.cpp:172
+#: thread1.cpp:175
+#: thread1.cpp:176
 #: thread1.cpp:180
 msgid "Checking Internet connection"
 msgstr ""
 
-#: thread1.cpp:175 thread1.cpp:176
+#: thread1.cpp:175
+#: thread1.cpp:176
 msgid "Not available!"
 msgstr ""
 
-#: thread1.cpp:186 thread1.cpp:187 thread1.cpp:193 thread1.cpp:195
+#: thread1.cpp:186
+#: thread1.cpp:187
+#: thread1.cpp:193
+#: thread1.cpp:195
 #: thread1.cpp:196
 msgid "Update SW database"
 msgstr ""
 
-#: thread1.cpp:193 thread1.cpp:248 thread1.cpp:310
+#: thread1.cpp:193
+#: thread1.cpp:248
+#: thread1.cpp:310
 msgid "Done"
-msgstr ""
+msgstr "Fertig"
 
-#: thread1.cpp:195 thread1.cpp:196 thread1.cpp:216 thread1.cpp:217
-#: thread1.cpp:225 thread1.cpp:226 thread1.cpp:251 thread1.cpp:252
-#: thread1.cpp:267 thread1.cpp:268 thread1.cpp:295 thread1.cpp:296
-#: thread1.cpp:312 thread1.cpp:313
+#: thread1.cpp:195
+#: thread1.cpp:196
+#: thread1.cpp:216
+#: thread1.cpp:217
+#: thread1.cpp:225
+#: thread1.cpp:226
+#: thread1.cpp:251
+#: thread1.cpp:252
+#: thread1.cpp:267
+#: thread1.cpp:268
+#: thread1.cpp:295
+#: thread1.cpp:296
+#: thread1.cpp:312
+#: thread1.cpp:313
 msgid "Failed"
 msgstr ""
 
-#: thread1.cpp:203 thread1.cpp:204 thread1.cpp:216 thread1.cpp:217
-#: thread1.cpp:225 thread1.cpp:226 thread1.cpp:229
+#: thread1.cpp:203
+#: thread1.cpp:204
+#: thread1.cpp:216
+#: thread1.cpp:217
+#: thread1.cpp:225
+#: thread1.cpp:226
+#: thread1.cpp:229
 msgid "Checking apt database"
 msgstr ""
 
-#: thread1.cpp:236 thread1.cpp:237 thread1.cpp:248 thread1.cpp:251
+#: thread1.cpp:236
+#: thread1.cpp:237
+#: thread1.cpp:248
+#: thread1.cpp:251
 #: thread1.cpp:252
 msgid "Fixing apt database"
 msgstr ""
 
-#: thread1.cpp:258 thread1.cpp:259 thread1.cpp:265 thread1.cpp:267
+#: thread1.cpp:258
+#: thread1.cpp:259
+#: thread1.cpp:265
+#: thread1.cpp:267
 #: thread1.cpp:268
 msgid "Downloading packages"
 msgstr ""
 
-#: thread1.cpp:275 thread1.cpp:276 thread1.cpp:293 thread1.cpp:295
+#: thread1.cpp:275
+#: thread1.cpp:276
+#: thread1.cpp:293
+#: thread1.cpp:295
 #: thread1.cpp:296
 msgid "Listing updates"
 msgstr ""
 
-#: thread1.cpp:303 thread1.cpp:304 thread1.cpp:310 thread1.cpp:312
+#: thread1.cpp:303
+#: thread1.cpp:304
+#: thread1.cpp:310
+#: thread1.cpp:312
 #: thread1.cpp:313
 msgid "Removing unnecessary packages"
 msgstr ""
@@ -244,3 +311,4 @@ msgstr ""
 #: thread1.cpp:365
 msgid "Installing.."
 msgstr ""
+
