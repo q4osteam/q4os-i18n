@@ -17,230 +17,259 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ui_form3.cpp:106 form2.cpp:590
+#: build1/.ui/ui_form3.cpp:104 src1/form2.cpp:630
 msgid "Available updates"
 msgstr ""
 
-#: ui_form3.cpp:107
+#: build1/.ui/ui_form3.cpp:105
 msgid "textLabel2"
 msgstr ""
 
-#: ui_form3.cpp:108
+#: build1/.ui/ui_form3.cpp:106
 msgid "textLabel3"
 msgstr ""
 
-#: ui_form3.cpp:110
-msgid "Don't show this dialog"
+#: build1/.ui/ui_form3.cpp:108
+msgid "Don't show this dialog again"
 msgstr ""
 
-#: ui_form3.cpp:111 ui_form3.cpp:112
-msgid "If checked, next updates will be performed without user confirmation"
+#: build1/.ui/ui_form3.cpp:109 build1/.ui/ui_form3.cpp:110
+msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
 msgstr ""
 
-#: ui_form3.cpp:113
+#: build1/.ui/ui_form3.cpp:111
 msgid "pushButton1"
 msgstr ""
 
-#: ui_form3.cpp:114
+#: build1/.ui/ui_form3.cpp:112
 msgid "pushButton2"
 msgstr ""
 
-#: form2.cpp:145
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr ""
-
-#: form2.cpp:152
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
-
-#: form2.cpp:165 form2.cpp:166 form2.cpp:168
-msgid "Checking permissions"
-msgstr ""
-
-#: form2.cpp:168 form2.cpp:172 thread1.cpp:85 thread1.cpp:159 thread1.cpp:180
-#: thread1.cpp:229 thread1.cpp:265 thread1.cpp:293
-msgid "Ok"
-msgstr ""
-
-#: form2.cpp:169 form2.cpp:170 form2.cpp:172
-msgid "Checking SW database to be free"
-msgstr ""
-
-#: form2.cpp:173 form2.cpp:174
-msgid "Locking SW database"
-msgstr ""
-
-#: form2.cpp:184
-msgid "System updater has been started.."
-msgstr ""
-
-#: form2.cpp:206
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr ""
-
-#: form2.cpp:255
-msgid "Setup action"
-msgstr ""
-
-#: form2.cpp:262 form2.cpp:428 form2.cpp:580 thread1.cpp:354
-msgid "Close"
-msgstr ""
-
-#: form2.cpp:416 form2.cpp:443
-msgid "Waiting"
-msgstr ""
-
-#: form2.cpp:423 form2.cpp:424
-msgid "Canceled !"
-msgstr ""
-
-#: form2.cpp:433 ui_form2.cpp:99 thread1.cpp:363
-msgid "Cancel"
-msgstr ""
-
-#: form2.cpp:445
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr ""
-
-#: form2.cpp:445
-msgid "! Reboot required"
-msgstr ""
-
-#: form2.cpp:583
-msgid "Update manager has been exited with <b>error code: "
-msgstr ""
-
-#: form2.cpp:583
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr ""
-
-#: form2.cpp:597
-msgid "Additional updates has been detected"
-msgstr ""
-
-#: form2.cpp:616
-msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
-msgstr ""
-
-#: form2.cpp:635
-msgid "Closing.."
-msgstr ""
-
-#: form2.cpp:639 form2.cpp:642
-msgid "Success. The most recent update has been implemented."
-msgstr ""
-
-#: form2.cpp:639
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr ""
-
-#: form2.cpp:642
-msgid "Your system is up to date and healthy."
-msgstr ""
-
-#: form2.cpp:648
-msgid "Finish >"
-msgstr ""
-
-#: ui_form2.cpp:97
+#: build1/.ui/ui_form2.cpp:96
 msgid "Update Manager - install progress"
 msgstr ""
 
-#: ui_form2.cpp:98
+#: build1/.ui/ui_form2.cpp:97
 msgid "textLabel1"
 msgstr ""
 
-#: ui_form2.cpp:100 ui_form2.cpp:101
+#: build1/.ui/ui_form2.cpp:98 src1/form2.cpp:473 src1/thread1.cpp:379
+msgid "Cancel"
+msgstr ""
+
+#: build1/.ui/ui_form2.cpp:99 build1/.ui/ui_form2.cpp:100
 msgid "Show details"
 msgstr ""
 
-#: form3.cpp:17
+#: build2/.ui/ui_form1.cpp:95
+msgid "Update Manager - configuration"
+msgstr ""
+
+#: build2/.ui/ui_form1.cpp:96
+msgid "Show upgradable packages lists and confirmation dialogs"
+msgstr ""
+
+#: build2/.ui/ui_form1.cpp:97
+msgid "Start updater window minimized"
+msgstr ""
+
+#: build2/.ui/ui_form1.cpp:98
+msgid "Auto close updater window on finish"
+msgstr ""
+
+#: build2/.ui/ui_form1.cpp:99
+msgid "Make use of Synaptic package manager, if available"
+msgstr ""
+
+#: build2/.ui/ui_form1.cpp:101
+msgid "Apply"
+msgstr ""
+
+#: build2/.ui/ui_form1.cpp:102 src1/form2.cpp:279 src1/form2.cpp:468
+#: src1/form2.cpp:620 src1/thread1.cpp:370
+msgid "Close"
+msgstr ""
+
+#: src1/form2.cpp:154
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr ""
+
+#: src1/form2.cpp:164
+msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr ""
+
+#: src1/form2.cpp:172
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr ""
+
+#: src1/form2.cpp:186 src1/form2.cpp:187 src1/form2.cpp:189
+msgid "Checking permissions"
+msgstr ""
+
+#: src1/form2.cpp:189 src1/form2.cpp:193 src1/thread1.cpp:90
+#: src1/thread1.cpp:164 src1/thread1.cpp:185 src1/thread1.cpp:234
+#: src1/thread1.cpp:270 src1/thread1.cpp:309
+msgid "Ok"
+msgstr ""
+
+#: src1/form2.cpp:190 src1/form2.cpp:191 src1/form2.cpp:193
+msgid "Checking SW database to be free"
+msgstr ""
+
+#: src1/form2.cpp:194 src1/form2.cpp:195
+msgid "Locking SW database"
+msgstr ""
+
+#: src1/form2.cpp:204
+msgid "System updater has been started.."
+msgstr ""
+
+#: src1/form2.cpp:272
+msgid "Setup action"
+msgstr ""
+
+#: src1/form2.cpp:447 src1/form2.cpp:483
+msgid "Waiting"
+msgstr ""
+
+#: src1/form2.cpp:463 src1/form2.cpp:464
+msgid "Canceled !"
+msgstr ""
+
+#: src1/form2.cpp:485
+msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr ""
+
+#: src1/form2.cpp:485
+msgid "! Reboot required"
+msgstr ""
+
+#: src1/form2.cpp:623
+msgid "Update manager has been exited with <b>error code: "
+msgstr ""
+
+#: src1/form2.cpp:623
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr ""
+
+#: src1/form2.cpp:637
+msgid "Additional updates has been detected"
+msgstr ""
+
+#: src1/form2.cpp:657
+msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
+msgstr ""
+
+#: src1/form2.cpp:676
+msgid "Closing.."
+msgstr ""
+
+#: src1/form2.cpp:680 src1/form2.cpp:683
+msgid "Success. The most recent update has been implemented."
+msgstr ""
+
+#: src1/form2.cpp:680
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr ""
+
+#: src1/form2.cpp:683
+msgid "Your system is up to date and healthy."
+msgstr ""
+
+#: src1/form2.cpp:689
+msgid "Finish >"
+msgstr ""
+
+#: src1/form3.cpp:17
 msgid "Do you want to continue ?"
 msgstr ""
 
-#: form3.cpp:18
+#: src1/form3.cpp:18
 msgid "No"
 msgstr ""
 
-#: form3.cpp:19
+#: src1/form3.cpp:19
 msgid "Yes"
 msgstr ""
 
-#: thread1.cpp:70 thread1.cpp:71 thread1.cpp:85 thread1.cpp:87 thread1.cpp:88
+#: src1/thread1.cpp:75 src1/thread1.cpp:76 src1/thread1.cpp:90
+#: src1/thread1.cpp:92 src1/thread1.cpp:93
 msgid "Checking apt pinning"
 msgstr ""
 
-#: thread1.cpp:87 thread1.cpp:88
+#: src1/thread1.cpp:92 src1/thread1.cpp:93
 msgid "need to be fixed"
 msgstr ""
 
-#: thread1.cpp:144 thread1.cpp:145 thread1.cpp:154 thread1.cpp:155
-#: thread1.cpp:159
+#: src1/thread1.cpp:149 src1/thread1.cpp:150 src1/thread1.cpp:159
+#: src1/thread1.cpp:160 src1/thread1.cpp:164
 msgid "Performing upgrade"
 msgstr ""
 
-#: thread1.cpp:154 thread1.cpp:155
+#: src1/thread1.cpp:159 src1/thread1.cpp:160
 msgid "Failed!"
 msgstr ""
 
-#: thread1.cpp:163 thread1.cpp:164
+#: src1/thread1.cpp:168 src1/thread1.cpp:169
 msgid "System update completed successfully."
 msgstr ""
 
-#: thread1.cpp:165
+#: src1/thread1.cpp:170
 msgid "Finished :)"
 msgstr ""
 
-#: thread1.cpp:171 thread1.cpp:172 thread1.cpp:175 thread1.cpp:176
-#: thread1.cpp:180
+#: src1/thread1.cpp:176 src1/thread1.cpp:177 src1/thread1.cpp:180
+#: src1/thread1.cpp:181 src1/thread1.cpp:185
 msgid "Checking Internet connection"
 msgstr ""
 
-#: thread1.cpp:175 thread1.cpp:176
+#: src1/thread1.cpp:180 src1/thread1.cpp:181
 msgid "Not available!"
 msgstr ""
 
-#: thread1.cpp:186 thread1.cpp:187 thread1.cpp:193 thread1.cpp:195
-#: thread1.cpp:196
+#: src1/thread1.cpp:191 src1/thread1.cpp:192 src1/thread1.cpp:198
+#: src1/thread1.cpp:200 src1/thread1.cpp:201
 msgid "Update SW database"
 msgstr ""
 
-#: thread1.cpp:193 thread1.cpp:248 thread1.cpp:310
+#: src1/thread1.cpp:198 src1/thread1.cpp:253 src1/thread1.cpp:326
 msgid "Done"
 msgstr ""
 
-#: thread1.cpp:195 thread1.cpp:196 thread1.cpp:216 thread1.cpp:217
-#: thread1.cpp:225 thread1.cpp:226 thread1.cpp:251 thread1.cpp:252
-#: thread1.cpp:267 thread1.cpp:268 thread1.cpp:295 thread1.cpp:296
-#: thread1.cpp:312 thread1.cpp:313
+#: src1/thread1.cpp:200 src1/thread1.cpp:201 src1/thread1.cpp:221
+#: src1/thread1.cpp:222 src1/thread1.cpp:230 src1/thread1.cpp:231
+#: src1/thread1.cpp:256 src1/thread1.cpp:257 src1/thread1.cpp:272
+#: src1/thread1.cpp:273 src1/thread1.cpp:311 src1/thread1.cpp:312
+#: src1/thread1.cpp:328 src1/thread1.cpp:329
 msgid "Failed"
 msgstr ""
 
-#: thread1.cpp:203 thread1.cpp:204 thread1.cpp:216 thread1.cpp:217
-#: thread1.cpp:225 thread1.cpp:226 thread1.cpp:229
+#: src1/thread1.cpp:208 src1/thread1.cpp:209 src1/thread1.cpp:221
+#: src1/thread1.cpp:222 src1/thread1.cpp:230 src1/thread1.cpp:231
+#: src1/thread1.cpp:234
 msgid "Checking apt database"
 msgstr ""
 
-#: thread1.cpp:236 thread1.cpp:237 thread1.cpp:248 thread1.cpp:251
-#: thread1.cpp:252
+#: src1/thread1.cpp:241 src1/thread1.cpp:242 src1/thread1.cpp:253
+#: src1/thread1.cpp:256 src1/thread1.cpp:257
 msgid "Fixing apt database"
 msgstr ""
 
-#: thread1.cpp:258 thread1.cpp:259 thread1.cpp:265 thread1.cpp:267
-#: thread1.cpp:268
+#: src1/thread1.cpp:263 src1/thread1.cpp:264 src1/thread1.cpp:270
+#: src1/thread1.cpp:272 src1/thread1.cpp:273
 msgid "Downloading packages"
 msgstr ""
 
-#: thread1.cpp:275 thread1.cpp:276 thread1.cpp:293 thread1.cpp:295
-#: thread1.cpp:296
+#: src1/thread1.cpp:280 src1/thread1.cpp:281 src1/thread1.cpp:309
+#: src1/thread1.cpp:311 src1/thread1.cpp:312
 msgid "Listing updates"
 msgstr ""
 
-#: thread1.cpp:303 thread1.cpp:304 thread1.cpp:310 thread1.cpp:312
-#: thread1.cpp:313
+#: src1/thread1.cpp:319 src1/thread1.cpp:320 src1/thread1.cpp:326
+#: src1/thread1.cpp:328 src1/thread1.cpp:329
 msgid "Removing unnecessary packages"
 msgstr ""
 
-#: thread1.cpp:365
+#: src1/thread1.cpp:381
 msgid "Installing.."
 msgstr ""
