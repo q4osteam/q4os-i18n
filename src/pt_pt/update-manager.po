@@ -1,240 +1,275 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
+# Hugo Carvalho <hugokarvalho@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-08 17:38+0100\n"
-"PO-Revision-Date: 2017-01-08 17:38+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2018-12-07 12:07+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
+"Language-Team: Portuguese <kde-i18n-doc@kde.org>\n"
+"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: C\n"
 
 #: build1/.ui/ui_form3.cpp:104 src1/form2.cpp:630
 msgid "Available updates"
-msgstr ""
+msgstr "Atualizações disponíveis"
 
 #: build1/.ui/ui_form3.cpp:105
 msgid "textLabel2"
-msgstr ""
+msgstr "etiquetaTexto2"
 
 #: build1/.ui/ui_form3.cpp:106
 msgid "textLabel3"
-msgstr ""
+msgstr "etiquetaTexto3"
 
 #: build1/.ui/ui_form3.cpp:108
 msgid "Don't show this dialog again"
-msgstr ""
+msgstr "Não mostrar este diálogo novamente"
 
 #: build1/.ui/ui_form3.cpp:109 build1/.ui/ui_form3.cpp:110
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
+msgid ""
+"<p>If checked, next updates will be performed without user confirmation.</"
+"p><p>You can also configure update manager in the control panel -> system "
+"administration.</p>"
 msgstr ""
+"<p>Se marcado, as próximas atualizações serão realizadas sem confirmação do "
+"utilizador.</p><p>Você também pode configurar o gestor de atualizações no "
+"painel de controlo -> administração do sistema.</p>"
 
 #: build1/.ui/ui_form3.cpp:111
 msgid "pushButton1"
-msgstr ""
+msgstr "pressionarBotão1"
 
 #: build1/.ui/ui_form3.cpp:112
 msgid "pushButton2"
-msgstr ""
+msgstr "pressionarBotão2"
 
 #: build1/.ui/ui_form2.cpp:96
 msgid "Update Manager - install progress"
-msgstr ""
+msgstr "Gestor de Atualizações - progresso da instalação"
 
 #: build1/.ui/ui_form2.cpp:97
 msgid "textLabel1"
-msgstr ""
+msgstr "etiquetaTexto1"
 
 #: build1/.ui/ui_form2.cpp:98 src1/form2.cpp:473 src1/thread1.cpp:379
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: build1/.ui/ui_form2.cpp:99 build1/.ui/ui_form2.cpp:100
 msgid "Show details"
-msgstr ""
+msgstr "Mostrar detalhes"
 
 #: build2/.ui/ui_form1.cpp:95
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Configuração - Gestor de Atualizações"
 
 #: build2/.ui/ui_form1.cpp:96
 msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
+msgstr "Mostrar listas de pacotes atualizáveis e diálogos de confirmação"
 
 #: build2/.ui/ui_form1.cpp:97
 msgid "Start updater window minimized"
-msgstr ""
+msgstr "Iniciar a janela do atualizador minimizada"
 
 #: build2/.ui/ui_form1.cpp:98
 msgid "Auto close updater window on finish"
-msgstr ""
+msgstr "Fechar automaticamente a janela de atualização no final"
 
 #: build2/.ui/ui_form1.cpp:99
 msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgstr "Faça uso do gestor de pacotes Synaptic, se disponível"
 
 #: build2/.ui/ui_form1.cpp:101
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 #: build2/.ui/ui_form1.cpp:102 src1/form2.cpp:279 src1/form2.cpp:468
 #: src1/form2.cpp:620 src1/thread1.cpp:370
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: src1/form2.cpp:154
 msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
 msgstr ""
+"<p>Outra instância do Gestor de Atualizações está em execução, deixando …<p>"
 
 #: src1/form2.cpp:164
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
+msgid ""
+"<p>You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator.</p>"
 msgstr ""
+"<p>Você não tem permissão para realizar atualizações do sistema. Você "
+"precisa ser membro do grupo administrativo \"sudo\" primeiro, entre em "
+"contato com o administrador do sistema.</p>"
 
 #: src1/form2.cpp:172
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgid ""
+"<p>Package system is busy, not ready to install now. Setup cannot continue.</"
+"p><p>The lock is caused, very probably, by ongoing background system "
+"updates. If this is the case, you have to wait a moment for package system "
+"to finish these operations.</p><p>Please make sure you are not installing "
+"another application and repeat setup few minutes later.</p>"
 msgstr ""
+"<p>Package system is busy, not ready to install now. Setup cannot continue.</"
+"p><p>The lock is caused, very probably, by ongoing background system "
+"updates. If this is the case, you have to wait a moment for package system "
+"to finish these operations.</p><p>Please make sure you are not installing "
+"another application and repeat setup few minutes later.</p>"
 
 #: src1/form2.cpp:186 src1/form2.cpp:187 src1/form2.cpp:189
 msgid "Checking permissions"
-msgstr ""
+msgstr "Verificando permissões"
 
 #: src1/form2.cpp:189 src1/form2.cpp:193 src1/thread1.cpp:90
 #: src1/thread1.cpp:164 src1/thread1.cpp:185 src1/thread1.cpp:234
 #: src1/thread1.cpp:270 src1/thread1.cpp:309
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: src1/form2.cpp:190 src1/form2.cpp:191 src1/form2.cpp:193
 msgid "Checking SW database to be free"
-msgstr ""
+msgstr "Verificando o banco de dados do SW como livre"
 
 #: src1/form2.cpp:194 src1/form2.cpp:195
 msgid "Locking SW database"
-msgstr ""
+msgstr "Bloqueando a base de dados do SW"
 
 #: src1/form2.cpp:204
 msgid "System updater has been started.."
-msgstr ""
+msgstr "O atualizador do sistema foi iniciado .."
 
 #: src1/form2.cpp:272
 msgid "Setup action"
-msgstr ""
+msgstr "Ação de instalação"
 
 #: src1/form2.cpp:447 src1/form2.cpp:483
 msgid "Waiting"
-msgstr ""
+msgstr "Esperando"
 
 #: src1/form2.cpp:463 src1/form2.cpp:464
 msgid "Canceled !"
-msgstr ""
+msgstr "Cancelado !"
 
 #: src1/form2.cpp:485
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgid ""
+"<p>System has received security fixes and important updates.</p><p>Please "
+"<b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
 msgstr ""
+"<p>O sistema recebeu correções de segurança e atualizações importantes.</"
+"p><p>Por favor <b>Reinicie</b> seu computador o mais rápido possível para "
+"concluir a atualização.</p>"
 
 #: src1/form2.cpp:485
 msgid "! Reboot required"
-msgstr ""
+msgstr "! Necessita de reiniciar"
 
 #: src1/form2.cpp:623
 msgid "Update manager has been exited with <b>error code: "
-msgstr ""
+msgstr "O gestor de atualização foi encerrado com o código de erro <b>: "
 
 #: src1/form2.cpp:623
 msgid "Please, try to run Update Manager a few minutes later again."
 msgstr ""
+"Por favor, tente executar o Gestor de Atualização alguns minutos depois "
+"novamente."
 
 #: src1/form2.cpp:637
 msgid "Additional updates has been detected"
-msgstr ""
+msgstr "Atualizações adicionais foram detetadas"
 
 #: src1/form2.cpp:657
-msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
+msgid ""
+"Couldn't find Synaptic binary, please install it first. Using default "
+"updater for now ..."
 msgstr ""
+"Não foi possível encontrar o binário do Synaptic, instale-o primeiro. "
+"Utilizando o atualizador padrão por enquanto …"
 
 #: src1/form2.cpp:676
 msgid "Closing.."
-msgstr ""
+msgstr "Fechando.."
 
 #: src1/form2.cpp:680 src1/form2.cpp:683
 msgid "Success. The most recent update has been implemented."
-msgstr ""
+msgstr "Sucesso. A atualização mais recente foi implementada."
 
 #: src1/form2.cpp:680
 msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr ""
+msgstr "<b>A reinicialização é necessária<b> para concluir a atualização."
 
 #: src1/form2.cpp:683
 msgid "Your system is up to date and healthy."
-msgstr ""
+msgstr "Seu sistema está atualizado e é saudável."
 
 #: src1/form2.cpp:689
 msgid "Finish >"
-msgstr ""
+msgstr "Concluir >"
 
 #: src1/form3.cpp:17
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Você quer continuar ?"
 
 #: src1/form3.cpp:18
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: src1/form3.cpp:19
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: src1/thread1.cpp:75 src1/thread1.cpp:76 src1/thread1.cpp:90
 #: src1/thread1.cpp:92 src1/thread1.cpp:93
 msgid "Checking apt pinning"
-msgstr ""
+msgstr "Verificando a marcação adequada"
 
 #: src1/thread1.cpp:92 src1/thread1.cpp:93
 msgid "need to be fixed"
-msgstr ""
+msgstr "precisa ser corrigido"
 
 #: src1/thread1.cpp:149 src1/thread1.cpp:150 src1/thread1.cpp:159
 #: src1/thread1.cpp:160 src1/thread1.cpp:164
 msgid "Performing upgrade"
-msgstr ""
+msgstr "Realizando atualização"
 
 #: src1/thread1.cpp:159 src1/thread1.cpp:160
 msgid "Failed!"
-msgstr ""
+msgstr "Falhou!"
 
 #: src1/thread1.cpp:168 src1/thread1.cpp:169
 msgid "System update completed successfully."
-msgstr ""
+msgstr "Atualização do sistema concluída com sucesso."
 
 #: src1/thread1.cpp:170
 msgid "Finished :)"
-msgstr ""
+msgstr "Terminado :)"
 
 #: src1/thread1.cpp:176 src1/thread1.cpp:177 src1/thread1.cpp:180
 #: src1/thread1.cpp:181 src1/thread1.cpp:185
 msgid "Checking Internet connection"
-msgstr ""
+msgstr "Verificando a conexão com a Internet"
 
 #: src1/thread1.cpp:180 src1/thread1.cpp:181
 msgid "Not available!"
-msgstr ""
+msgstr "Não disponível!"
 
 #: src1/thread1.cpp:191 src1/thread1.cpp:192 src1/thread1.cpp:198
 #: src1/thread1.cpp:200 src1/thread1.cpp:201
 msgid "Update SW database"
-msgstr ""
+msgstr "Atualizar o banco de dados do SW"
 
 #: src1/thread1.cpp:198 src1/thread1.cpp:253 src1/thread1.cpp:326
 msgid "Done"
-msgstr ""
+msgstr "Feito"
 
 #: src1/thread1.cpp:200 src1/thread1.cpp:201 src1/thread1.cpp:221
 #: src1/thread1.cpp:222 src1/thread1.cpp:230 src1/thread1.cpp:231
@@ -242,34 +277,34 @@ msgstr ""
 #: src1/thread1.cpp:273 src1/thread1.cpp:311 src1/thread1.cpp:312
 #: src1/thread1.cpp:328 src1/thread1.cpp:329
 msgid "Failed"
-msgstr ""
+msgstr "Falhou"
 
 #: src1/thread1.cpp:208 src1/thread1.cpp:209 src1/thread1.cpp:221
 #: src1/thread1.cpp:222 src1/thread1.cpp:230 src1/thread1.cpp:231
 #: src1/thread1.cpp:234
 msgid "Checking apt database"
-msgstr ""
+msgstr "Verificando o banco de dados apt"
 
 #: src1/thread1.cpp:241 src1/thread1.cpp:242 src1/thread1.cpp:253
 #: src1/thread1.cpp:256 src1/thread1.cpp:257
 msgid "Fixing apt database"
-msgstr ""
+msgstr "Corrigindo o banco de dados apt"
 
 #: src1/thread1.cpp:263 src1/thread1.cpp:264 src1/thread1.cpp:270
 #: src1/thread1.cpp:272 src1/thread1.cpp:273
 msgid "Downloading packages"
-msgstr ""
+msgstr "Transferindo pacotes"
 
 #: src1/thread1.cpp:280 src1/thread1.cpp:281 src1/thread1.cpp:309
 #: src1/thread1.cpp:311 src1/thread1.cpp:312
 msgid "Listing updates"
-msgstr ""
+msgstr "Listando atualizações"
 
 #: src1/thread1.cpp:319 src1/thread1.cpp:320 src1/thread1.cpp:326
 #: src1/thread1.cpp:328 src1/thread1.cpp:329
 msgid "Removing unnecessary packages"
-msgstr ""
+msgstr "Removendo pacotes desnecessários"
 
 #: src1/thread1.cpp:381
 msgid "Installing.."
-msgstr ""
+msgstr "Instalando.."
