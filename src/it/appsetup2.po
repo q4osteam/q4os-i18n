@@ -7,164 +7,385 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-30 10:57+0200\n"
+"POT-Creation-Date: 2018-12-23 23:54+0100\n"
 "PO-Revision-Date: 2016-01-31 14:03+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 
-#: src/form6.cpp:156
-msgid "Do you really want to cancel pending operation ?"
-msgstr "Vuoi veramente annullare l'operazione in corso?"
-
-#: build/.ui/ui_form6.cpp:2244
-msgid "Widget_ui_form6"
-msgstr ""
-
-#: build/.ui/ui_form6.cpp:2245 build/.ui/ui_form3.cpp:2252
-#: build/.ui/ui_form5.cpp:2243 build/.ui/ui_form7.cpp:418
-#: build/.ui/ui_form4.cpp:2251 build/.ui/ui_form2.cpp:412
-msgid "Cancel"
-msgstr "Annulla"
-
-#: build/.ui/ui_form6.cpp:2246 build/.ui/ui_form3.cpp:2245
-#: build/.ui/ui_form5.cpp:2242 build/.ui/ui_form7.cpp:419
-#: build/.ui/ui_form4.cpp:2252
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2245
+#: code_wk_cpy/build/.ui/ui_form7.cpp:419
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2242
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2252
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2246
 msgid "< Back"
 msgstr "< Indietro"
 
-#: build/.ui/ui_form6.cpp:2247
-msgid "Setup action:"
+#: code_wk_cpy/src/mythread.cpp:612
+msgid "</b></p><p>Cleaning and canceling now ...</p>"
 msgstr ""
 
-#: build/.ui/ui_form6.cpp:2248 build/.ui/ui_form3.cpp:2244
-#: build/.ui/ui_form5.cpp:2238 build/.ui/ui_form4.cpp:2250
-msgid "Q4OS Install System v0.2.0"
-msgstr "Programma di installazione di Q4OS v0.2.0"
-
-#: build/.ui/ui_form6.cpp:2249
-msgid "Installing"
-msgstr "Installazione in corso"
-
-#: build/.ui/ui_form6.cpp:2250
-msgid "Please wait while software is being installed"
-msgstr "Per cortesia attendi mentre i programmi sono installati"
-
-#: build/.ui/ui_form6.cpp:2252 build/.ui/ui_form3.cpp:2251
-#: build/.ui/ui_form2.cpp:411
-msgid "Next >"
-msgstr "Avanti >"
-
-#: build/.ui/ui_form3.cpp:2243
-msgid "Widget_ui_form3"
-msgstr ""
-
-#: build/.ui/ui_form3.cpp:2246
-msgid "result:"
-msgstr "risultato:"
-
-#: build/.ui/ui_form3.cpp:2247
-msgid "passed OK !"
-msgstr "Esito positivo!"
-
-#: build/.ui/ui_form3.cpp:2248
-msgid "Fast system checks"
-msgstr "Controlli veloci del sistema"
-
-#: build/.ui/ui_form3.cpp:2249
-msgid "System is prechecking installation environment"
-msgstr "Controllo preliminare dell'ambiente di installazione in corso"
-
-#: build/.ui/ui_form5.cpp:2237
-msgid "Widget_ui_form5"
-msgstr ""
-
-#: build/.ui/ui_form5.cpp:2239
-msgid "Get permissions"
-msgstr "Ottieni i permessi"
-
-#: build/.ui/ui_form5.cpp:2241
-msgid "System asks for installation permissions"
-msgstr "Il sistema chiede i permessi per l'installazione"
-
-#: build/.ui/ui_form5.cpp:2244
-msgid "Install >"
-msgstr "Installa >"
-
-#: build/.ui/ui_form5.cpp:2245
-msgid "Enter your password to continue:"
-msgstr "Immetti la tua password per continuare:"
-
-#: build/.ui/ui_form7.cpp:416 build/.ui/ui_form2.cpp:410
-msgid "setup wizard"
-msgstr "Assistente di configurazione"
-
-#: build/.ui/ui_form7.cpp:417
-msgid "Finish >"
-msgstr "Finito >"
-
-#: build/.ui/ui_form7.cpp:420
+#: code_wk_cpy/build/.ui/ui_form7.cpp:420
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
-"<p><h2>Completamento dell'assistente di configurazione di _SUBST_SWNAME_</"
-"h2><br></p>\n"
+"<p><h2>Completamento dell'assistente di configurazione di _SUBST_SWNAME_</h2><br></p>\n"
 "<p>Il programma _SUBST_SWNAME_ è stato installato nel tuo computer.<br></p>\n"
 "<p>Premi Finito per chiudere l'assistente.<br><br><br><br><br><br></p>\n"
-"<p>Visita il sito _SUBST_SWNAME_ per le ultime novità, le domande frequenti "
-"e il supporto</p>"
+"<p>Visita il sito _SUBST_SWNAME_ per le ultime novità, le domande frequenti e il supporto</p>"
 
-#: build/.ui/ui_form4.cpp:2248
-msgid "Widget_ui_form4"
-msgstr ""
-
-#: build/.ui/ui_form4.cpp:2249
-msgid "Press Page Down to see the rest of agreement."
-msgstr "Premi Pagina Giù per vedere il resto della licenza."
-
-#: build/.ui/ui_form4.cpp:2253
-msgid "License Agreement"
-msgstr "Contratto di licenza"
-
-#: build/.ui/ui_form4.cpp:2254
-msgid "Please review the license terms before install"
-msgstr "Per cortesia rileggi i termini di licenza prima di installare"
-
-#: build/.ui/ui_form4.cpp:2256
+#: code_wk_cpy/build/.ui/ui_form2.cpp:413
 msgid ""
-"If you accept the terms of the agreement, click I Agree to continue. You "
-"must accept the agreement to install _SUBST_SWNAME_ software."
+"<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
+"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
+"<p>Click Next to continue.</p>\n"
 msgstr ""
-"Se accetti i termini di licenza, premi Accetto per continuare. Devi "
-"accettare i termini di licenza per installare _SUBST_SWNAME_ ."
+"<p><h2>Benvenuti nell'assistente di configurazione di _SUBST_SWNAME_</h2></p>\n"
+"<p>Questo assistente vi guiderà nell'installazione del programma _SUBST_SWNAME_ .</p>\n"
+"<p>Premi Avanti per continuare.</p>\n"
 
-#: build/.ui/ui_form4.cpp:2257
-msgid "I Agree >"
-msgstr "Accetto >"
+#: code_wk_cpy/src/mythread.cpp:612
+msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+msgstr ""
 
-#: build/.ui/ui_form4.cpp:2258
-msgid "License text ..."
-msgstr "Contratto di licenza..."
+#: code_wk_cpy/src/mythread.cpp:190
+msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
+msgstr ""
 
-#: build/.ui/ui_form4.cpp:2259
+#: code_wk_cpy/src/mythread.cpp:271
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:312 code_wk_cpy/src/mythread.cpp:319
+msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:157
+msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:153
+msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
+msgstr ""
+
+#: code_wk_cpy/src/mainwin.cpp:231
+msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:357
+msgid "Adding security keys ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:367
+msgid "Adding security keys ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:324
+msgid "Autofix not needed ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:25
+msgid "Calculating progress ..."
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2252
+#: code_wk_cpy/build/.ui/ui_form7.cpp:418
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2243
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2251
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2245
+#: code_wk_cpy/build/.ui/ui_form2.cpp:412
+msgid "Cancel"
+msgstr "Annulla"
+
+#: code_wk_cpy/src/mythread.cpp:609
+msgid "Checking installation ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:611
+msgid "Checking installation ... Error !"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:615
+msgid "Checking installation ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:248
+msgid "Checking package system ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:522
+msgid "Copying system packages ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:528
+msgid "Copying system packages ... Done"
+msgstr ""
+
+#: code_wk_cpy/src/mainwin.cpp:228
+msgid "Do you really want to cancel pending operation ?"
+msgstr "Vuoi veramente annullare l'operazione in corso?"
+
+#: code_wk_cpy/src/mythread.cpp:503
+msgid "Downloading packages ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:506
+msgid "Downloading packages ... Done"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2245
+msgid "Enter your password to continue:"
+msgstr "Immetti la tua password per continuare:"
+
+#: code_wk_cpy/src/mythread.cpp:206
+msgid "Extracting archive ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:214
+msgid "Extracting archive ... Done"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2248
+msgid "Fast system checks"
+msgstr "Controlli veloci del sistema"
+
+#: code_wk_cpy/build/.ui/ui_form7.cpp:417
+msgid "Finish >"
+msgstr "Finito >"
+
+#: code_wk_cpy/src/mythread.cpp:660
+msgid "Finishing installation ..."
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2239
+msgid "Get permissions"
+msgstr "Ottieni i permessi"
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2259
 msgid "I Agree"
 msgstr "Accetto"
 
-#: build/.ui/ui_form2.cpp:413
-msgid ""
-"<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
-"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ "
-"application.</p>\n"
-"<p>Click Next to continue.</p>\n"
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2257
+msgid "I Agree >"
+msgstr "Accetto >"
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2256
+msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
+msgstr "Se accetti i termini di licenza, premi Accetto per continuare. Devi accettare i termini di licenza per installare _SUBST_SWNAME_ ."
+
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2244
+msgid "Install >"
+msgstr "Installa >"
+
+#: code_wk_cpy/src/mythread.cpp:661
+msgid "Installation successfully completed :-)"
 msgstr ""
-"<p><h2>Benvenuti nell'assistente di configurazione di _SUBST_SWNAME_</h2></"
-"p>\n"
-"<p>Questo assistente vi guiderà nell'installazione del programma "
-"_SUBST_SWNAME_ .</p>\n"
-"<p>Premi Avanti per continuare.</p>\n"
+
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2249
+msgid "Installing"
+msgstr "Installazione in corso"
+
+#: code_wk_cpy/src/mythread.cpp:544
+msgid "Installing files ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:546
+msgid "Installing files ... OK"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2253
+msgid "License Agreement"
+msgstr "Contratto di licenza"
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2258
+msgid "License text ..."
+msgstr "Contratto di licenza..."
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2251
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2252
+#: code_wk_cpy/build/.ui/ui_form2.cpp:411
+msgid "Next >"
+msgstr "Avanti >"
+
+#: code_wk_cpy/src/mythread.cpp:270
+msgid "Package system ... Busy !"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:257 code_wk_cpy/src/mythread.cpp:277
+msgid "Package system not consistent ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:311 code_wk_cpy/src/mythread.cpp:318
+msgid "Package system still not consistent, canceling installation ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:407
+msgid "Partial update sw database ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:414
+msgid "Partial update sw database ... Done"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2254
+msgid "Please review the license terms before install"
+msgstr "Per cortesia rileggi i termini di licenza prima di installare"
+
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2250
+msgid "Please wait while software is being installed"
+msgstr "Per cortesia attendi mentre i programmi sono installati"
+
+#: code_wk_cpy/src/mythread.cpp:564
+msgid "Postinstall operations ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:597
+msgid "Postinstall operations ... Done"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:592
+msgid "Postinstall operations, additional commands ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:570
+msgid "Postinstall operations, update sw database ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:575
+msgid "Postinstall operations, upgrade sw database ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:379
+msgid "Preparing installation files ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:394
+msgid "Preparing installation files ... OK"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2249
+msgid "Press Page Down to see the rest of agreement."
+msgstr "Premi Pagina Giù per vedere il resto della licenza."
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2244
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2238
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2250
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2248
+msgid "Q4OS Install System v0.2.0"
+msgstr "Programma di installazione di Q4OS v0.2.0"
+
+#: code_wk_cpy/src/mythread.cpp:322
+msgid "Recovered ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:629
+msgid "Registering application ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:451
+msgid "Searching for language packages ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:472
+msgid "Searching for language packages ... Done"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2247
+msgid "Setup action:"
+msgstr ""
+
+#: code_wk_cpy/src/form6.cpp:112 code_wk_cpy/src/form6.cpp:119
+msgid "Setup action:  "
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2241
+msgid "System asks for installation permissions"
+msgstr "Il sistema chiede i permessi per l'installazione"
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2249
+msgid "System is prechecking installation environment"
+msgstr "Controllo preliminare dell'ambiente di installazione in corso"
+
+#: code_wk_cpy/src/mythread.cpp:186
+msgid "Testing Internet connection ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:189
+msgid "Testing Internet connection ... Failed !"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:193
+msgid "Testing Internet connection ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:484
+msgid "Testing installation ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:487
+msgid "Testing installation ... Done"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:295
+msgid "Trying to recover APT integrity ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:428
+msgid "Update sw database ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:437
+msgid "Update sw database ... Done"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:642
+msgid "Update system cache ..."
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:648
+msgid "Update system cache ... Done"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:282
+msgid "Verified ... OK"
+msgstr ""
+
+#: code_wk_cpy/src/mythread.cpp:327
+msgid "Waiting to complete current operation ... Done"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2243
+msgid "Widget_ui_form3"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form4.cpp:2248
+msgid "Widget_ui_form4"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form5.cpp:2237
+msgid "Widget_ui_form5"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form6.cpp:2244
+msgid "Widget_ui_form6"
+msgstr ""
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2247
+msgid "passed OK !"
+msgstr "Esito positivo!"
+
+#: code_wk_cpy/build/.ui/ui_form3.cpp:2246
+msgid "result:"
+msgstr "risultato:"
+
+#: code_wk_cpy/build/.ui/ui_form7.cpp:416
+#: code_wk_cpy/build/.ui/ui_form2.cpp:410
+msgid "setup wizard"
+msgstr "Assistente di configurazione"

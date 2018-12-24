@@ -3,100 +3,234 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Q4OS Desktop Profiler\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-30 11:21+0200\n"
-"PO-Revision-Date: 2015-05-30 11:21+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2018-12-23 23:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/form1.cpp:69
-msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:297
+msgid "  Install >"
 msgstr ""
 
-#: src/form1.cpp:69
-msgid "Q4OS Setup"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:275
+#: code-wk-copy-app/src/form1.cpp:70
+msgid "* select please *"
 msgstr ""
 
-#: src/form1.cpp:69
-msgid "Keep clean"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:187
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:209
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:281
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:292
+msgid "0"
 msgstr ""
 
-#: src/form1.cpp:69
-msgid "Run Desktop Profiler"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:189
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:211
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:282
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:293
+msgid "1"
 msgstr ""
 
-#: src/form1.cpp:114
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:207
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:291
+msgid "10"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:191
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:213
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:283
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:294
+msgid "2"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:193
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:284
+msgid "3"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:195
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:285
+msgid "4"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:197
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:286
+msgid "5"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:199
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:287
+msgid "6"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:201
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:288
+msgid "7"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:203
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:289
+msgid "8"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:205
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:290
+msgid "9"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:606
+msgid ""
+"<html>\n"
+"<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
+"<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
+"</html>"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:122
+msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
+msgstr ""
+
+#: code-wk-copy-app/src/form2.cpp:146
+msgid "<p>Do you want to cancel pending operation ?</p>"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:615
+msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
+msgstr ""
+
+#: code-wk-copy-app/src/form1.cpp:494
+msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
+msgstr ""
+
+#: code-wk-copy-app/src/form1.cpp:503
+msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:612
+msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
+msgstr ""
+
+#: code-wk-copy-app/src/form1.cpp:438
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr ""
 
-#: src/form1.cpp:129
-msgid "<p>Unsufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
+#: code-wk-copy-app/src/form2.cpp:149
+msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr ""
 
-#: src/form1.cpp:150
-msgid "<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:278
+msgid ">"
 msgstr ""
 
-#: src/form2.cpp:142
-msgid "Do you really want to cancel pending operation ?"
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:126
+msgid "Cancel"
 msgstr ""
 
-#: src/form2.cpp:167
-msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:279
+msgid "Choose an additional desktop environment to install."
 msgstr ""
 
-#: src/form2.cpp:182
-msgid "Please restart X server as soon as possible."
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:280
+msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
 msgstr ""
 
-#: src/form2.cpp:189
-msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:120
+msgid "Choose desktop environment"
 msgstr ""
 
-#: build/.ui/ui_form2.cpp:77
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:295
+msgid "Click to select profile"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:277
+msgid "Default (TDE)"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:273
+msgid "Desktop Profiler"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form2.cpp:77
 msgid "Desktop Profiler - install progress"
 msgstr ""
 
-#: build/.ui/ui_form2.cpp:78
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:276
+msgid "Desktop environment:"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:605
+msgid "Desktop profiler - select default desktop environment"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:610
+msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
+msgstr ""
+
+#: code-wk-copy-app/src/form2.cpp:201
+msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:614
+msgid "KDE Plasma"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:616
+msgid "KDE Plasma >"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:298
+msgid "Launch installation"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form2.cpp:78
 msgid "Next >"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:647
-msgid "Desktop Profiler - batch software installer"
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:124
+msgid "None selected"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:648
-msgid "Select a profile:"
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:121
+msgid "Note "
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:649
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:127
+msgid "Ok"
+msgstr ""
+
+#: code-wk-copy-app/src/form2.cpp:224
+msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
+msgstr ""
+
+#: code-wk-copy-app/src/form2.cpp:217
+msgid "Please restart X server as soon as possible."
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:296
 msgid "Profile description"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:650
-msgid "Apply >"
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:274
+msgid "Software profile:"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:652
-msgid "Keep installed Q4OS operating system, you are free to setup anything by yourself"
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:611
+msgid "Trinity"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:653
-msgid "Basic Q4OS Desktop with common utilities, command-line tools and libraries"
+#: code-wk-copy-app/build/.ui/ui_form4.cpp:613
+msgid "Trinity >"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:654
-msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
+#: code-wk-copy-app/build/.ui/ui_form3.cpp:123
+msgid "Yes, I really want to install additional DE"
 msgstr ""
-
-#: build/.ui/ui_form1.cpp:655
-msgid "Select a profile"
-msgstr ""
-

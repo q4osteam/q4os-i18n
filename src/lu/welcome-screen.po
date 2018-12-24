@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-15 10:17+0200\n"
+"POT-Creation-Date: 2018-12-23 23:55+0100\n"
 "PO-Revision-Date: 2015-05-30 11:35+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,198 +16,264 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/form1.cpp:126
-msgid "<p>Do you want to turn Desktop Effects on ?</p>"
+#: code-wk-copy/build/.ui/ui_form1.cpp:3923
+msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr ""
 
-#: src/form1.cpp:126 src/form1.cpp:134 src/form1.cpp:138
-msgid "Desktop effects"
-msgstr ""
-
-#: src/form1.cpp:126 src/form1.cpp:128
-msgid "Turn ON"
-msgstr ""
-
-#: src/form1.cpp:126 src/form1.cpp:128 src/form1.cpp:171
-msgid "Revert to defaults"
-msgstr ""
-
-#: src/form1.cpp:128
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr ""
-
-#: src/form1.cpp:128
-msgid "Warning !"
-msgstr ""
-
-#: src/form1.cpp:134
-msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr ""
-
-#: src/form1.cpp:138
-msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
-
-#: src/form1.cpp:171
-msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
-
-#: src/form1.cpp:171
-msgid "Autologin configuration"
-msgstr ""
-
-#: src/form1.cpp:171
-msgid "Enable Autologin"
-msgstr ""
-
-#: src/form1.cpp:175
-msgid "<p>Automatic login is now enabled.<p>"
-msgstr ""
-
-#: src/form1.cpp:175 src/form1.cpp:180
-msgid "Automatic login"
-msgstr ""
-
-#: src/form1.cpp:180
-msgid "<p>Automatic login is now disabled.<p>"
-msgstr ""
-
-#: src/form1.cpp:191
-msgid "<p>ARM CPU architecture detected. It doesn't support proprietary multimedia codecs.</p>"
-msgstr ""
-
-#: src/form1.cpp:191 src/form1.cpp:220
-msgid "Info"
-msgstr ""
-
-#: src/form1.cpp:220
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
-
-#: src/form2.cpp:19
-msgid "Switch to Kickoff"
-msgstr ""
-
-#: src/form2.cpp:20
-msgid "Switch to Bourbon"
-msgstr ""
-
-#: src/form2.cpp:21
-msgid "Revert to Classic"
-msgstr ""
-
-#: src/form2.cpp:28 src/form2.cpp:61 src/form2.cpp:76 src/form2.cpp:91
-msgid "Start menu configuration"
-msgstr ""
-
-#: src/form2.cpp:33
-msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
-
-#: src/form2.cpp:37
-msgid "Cancel"
-msgstr ""
-
-#: src/form2.cpp:54 src/form2.cpp:69 src/form2.cpp:84
-msgid "Working ..."
-msgstr ""
-
-#: src/form2.cpp:61
-msgid "<p>Start Menu is now set to Kickoff style.<p>"
-msgstr ""
-
-#: src/form2.cpp:76
-msgid "<p>Start Menu is now set to Bourbon style.<p>"
-msgstr ""
-
-#: src/form2.cpp:91
-msgid "<p>Start Menu is now set to Classic style.<p>"
-msgstr ""
-
-#: build/.ui/ui_form2.cpp:290
-msgid "Form1"
-msgstr ""
-
-#: build/.ui/ui_form2.cpp:291
-msgid "textLabel1"
-msgstr ""
-
-#: build/.ui/ui_form2.cpp:292
-msgid "pushButton1"
-msgstr ""
-
-#: build/.ui/ui_form2.cpp:293
-msgid "pushButton2"
-msgstr ""
-
-#: build/.ui/ui_form2.cpp:294
-msgid "pushButton3"
-msgstr ""
-
-#: build/.ui/ui_form2.cpp:295
-msgid "pushButton4"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3875
-msgid "Welcome screen"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3876
-msgid "Close"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3877
-msgid "Show this dialog on startup"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3878
-msgid "Run Desktop Profiler"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3879
-msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3880
-msgid "Install Applications"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3881
-msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3882
-msgid "Install Proprietary Codecs"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3883
-msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3884
-msgid "Turn on Desktop effects"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3885
-msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3886
-msgid "Switch to Kickoff start menu"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3887
-msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3888
-msgid "Set Autologin"
-msgstr ""
-
-#: build/.ui/ui_form1.cpp:3889
+#: code-wk-copy/build/.ui/ui_form1.cpp:3933
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr ""
 
-#: build/.ui/ui_form1.cpp:3890
-msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
+#: code-wk-copy/build/.ui/ui_form1.cpp:3935
+msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3929
+msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3931
+msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3925
+msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3927
+msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:231
+msgid "<p>Automatic login is now disabled.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:226
+msgid "<p>Automatic login is now enabled.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:186
+msgid "<p>Desktop effects have been disabled.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:181
+msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:222
+msgid "<p>Do you want to enable Automatic login ?</p>"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:33 code-wk-copy/src/form3.cpp:36
+msgid "<p>Do you want to switch the Start Menu ?</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:171
+msgid "<p>Do you want to turn Desktop Effects on ?</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:274
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:76 code-wk-copy/src/form3.cpp:76
+msgid "<p>Start Menu is now set to Bourbon style.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:91 code-wk-copy/src/form3.cpp:80
+msgid "<p>Start Menu is now set to Classic style.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:61 code-wk-copy/src/form3.cpp:72
+msgid "<p>Start Menu is now set to Kickoff style.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:284
+msgid "<p>This action is only available for Trinity desktop.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:270
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:173
+msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
+msgstr ""
+
+#: code-wk-copy/src/form3.cpp:22
+msgid "Apply"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:222
+msgid "Autologin configuration"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:226 code-wk-copy/src/form1.cpp:231
+msgid "Automatic login"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:324
+msgid "Bourbon"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:37 code-wk-copy/src/form3.cpp:38
+msgid "Cancel"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:330
+msgid "Categories"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:326
+msgid "Classic"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:327
+msgid "Classic style cascading menu"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3937
+msgid "Close"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:181
+#: code-wk-copy/src/form1.cpp:186
+msgid "Desktop effects"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:222
+msgid "Enable Autologin"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form2.cpp:289
+msgid "Form2"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:270 code-wk-copy/src/form1.cpp:274
+#: code-wk-copy/src/form1.cpp:284
+msgid "Info"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3926
+msgid "Install Applications"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3930
+msgid "Install Proprietary Codecs"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:322
+msgid "KickOff"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:323
+msgid "KickOff type menu"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:333
+msgid "Menu items organized by Applications"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:331
+msgid "Menu items organized by Categories"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:328
+msgid "Menu structure"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:320
+msgid "Menu type"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:332
+msgid "Q4OS"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:21
+msgid "Revert to Classic"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:173
+#: code-wk-copy/src/form1.cpp:222
+msgid "Revert to defaults"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3928
+msgid "Run Desktop Profiler"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3932
+msgid "Set Autologin"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3936
+msgid "Show this dialog on startup"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:318 code-wk-copy/src/form2.cpp:28
+#: code-wk-copy/src/form2.cpp:61 code-wk-copy/src/form2.cpp:76
+#: code-wk-copy/src/form2.cpp:91 code-wk-copy/src/form3.cpp:31
+#: code-wk-copy/src/form3.cpp:87
+msgid "Start menu configuration"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:20
+msgid "Switch to Bourbon"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:19
+msgid "Switch to Kickoff"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3924
+msgid "Switch to Kickoff start menu"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:173
+msgid "Turn ON"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3934
+msgid "Turn on Desktop effects"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:325
+msgid "Two panel menu with search line"
+msgstr ""
+
+#: code-wk-copy/src/form1.cpp:173
+msgid "Warning !"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form1.cpp:3922
+msgid "Welcome screen"
+msgstr ""
+
+#: code-wk-copy/src/form2.cpp:54 code-wk-copy/src/form2.cpp:69
+#: code-wk-copy/src/form2.cpp:84 code-wk-copy/src/form3.cpp:63
+msgid "Working ..."
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:334
+#: code-wk-copy/build/.ui/ui_form2.cpp:291
+msgid "pushButton1"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form2.cpp:292
+msgid "pushButton2"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form2.cpp:293
+msgid "pushButton3"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:335
+#: code-wk-copy/build/.ui/ui_form2.cpp:294
+msgid "pushButton4"
+msgstr ""
+
+#: code-wk-copy/build/.ui/ui_form3.cpp:319
+#: code-wk-copy/build/.ui/ui_form2.cpp:290
+msgid "textLabel1"
 msgstr ""

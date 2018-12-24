@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-30 11:23+0200\n"
+"POT-Creation-Date: 2018-12-23 23:55+0100\n"
 "PO-Revision-Date: 2015-12-30 01:20+0100\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -17,103 +17,116 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 
-#: src/form1.cpp:182
-msgid "<p></p>"
-msgstr "<p></p>"
-
-#: src/form1.cpp:182
-msgid "Uninstall"
-msgstr "Deinstallieren"
-
-#: src/form1.cpp:182
-msgid "Uninstall now"
-msgstr "Jetzt Deinstallieren"
-
-#: src/form1.cpp:182
-msgid "Cancel"
-msgstr "Abbrechen"
-
-#: src/form1.cpp:243
-msgid ""
-"<p>Virtualbox installation has been detected !</p><p>Actions are disabled "
-"during Virtualbox setup, please wait until end of the Virtualbox "
-"installation.</p>"
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "<p>"
 msgstr ""
-"<p>Eine Virtualbox-Installation wurde erkannt !</p><p>Alle Funktionen werden "
-"während des Virtualbox-Setups deaktiviert. Bitte warten Sie bis zum Ende der "
-"Virtualbox-Installation.</p>"
 
-#: src/form1.cpp:243 src/form1.cpp:255
-msgid "Info"
-msgstr "Info"
-
-#: src/form1.cpp:255
-msgid ""
-"<p>You have applied no desktop profile yet. It's highly recommended to apply "
-"a desktop profile before installing applications.</p><p>Please run "
-"<b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
+#: code-wk-copy-app/src/form1.cpp:313
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr ""
-"<p>Sie haben noch kein Desktop-Profil festgelegt. Es wird strengstens "
-"empfohlen, ein Desktop-Profil anzuwenden, BEVOR Sie ein Programm "
-"installieren.</p><p>Bitte starten Sie den <b>Desktop-Profiler</b>, um ein "
-"Profil auszuwählen.</p>"
 
-#: build/.ui/ui_form1.cpp:469 build/.ui/ui_form1.cpp:557
-msgid "config_file"
-msgstr "config_file"
+#: code-wk-copy-app/src/form1.cpp:238
+msgid "<p>Select an application to install.<p>"
+msgstr ""
 
-#: build/.ui/ui_form1.cpp:471 build/.ui/ui_form1.cpp:558
+#: code-wk-copy-app/src/form1.cpp:288
+msgid "<p>Synaptic package manager isn't installed, please install it first.<p>"
+msgstr ""
+
+#: code-wk-copy-app/src/form1.cpp:309
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr "<p>Eine Virtualbox-Installation wurde erkannt !</p><p>Alle Funktionen werden während des Virtualbox-Setups deaktiviert. Bitte warten Sie bis zum Ende der Virtualbox-Installation.</p>"
+
+#: code-wk-copy-app/src/form1.cpp:325
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr ""
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:476
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:566
 msgid "Application"
 msgstr "Programm"
 
-#: build/.ui/ui_form1.cpp:473 build/.ui/ui_form1.cpp:559
-msgid "package"
-msgstr "Paket"
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "Cancel"
+msgstr "Abbrechen"
 
-#: build/.ui/ui_form1.cpp:475 build/.ui/ui_form1.cpp:560
-msgid "download"
-msgstr "Herunterladen"
-
-#: build/.ui/ui_form1.cpp:477 build/.ui/ui_form1.cpp:561
-msgid "Rating"
-msgstr "Bewertung"
-
-#: build/.ui/ui_form1.cpp:479 build/.ui/ui_form1.cpp:562
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:484
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:570
 msgid "Description"
 msgstr "Beschreibung"
 
-#: build/.ui/ui_form1.cpp:481 build/.ui/ui_form1.cpp:563
-msgid "rating_num"
-msgstr "rating_num"
-
-#: build/.ui/ui_form1.cpp:556
-msgid "Q4OS Software Centre"
-msgstr "Q4OS Software Center"
-
-#: build/.ui/ui_form1.cpp:564
-msgid "Search:"
-msgstr "Suche:"
-
-#: build/.ui/ui_form1.cpp:566
-msgid "Package manager"
-msgstr "Paket-Manager"
-
-#: build/.ui/ui_form1.cpp:567
-msgid "Run 'Synaptic' - system package manager"
-msgstr "Starte 'Synaptic' - System-Paket-Manager"
-
-#: build/.ui/ui_form1.cpp:569
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:579
 msgid "Desktop profiler"
 msgstr "Desktop-Profiler"
 
-#: build/.ui/ui_form1.cpp:570
-msgid "Run 'Desktop Profiler' tool"
-msgstr "Starte den 'Desktop-Profiler'"
+#: code-wk-copy-app/src/form1.cpp:309 code-wk-copy-app/src/form1.cpp:313
+#: code-wk-copy-app/src/form1.cpp:325
+msgid "Info"
+msgstr "Info"
 
-#: build/.ui/ui_form1.cpp:572
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:573
 msgid "Install application"
 msgstr "Installieren"
 
-#: build/.ui/ui_form1.cpp:573
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:574
 msgid "Install selected applications"
 msgstr "Installiere die ausgewählten Programme"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:576
+msgid "Package manager"
+msgstr "Paket-Manager"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:564
+msgid "Q4OS Software Centre"
+msgstr "Q4OS Software Center"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:482
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:569
+msgid "Rating"
+msgstr "Bewertung"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:580
+msgid "Run 'Desktop Profiler' tool"
+msgstr "Starte den 'Desktop-Profiler'"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:577
+msgid "Run 'Synaptic' - system package manager"
+msgstr "Starte 'Synaptic' - System-Paket-Manager"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:581
+msgid "Search:"
+msgstr "Suche:"
+
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "Uninstall now"
+msgstr "Jetzt Deinstallieren"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:474
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:565
+msgid "config_file"
+msgstr "config_file"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:480
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:568
+msgid "download"
+msgstr "Herunterladen"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:478
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:567
+msgid "package"
+msgstr "Paket"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:486
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:571
+msgid "rating_num"
+msgstr "rating_num"
+
+#~ msgid "<p></p>"
+#~ msgstr "<p></p>"
+
+#~ msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
+#~ msgstr "<p>Sie haben noch kein Desktop-Profil festgelegt. Es wird strengstens empfohlen, ein Desktop-Profil anzuwenden, BEVOR Sie ein Programm installieren.</p><p>Bitte starten Sie den <b>Desktop-Profiler</b>, um ein Profil auszuwählen.</p>"

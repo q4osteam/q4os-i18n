@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-30 11:23+0200\n"
+"POT-Creation-Date: 2018-12-23 23:55+0100\n"
 "PO-Revision-Date: 2015-06-08 00:27+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,101 +17,110 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.6.10\n"
 
-#: src/form1.cpp:182
+#: code-wk-copy-app/src/form1.cpp:245
 msgid "<p>"
 msgstr "<p>"
 
-#: src/form1.cpp:182
-msgid "Uninstall"
-msgstr "Удалить"
-
-#: src/form1.cpp:182
-msgid "Uninstall now"
-msgstr "Удалить сейчас"
-
-#: src/form1.cpp:182
-msgid "Cancel"
-msgstr "Отмена"
-
-#: src/form1.cpp:243
-msgid ""
-"<p>Virtualbox installation has been detected !</p><p>Actions are disabled "
-"during Virtualbox setup, please wait until end of the Virtualbox "
-"installation.</p>"
+#: code-wk-copy-app/src/form1.cpp:313
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr ""
-"<p>Обнаружена установка Virtualbox!</p><p>Действия отключены, дождитесь "
-"окончания процесса установки.</p>"
 
-#: src/form1.cpp:243 src/form1.cpp:255
-msgid "Info"
-msgstr "Сведения"
-
-#: src/form1.cpp:255
-msgid ""
-"<p>You have applied no desktop profile yet. It's highly recommended to apply "
-"a desktop profile before installing applications.</p><p>Please run <b>Dektop "
-"Profiler</b> tool to choose and apply a profile.</p>"
+#: code-wk-copy-app/src/form1.cpp:238
+msgid "<p>Select an application to install.<p>"
 msgstr ""
-"<p>Мы настоятельно рекомендуем Вам применить один из профилей перед "
-"установкой отдельных приложений.</p><p>Пожалуйста, запустите Профайлер "
-"рабочего стола, выберите и установите профиль.</p>"
 
-#: build/.ui/ui_form1.cpp:469 build/.ui/ui_form1.cpp:557
-msgid "config_file"
-msgstr "config_file"
+#: code-wk-copy-app/src/form1.cpp:288
+msgid "<p>Synaptic package manager isn't installed, please install it first.<p>"
+msgstr ""
 
-#: build/.ui/ui_form1.cpp:471 build/.ui/ui_form1.cpp:558
+#: code-wk-copy-app/src/form1.cpp:309
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr "<p>Обнаружена установка Virtualbox!</p><p>Действия отключены, дождитесь окончания процесса установки.</p>"
+
+#: code-wk-copy-app/src/form1.cpp:325
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr "<p>Мы настоятельно рекомендуем Вам применить один из профилей перед установкой отдельных приложений.</p><p>Пожалуйста, запустите Профайлер рабочего стола, выберите и установите профиль.</p>"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:476
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:566
 msgid "Application"
 msgstr "Программы"
 
-#: build/.ui/ui_form1.cpp:473 build/.ui/ui_form1.cpp:559
-msgid "package"
-msgstr "пакет"
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "Cancel"
+msgstr "Отмена"
 
-#: build/.ui/ui_form1.cpp:475 build/.ui/ui_form1.cpp:560
-msgid "download"
-msgstr "загрузка"
-
-#: build/.ui/ui_form1.cpp:477 build/.ui/ui_form1.cpp:561
-msgid "Rating"
-msgstr "Оценка"
-
-#: build/.ui/ui_form1.cpp:479 build/.ui/ui_form1.cpp:562
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:484
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:570
 msgid "Description"
 msgstr "Описание"
 
-#: build/.ui/ui_form1.cpp:481 build/.ui/ui_form1.cpp:563
-msgid "rating_num"
-msgstr "rating_num"
-
-#: build/.ui/ui_form1.cpp:556
-msgid "Q4OS Software Centre"
-msgstr "Центр приложений Q4OS"
-
-#: build/.ui/ui_form1.cpp:564
-msgid "Search:"
-msgstr "Поиск:"
-
-#: build/.ui/ui_form1.cpp:566
-msgid "Package manager"
-msgstr "Пакетный менеджер"
-
-#: build/.ui/ui_form1.cpp:567
-msgid "Run 'Synaptic' - system package manager"
-msgstr "Запуск Менеджера пакетов Synaptic"
-
-#: build/.ui/ui_form1.cpp:569
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:579
 msgid "Desktop profiler"
 msgstr "Профайлер рабочего стола"
 
-#: build/.ui/ui_form1.cpp:570
-msgid "Run 'Desktop Profiler' tool"
-msgstr "Запуск Профайлера рабочего стола"
+#: code-wk-copy-app/src/form1.cpp:309 code-wk-copy-app/src/form1.cpp:313
+#: code-wk-copy-app/src/form1.cpp:325
+msgid "Info"
+msgstr "Сведения"
 
-#: build/.ui/ui_form1.cpp:572
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:573
 msgid "Install application"
 msgstr "Установить программу"
 
-#: build/.ui/ui_form1.cpp:573
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:574
 msgid "Install selected applications"
 msgstr "Установить выбранные приложения"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:576
+msgid "Package manager"
+msgstr "Пакетный менеджер"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:564
+msgid "Q4OS Software Centre"
+msgstr "Центр приложений Q4OS"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:482
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:569
+msgid "Rating"
+msgstr "Оценка"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:580
+msgid "Run 'Desktop Profiler' tool"
+msgstr "Запуск Профайлера рабочего стола"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:577
+msgid "Run 'Synaptic' - system package manager"
+msgstr "Запуск Менеджера пакетов Synaptic"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:581
+msgid "Search:"
+msgstr "Поиск:"
+
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "Uninstall"
+msgstr "Удалить"
+
+#: code-wk-copy-app/src/form1.cpp:245
+msgid "Uninstall now"
+msgstr "Удалить сейчас"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:474
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:565
+msgid "config_file"
+msgstr "config_file"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:480
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:568
+msgid "download"
+msgstr "загрузка"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:478
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:567
+msgid "package"
+msgstr "пакет"
+
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:486
+#: code-wk-copy-app/build/.ui/ui_form1.cpp:571
+msgid "rating_num"
+msgstr "rating_num"
