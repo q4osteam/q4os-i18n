@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-23 23:55+0100\n"
-"PO-Revision-Date: 2015-06-12 13:41+0100\n"
+"PO-Revision-Date: 2018-12-24 15:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.6\n"
+"X-Generator: Poedit 2.2\n"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3923
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
@@ -47,11 +47,11 @@ msgstr "<font size=\"4\"><p>Vous allez être redirigé vers le site web de Q4OS 
 
 #: code-wk-copy/src/form1.cpp:231
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>La connexion automatique est désactivée.</p>"
 
 #: code-wk-copy/src/form1.cpp:226
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>La connexion automatique est activée.</p>"
 
 #: code-wk-copy/src/form1.cpp:186
 msgid "<p>Desktop effects have been disabled.</p>"
@@ -75,23 +75,23 @@ msgstr "<p>Voulez-vous activer les effets visuels ?</p>"
 
 #: code-wk-copy/src/form1.cpp:274
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>Une carte NVIDIA a été détectée !</p><p>Les actions sont désactivées pendant l'installation de NVIDIA, merci de patienter jusqu'à la fin de l'installation.</p>"
 
 #: code-wk-copy/src/form2.cpp:76 code-wk-copy/src/form3.cpp:76
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Le style \"Bourbon\" est appliqué au menu démarrer.</p>"
 
 #: code-wk-copy/src/form2.cpp:91 code-wk-copy/src/form3.cpp:80
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Le style \"Classic\" est appliqué au menu démarrer.</p>"
 
 #: code-wk-copy/src/form2.cpp:61 code-wk-copy/src/form3.cpp:72
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Le style \"Kickoff\" est appliqué au menu démarrer.</p>"
 
 #: code-wk-copy/src/form1.cpp:284
 msgid "<p>This action is only available for Trinity desktop.</p>"
-msgstr ""
+msgstr "<p>Cette action est disponible uniquement pour le bureau Trinity.</p>"
 
 #: code-wk-copy/src/form1.cpp:270
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
@@ -103,7 +103,7 @@ msgstr "<p>Votre matériel semble insuffisament puissant pour se payer le luxe d
 
 #: code-wk-copy/src/form3.cpp:22
 msgid "Apply"
-msgstr ""
+msgstr "Appliquer"
 
 #: code-wk-copy/src/form1.cpp:222
 msgid "Autologin configuration"
@@ -115,23 +115,23 @@ msgstr "Ouverture automatique de session"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:324
 msgid "Bourbon"
-msgstr ""
+msgstr "\"Bourbon\""
 
 #: code-wk-copy/src/form2.cpp:37 code-wk-copy/src/form3.cpp:38
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:330
 msgid "Categories"
-msgstr ""
+msgstr "Catégories"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:326
 msgid "Classic"
-msgstr ""
+msgstr "\"Classic\""
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:327
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Menu en cascade de style \"Classic\""
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3937
 msgid "Close"
@@ -148,7 +148,7 @@ msgstr "Activer l'ouverture automatique de session"
 
 #: code-wk-copy/build/.ui/ui_form2.cpp:289
 msgid "Form2"
-msgstr ""
+msgstr "Forme 2"
 
 #: code-wk-copy/src/form1.cpp:270 code-wk-copy/src/form1.cpp:274
 #: code-wk-copy/src/form1.cpp:284
@@ -165,27 +165,27 @@ msgstr "Codecs propriétaires"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:322
 msgid "KickOff"
-msgstr ""
+msgstr "\"KickOff\""
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:323
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Menu de style \"KickOff\""
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:333
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Items de menu organisés par Applications"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:331
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Items de menu organisés par Catégories"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:328
 msgid "Menu structure"
-msgstr ""
+msgstr "Structure du menu"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:320
 msgid "Menu type"
-msgstr ""
+msgstr "Type de menu"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:332
 msgid "Q4OS"
@@ -193,7 +193,7 @@ msgstr ""
 
 #: code-wk-copy/src/form2.cpp:21
 msgid "Revert to Classic"
-msgstr "Retour au style « Classic »"
+msgstr "Retour au style \"Classic\""
 
 #: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:173
 #: code-wk-copy/src/form1.cpp:222
@@ -221,15 +221,15 @@ msgstr "Paramètres du menu Démarrer"
 
 #: code-wk-copy/src/form2.cpp:20
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Style \"Bourbon\""
 
 #: code-wk-copy/src/form2.cpp:19
 msgid "Switch to Kickoff"
-msgstr "Style « Kickoff »"
+msgstr "Style \"KickOff\""
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3924
 msgid "Switch to Kickoff start menu"
-msgstr "« Kickoff » du menu Démarrer"
+msgstr "Menu démarrer style \"KickOff\""
 
 #: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:173
 msgid "Turn ON"
@@ -241,7 +241,7 @@ msgstr "Activer les effets visuels"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:325
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Menu double affichage avec ligne de recherrche"
 
 #: code-wk-copy/src/form1.cpp:173
 msgid "Warning !"
@@ -249,35 +249,35 @@ msgstr "Attention !"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3922
 msgid "Welcome screen"
-msgstr "Accueil"
+msgstr "Ecran d'accueil"
 
 #: code-wk-copy/src/form2.cpp:54 code-wk-copy/src/form2.cpp:69
 #: code-wk-copy/src/form2.cpp:84 code-wk-copy/src/form3.cpp:63
 msgid "Working ..."
-msgstr ""
+msgstr "Patientez ..."
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:334
 #: code-wk-copy/build/.ui/ui_form2.cpp:291
 msgid "pushButton1"
-msgstr ""
+msgstr "Bouton 1"
 
 #: code-wk-copy/build/.ui/ui_form2.cpp:292
 msgid "pushButton2"
-msgstr ""
+msgstr "Bouton 2"
 
 #: code-wk-copy/build/.ui/ui_form2.cpp:293
 msgid "pushButton3"
-msgstr ""
+msgstr "Bouton 3"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:335
 #: code-wk-copy/build/.ui/ui_form2.cpp:294
 msgid "pushButton4"
-msgstr ""
+msgstr "Bouton 4"
 
 #: code-wk-copy/build/.ui/ui_form3.cpp:319
 #: code-wk-copy/build/.ui/ui_form2.cpp:290
 msgid "textLabel1"
-msgstr ""
+msgstr "Libellé 1"
 
 #~ msgid "<p>Automatic login is now enabled.<p>"
 #~ msgstr "<p>L'ouverture automatique de session est activée.</p>"

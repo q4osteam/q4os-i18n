@@ -8,23 +8,23 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-23 23:55+0100\n"
-"PO-Revision-Date: 2015-06-12 13:26+0100\n"
+"PO-Revision-Date: 2018-12-24 16:24+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.6\n"
+"X-Generator: Poedit 2.2\n"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:297
 msgid "  Install >"
-msgstr ""
+msgstr "  Installer >"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:275
 #: code-wk-copy-app/src/form1.cpp:70
 msgid "* select please *"
-msgstr ""
+msgstr "* veuillez sélectionner *"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:187
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:209
@@ -94,30 +94,34 @@ msgid ""
 "<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
 "</html>"
 msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Veuillez sélectionner l'environnement de bureau par défaut.</p></font>\n"
+"<p align=justify>Le plus léger et performant <b>Trinity</b> est installé et préconfiguré par défaut en ce moment. Toutefois, l'installateur Q4OS a détecté automatiquement que votre ordinateur est suffisamment puissant pour utiliser l'environnement de bureau <b>KDE Plasma</b> qui est plus avancé.</p>\n"
+"</html>"
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:122
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>Cette fenêtre vous laisse choisir un environnement de bureau additionnel à installer à côté du bureau par défaut de Q4OS .</p><p align=justify>N'utilisez pas cette option, sauf si vous êtres absolument sûr de ce que vous faites.</p>"
 
 #: code-wk-copy-app/src/form2.cpp:146
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>Voulez-vous annuler l'opération en attente ?</p>"
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:615
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p>Installer et activer par défaut l'environnement de bureau <span style=\"font-weight:600\">KDE Plasma</span> et mettre le bureau Trinity en option.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:494
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Matériel insuffisant détecté !</p><p>Votre CPU ne supporte pas les instructions SSE2 qui sont nécessaires pour le programme demandé.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:503
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Matériel insuffisant détecté !</p><p>Votre ordinateur est faible en ressources système pour le profil que vous avez sélectionné, il n'est pas recommandé d'installer ce profil.</p>"
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:612
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>Conserver l'environnement de bureau <span style=\"font-weight:600\">Trinity</span> par défaut, Plasma ne sera pas installé. Vous pourrez démarrer l'installation de Plasma plus tard en utilisant l'outil de profil de bureau.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:438
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
@@ -125,7 +129,7 @@ msgstr "<p>Le gestionnaire de paquets est en cours d'utilisation et n'est donc p
 
 #: code-wk-copy-app/src/form2.cpp:149
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Attention : L'annulation de l'installation dans cette phase peut entraîner une panne du système.</p><p>Etes vous bien sûr de vouloir interrompre le processus d'installation maintenant ?</p>"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:278
 msgid ">"
@@ -133,51 +137,51 @@ msgstr ""
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:126
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:279
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "Choisissez un environnement de bureau additionnel à installer."
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:280
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "Choisissez un environnement de bureau additionnel à installer. N'utilisez pas cette option, sauf si vous êtes absolument sûr de ce que vous faites."
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:120
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "Choisissez un environnement de bureau"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:295
 msgid "Click to select profile"
-msgstr ""
+msgstr "Cliquez pour sélectionner un profil"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:277
 msgid "Default (TDE)"
-msgstr ""
+msgstr "Défaut (TDE)"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:273
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Gestionnaire de profil de bureau"
 
 #: code-wk-copy-app/build/.ui/ui_form2.cpp:77
 msgid "Desktop Profiler - install progress"
-msgstr "Gestionnaire de profil -- progression de l'installation"
+msgstr "Gestionnaire de profil de bureau - progression de l'installation"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:276
 msgid "Desktop environment:"
-msgstr ""
+msgstr "Environnement de bureau :"
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:605
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Gestionnaire de profil de bureau - sélection de l'environnement de bureau par défaut"
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:610
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "Si vous n'êtes pas sûr, appuyez sur le bouton <b>[ KDE Plasma ]</b> pour sélectionner l'option recommandée."
 
 #: code-wk-copy-app/src/form2.cpp:201
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr "Le processus d'installation requière de se déconnecter de cette session.  Souhaitez-vous vous déconnecter puis reconnecter immadiatement ?"
+msgstr "Le processus d'installation demande de se déconnecter de cette session.  Souhaitez-vous vous déconnecter et vous reconnecter immédiatement ?"
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:614
 msgid "KDE Plasma"
@@ -189,7 +193,7 @@ msgstr ""
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:298
 msgid "Launch installation"
-msgstr ""
+msgstr "Démarrer l'installation"
 
 #: code-wk-copy-app/build/.ui/ui_form2.cpp:78
 msgid "Next >"
@@ -197,7 +201,7 @@ msgstr "Suivant >"
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:124
 msgid "None selected"
-msgstr ""
+msgstr "Pas de sélection"
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:121
 msgid "Note "
@@ -213,7 +217,7 @@ msgstr "SVP redémarrez votre ordinateur dès que possible.  Souhaitez-vous red�
 
 #: code-wk-copy-app/src/form2.cpp:217
 msgid "Please restart X server as soon as possible."
-msgstr "Merci de bien vouloir redémarrez le service d'affichage « X » dès que possible (p.ex. de façon brutale avec Ctrl-Alt-Backspace)."
+msgstr "Merci de redémarrer le serveur d'affichage X dès que possible."
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:296
 msgid "Profile description"
@@ -221,7 +225,7 @@ msgstr "Description du profil"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:274
 msgid "Software profile:"
-msgstr ""
+msgstr "Profil logiciel :"
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:611
 msgid "Trinity"
@@ -233,7 +237,7 @@ msgstr ""
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:123
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "Oui, je veux vraiment installer l'environnement de bureau additionnel"
 
 #~ msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
 #~ msgstr "<p>Q4OS est maintenant installé en tant que système bureautique propre et minimal. Vous pouvez le garder ainsi comme base pour choisir les logiciels supplémentaires à ajouter par vos soins. Autrement vous avez la possibilité d'exécuter le gestionnaire de profil burautique qui se chargera d'installer un ensemble d'applications fort courantes. Vous avez la possibilité de choisir entre différents profils burautiques. Cet outil est également disponible dans le menu démarrer.</p><p>Souhaitez vous <b>garder le système bureautique en cet état minimal</b> sans exécuter le gestionnaire de profil immédiatement ?</p>"
