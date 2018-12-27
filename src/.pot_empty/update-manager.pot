@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-24 00:56+0100\n"
+"POT-Creation-Date: 2018-12-26 23:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,19 +49,11 @@ msgstr ""
 msgid "Additional updates has been detected"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:101
-msgid "Apply"
-msgstr ""
-
-#: build2/.ui/ui_form1.cpp:98
-msgid "Auto close updater window on finish"
-msgstr ""
-
-#: build1/.ui/ui_form3.cpp:104 src1/form2.cpp:632
+#: src1/form2.cpp:632 build1/.ui/ui_form3.cpp:104
 msgid "Available updates"
 msgstr ""
 
-#: build1/.ui/ui_form2.cpp:99 src1/form2.cpp:475 src1/thread1.cpp:382
+#: src1/form2.cpp:475 src1/thread1.cpp:382 build1/.ui/ui_form2.cpp:99
 msgid "Cancel"
 msgstr ""
 
@@ -93,8 +85,8 @@ msgstr ""
 msgid "Checking permissions"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:102 src1/form2.cpp:280 src1/form2.cpp:470
-#: src1/form2.cpp:622 src1/thread1.cpp:373
+#: src1/form2.cpp:280 src1/form2.cpp:470 src1/form2.cpp:622
+#: src1/thread1.cpp:373
 msgid "Close"
 msgstr ""
 
@@ -161,10 +153,6 @@ msgstr ""
 msgid "Locking SW database"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:99
-msgid "Make use of Synaptic package manager, if available"
-msgstr ""
-
 #: src1/form3.cpp:18
 msgid "No"
 msgstr ""
@@ -201,14 +189,6 @@ msgstr ""
 msgid "Show details"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:96
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
-
-#: build2/.ui/ui_form1.cpp:97
-msgid "Start updater window minimized"
-msgstr ""
-
 #: src1/form2.cpp:682 src1/form2.cpp:685
 msgid "Success. The most recent update has been implemented."
 msgstr ""
@@ -219,10 +199,6 @@ msgstr ""
 
 #: src1/form2.cpp:204
 msgid "System updater has been started.."
-msgstr ""
-
-#: build2/.ui/ui_form1.cpp:95
-msgid "Update Manager - configuration"
 msgstr ""
 
 #: build1/.ui/ui_form2.cpp:97

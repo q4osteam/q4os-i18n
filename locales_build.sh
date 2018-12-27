@@ -19,17 +19,19 @@ for CFDIR in * ; do
   if [ -d "$CFDIR" ] ; then
     echo "Processing-2 $CFDIR"
     cd $CFDIR
-    find . -name update-manager.mo -execdir rm '{}' \;
-    find . -name appsetup2.mo -execdir rm '{}' \;
+    #find . -name update-manager.mo -execdir rm '{}' \;
+    #find . -name appsetup2.mo -execdir rm '{}' \;
     cd ..
   fi
 done
 
 #remove untranslated files - 2
 echo "Processing-3"
-rm cs/LC_MESSAGES/desktop-profiler.mo #not translated yet
 rm he/LC_MESSAGES/desktop-profiler.mo #not translated yet
-rm cs/LC_MESSAGES/software-centre.mo #not translated yet
 rm he/LC_MESSAGES/software-centre.mo #not translated yet
-rm fr/LC_MESSAGES/software-centre.mo #text over buttons
-rm ru/LC_MESSAGES/software-centre.mo #text over buttons
+rm he/LC_MESSAGES/update-manager.mo #not translated yet
+rm he/LC_MESSAGES/appsetup2.mo #not translated yet
+#rm cs/LC_MESSAGES/desktop-profiler.mo #not translated yet
+#rm cs/LC_MESSAGES/software-centre.mo #not translated yet
+#rm fr/LC_MESSAGES/software-centre.mo #text over buttons
+#rm ru/LC_MESSAGES/software-centre.mo #text over buttons

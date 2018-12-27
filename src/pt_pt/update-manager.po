@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-24 00:56+0100\n"
+"POT-Creation-Date: 2018-12-26 23:07+0100\n"
 "PO-Revision-Date: 2018-12-07 12:07+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-doc@kde.org>\n"
@@ -51,19 +51,11 @@ msgstr "<p>Você não tem permissão para realizar atualizações do sistema. Vo
 msgid "Additional updates has been detected"
 msgstr "Atualizações adicionais foram detetadas"
 
-#: build2/.ui/ui_form1.cpp:101
-msgid "Apply"
-msgstr "Aplicar"
-
-#: build2/.ui/ui_form1.cpp:98
-msgid "Auto close updater window on finish"
-msgstr "Fechar automaticamente a janela de atualização no final"
-
-#: build1/.ui/ui_form3.cpp:104 src1/form2.cpp:632
+#: src1/form2.cpp:632 build1/.ui/ui_form3.cpp:104
 msgid "Available updates"
 msgstr "Atualizações disponíveis"
 
-#: build1/.ui/ui_form2.cpp:99 src1/form2.cpp:475 src1/thread1.cpp:382
+#: src1/form2.cpp:475 src1/thread1.cpp:382 build1/.ui/ui_form2.cpp:99
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -95,8 +87,8 @@ msgstr "Verificando a marcação adequada"
 msgid "Checking permissions"
 msgstr "Verificando permissões"
 
-#: build2/.ui/ui_form1.cpp:102 src1/form2.cpp:280 src1/form2.cpp:470
-#: src1/form2.cpp:622 src1/thread1.cpp:373
+#: src1/form2.cpp:280 src1/form2.cpp:470 src1/form2.cpp:622
+#: src1/thread1.cpp:373
 msgid "Close"
 msgstr "Fechar"
 
@@ -163,10 +155,6 @@ msgstr "Listando atualizações"
 msgid "Locking SW database"
 msgstr "Bloqueando a base de dados do SW"
 
-#: build2/.ui/ui_form1.cpp:99
-msgid "Make use of Synaptic package manager, if available"
-msgstr "Faça uso do gestor de pacotes Synaptic, se disponível"
-
 #: src1/form3.cpp:18
 msgid "No"
 msgstr "Não"
@@ -203,14 +191,6 @@ msgstr "Ação de instalação"
 msgid "Show details"
 msgstr "Mostrar detalhes"
 
-#: build2/.ui/ui_form1.cpp:96
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr "Mostrar listas de pacotes atualizáveis e diálogos de confirmação"
-
-#: build2/.ui/ui_form1.cpp:97
-msgid "Start updater window minimized"
-msgstr "Iniciar a janela do atualizador minimizada"
-
 #: src1/form2.cpp:682 src1/form2.cpp:685
 msgid "Success. The most recent update has been implemented."
 msgstr "Sucesso. A atualização mais recente foi implementada."
@@ -222,10 +202,6 @@ msgstr "Atualização do sistema concluída com sucesso."
 #: src1/form2.cpp:204
 msgid "System updater has been started.."
 msgstr "O atualizador do sistema foi iniciado .."
-
-#: build2/.ui/ui_form1.cpp:95
-msgid "Update Manager - configuration"
-msgstr "Configuração - Gestor de Atualizações"
 
 #: build1/.ui/ui_form2.cpp:97
 msgid "Update Manager - install progress"
@@ -275,3 +251,21 @@ msgstr "etiquetaTexto2"
 #: build1/.ui/ui_form3.cpp:106
 msgid "textLabel3"
 msgstr "etiquetaTexto3"
+
+#~ msgid "Apply"
+#~ msgstr "Aplicar"
+
+#~ msgid "Auto close updater window on finish"
+#~ msgstr "Fechar automaticamente a janela de atualização no final"
+
+#~ msgid "Make use of Synaptic package manager, if available"
+#~ msgstr "Faça uso do gestor de pacotes Synaptic, se disponível"
+
+#~ msgid "Show upgradable packages lists and confirmation dialogs"
+#~ msgstr "Mostrar listas de pacotes atualizáveis e diálogos de confirmação"
+
+#~ msgid "Start updater window minimized"
+#~ msgstr "Iniciar a janela do atualizador minimizada"
+
+#~ msgid "Update Manager - configuration"
+#~ msgstr "Configuração - Gestor de Atualizações"
