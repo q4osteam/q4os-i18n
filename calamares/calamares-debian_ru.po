@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru_RU\n"
+"X-Qt-Contexts: true\n"
+
+#: ../show.qml:48
+msgctxt "show|"
+msgid "Welcome to Q4OS"
+msgstr "Добро пожаловать в Q4OS"
+
+#: ../show.qml:49
+msgctxt "show|"
+msgid "This is Q4OS"
+msgstr "Это Q4OS"
+
+#: ../show.qml:50
+msgctxt "show|"
+msgid "We hope you'll enjoy your operating system."
+msgstr "Мы надеемся, что вам понравится ваша операционная система."
+
+#: ../show.qml:51
+msgctxt "show|"
+msgid "Thank you for choosing us."
+msgstr "Спасибо, что выбрали нас."
+
+#: ../show.qml:73
+msgctxt "show|"
+msgid "A great desktop OS"
+msgstr "Отличная настольная ОС"
+
+#: ../show.qml:74
+msgctxt "show|"
+msgid "Q4OS is Free and Open Source."
+msgstr "Q4OS - бесплатный и открытый источник."
+
+#: ../show.qml:75
+msgctxt "show|"
+msgid ""
+"Tens of thousands free software applications are available from package "
+"manager."
+msgstr ""
+"Десятки тысяч бесплатных программных приложений доступны в диспетчере "
+"пакетов."
+
+#: ../show.qml:97
+msgctxt "show|"
+msgid "Out of the box"
+msgstr "Из коробки"
+
+#: ../show.qml:98
+msgctxt "show|"
+msgid ""
+"Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, "
+"so you can get started with the desktop and the Internet."
+msgstr ""
+"Google Chrome, Firefox, Thunderbird и LibreOffice легко устанавливаются, "
+"поэтому вы можете начать работу с настольным компьютером и Интернетом."
+
+#: ../show.qml:99
+msgctxt "show|"
+msgid ""
+"Other popular applications <!--such as Google Picasa, Skype, Dropbox, "
+"TeamViewer and more -->can be installed with a click of the mouse."
+msgstr ""
+"Другие популярные приложения <! - такие как Google Picasa, Skype, Dropbox, "
+"TeamViewer и другие -> могут быть установлены одним щелчком мыши."
+
+#: ../show.qml:100
+msgctxt "show|"
+msgid ""
+"Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, "
+"mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr ""
+"Q4OS совместим с большинством популярных форматов файлов: zip, doc, xls, "
+"pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ... ит "
+
+#: ../show.qml:122
+msgctxt "show|"
+msgid "An alternative to mainstream operating systems"
+msgstr "Альтернатива основным операционным системам"
+
+#: ../show.qml:123
+msgctxt "show|"
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "Q4OS прост в использовании, мощный и настраиваемый."
+
+#: ../show.qml:124
+msgctxt "show|"
+msgid ""
+"It's safe and stable, you don't need an antivirus, an anti-spyware, a "
+"defragmentation tool or a registry cleaner."
+msgstr ""
+"Это безопасно и стабильно, вам не нужен антивирус, антишпион, инструмент "
+"дефрагментации или средство для очистки реестра."
+
+#: ../show.qml:125
+msgctxt "show|"
+msgid ""
+"Q4OS can detect other operating systems and install itself beside them. You "
+"can choose which operating system to launch when you start the computer."
+msgstr ""
+"Q4OS может обнаруживать другие операционные системы и устанавливать себя "
+"рядом с ними. Вы можете выбрать, какую операционную систему запускать при "
+"запуске компьютера."
+
+#: ../show.qml:147
+msgctxt "show|"
+msgid "Safe updates"
+msgstr "Безопасные обновления"
+
+#: ../show.qml:148
+msgctxt "show|"
+msgid ""
+"The Q4OS update manager watch your system and upgrade it automatically as "
+"soon as updates are available."
+msgstr ""
+"Менеджер обновлений Q4OS следит за вашей системой и обновляет ее "
+"автоматически, как только будут доступны обновления."
+
+#: ../show.qml:149
+msgctxt "show|"
+msgid ""
+"Software updates and security updates are provided, not only for the "
+"operating system but also for the software you install."
+msgstr ""
+"Обновления программного обеспечения и обновления безопасности "
+"предоставляются не только для операционной системы, но и для программного "
+"обеспечения, которое вы устанавливаете."
