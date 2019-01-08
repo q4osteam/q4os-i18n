@@ -1,0 +1,839 @@
+# Portuguese translation for linuxmint
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-13 13:52+0200\n"
+"PO-Revision-Date: 2016-10-12 10:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese <pt@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-11-28 10:14+0000\n"
+"X-Generator: Launchpad (build 17850)\n"
+
+#: usr/lib/live-installer/installer.py:69
+#, python-format
+msgid "Formatting %(partition)s as %(format)s ..."
+msgstr "A formatar %(partition)s como %(format)s ..."
+
+#: usr/lib/live-installer/installer.py:93
+#: usr/lib/live-installer/installer.py:104
+#, python-format
+msgid "Mounting %(partition)s on %(mountpoint)s"
+msgstr "A montar %(partition)s em %(mountpoint)s"
+
+#: usr/lib/live-installer/installer.py:129
+msgid ""
+"ERROR: You must first manually mount your target filesystem(s) at /target to "
+"do a custom install!"
+msgstr ""
+"ERRO: Tem de primeiro montar o seu sistema de ficheiros alvo em /target para "
+"fazer uma instalação personalizada!"
+
+#: usr/lib/live-installer/installer.py:137
+msgid ""
+"ERROR: Something is wrong with the installation medium! This is usually "
+"caused by burning tools which are not compatible with Q4OS (YUMI or other "
+"multiboot tools). Please burn the ISO image to DVD/USB using a different "
+"tool."
+msgstr ""
+"ERRO: Há algum problema com o meio de instalação! Isto por norma é causado "
+"por ferramentas de gravação que não são compatíveis com o Q4OS (YUMI ou "
+"outras ferramentas multiboot). Por favor, grave a imagem ISO para DVD ou USB "
+"utilizando uma ferramenta diferente."
+
+#: usr/lib/live-installer/installer.py:162
+msgid "Indexing files to be copied.."
+msgstr "A indexar os ficheiros a copiar..."
+
+#: usr/lib/live-installer/installer.py:182
+#, python-format
+msgid "Copying %s"
+msgstr "A copiar %s"
+
+#: usr/lib/live-installer/installer.py:224
+#, python-format
+msgid "Restoring meta-information on %s"
+msgstr "A restaurar informações em %s"
+
+#: usr/lib/live-installer/installer.py:234
+msgid "Entering the system ..."
+msgstr "A entrar no sistema..."
+
+#: usr/lib/live-installer/installer.py:283
+msgid "Removing live configuration (packages)"
+msgstr "A remover configuração live (pacotes)"
+
+#: usr/lib/live-installer/installer.py:295
+msgid "Adding new user to the system"
+msgstr "A adicionar um novo utilizador ao sistema"
+
+#: usr/lib/live-installer/installer.py:342
+msgid "Writing filesystem mount information to /etc/fstab"
+msgstr ""
+"A escrever a informação de montagem do sistema de ficheiros para /ec/fstab"
+
+#: usr/lib/live-installer/installer.py:395
+msgid "Setting hostname"
+msgstr "A definir nome da máquina"
+
+#: usr/lib/live-installer/installer.py:414
+msgid "Setting locale"
+msgstr "A definir localização"
+
+#: usr/lib/live-installer/installer.py:432
+msgid "Localizing packages"
+msgstr "A traduzir as aplicações"
+
+#: usr/lib/live-installer/installer.py:447
+msgid "Installing drivers"
+msgstr "A instalar drivers"
+
+#: usr/lib/live-installer/installer.py:462
+msgid "Setting keyboard options"
+msgstr "A definir opções de teclado"
+
+#: usr/lib/live-installer/installer.py:506
+msgid "Processing adjustments"
+msgstr ""
+
+#: usr/lib/live-installer/installer.py:514
+msgid "Installing bootloader"
+msgstr "A instalar carregador de arranque"
+
+#: usr/lib/live-installer/installer.py:525
+msgid ""
+"WARNING: The grub bootloader was not configured properly! You need to "
+"configure it manually."
+msgstr ""
+"AVISO: o carregador de arranque Grub não foi configurado corretamente! Terá "
+"que o configurar manualmente."
+
+#: usr/lib/live-installer/installer.py:538
+msgid "Cleaning APT"
+msgstr "A limpar APT"
+
+#: usr/lib/live-installer/installer.py:544
+msgid "Processing final adjustments"
+msgstr ""
+
+#: usr/lib/live-installer/installer.py:576
+#: usr/lib/live-installer/frontend/gtk_interface.py:1033
+msgid "Installation finished"
+msgstr "Instalação concluída"
+
+#: usr/lib/live-installer/installer.py:586
+msgid "Configuring bootloader"
+msgstr "A configurar carregador de arranque"
+
+#: usr/lib/live-installer/installer.py:595
+msgid "Checking bootloader"
+msgstr "A verificar carregador de arranque"
+
+#: usr/lib/live-installer/main.py:31
+msgid "Unexpected error"
+msgstr "Erro inesperado"
+
+#: usr/lib/live-installer/main.py:32
+msgid "The installer failed with the following error."
+msgstr "O instalador falhou com o seguinte erro:"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:87
+#: usr/lib/live-installer/frontend/gtk_interface.py:106
+msgid "Language"
+msgstr "Idioma"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:88
+msgid "Timezone"
+msgstr "Fuso-Horário"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:89
+msgid "Keyboard layout"
+msgstr "Disposição do teclado"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:90
+msgid "User info"
+msgstr "Informação do utilizador"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:91
+msgid "Partitioning"
+msgstr "Particionando"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:92
+msgid "Please make sure you wish to manage partitions manually"
+msgstr "Por favor, certifique-se que quer gerir as partições manualmente"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:93
+msgid "Advanced options"
+msgstr "Opções Avançadas"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:94
+msgid "Summary"
+msgstr "Resumo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:95
+msgid "Installing Q4OS..."
+msgstr "A instalar o Q4OS..."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:96
+msgid "Installation paused: please finish the custom installation"
+msgstr "Instalação parada: por favor, termine a instalação personalizada"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:109
+msgid "Country"
+msgstr "País"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:121
+#: usr/lib/live-installer/frontend/gtk_interface.py:393
+msgid "Take a photo..."
+msgstr "Tirar uma fotografia..."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:123
+#: usr/lib/live-installer/frontend/gtk_interface.py:394
+msgid "Browse for more pictures..."
+msgstr "Procurar mais imagens..."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:153
+msgid "Select timezone"
+msgstr "Selecionar Zona Horária"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:157
+msgid "Create partitions"
+msgstr "Cree partición"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:159
+msgid "Edit partitions"
+msgstr "Editar partições"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:160
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:161
+msgid "Expert mode"
+msgstr "Modo avançado"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:205
+#: usr/lib/live-installer/frontend/gtk_interface.py:434
+msgid "Layout"
+msgstr "Esquema"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:211
+#: usr/lib/live-installer/frontend/gtk_interface.py:435
+msgid "Variant"
+msgstr "Variante"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:220
+#: usr/lib/live-installer/frontend/gtk_interface.py:436
+msgid "Overview"
+msgstr "Resumo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:224
+msgid "Calculating file indexes ..."
+msgstr "A calcular o índice de ficheiros..."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:296
+msgid "Images"
+msgstr "Imagens"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:371
+#: usr/lib/live-installer/frontend/gtk_interface.py:373
+#, python-format
+msgid "%s Installer"
+msgstr "Instalação do %s"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:376
+msgid "Your full name"
+msgstr "Nome completo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:377
+msgid "Please enter your full name."
+msgstr "Introduza o seu nome completo."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:378
+msgid "Your username"
+msgstr "Nome de utilizador"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:379
+msgid "This is the name you will use to log in to your computer."
+msgstr "Este é o nome que irá utilizar para entrar no seu computador."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:380
+msgid "Your password"
+msgstr "Senha"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:381
+msgid "Please enter your password twice to ensure it is correct."
+msgstr ""
+"Por favor, introduza a palavra passe duas vezes para assegurar que está "
+"correcta."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:382
+msgid "Hostname"
+msgstr "Nome do computador"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:383
+msgid "This hostname will be the computer's name on the network."
+msgstr "Este hostname será o nome do computador na rede."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:384
+msgid "Automatic login"
+msgstr "Início de sessão automático"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:385
+msgid ""
+"If enabled, the login screen is skipped when the system starts, and you are "
+"signed into your desktop session automatically."
+msgstr ""
+"Se activo, o ecrã de início de sessão será avançado quando o sistema arranca "
+"e entra no seu ambiente de trabalho automaticamente."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:386
+msgid "Log in automatically"
+msgstr "Iniciar sessão automaticamente"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:389
+msgid "Your picture"
+msgstr "A sua imagem"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:390
+msgid ""
+"This picture represents your user account. It is used in the login screen "
+"and a few other places."
+msgstr ""
+"Esta imagem representa a sua conta de utilizador. É usada no ecrã de "
+"autenticação e em alguns outros lugares."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:392
+msgid "Click to change your picture"
+msgstr "Carregue para mudar a sua imagem"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:397
+msgid "Selected timezone:"
+msgstr "Fuso-horário seleccionado:"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:400
+msgid "Bootloader"
+msgstr "Carregador de arranque"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:401
+msgid "Install GRUB"
+msgstr "Instalar GRUB"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:402
+msgid "GRUB is a bootloader used to load the Linux kernel."
+msgstr "GRUB é o bootloader utilizado para carregar o kernel Linux."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:405
+msgid "Use this box to test your keyboard layout."
+msgstr "Use esta caixa para testar a disposição do seu teclado."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:406
+msgid "Model"
+msgstr "Modelo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:409
+msgid ""
+"You have selected to manage your partitions manually, this feature is for "
+"ADVANCED USERS ONLY."
+msgstr ""
+"Escolheu definir as partições manualmente. Esta função é SOMENTE PARA "
+"UTILIZADORES AVANÇADOS."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:410
+msgid "Before continuing, please mount your target filesystem(s) at /target."
+msgstr ""
+"Antes de continuar, por favor, monte o sistema de ficheiros em /target."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:411
+msgid ""
+"Do NOT mount virtual devices such as /dev, /proc, /sys, etc on /target/."
+msgstr ""
+"NÃO monte dispositivos virtuais como /dev, /proc, /sys, etc em /target/."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:412
+msgid ""
+"During the install, you will be given time to chroot into /target and "
+"install any packages that will be needed to boot your new system."
+msgstr ""
+"Durante a instalação ser-lhe-á dado tento para chroot em /target e instalar "
+"quaisquer pacotes que precise para arrancar o seu novo sistema."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:413
+msgid "During the install, you will be required to write your own /etc/fstab."
+msgstr "Durante a instalação terá de escrever em /etc/fstab."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:414
+msgid ""
+"If you aren't sure what any of this means, please go back and deselect "
+"manual partition management."
+msgstr ""
+"Se não tem a certeza do que isto significa, por favor, volte atrás e "
+"desselecione a gestão manual de partições."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:417
+msgid "Please do the following and then click Forward to finish installation:"
+msgstr ""
+"Por favor, faça o seguinte e carregue em Avançar para terminar a instalação."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:418
+msgid ""
+"Create /target/etc/fstab for the filesystems as they will be mounted in your "
+"new system, matching those currently mounted at /target (without using the /"
+"target prefix in the mount paths themselves)."
+msgstr ""
+"Crie  /target/etc/fstab para os sistemas de ficheiros como eles serão "
+"montados no seu novo sistema, correspondendo os actualmente montados em /"
+"target (sem utilizar o prefixo /target nos pontos de montagem)"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:419
+msgid ""
+"Install any packages that may be needed for first boot (mdadm, cryptsetup, "
+"dmraid, etc) by calling \"sudo chroot /target\" followed by the relevant apt-"
+"get/aptitude installations."
+msgstr ""
+"Instalar quaisquer pacotes que possa precisar antes do primeiro arranque "
+"(mdadm, cryptsetup, dmraid, etc) recorrendo a \"sudo chroot /target\" "
+"seguido das instalações apt-get/aptitude relevantes."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:420
+msgid ""
+"Note that in order for update-initramfs to work properly in some cases (such "
+"as dm-crypt), you may need to have drives currently mounted using the same "
+"block device name as they appear in /target/etc/fstab."
+msgstr ""
+"Note que de forma a que update-initramfs funcione correctamente em "
+"determinadas situações (tais como dm-crypt), talvez tenha que ter as "
+"partições actualmente montadas utilizando o mesmo nome de dispositivo que "
+"aparece em /target/etc/fstab."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:421
+msgid ""
+"Double-check that your /target/etc/fstab is correct, matches what your new "
+"system will have at first boot, and matches what is currently mounted at /"
+"target."
+msgstr ""
+"Verifique se /target/etc/fstab está correcto, corresponde ao que o seu "
+"sistema terá no seu primeiro arranque e que corresponde ao que se encontra "
+"actualmente montado em /target."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:425
+msgid "Device"
+msgstr "Dispositivo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:426
+msgid "Type"
+msgstr "Tipo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:427
+msgid "Operating system"
+msgstr "Sistema operativo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:428
+msgid "Mount point"
+msgstr "Ponto de montagem"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:429
+msgid "Format as"
+msgstr "Formatar como"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:430
+msgid "Size"
+msgstr "Tamanho"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:431
+#: usr/lib/live-installer/partitioning.py:490
+msgid "Free space"
+msgstr "Espaço livre"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:461
+msgid "Quit?"
+msgstr "Sair?"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:461
+msgid "Are you sure you want to quit the installer?"
+msgstr "Tem a certeza que quer sair do instalador?"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:686
+msgid "Passwords do not match."
+msgstr "Senhas não coincidem."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:689
+msgid "Passwords match."
+msgstr "As senhas correspondem."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:748
+#: usr/lib/live-installer/frontend/gtk_interface.py:834
+#: usr/lib/live-installer/frontend/gtk_interface.py:847
+#: usr/lib/live-installer/frontend/gtk_interface.py:850
+#: usr/lib/live-installer/frontend/gtk_interface.py:860
+#: usr/lib/live-installer/frontend/gtk_interface.py:863
+#: usr/lib/live-installer/frontend/gtk_interface.py:868
+#: usr/lib/live-installer/frontend/gtk_interface.py:872
+#: usr/lib/live-installer/frontend/gtk_interface.py:876
+#: usr/lib/live-installer/partitioning.py:160
+#: usr/lib/live-installer/partitioning.py:167
+#: usr/lib/live-installer/partitioning.py:285
+#: usr/lib/live-installer/partitioning.py:388
+msgid "Installation Tool"
+msgstr "Ferramenta de instalação"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:748
+msgid "Please choose a language"
+msgstr "Por favor, escolha a língua"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:788
+msgid "Please provide your full name."
+msgstr "Por favor, introduza o nome completo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:791
+msgid "Please provide a username."
+msgstr "Por favor, introduza o nome de utilizador"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:794
+msgid "Please provide a password for your user account."
+msgstr "Por favor, introduza a senha da sua conta de utilizador"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:797
+msgid "Your passwords do not match."
+msgstr "As suas senhas não correspondem."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:800
+msgid "Please provide a hostname."
+msgstr "Por favor, introduza um hostname."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:805
+msgid ""
+"Unallowed characters in password, please use digits and latin characters "
+"only."
+msgstr ""
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:810
+msgid "Your username must be lower case."
+msgstr "O seu nome de utilizador tem de ser em minúsculas."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:814
+msgid "Your username may not contain whitespace characters."
+msgstr "O seu nome de utilizador não pode contêr espaços."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:818
+msgid ""
+"Unallowed characters in username, please use digits and latin characters "
+"only."
+msgstr ""
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:823
+msgid "The hostname must be lower case."
+msgstr "O hostname tem de ser em minúsculas."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:827
+msgid "The hostname may not contain whitespace characters."
+msgstr "O hostname não pode contêr espaços."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:831
+msgid ""
+"Unallowed characters in hostname, please use digits and latin characters "
+"only."
+msgstr ""
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:847
+msgid ""
+"Please indicate a filesystem to format the root (/) partition with before "
+"proceeding."
+msgstr ""
+"Por favor, indique o sistema de ficheiros para formatar a partição raiz (/) "
+"antes de avançar."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:850
+msgid "Please select a root (/) partition."
+msgstr "Por favor, selecione a partição root (/)."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:850
+msgid ""
+"A root partition is needed to install Q4OS on.\n"
+"\n"
+" - Mount point: /\n"
+" - Recommended size: 30GB\n"
+" - Recommended filesystem format: ext4\n"
+" "
+msgstr ""
+"Uma partição raiz é necessária para instalar o Q4OS.\n"
+"\n"
+" - Ponto de montagem: /\n"
+" - Tamanho recomendado: 30 GB\n"
+" - Formato do sistema de ficheiros recomendado: ext4\n"
+" "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:860
+msgid "The EFI partition is not bootable. Please edit the partition flags."
+msgstr ""
+"A partição EFI não é de arranque. Por favor edite as flags da partição."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:863
+msgid "The EFI partition is too small. It must be at least 100MB."
+msgstr "A partição EFI é demasiado pequena. Tem que ter pelo menos 100MB."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:868
+#: usr/lib/live-installer/frontend/gtk_interface.py:872
+msgid "The EFI partition must be formatted as vfat."
+msgstr "A partição EFI tem de ser formatada como vfat."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:876
+msgid "Please select an EFI partition."
+msgstr "Por favor, selecione a partição EFI."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:876
+msgid ""
+"An EFI system partition is needed with the following requirements:\n"
+"\n"
+" - Mount point: /boot/efi\n"
+" - Partition flags: Bootable\n"
+" - Size: Larger than 100MB\n"
+" - Format: vfat or fat32\n"
+"\n"
+"To ensure compatibility with Windows we recommend you use the first "
+"partition of the disk as the EFI system partition.\n"
+" "
+msgstr ""
+"Necessita de uma partição de  sistema EFI com os seguintes requisitos:\n"
+"\n"
+" - Ponto de montagem: /boot/efi\n"
+" - Flags da partição: Arranque\n"
+" - Tamanho: Maior que 100 MB\n"
+" - Formato: vfat ou fat32\n"
+"\n"
+"Para assegurar compatibilidade com o Windows recomendamos que use a primeira "
+"partição do siaco como partição de sistema EFI.\n"
+" "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:882
+msgid "UEFI boot list record will be inserted"
+msgstr ""
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:935
+msgid "Localization"
+msgstr "Localização"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:936
+msgid "Language: "
+msgstr "Idioma: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:937
+msgid "Timezone: "
+msgstr "Fuso horário: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:938
+msgid "Keyboard layout: "
+msgstr "Esquema do teclado: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:941
+msgid "User settings"
+msgstr "Definições de utilizador"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:942
+msgid "Real name: "
+msgstr "Nome real: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:943
+msgid "Username: "
+msgstr "Nome de utilizador: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:944
+msgid "Automatic login: "
+msgstr "Início de sessão automático: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:944
+msgid "enabled"
+msgstr "ativo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:944
+msgid "disabled"
+msgstr "inativo"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:945
+msgid "System settings"
+msgstr "Definições do sistema"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:946
+msgid "Hostname: "
+msgstr "Nome do computador: "
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:947
+msgid "Filesystem operations"
+msgstr "Operações de sistema de ficheiros"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:948
+#, python-format
+msgid "Install bootloader on %s"
+msgstr "Instalar o bootloader em %s"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:948
+msgid "Do not install bootloader"
+msgstr "Não instalar carregador de arranque"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:950
+msgid "Use already-mounted /target."
+msgstr "Utilizar o já montado /target"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:954
+#, python-format
+msgid "Format %(path)s as %(filesystem)s"
+msgstr "Formatar %(path)s como %(filesystem)s"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:957
+#, python-format
+msgid "Mount %(path)s as %(mount)s"
+msgstr "Montar %(path)s como %(mount)s"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:999
+#: usr/lib/live-installer/frontend/gtk_interface.py:1003
+#: usr/lib/live-installer/frontend/gtk_interface.py:1023
+#: usr/lib/live-installer/frontend/gtk_interface.py:1031
+msgid "Installation error"
+msgstr "Erro de instalação"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:1012
+msgid "Installation paused"
+msgstr "Instalação parada"
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:1012
+msgid ""
+"The installation is now paused. Please read the instructions on the page "
+"carefully before clicking Forward to finish the installation."
+msgstr ""
+"A instalação está agora parada. Por favor, leia cuidadosamente as instrução "
+"na página antes de carregar em Avançar para terminar a instalação."
+
+#: usr/lib/live-installer/frontend/gtk_interface.py:1033
+msgid ""
+"The installation is now complete. Do you want to restart your computer to "
+"use the new system?"
+msgstr ""
+"A instalação está agora completa. Quer reiniciar o seu computador para "
+"utilizar o ser novo sistema?"
+
+#: usr/lib/live-installer/partitioning.py:134
+msgid "Edit"
+msgstr "Editar"
+
+#: usr/lib/live-installer/partitioning.py:139
+msgid "Assign to /"
+msgstr "Atribuir a /"
+
+#: usr/lib/live-installer/partitioning.py:142
+msgid "Assign to /home"
+msgstr "Atribuir a /home"
+
+#: usr/lib/live-installer/partitioning.py:148
+msgid "Assign to /boot/efi"
+msgstr "Atribuir a /boot/efi"
+
+#: usr/lib/live-installer/partitioning.py:161
+msgid ""
+"You have selected no Disk to partition.\n"
+"\n"
+"Please select a Disk and run partitioning again."
+msgstr ""
+
+#: usr/lib/live-installer/partitioning.py:168
+#, python-format
+msgid ""
+"Selected disk:\n"
+"<b>%(str1)s</b>  (%(str2)s)\n"
+"\n"
+"Do you want the installer to automatically create a set of Q4OS partitions "
+"for you ?\n"
+"\n"
+"Note:  <b>This will  <span color=\"red\">ERASE ALL DATA</span>  present on "
+"this disk !</b>"
+msgstr ""
+
+#: usr/lib/live-installer/partitioning.py:169
+msgid "Do you really want to proceed ?"
+msgstr ""
+
+#: usr/lib/live-installer/partitioning.py:256
+msgid "B"
+msgstr "B"
+
+#: usr/lib/live-installer/partitioning.py:256
+#: usr/lib/live-installer/partitioning.py:446
+msgid "kB"
+msgstr "kB"
+
+#: usr/lib/live-installer/partitioning.py:256
+#: usr/lib/live-installer/partitioning.py:446
+msgid "MB"
+msgstr "MB"
+
+#: usr/lib/live-installer/partitioning.py:256
+#: usr/lib/live-installer/partitioning.py:446
+msgid "GB"
+msgstr "GB"
+
+#: usr/lib/live-installer/partitioning.py:256
+#: usr/lib/live-installer/partitioning.py:446
+msgid "TB"
+msgstr "TB"
+
+#: usr/lib/live-installer/partitioning.py:261
+msgid "Removable:"
+msgstr "Removível:"
+
+#: usr/lib/live-installer/partitioning.py:286
+#, python-format
+msgid ""
+"No partition table was found on the hard drive: %s. Do you want the "
+"installer to create a set of partitions for you? Note: This will ERASE ALL "
+"DATA present on this disk."
+msgstr ""
+"Nenhuma tabela de partições foi encontrada no disco rígido: %s. Quer que o "
+"instalador crie um conjunto de partições para si? Note: Isto irá APAGAR "
+"TODOS OS DADOS deste disco."
+
+#: usr/lib/live-installer/partitioning.py:388
+#, python-format
+msgid ""
+"Disk drive:  <b>%(str1)s</b> (%(str2)s)\n"
+"\n"
+"Content of the disk has been erased and new Q4OS partition table has been "
+"created. The disk is now prepared and ready to install fresh Q4OS system "
+"into.\n"
+"\n"
+"You can go forward to continue the install process."
+msgstr ""
+
+#: usr/lib/live-installer/partitioning.py:488
+msgid "Logical partition"
+msgstr "Partição lógica"
+
+#: usr/lib/live-installer/partitioning.py:489
+msgid "Extended partition"
+msgstr "Partição estendida"
+
+#: usr/lib/live-installer/partitioning.py:493
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: usr/lib/live-installer/partitioning.py:605
+msgid "Edit partition"
+msgstr "Editar partição"
+
+#: usr/lib/live-installer/partitioning.py:606
+msgid "Device:"
+msgstr "Dispositivo:"
+
+#: usr/lib/live-installer/partitioning.py:608
+msgid "Format as:"
+msgstr "Formatar como:"
+
+#: usr/lib/live-installer/partitioning.py:609
+msgid "Mount point:"
+msgstr "Ponto de montagem:"
