@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-13 13:52+0200\n"
-"PO-Revision-Date: 2016-10-12 10:59+0100\n"
+"PO-Revision-Date: 2019-06-15 15:36+0100\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2015-11-28 10:14+0000\n"
-"X-Generator: Launchpad (build 17850)\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: usr/lib/live-installer/installer.py:69
 #, python-format
@@ -102,7 +102,7 @@ msgstr "A definir opções de teclado"
 
 #: usr/lib/live-installer/installer.py:506
 msgid "Processing adjustments"
-msgstr ""
+msgstr "Ajustes de processamento"
 
 #: usr/lib/live-installer/installer.py:514
 msgid "Installing bootloader"
@@ -122,7 +122,7 @@ msgstr "A limpar APT"
 
 #: usr/lib/live-installer/installer.py:544
 msgid "Processing final adjustments"
-msgstr ""
+msgstr "A processar ajustes finais"
 
 #: usr/lib/live-installer/installer.py:576
 #: usr/lib/live-installer/frontend/gtk_interface.py:1033
@@ -467,7 +467,7 @@ msgstr "Senhas não coincidem."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:689
 msgid "Passwords match."
-msgstr "As senhas correspondem."
+msgstr "As palavras-passe correspondem."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:748
 #: usr/lib/live-installer/frontend/gtk_interface.py:834
@@ -514,6 +514,8 @@ msgid ""
 "Unallowed characters in password, please use digits and latin characters "
 "only."
 msgstr ""
+"Caracteres não permitidos na palavra-passe, use apenas dígitos e caracteres "
+"latinos."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:810
 msgid "Your username must be lower case."
@@ -528,6 +530,8 @@ msgid ""
 "Unallowed characters in username, please use digits and latin characters "
 "only."
 msgstr ""
+"Caracteres não permitidos no nome de utilizador, use apenas dígitos e "
+"caracteres latinos."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:823
 msgid "The hostname must be lower case."
@@ -542,6 +546,8 @@ msgid ""
 "Unallowed characters in hostname, please use digits and latin characters "
 "only."
 msgstr ""
+"Caracteres não permitidos no nome da máquina, use apenas dígitos e "
+"caracteres latinos."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:847
 msgid ""
@@ -615,7 +621,7 @@ msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:882
 msgid "UEFI boot list record will be inserted"
-msgstr ""
+msgstr "O registo da lista de arranque da UEFI será inserido"
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:935
 msgid "Localization"
@@ -741,6 +747,9 @@ msgid ""
 "\n"
 "Please select a Disk and run partitioning again."
 msgstr ""
+"Você não selecionou nenhum disco para particionar.\n"
+"\n"
+"Por favor, selecione um disco e execute o particionamento novamente."
 
 #: usr/lib/live-installer/partitioning.py:168
 #, python-format
@@ -754,10 +763,18 @@ msgid ""
 "Note:  <b>This will  <span color=\"red\">ERASE ALL DATA</span>  present on "
 "this disk !</b>"
 msgstr ""
+"Disco selecionado:\n"
+"<b>%(str1)s</b>  (%(str2)s)\n"
+"\n"
+"Quer que o instalador crie automaticamente um conjunto de partições do Q4OS "
+"para você ?\n"
+"\n"
+"Nota: <b>Isto irá <span color=\"red\">APAGAR TODOS OS DADOS</span> presentes "
+"neste disco !</b>"
 
 #: usr/lib/live-installer/partitioning.py:169
 msgid "Do you really want to proceed ?"
-msgstr ""
+msgstr "Você realmente quer continuar?"
 
 #: usr/lib/live-installer/partitioning.py:256
 msgid "B"
@@ -809,6 +826,13 @@ msgid ""
 "\n"
 "You can go forward to continue the install process."
 msgstr ""
+"Unidade de disco: <b>%(str1)s</b> (%(str2)s\n"
+"\n"
+"O conteúdo do disco foi apagado e a nova tabela de partições do Q4OS foi "
+"criada. O disco agora está preparado e pronto para instalar o novo sistema "
+"Q4OS.\n"
+"\n"
+"Pode seguir em frente para continuar o processo de instalação."
 
 #: usr/lib/live-installer/partitioning.py:488
 msgid "Logical partition"
