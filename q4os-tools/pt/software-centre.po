@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-23 23:55+0100\n"
-"PO-Revision-Date: 2015-09-04 01:14+0100\n"
+"PO-Revision-Date: 2019-06-15 15:57+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: code-wk-copy-app/src/form1.cpp:245
 msgid "<p>"
@@ -24,15 +24,15 @@ msgstr "<p>"
 
 #: code-wk-copy-app/src/form1.cpp:313
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>A instalação da NVIDIA foi detectada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:238
 msgid "<p>Select an application to install.<p>"
-msgstr ""
+msgstr "<p>Selecione uma aplicação para instalar.<p>"
 
 #: code-wk-copy-app/src/form1.cpp:288
 msgid "<p>Synaptic package manager isn't installed, please install it first.<p>"
-msgstr ""
+msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.<p>"
 
 #: code-wk-copy-app/src/form1.cpp:309
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
