@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-23 23:55+0100\n"
-"PO-Revision-Date: 2018-12-07 10:29+0000\n"
-"Last-Translator: Hugo <hugokarvalho@hotmail.com>\n"
+"PO-Revision-Date: 2019-06-15 15:57+0100\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: code-wk-copy-app/src/form1.cpp:245
 msgid "<p>"
@@ -24,23 +24,23 @@ msgstr "<p>"
 
 #: code-wk-copy-app/src/form1.cpp:313
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>A instalação da NVIDIA foi detectada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:238
 msgid "<p>Select an application to install.<p>"
-msgstr ""
+msgstr "<p>Selecione uma aplicação para instalar.<p>"
 
 #: code-wk-copy-app/src/form1.cpp:288
 msgid "<p>Synaptic package manager isn't installed, please install it first.<p>"
-msgstr ""
+msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.<p>"
 
 #: code-wk-copy-app/src/form1.cpp:309
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Uma instalação Virtualbox foi detetada !</p><p>As ações estão desativadas durante a instalação Virtualbox, por favor aguarde até ao final da instalação Virtualbox.</p>"
+msgstr "<p>Uma instalação Virtualbox foi detectada !</p><p>As ações estão desativadas durante a instalação Virtualbox, por favor aguarde até ao final da instalação Virtualbox.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:325
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>Você ainda não aplicou nenhum perfil de ambiente de trabalho. É altamente recomendado aplicar um perfil de ambiente de trabalho antes de instalar aplicações.</p><p>Por favor, execute a ferramenta <b>Desktop Profiler</b> para escolher e aplicar um perfil.</p>"
+msgstr "<p>Você ainda não aplicou nenhum perfil de área de trabalho. É altamente recomendado aplicar um perfil de área de trabalho antes de instalar aplicações.</p><p>Por favor, execute a ferramenta <b>Desktop Profiler</b> para escolher e aplicar um perfil.</p>"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:476
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:566
