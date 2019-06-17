@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-13 13:52+0200\n"
-"PO-Revision-Date: 2019-06-17 13:46+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2019-06-17 14:40+0100\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -463,11 +463,11 @@ msgstr "Tem a certeza que quer sair do instalador?"
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:686
 msgid "Passwords do not match."
-msgstr "Palavras-passe não coincidem."
+msgstr "As palavras-passe não coincidem."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:689
 msgid "Passwords match."
-msgstr "As palavras-passe correspondem."
+msgstr "As palavras-passe coincidem."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:748
 #: usr/lib/live-installer/frontend/gtk_interface.py:834
@@ -554,12 +554,12 @@ msgid ""
 "Please indicate a filesystem to format the root (/) partition with before "
 "proceeding."
 msgstr ""
-"Por favor, indique o sistema de ficheiros para formatar a partição raíz (/) "
+"Por favor, indique o sistema de ficheiros para formatar a partição raiz (/) "
 "antes de avançar."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:850
 msgid "Please select a root (/) partition."
-msgstr "Por favor, selecione a partição raíz (/)."
+msgstr "Por favor, selecione a partição raiz (/)."
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:850
 msgid ""
@@ -775,7 +775,7 @@ msgstr ""
 
 #: usr/lib/live-installer/partitioning.py:169
 msgid "Do you really want to proceed ?"
-msgstr "Você realmente quer continuar?"
+msgstr "Quer realmente continuar?"
 
 #: usr/lib/live-installer/partitioning.py:256
 msgid "B"
