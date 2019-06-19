@@ -11,11 +11,10 @@ msgstr ""
 "POT-Creation-Date: 2019-01-10 11:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
 
 #: code_wk_cpy/build/.ui/ui_form3.cpp:2245
 #: code_wk_cpy/build/.ui/ui_form7.cpp:419
