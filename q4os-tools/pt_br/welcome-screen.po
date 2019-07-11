@@ -8,27 +8,27 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-23 23:55+0100\n"
-"PO-Revision-Date: 2019-06-17 15:28+0100\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"PO-Revision-Date: 2019-07-11 14:55-0300\n"
+"Last-Translator: Sebastião Guerra <sebastiao@guerra.mat.br>\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3923
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operativo para o ambiente de trabalho, rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador de estilo clássico e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operacional rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador clássica e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3933
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr "<font size=\"4\"><p>Evita o ecrã de início de sessão e inicia a sessão sem introduzir a sua palavra-passe após o arranque do sistema.</p></font>"
+msgstr "<font size=\"4\"><p>Evita a tela de início de sessão e inicia a sessão sem introduzir a sua senha após a inicialização do sistema.</p></font>"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3935
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavização e os efeitos de embelezamento do ambiente de trabalho.</p><p>Nota, os efeitos do ambiente de trabalho irão funcionar perfeitamente somente em hardware moderno, não é recomendável usá-lo com hardware antigo. Um pequeno teste do sistema será realizado para garantir que o hardware está pronto para aceitar a configuração.</p></font>"
+msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavização e os efeitos de embelezamento do ambiente de trabalho.</p><p>Note que os efeitos do ambiente de trabalho irão funcionar perfeitamente somente em hardware moderno, não é recomendável usá-lo com hardware antigo. Um pequeno teste do sistema será realizado para garantir que o hardware está pronto para aceitar a configuração.</p></font>"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3929
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
@@ -36,7 +36,7 @@ msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e con
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3931
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma coleção extra de codecs de qualidade profissional.</p><p>Leitores multimédia, como o VLC ou o Mplayer fazem uso destes codecs, a fim de fornecer suporte para reprodução de DVD e ficheiros multimédia codificados por esses codecs.</p></font>"
+msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma coleção extra de codecs de qualidade profissional.</p><p>Leitores multimedia, como o VLC ou o Mplayer fazem uso destes codecs, a fim de fornecer suporte para reprodução de DVD e arquivos multimedia codificados por esses codecs.</p></font>"
 
 #: code-wk-copy/build/.ui/ui_form1.cpp:3925
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
@@ -48,11 +48,11 @@ msgstr "<font size=\"4\"><p>Você será direcionado para os recursos da rede Q4O
 
 #: code-wk-copy/src/form1.cpp:231
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr "<p>O início de sessão automático está agora desativado.</p>"
+msgstr "<p>O início de sessão automático está desativado.</p>"
 
 #: code-wk-copy/src/form1.cpp:226
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr "<p>O início de sessão automático está agora ativado.</p>"
+msgstr "<p>O início de sessão automático está ativado.</p>"
 
 #: code-wk-copy/src/form1.cpp:186
 msgid "<p>Desktop effects have been disabled.</p>"

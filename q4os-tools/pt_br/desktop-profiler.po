@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-23 23:55+0100\n"
-"PO-Revision-Date: 2019-06-17 22:05+0100\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"PO-Revision-Date: 2019-07-11 14:02-0300\n"
+"Last-Translator: Sebastião Guerra <sebastiao@guerra.mat.br>\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:297
 msgid "  Install >"
@@ -97,12 +97,12 @@ msgid ""
 msgstr ""
 "<html>\n"
 "<font size=\"5\"><p>Por favor, selecione o ambiente de trabalho padrão.</p></font>\n"
-"<p align=justify>O leve e eficiente ambiente de trabalho <b>Trinity</b> está instalado e pré-configurado como padrão no momento. No entanto, o instalador do Q4OS auto-detectou que o seu computador é poderoso o suficiente para operar um mais avançado ambiente de trabalho <b>KDE Plasma</b>.</p>\n"
+"<p align=justify>O leve e eficiente ambiente de trabalho <b>Trinity</b> está instalado e pré-configurado como padrão no momento. No entanto, o instalador do Q4OS detectou que o seu computador é poderoso o suficiente para operar o ambiente de trabalho <b>KDE Plasma</b>.</p>\n"
 "</html>"
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:122
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr "<p align=justify> Esta caixa de diálogo permite que você escolha um ambiente de trabalho adicional(DE) para instalar juntamente com o ambiente de trabalho padrão do Q4OS.</p><p align=justify> Por favor, não use esta opção, a menos que você tenha certeza absoluta do que está a fazer.</p>"
+msgstr "<p align=justify> Esta caixa de diálogo permite que você escolha um ambiente de trabalho adicional (DE) para instalar juntamente com o ambiente de trabalho padrão do Q4OS.</p><p align=justify> Por favor, não use esta opção, a menos que você tenha certeza absoluta do que está fazendo.</p>"
 
 #: code-wk-copy-app/src/form2.cpp:146
 msgid "<p>Do you want to cancel pending operation ?</p>"
@@ -114,7 +114,7 @@ msgstr "<p>Instale e defina <span style=\"font-weight:600\"> o ambiente KDE Plas
 
 #: code-wk-copy-app/src/form1.cpp:494
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr "<p>Hardware insuficiente detectado !</p><p>O seu CPU não possui suporte a SSE2, o SSE2 é necessário para o software exigido.</p>"
+msgstr "<p>Hardware insuficiente detectado !</p><p>A sua CPU não possui suporte a SSE2, o SSE2 é necessário para o software exigido.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:503
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
@@ -122,11 +122,11 @@ msgstr "<p>Hardware insuficiente detectado !</p><p>O seu computador está com po
 
 #: code-wk-copy-app/build/.ui/ui_form4.cpp:612
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr "<p>Mantenha o ambiente de trabalho <span style=\"font-weight:600\">Trinity</span> como padrão, nenhum Plasma será instalado. Você pode iniciar a instalação do Plasma posteriormente usando a ferramenta do Perfil de ambiente de trabalho.</p>"
+msgstr "<p>Mantenha o ambiente de trabalho <span style=\"font-weight:600\">Trinity</span> como padrão, o Plasma será instalado. Você pode iniciar a instalação do Plasma posteriormente usando a ferramenta do Perfil de ambiente de trabalho.</p>"
 
 #: code-wk-copy-app/src/form1.cpp:438
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Sistema de pacotes ocupado, não está pronto para instalar agora. A instalação não pode continuar.</p><p>O bloqueio é causado, muito provavelmente, por atualizações em segundo plano do sistema em curso. Se este for o caso, você tem que esperar um momento para o sistema de pacotes concluir essas operações. Por favor, verifique se você não está a instalar outra aplicação e repita a configuração alguns minutos depois.</p>"
+msgstr "<p>Sistema de pacotes ocupado, não está pronto para instalar agora. A instalação não pode continuar.</p><p>O bloqueio é causado, muito provavelmente, por atualizações em segundo plano do sistema. Se este for o caso, você tem que esperar um momento para o sistema de pacotes concluir essas operações. Por favor, verifique se você não está instalando outra aplicação e repita a configuração alguns minutos depois.</p>"
 
 #: code-wk-copy-app/src/form2.cpp:149
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
@@ -146,7 +146,7 @@ msgstr "Escolha um ambiente de trabalho adicional para instalar."
 
 #: code-wk-copy-app/build/.ui/ui_form1.cpp:280
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr "Escolha um ambiente de trabalho adicional para instalar. Por favor, não use esta opção, a menos que tenha a certeza do que está a fazer."
+msgstr "Escolha um ambiente de trabalho adicional para instalar. Por favor, não use esta opção, a menos que tenha a certeza do que está fazendo."
 
 #: code-wk-copy-app/build/.ui/ui_form3.cpp:120
 msgid "Choose desktop environment"
