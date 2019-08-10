@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 17:06+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Language: cs_CZ\n"
+"X-Qt-Contexts: true\n"
+
+#, fuzzy
+msgid "A great desktop OS"
+msgstr "Skvělý desktop OS"
+
+#, fuzzy
+msgid "An alternative to mainstream operating systems"
+msgstr "Alternativa k běžným operačním systémům"
+
+#, fuzzy
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr "Google Chrome, Firefox, Thunderbird a LibreOffice jsou snadno instalovatelné, takže můžete začít s desktopem a internetem."
+
+#, fuzzy
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr "Je to bezpečné a stabilní, nepotřebujete antivirový program, anti-spyware, defragmentační nástroj nebo čistič registru."
+
+#, fuzzy
+msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
+msgstr "Další populární aplikace <! - jako Google Picasa, Skype, Dropbox, TeamViewer a další -> lze nainstalovat kliknutím myši."
+
+#, fuzzy
+msgid "Out of the box"
+msgstr "Kompletní systém"
+
+#, fuzzy
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr "Q4OS dokáže rozpoznat další operační systémy a nainstalovat se vedle nich. Můžete vybrat, který operační systém se spustí při spuštění počítače."
+
+#, fuzzy
+msgid "Q4OS is Free and Open Source."
+msgstr "Q4OS je svobodný a otevřený software."
+
+#, fuzzy
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "Q4OS je kompatibilní s nejoblíbenějšími formáty souborů: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ... etc"
+
+#, fuzzy
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "Q4OS je snadno ovladatelný, výkonný a konfigurovatelný."
+
+#, fuzzy
+msgid "Safe updates"
+msgstr "Bezpečné aktualizace"
+
+#, fuzzy
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr "Aktualizace softwaru a aktualizace zabezpečení jsou poskytovány nejen pro operační systém, ale i pro software, který instalujete."
+
+#, fuzzy
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr "Deset tisíc bezplatných softwarových aplikací je k dispozici od správce balíčků."
+
+#, fuzzy
+msgid "Thank you for choosing us."
+msgstr "Děkujeme, že jste si nás vybral."
+
+#, fuzzy
+msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+msgstr "Správce aktualizací Q4OS sleduje systém a automaticky aktualizuje, jakmile budou k dispozici aktualizace."
+
+#, fuzzy
+msgid "This is Q4OS"
+msgstr "To je Q4OS"
+
+#, fuzzy
+msgid "We hope you'll enjoy your operating system."
+msgstr "Doufáme, že se Vám Váš operační systém bude líbit."
+
+#, fuzzy
+msgid "Welcome to Q4OS"
+msgstr "Vítejte v Q4OS"

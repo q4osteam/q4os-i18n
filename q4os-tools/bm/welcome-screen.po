@@ -1,0 +1,207 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS Welcome Screen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Welcome Screen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 14:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
+msgstr ""
+
+msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
+msgstr ""
+
+msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
+msgstr ""
+
+msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
+msgstr ""
+
+msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
+msgstr ""
+
+msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
+msgstr ""
+
+msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
+msgstr ""
+
+msgid "<p>Automatic login is now disabled.</p>"
+msgstr ""
+
+msgid "<p>Automatic login is now enabled.</p>"
+msgstr ""
+
+msgid "<p>Desktop effects have been disabled.</p>"
+msgstr ""
+
+msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
+msgstr ""
+
+msgid "<p>Do you want to enable Automatic login ?</p>"
+msgstr ""
+
+msgid "<p>Do you want to switch the Start Menu ?</p>"
+msgstr ""
+
+msgid "<p>Do you want to turn Desktop Effects on ?</p>"
+msgstr ""
+
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+msgstr ""
+
+msgid "<p>Start Menu is now set to Bourbon style.</p>"
+msgstr ""
+
+msgid "<p>Start Menu is now set to Classic style.</p>"
+msgstr ""
+
+msgid "<p>Start Menu is now set to Kickoff style.</p>"
+msgstr ""
+
+msgid "<p>This action is only available for Trinity desktop.</p>"
+msgstr ""
+
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr ""
+
+msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Autologin configuration"
+msgstr ""
+
+msgid "Automatic login"
+msgstr ""
+
+msgid "Bourbon"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Classic"
+msgstr ""
+
+msgid "Classic style cascading menu"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Desktop effects"
+msgstr ""
+
+msgid "Enable Autologin"
+msgstr ""
+
+msgid "Form2"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Install Applications"
+msgstr ""
+
+msgid "Install Proprietary Codecs"
+msgstr ""
+
+msgid "KickOff"
+msgstr ""
+
+msgid "KickOff type menu"
+msgstr ""
+
+msgid "Menu items organized by Applications"
+msgstr ""
+
+msgid "Menu items organized by Categories"
+msgstr ""
+
+msgid "Menu structure"
+msgstr ""
+
+msgid "Menu type"
+msgstr ""
+
+msgid "Q4OS"
+msgstr ""
+
+msgid "Revert to Classic"
+msgstr ""
+
+msgid "Revert to defaults"
+msgstr ""
+
+msgid "Run Desktop Profiler"
+msgstr ""
+
+msgid "Set Autologin"
+msgstr ""
+
+msgid "Show this dialog on startup"
+msgstr ""
+
+msgid "Start menu configuration"
+msgstr ""
+
+msgid "Switch to Bourbon"
+msgstr ""
+
+msgid "Switch to Kickoff"
+msgstr ""
+
+msgid "Switch to Kickoff start menu"
+msgstr ""
+
+msgid "Turn ON"
+msgstr ""
+
+msgid "Turn on Desktop effects"
+msgstr ""
+
+msgid "Two panel menu with search line"
+msgstr ""
+
+msgid "Warning !"
+msgstr ""
+
+msgid "Welcome screen"
+msgstr ""
+
+msgid "Working ..."
+msgstr ""
+
+msgid "pushButton1"
+msgstr ""
+
+msgid "pushButton2"
+msgstr ""
+
+msgid "pushButton3"
+msgstr ""
+
+msgid "pushButton4"
+msgstr ""
+
+msgid "textLabel1"
+msgstr ""

@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS Desktop Profiler package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Desktop Profiler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 14:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  Install >"
+msgstr ""
+
+msgid "* select please *"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+msgid ""
+"<html>\n"
+"<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
+"<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
+"</html>"
+msgstr ""
+
+msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
+msgstr ""
+
+msgid "<p>Do you want to cancel pending operation ?</p>"
+msgstr ""
+
+msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
+msgstr ""
+
+msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
+msgstr ""
+
+msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
+msgstr ""
+
+msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
+msgstr ""
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr ""
+
+msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
+msgstr ""
+
+msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
+msgstr ""
+
+msgid ">"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Choose an additional desktop environment to install."
+msgstr ""
+
+msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
+msgstr ""
+
+msgid "Choose desktop environment"
+msgstr ""
+
+msgid "Click to select profile"
+msgstr ""
+
+msgid "Default (TDE)"
+msgstr ""
+
+msgid "Desktop Profiler"
+msgstr ""
+
+msgid "Desktop Profiler - install progress"
+msgstr ""
+
+msgid "Desktop environment:"
+msgstr ""
+
+msgid "Desktop profiler - select default desktop environment"
+msgstr ""
+
+msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
+msgstr ""
+
+msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
+msgstr ""
+
+msgid "KDE Plasma"
+msgstr ""
+
+msgid "KDE Plasma >"
+msgstr ""
+
+msgid "Launch installation"
+msgstr ""
+
+msgid "Next >"
+msgstr ""
+
+msgid "None selected"
+msgstr ""
+
+msgid "Note "
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
+msgstr ""
+
+msgid "Please restart X server as soon as possible."
+msgstr ""
+
+msgid "Profile description"
+msgstr ""
+
+msgid "Software profile:"
+msgstr ""
+
+msgid "Trinity"
+msgstr ""
+
+msgid "Trinity >"
+msgstr ""
+
+msgid "Yes, I really want to install additional DE"
+msgstr ""

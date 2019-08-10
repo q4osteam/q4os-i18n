@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-23 23:55+0100\n"
+"POT-Creation-Date: 2019-08-09 14:40+0200\n"
 "PO-Revision-Date: 2019-07-11 14:06-0300\n"
 "Last-Translator: Sebastião Guerra <sebastiao@guerra.mat.br>\n"
 "Language-Team: \n"
@@ -18,110 +18,90 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.2.3\n"
 
-#: code-wk-copy-app/src/form1.cpp:245
 msgid "<p>"
 msgstr "<p>"
 
-#: code-wk-copy-app/src/form1.cpp:313
+#, fuzzy
+msgid "<p>Discover software manager isn't installed, please install it first.</p>"
+msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.<p>"
+
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>A instalação NVIDIA foi detetada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
 
-#: code-wk-copy-app/src/form1.cpp:238
-msgid "<p>Select an application to install.<p>"
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr ""
+
+#, fuzzy
+msgid "<p>Select an application to install.</p>"
 msgstr "<p>Selecione uma aplicação para instalar.<p>"
 
-#: code-wk-copy-app/src/form1.cpp:288
-msgid "<p>Synaptic package manager isn't installed, please install it first.<p>"
+#, fuzzy
+msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
 msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.<p>"
 
-#: code-wk-copy-app/src/form1.cpp:309
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Uma instalação Virtualbox foi detectada !</p><p>As ações estão desativadas durante a configuração do Virtualbox, por favor aguarde até ao final da instalação do Virtualbox.</p>"
 
-#: code-wk-copy-app/src/form1.cpp:325
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Você ainda não aplicou nenhum perfil do ambiente de trabalho. É altamente recomendado aplicar um perfil de ambiente de trabalho antes de instalar aplicações.</p><p>Por favor, execute a ferramenta <b>Perfil de ambiente de trabalho</b> para escolher e aplicar um perfil.</p>"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:476
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:566
 msgid "Application"
 msgstr "Aplicação"
 
-#: code-wk-copy-app/src/form1.cpp:245
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:484
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:570
 msgid "Description"
 msgstr "Descrição"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:579
 msgid "Desktop profiler"
 msgstr "Perfil de ambiente de trabalho"
 
-#: code-wk-copy-app/src/form1.cpp:309 code-wk-copy-app/src/form1.cpp:313
-#: code-wk-copy-app/src/form1.cpp:325
 msgid "Info"
 msgstr "Informação"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:573
 msgid "Install application"
 msgstr "Instalar aplicação"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:574
 msgid "Install selected applications"
 msgstr "Instalar aplicações selecionadas"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:576
 msgid "Package manager"
 msgstr "Gerenciador de pacotes"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:564
 msgid "Q4OS Software Centre"
 msgstr "Central de software Q4OS"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:482
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:569
 msgid "Rating"
 msgstr "Classificação"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:580
 msgid "Run 'Desktop Profiler' tool"
 msgstr "Execute a ferramenta 'Perfil de ambiente de trabalho'"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:577
+#, fuzzy
+msgid "Run 'Discover' - software manager"
+msgstr "Execute o 'Synaptic' - gestor de pacotes do sistema"
+
 msgid "Run 'Synaptic' - system package manager"
 msgstr "Execute o 'Synaptic' - gestor de pacotes do sistema"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:581
 msgid "Search:"
 msgstr "Pesquisa:"
 
-#: code-wk-copy-app/src/form1.cpp:245
 msgid "Uninstall"
 msgstr "Desinstalar"
 
-#: code-wk-copy-app/src/form1.cpp:245
 msgid "Uninstall now"
 msgstr "Desinstalar agora"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:474
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:565
 msgid "config_file"
 msgstr "config_file"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:480
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:568
 msgid "download"
 msgstr "baixar"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:478
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:567
 msgid "package"
 msgstr "pacote"
 
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:486
-#: code-wk-copy-app/build/.ui/ui_form1.cpp:571
 msgid "rating_num"
 msgstr "rating_num"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-26 23:07+0100\n"
+"POT-Creation-Date: 2019-08-09 14:30+0200\n"
 "PO-Revision-Date: 2017-01-08 17:38+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,235 +17,161 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src1/form2.cpp:487
 msgid "! Reboot required"
 msgstr ""
 
-#: src1/form2.cpp:682
 msgid "<b>Reboot is required<b> to complete the upgrade."
 msgstr ""
 
-#: src1/form2.cpp:154
 msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
 msgstr ""
 
-#: build1/.ui/ui_form3.cpp:109 build1/.ui/ui_form3.cpp:110
 msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
 msgstr ""
 
-#: src1/form2.cpp:172
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr ""
 
-#: src1/form2.cpp:487
 msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
 msgstr ""
 
-#: src1/form2.cpp:164
 msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
 msgstr ""
 
-#: src1/form2.cpp:639
 msgid "Additional updates has been detected"
 msgstr ""
 
-#: src1/form2.cpp:632 build1/.ui/ui_form3.cpp:104
 msgid "Available updates"
 msgstr ""
 
-#: src1/form2.cpp:475 src1/thread1.cpp:382 build1/.ui/ui_form2.cpp:99
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: src1/form2.cpp:465 src1/form2.cpp:466
 msgid "Canceled !"
 msgstr ""
 
-#: src1/thread1.cpp:179 src1/thread1.cpp:180 src1/thread1.cpp:183
-#: src1/thread1.cpp:184 src1/thread1.cpp:188
 msgid "Checking Internet connection"
 msgstr ""
 
-#: src1/form2.cpp:190 src1/form2.cpp:191 src1/form2.cpp:193
 msgid "Checking SW database to be free"
 msgstr ""
 
-#: src1/thread1.cpp:211 src1/thread1.cpp:212 src1/thread1.cpp:224
-#: src1/thread1.cpp:225 src1/thread1.cpp:233 src1/thread1.cpp:234
-#: src1/thread1.cpp:237
 msgid "Checking apt database"
 msgstr ""
 
-#: src1/thread1.cpp:75 src1/thread1.cpp:76 src1/thread1.cpp:93
-#: src1/thread1.cpp:95 src1/thread1.cpp:96
 msgid "Checking apt pinning"
 msgstr ""
 
-#: src1/form2.cpp:186 src1/form2.cpp:187 src1/form2.cpp:189
 msgid "Checking permissions"
 msgstr ""
 
-#: src1/form2.cpp:280 src1/form2.cpp:470 src1/form2.cpp:622
-#: src1/thread1.cpp:373
 msgid "Close"
 msgstr ""
 
-#: src1/form2.cpp:678
 msgid "Closing.."
 msgstr ""
 
-#: src1/form2.cpp:659
 msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
 msgstr ""
 
-#: src1/form3.cpp:17
 msgid "Do you want to continue ?"
 msgstr ""
 
-#: build1/.ui/ui_form3.cpp:108
 msgid "Don't show this dialog again"
 msgstr ""
 
-#: src1/thread1.cpp:201 src1/thread1.cpp:256 src1/thread1.cpp:329
 msgid "Done"
 msgstr "Fertig"
 
-#: src1/thread1.cpp:266 src1/thread1.cpp:267 src1/thread1.cpp:273
-#: src1/thread1.cpp:275 src1/thread1.cpp:276
 msgid "Downloading packages"
 msgstr ""
 
-#: src1/thread1.cpp:203 src1/thread1.cpp:204 src1/thread1.cpp:224
-#: src1/thread1.cpp:225 src1/thread1.cpp:233 src1/thread1.cpp:234
-#: src1/thread1.cpp:259 src1/thread1.cpp:260 src1/thread1.cpp:275
-#: src1/thread1.cpp:276 src1/thread1.cpp:314 src1/thread1.cpp:315
-#: src1/thread1.cpp:331 src1/thread1.cpp:332
 msgid "Failed"
 msgstr ""
 
-#: src1/thread1.cpp:162 src1/thread1.cpp:163
 msgid "Failed!"
 msgstr ""
 
-#: src1/form2.cpp:691
 msgid "Finish >"
 msgstr "Fertigstellen >"
 
-#: src1/thread1.cpp:173
 msgid "Finished :)"
 msgstr ""
 
-#: src1/thread1.cpp:244 src1/thread1.cpp:245 src1/thread1.cpp:256
-#: src1/thread1.cpp:259 src1/thread1.cpp:260
 msgid "Fixing apt database"
 msgstr ""
 
-#: src1/thread1.cpp:384
 msgid "Installing.."
 msgstr ""
 
-#: src1/thread1.cpp:283 src1/thread1.cpp:284 src1/thread1.cpp:312
-#: src1/thread1.cpp:314 src1/thread1.cpp:315
 msgid "Listing updates"
 msgstr ""
 
-#: src1/form2.cpp:194 src1/form2.cpp:195
 msgid "Locking SW database"
 msgstr ""
 
-#: src1/form3.cpp:18
 msgid "No"
 msgstr "Nein"
 
-#: src1/thread1.cpp:183 src1/thread1.cpp:184
 msgid "Not available!"
 msgstr ""
 
-#: src1/form2.cpp:189 src1/form2.cpp:193 src1/thread1.cpp:93
-#: src1/thread1.cpp:167 src1/thread1.cpp:188 src1/thread1.cpp:237
-#: src1/thread1.cpp:273 src1/thread1.cpp:312
 msgid "Ok"
 msgstr ""
 
-#: src1/thread1.cpp:152 src1/thread1.cpp:153 src1/thread1.cpp:162
-#: src1/thread1.cpp:163 src1/thread1.cpp:167
 msgid "Performing upgrade"
 msgstr ""
 
-#: src1/form2.cpp:625
 msgid "Please, try to run Update Manager a few minutes later again."
 msgstr ""
 
-#: src1/thread1.cpp:322 src1/thread1.cpp:323 src1/thread1.cpp:329
-#: src1/thread1.cpp:331 src1/thread1.cpp:332
 msgid "Removing unnecessary packages"
 msgstr ""
 
-#: src1/form2.cpp:273
-msgid "Setup action"
-msgstr ""
-
-#: build1/.ui/ui_form2.cpp:100 build1/.ui/ui_form2.cpp:101
 msgid "Show details"
 msgstr ""
 
-#: src1/form2.cpp:682 src1/form2.cpp:685
 msgid "Success. The most recent update has been implemented."
 msgstr ""
 
-#: src1/thread1.cpp:171 src1/thread1.cpp:172
 msgid "System update completed successfully."
 msgstr ""
 
-#: src1/form2.cpp:204
 msgid "System updater has been started.."
 msgstr ""
 
-#: build1/.ui/ui_form2.cpp:97
 msgid "Update Manager - install progress"
 msgstr ""
 
-#: src1/thread1.cpp:194 src1/thread1.cpp:195 src1/thread1.cpp:201
-#: src1/thread1.cpp:203 src1/thread1.cpp:204
 msgid "Update SW database"
 msgstr ""
 
-#: src1/form2.cpp:625
 msgid "Update manager has been exited with <b>error code: "
 msgstr ""
 
-#: src1/form2.cpp:449 src1/form2.cpp:485
 msgid "Waiting"
 msgstr ""
 
-#: src1/form3.cpp:19
 msgid "Yes"
 msgstr "Ja"
 
-#: src1/form2.cpp:685
 msgid "Your system is up to date and healthy."
 msgstr ""
 
-#: src1/thread1.cpp:95 src1/thread1.cpp:96
 msgid "need to be fixed"
 msgstr ""
 
-#: build1/.ui/ui_form3.cpp:111
 msgid "pushButton1"
 msgstr ""
 
-#: build1/.ui/ui_form3.cpp:112
 msgid "pushButton2"
 msgstr ""
 
-#: build1/.ui/ui_form2.cpp:98
 msgid "textLabel1"
 msgstr ""
 
-#: build1/.ui/ui_form3.cpp:105
 msgid "textLabel2"
 msgstr ""
 
-#: build1/.ui/ui_form3.cpp:106
 msgid "textLabel3"
 msgstr ""

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 17:06+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de_DE\n"
+"X-Qt-Contexts: true\n"
+
+#, fuzzy
+msgid "A great desktop OS"
+msgstr "Ein großartiges Desktop-Betriebssystem"
+
+#, fuzzy
+msgid "An alternative to mainstream operating systems"
+msgstr "Eine Alternative zu Mainstream-Betriebssystemen"
+
+#, fuzzy
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr "Google Chrome, Firefox, Thunderbird und LibreOffice sind leicht zu installieren, so daß Sie mit dem Desktop und dem Internet beginnen können."
+
+#, fuzzy
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr "Es ist sicher und stabil, Sie benötigen kein Antivirenprogramm, keine Anti-Spyware, kein Defragmentierungstool oder keinen Registry Cleaner."
+
+#, fuzzy
+msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
+msgstr "Andere beliebte Anwendungen <! - wie Google Picasa, Skype, Dropbox, TeamViewer und mehr -> können mit einem Mausklick installiert werden."
+
+#, fuzzy
+msgid "Out of the box"
+msgstr "Aus der Box"
+
+#, fuzzy
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr "Q4OS kann andere Betriebssysteme erkennen und sich neben ihnen installieren. Sie können auswählen, welches Betriebssystem beim Starten des Computers gestartet werden soll."
+
+#, fuzzy
+msgid "Q4OS is Free and Open Source."
+msgstr "Q4OS ist frei und Open Source."
+
+#, fuzzy
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "Q4OS ist mit den meisten gängigen Dateiformaten kompatibel: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ... etc"
+
+#, fuzzy
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "Q4OS ist einfach zu bedienen, leistungsstark und konfigurierbar."
+
+#, fuzzy
+msgid "Safe updates"
+msgstr "Sichere Updates"
+
+#, fuzzy
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr "Softwareupdates und Sicherheitsupdates werden nicht nur für das Betriebssystem, sondern auch für die von Ihnen installierte Software bereitgestellt."
+
+#, fuzzy
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr "Zehntausende kostenlose Softwareanwendungen sind im Paketmanager verfügbar."
+
+#, fuzzy
+msgid "Thank you for choosing us."
+msgstr "Danke, daß Sie uns gewählt haben."
+
+#, fuzzy
+msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+msgstr "Der Q4OS Update Manager überwacht Ihr System und aktualisiert es automatisch, sobald Updates verfügbar sind."
+
+#, fuzzy
+msgid "This is Q4OS"
+msgstr "Das ist Q4OS"
+
+#, fuzzy
+msgid "We hope you'll enjoy your operating system."
+msgstr "Wir hoffen, daß Sie Ihr Betriebssystem genießen können."
+
+#, fuzzy
+msgid "Welcome to Q4OS"
+msgstr "Willkommen bei Q4OS"

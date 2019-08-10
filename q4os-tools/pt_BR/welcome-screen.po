@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-23 23:55+0100\n"
+"POT-Creation-Date: 2019-08-09 14:25+0200\n"
 "PO-Revision-Date: 2019-07-11 14:55-0300\n"
 "Last-Translator: Sebastião Guerra <sebastiao@guerra.mat.br>\n"
 "Language-Team: \n"
@@ -18,265 +18,192 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.2.3\n"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3923
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operacional rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador clássica e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3933
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>Evita a tela de início de sessão e inicia a sessão sem introduzir a sua senha após a inicialização do sistema.</p></font>"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3935
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
 msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavização e os efeitos de embelezamento do ambiente de trabalho.</p><p>Note que os efeitos do ambiente de trabalho irão funcionar perfeitamente somente em hardware moderno, não é recomendável usá-lo com hardware antigo. Um pequeno teste do sistema será realizado para garantir que o hardware está pronto para aceitar a configuração.</p></font>"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3929
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Você terá permissão para selecionar entre diferentes perfis do ambiente de trabalho.</p></font>"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3931
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma coleção extra de codecs de qualidade profissional.</p><p>Leitores multimedia, como o VLC ou o Mplayer fazem uso destes codecs, a fim de fornecer suporte para reprodução de DVD e arquivos multimedia codificados por esses codecs.</p></font>"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3925
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
 msgstr "<font size=\"4\"><p>Muda para um menu Iniciar Kickoff alternativo.</p><p>Bem organizado, menu iniciar de estilo moderno oferece uma barra de pesquisa, separador de favoritos, histórico e muito mais.</p></font>"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3927
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
 msgstr "<font size=\"4\"><p>Você será direcionado para os recursos da rede Q4OS para transferir e instalar aplicações úteis independentes.</p></font>"
 
-#: code-wk-copy/src/form1.cpp:231
 msgid "<p>Automatic login is now disabled.</p>"
 msgstr "<p>O início de sessão automático está desativado.</p>"
 
-#: code-wk-copy/src/form1.cpp:226
 msgid "<p>Automatic login is now enabled.</p>"
 msgstr "<p>O início de sessão automático está ativado.</p>"
 
-#: code-wk-copy/src/form1.cpp:186
 msgid "<p>Desktop effects have been disabled.</p>"
 msgstr "<p>Os efeitos do ambiente de trabalho foram desativados.</p>"
 
-#: code-wk-copy/src/form1.cpp:181
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
 msgstr "<p>Os efeitos do ambiente de trabalho foram ativados. Por favor, reinicie a sessão para que as alterações entrem em vigor.</p>"
 
-#: code-wk-copy/src/form1.cpp:222
 msgid "<p>Do you want to enable Automatic login ?</p>"
 msgstr "<p>Quer ativar o início de sessão automático ?</p>"
 
-#: code-wk-copy/src/form2.cpp:33 code-wk-copy/src/form3.cpp:36
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Você quer mudar o Menu Iniciar ?</p>"
 
-#: code-wk-copy/src/form1.cpp:171
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
 msgstr "<p>Quer ativar os efeitos do ambiente de trabalho ?</p>"
 
-#: code-wk-copy/src/form1.cpp:274
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>A instalação da NVIDIA foi detetada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
 
-#: code-wk-copy/src/form2.cpp:76 code-wk-copy/src/form3.cpp:76
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>Menu Iniciar agora está definido para o estilo Bourbon.</p>"
 
-#: code-wk-copy/src/form2.cpp:91 code-wk-copy/src/form3.cpp:80
 msgid "<p>Start Menu is now set to Classic style.</p>"
 msgstr "<p>Menu Iniciar agora está definido para o estilo Clássico.</p>"
 
-#: code-wk-copy/src/form2.cpp:61 code-wk-copy/src/form3.cpp:72
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
 msgstr "<p>Menu Iniciar agora está definido para o estilo Kickoff.</p>"
 
-#: code-wk-copy/src/form1.cpp:284
 msgid "<p>This action is only available for Trinity desktop.</p>"
 msgstr "<p>Esta ação está disponível somente para o ambiente de trabalho Trinity.</p>"
 
-#: code-wk-copy/src/form1.cpp:270
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Instalação Virtualbox foi detetada !</p><p>As ações são desativadas durante a instalação Virtualbox, por favor aguarde até que a instalação Virtualbox termine.</p>"
 
-#: code-wk-copy/src/form1.cpp:173
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
 msgstr "<p>O seu hardware parece ser fraco para executar os efeitos do ambiente de trabalho, não é recomendado ativar os efeitos.</p><p>Tem a certeza que quer ativar os efeitos do ambiente de trabalho ?</p>"
 
-#: code-wk-copy/src/form3.cpp:22
 msgid "Apply"
 msgstr "Aplicar"
 
-#: code-wk-copy/src/form1.cpp:222
 msgid "Autologin configuration"
 msgstr "Configuração do início de sessão automático"
 
-#: code-wk-copy/src/form1.cpp:226 code-wk-copy/src/form1.cpp:231
 msgid "Automatic login"
 msgstr "Início de sessão automático"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:324
 msgid "Bourbon"
 msgstr "Bourbon"
 
-#: code-wk-copy/src/form2.cpp:37 code-wk-copy/src/form3.cpp:38
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:330
 msgid "Categories"
 msgstr "Categorias"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:326
 msgid "Classic"
 msgstr "Clássico"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:327
 msgid "Classic style cascading menu"
 msgstr "Menu em cascata de estilo clássico"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3937
 msgid "Close"
 msgstr "Fechar"
 
-#: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:181
-#: code-wk-copy/src/form1.cpp:186
 msgid "Desktop effects"
 msgstr "Efeitos do ambiente de trabalho"
 
-#: code-wk-copy/src/form1.cpp:222
 msgid "Enable Autologin"
 msgstr "Ativar início de sessão automático"
 
-#: code-wk-copy/build/.ui/ui_form2.cpp:289
 msgid "Form2"
 msgstr "Form2"
 
-#: code-wk-copy/src/form1.cpp:270 code-wk-copy/src/form1.cpp:274
-#: code-wk-copy/src/form1.cpp:284
 msgid "Info"
 msgstr "Info"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3926
 msgid "Install Applications"
 msgstr "Instalar Aplicações"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3930
 msgid "Install Proprietary Codecs"
 msgstr "Instalar Codecs Proprietários"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:322
 msgid "KickOff"
 msgstr "KickOff"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:323
 msgid "KickOff type menu"
 msgstr "Menu do tipo KickOff"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:333
 msgid "Menu items organized by Applications"
 msgstr "Itens de menu organizados por Aplicações"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:331
 msgid "Menu items organized by Categories"
 msgstr "Itens de menu organizados por Categorias"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:328
 msgid "Menu structure"
 msgstr "Estrutura do menu"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:320
 msgid "Menu type"
 msgstr "Tipo de menu"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:332
 msgid "Q4OS"
 msgstr "Q4OS"
 
-#: code-wk-copy/src/form2.cpp:21
 msgid "Revert to Classic"
 msgstr "Reverter para Clássico"
 
-#: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:173
-#: code-wk-copy/src/form1.cpp:222
 msgid "Revert to defaults"
 msgstr "Reverter para predefinição"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3928
 msgid "Run Desktop Profiler"
 msgstr "Executar o perfil de ambiente de trabalho"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3932
 msgid "Set Autologin"
 msgstr "Definir o início de sessão automático"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3936
 msgid "Show this dialog on startup"
 msgstr "Mostrar este diálogo no início"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:318 code-wk-copy/src/form2.cpp:28
-#: code-wk-copy/src/form2.cpp:61 code-wk-copy/src/form2.cpp:76
-#: code-wk-copy/src/form2.cpp:91 code-wk-copy/src/form3.cpp:31
-#: code-wk-copy/src/form3.cpp:87
 msgid "Start menu configuration"
 msgstr "Começar a configuração do menu"
 
-#: code-wk-copy/src/form2.cpp:20
 msgid "Switch to Bourbon"
 msgstr "Mudar para Bourbon"
 
-#: code-wk-copy/src/form2.cpp:19
 msgid "Switch to Kickoff"
 msgstr "Mudar para Kickoff"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3924
 msgid "Switch to Kickoff start menu"
 msgstr "Mudar para o menu Kickoff"
 
-#: code-wk-copy/src/form1.cpp:171 code-wk-copy/src/form1.cpp:173
 msgid "Turn ON"
 msgstr "Ligar"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3934
 msgid "Turn on Desktop effects"
 msgstr "Ativar os efeitos do ambiente de trabalho"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:325
 msgid "Two panel menu with search line"
 msgstr "Menu de dois painéis com linha de pesquisa"
 
-#: code-wk-copy/src/form1.cpp:173
 msgid "Warning !"
 msgstr "Aviso !"
 
-#: code-wk-copy/build/.ui/ui_form1.cpp:3922
 msgid "Welcome screen"
 msgstr "Ecrã de boas-vindas"
 
-#: code-wk-copy/src/form2.cpp:54 code-wk-copy/src/form2.cpp:69
-#: code-wk-copy/src/form2.cpp:84 code-wk-copy/src/form3.cpp:63
 msgid "Working ..."
 msgstr "A trabalhar ..."
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:334
-#: code-wk-copy/build/.ui/ui_form2.cpp:291
 msgid "pushButton1"
 msgstr "pressionarBotão1"
 
-#: code-wk-copy/build/.ui/ui_form2.cpp:292
 msgid "pushButton2"
 msgstr "pressionarBotão2"
 
-#: code-wk-copy/build/.ui/ui_form2.cpp:293
 msgid "pushButton3"
 msgstr "pressionarBotão3"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:335
-#: code-wk-copy/build/.ui/ui_form2.cpp:294
 msgid "pushButton4"
 msgstr "pressionarBotão4"
 
-#: code-wk-copy/build/.ui/ui_form3.cpp:319
-#: code-wk-copy/build/.ui/ui_form2.cpp:290
 msgid "textLabel1"
 msgstr "etiquetaTexto1"
 

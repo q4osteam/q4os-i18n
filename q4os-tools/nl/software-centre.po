@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS Software Centre package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Software Centre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 14:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "<p>"
+msgstr ""
+
+msgid "<p>Discover software manager isn't installed, please install it first.</p>"
+msgstr ""
+
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+msgstr ""
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr ""
+
+msgid "<p>Select an application to install.</p>"
+msgstr ""
+
+msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
+msgstr ""
+
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr ""
+
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desktop profiler"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Install application"
+msgstr ""
+
+msgid "Install selected applications"
+msgstr ""
+
+msgid "Package manager"
+msgstr ""
+
+msgid "Q4OS Software Centre"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Run 'Desktop Profiler' tool"
+msgstr ""
+
+msgid "Run 'Discover' - software manager"
+msgstr ""
+
+msgid "Run 'Synaptic' - system package manager"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstall now"
+msgstr ""
+
+msgid "config_file"
+msgstr ""
+
+msgid "download"
+msgstr ""
+
+msgid "package"
+msgstr ""
+
+msgid "rating_num"
+msgstr ""

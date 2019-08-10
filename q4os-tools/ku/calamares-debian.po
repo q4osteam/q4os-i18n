@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Calamares package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Calamares\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 17:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A great desktop OS"
+msgstr ""
+
+msgid "An alternative to mainstream operating systems"
+msgstr ""
+
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr ""
+
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr ""
+
+msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
+msgstr ""
+
+msgid "Out of the box"
+msgstr ""
+
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr ""
+
+msgid "Q4OS is Free and Open Source."
+msgstr ""
+
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr ""
+
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr ""
+
+msgid "Safe updates"
+msgstr ""
+
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr ""
+
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr ""
+
+msgid "Thank you for choosing us."
+msgstr ""
+
+msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+msgstr ""
+
+msgid "This is Q4OS"
+msgstr ""
+
+msgid "We hope you'll enjoy your operating system."
+msgstr ""
+
+msgid "Welcome to Q4OS"
+msgstr ""

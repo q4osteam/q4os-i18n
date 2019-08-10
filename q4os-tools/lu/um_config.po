@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-26 23:07+0100\n"
+"POT-Creation-Date: 2019-08-09 14:30+0200\n"
 "PO-Revision-Date: 2017-01-08 17:38+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,30 +17,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: build2/.ui/ui_form1.cpp:101
 msgid "Apply"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:98
 msgid "Auto close updater window on finish"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:102
 msgid "Close"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:99
 msgid "Make use of Synaptic package manager, if available"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:96
 msgid "Show upgradable packages lists and confirmation dialogs"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:97
 msgid "Start updater window minimized"
 msgstr ""
 
-#: build2/.ui/ui_form1.cpp:95
 msgid "Update Manager - configuration"
 msgstr ""

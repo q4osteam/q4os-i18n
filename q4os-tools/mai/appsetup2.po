@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS Setup package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Setup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 14:13+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "< Back"
+msgstr ""
+
+msgid "</b></p><p>Cleaning and canceling now ...</p>"
+msgstr ""
+
+msgid ""
+"<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
+"<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
+"<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
+"<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
+msgstr ""
+
+msgid ""
+"<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
+"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
+"<p>Click Next to continue.</p>\n"
+msgstr ""
+
+msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+msgstr ""
+
+msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
+msgstr ""
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
+msgstr ""
+
+msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
+msgstr ""
+
+msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
+msgstr ""
+
+msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
+msgstr ""
+
+msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
+msgstr ""
+
+msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
+msgstr ""
+
+msgid "Adding security keys ..."
+msgstr ""
+
+msgid "Adding security keys ... OK"
+msgstr ""
+
+msgid "Autofix not needed ... OK"
+msgstr ""
+
+msgid "Calculating progress ..."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Checking installation ..."
+msgstr ""
+
+msgid "Checking installation ... Error !"
+msgstr ""
+
+msgid "Checking installation ... OK"
+msgstr ""
+
+msgid "Checking package system ..."
+msgstr ""
+
+msgid "Copying system packages ..."
+msgstr ""
+
+msgid "Copying system packages ... Done"
+msgstr ""
+
+msgid "Do you really want to cancel pending operation ?"
+msgstr ""
+
+msgid "Downloading packages ..."
+msgstr ""
+
+msgid "Downloading packages ... Done"
+msgstr ""
+
+msgid "Enter your password to continue:"
+msgstr ""
+
+msgid "Extracting archive ..."
+msgstr ""
+
+msgid "Extracting archive ... Done"
+msgstr ""
+
+msgid "Fast system checks"
+msgstr ""
+
+msgid "Finish >"
+msgstr ""
+
+msgid "Finishing installation ..."
+msgstr ""
+
+msgid "Get permissions"
+msgstr ""
+
+msgid "I Agree"
+msgstr ""
+
+msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
+msgstr ""
+
+msgid "Install >"
+msgstr ""
+
+msgid "Installation successfully completed :-)"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Installing files ..."
+msgstr ""
+
+msgid "Installing files ... OK"
+msgstr ""
+
+msgid "License Agreement"
+msgstr ""
+
+msgid "License text ..."
+msgstr ""
+
+msgid "Next >"
+msgstr ""
+
+msgid "Package system ... Busy !"
+msgstr ""
+
+msgid "Package system not consistent ..."
+msgstr ""
+
+msgid "Package system still not consistent, canceling installation ..."
+msgstr ""
+
+msgid "Partial update sw database ..."
+msgstr ""
+
+msgid "Partial update sw database ... Done"
+msgstr ""
+
+msgid "Please review the license terms before install"
+msgstr ""
+
+msgid "Please wait while software is being installed"
+msgstr ""
+
+msgid "Postinstall operations ..."
+msgstr ""
+
+msgid "Postinstall operations ... Done"
+msgstr ""
+
+msgid "Postinstall operations, additional commands ..."
+msgstr ""
+
+msgid "Postinstall operations, update sw database ..."
+msgstr ""
+
+msgid "Postinstall operations, upgrade sw database ..."
+msgstr ""
+
+msgid "Preparing installation files ..."
+msgstr ""
+
+msgid "Preparing installation files ... OK"
+msgstr ""
+
+msgid "Press Page Down to see the rest of agreement."
+msgstr ""
+
+msgid "Q4OS Install System v0.2.0"
+msgstr ""
+
+msgid "Recovered ... OK"
+msgstr ""
+
+msgid "Registering application ... OK"
+msgstr ""
+
+msgid "Searching for language packages ..."
+msgstr ""
+
+msgid "Searching for language packages ... Done"
+msgstr ""
+
+msgid "Setup action:"
+msgstr ""
+
+msgid "Setup action:  "
+msgstr ""
+
+msgid "System asks for installation permissions"
+msgstr ""
+
+msgid "System is prechecking installation environment"
+msgstr ""
+
+msgid "Testing Internet connection ..."
+msgstr ""
+
+msgid "Testing Internet connection ... Failed !"
+msgstr ""
+
+msgid "Testing Internet connection ... OK"
+msgstr ""
+
+msgid "Testing installation ..."
+msgstr ""
+
+msgid "Testing installation ... Done"
+msgstr ""
+
+msgid "Trying to recover APT integrity ..."
+msgstr ""
+
+msgid "Update sw database ..."
+msgstr ""
+
+msgid "Update sw database ... Done"
+msgstr ""
+
+msgid "Update system cache ..."
+msgstr ""
+
+msgid "Update system cache ... Done"
+msgstr ""
+
+msgid "Verified ... OK"
+msgstr ""
+
+msgid "Waiting to complete current operation ... Done"
+msgstr ""
+
+msgid "Widget_ui_form3"
+msgstr ""
+
+msgid "Widget_ui_form4"
+msgstr ""
+
+msgid "Widget_ui_form5"
+msgstr ""
+
+msgid "Widget_ui_form6"
+msgstr ""
+
+msgid "setup wizard"
+msgstr ""
