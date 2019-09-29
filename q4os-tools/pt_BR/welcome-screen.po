@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:25+0200\n"
+"POT-Creation-Date: 2019-09-26 16:47+0200\n"
 "PO-Revision-Date: 2019-07-11 14:55-0300\n"
 "Last-Translator: Sebastião Guerra <sebastiao@guerra.mat.br>\n"
 "Language-Team: \n"
@@ -29,6 +29,9 @@ msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavizaç
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Você terá permissão para selecionar entre diferentes perfis do ambiente de trabalho.</p></font>"
+
+msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
+msgstr ""
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma coleção extra de codecs de qualidade profissional.</p><p>Leitores multimedia, como o VLC ou o Mplayer fazem uso destes codecs, a fim de fornecer suporte para reprodução de DVD e arquivos multimedia codificados por esses codecs.</p></font>"
@@ -72,7 +75,12 @@ msgstr "<p>Menu Iniciar agora está definido para o estilo Clássico.</p>"
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
 msgstr "<p>Menu Iniciar agora está definido para o estilo Kickoff.</p>"
 
-msgid "<p>This action is only available for Trinity desktop.</p>"
+#, fuzzy
+msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
+msgstr "<p>Esta ação está disponível somente para o ambiente de trabalho Trinity.</p>"
+
+#, fuzzy
+msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Esta ação está disponível somente para o ambiente de trabalho Trinity.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
@@ -105,11 +113,14 @@ msgstr "Clássico"
 msgid "Classic style cascading menu"
 msgstr "Menu em cascata de estilo clássico"
 
-msgid "Close"
-msgstr "Fechar"
-
 msgid "Desktop effects"
 msgstr "Efeitos do ambiente de trabalho"
+
+msgid "Documents online"
+msgstr ""
+
+msgid "Donate to Q4OS"
+msgstr ""
 
 msgid "Enable Autologin"
 msgstr "Ativar início de sessão automático"
@@ -144,6 +155,9 @@ msgstr "Estrutura do menu"
 msgid "Menu type"
 msgstr "Tipo de menu"
 
+msgid "More options  >"
+msgstr ""
+
 msgid "Q4OS"
 msgstr "Q4OS"
 
@@ -158,6 +172,9 @@ msgstr "Executar o perfil de ambiente de trabalho"
 
 msgid "Set Autologin"
 msgstr "Definir o início de sessão automático"
+
+msgid "Setup Screen scaling ..."
+msgstr ""
 
 msgid "Show this dialog on startup"
 msgstr "Mostrar este diálogo no início"
@@ -206,6 +223,9 @@ msgstr "pressionarBotão4"
 
 msgid "textLabel1"
 msgstr "etiquetaTexto1"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
 
 #~ msgid "<p>Automatic login is now enabled.<p>"
 #~ msgstr "<p>O início de sessão automático está agora ativado.<p>"

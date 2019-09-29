@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:25+0200\n"
+"POT-Creation-Date: 2019-09-26 16:47+0200\n"
 "PO-Revision-Date: 2016-04-15 11:52+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -28,6 +28,9 @@ msgstr "<font size=\"4\"><p>Einen Klick auf diesen Knopf und Ihr Desktop wird mi
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>Der Desktop-Profiler wird automatisch optionale Programme und tools installieren und konfigurieren, und das nur mit einem einzigen Klick.</p><p>Sie dürfen zwischen verschiedenen Desktop-Profilen auswählen.</p></font>"
+
+msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
+msgstr ""
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Ein interaktives Skript starten, um professionelle Qualitäts-Codecs zu installieren.</p><p>Media Player wie VLC oder Mplayer benutzen diese Codecs um DVDs und andere Multimedia-Dateien abzuspielen.</p></font>"
@@ -71,7 +74,10 @@ msgstr ""
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
 msgstr ""
 
-msgid "<p>This action is only available for Trinity desktop.</p>"
+msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
+msgstr ""
+
+msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr ""
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
@@ -104,11 +110,14 @@ msgstr ""
 msgid "Classic style cascading menu"
 msgstr ""
 
-msgid "Close"
-msgstr "Schliessen"
-
 msgid "Desktop effects"
 msgstr "Desktop-Effekte"
+
+msgid "Documents online"
+msgstr ""
+
+msgid "Donate to Q4OS"
+msgstr ""
 
 msgid "Enable Autologin"
 msgstr "Automatische Anmeldung aktivieren"
@@ -143,6 +152,9 @@ msgstr ""
 msgid "Menu type"
 msgstr ""
 
+msgid "More options  >"
+msgstr ""
+
 msgid "Q4OS"
 msgstr ""
 
@@ -157,6 +169,9 @@ msgstr "Desktop-Profiler starten"
 
 msgid "Set Autologin"
 msgstr "Autoanmeldung anwenden"
+
+msgid "Setup Screen scaling ..."
+msgstr ""
 
 msgid "Show this dialog on startup"
 msgstr "Dieses Fenster beim Start anzeigen"
@@ -205,6 +220,9 @@ msgstr ""
 
 msgid "textLabel1"
 msgstr ""
+
+#~ msgid "Close"
+#~ msgstr "Schliessen"
 
 #~ msgid "<p>Automatic login is now enabled.<p>"
 #~ msgstr "<p>Automatische Anmeldung wurde aktiviert</p>"

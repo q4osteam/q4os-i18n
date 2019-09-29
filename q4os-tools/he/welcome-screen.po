@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:25+0200\n"
+"POT-Creation-Date: 2019-09-26 16:47+0200\n"
 "PO-Revision-Date: 2015-05-17 14:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -28,6 +28,9 @@ msgstr "<font size=\"4\"><p>לחיצה על כפתור זה מפעילה אפק�
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>פרופיילר שולחן העבודה יתקין ויתאים מספר תוכנות וכלים, בקליק יחיד.</p><p>ניתן לבחור בין פרופילי שולחן עבודה שונים.</p></font>"
+
+msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
+msgstr ""
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>הרץ סקריפט כדי להתקין אוסף נוסף של קודקים מקצועיים ואיכותיים</p><p>נגני מדיה כגון VLC או MPLAYER עושים שימוש בקודקים אלו כדי לנגן קבצי מולטימדיה</p></font>"
@@ -71,7 +74,10 @@ msgstr ""
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
 msgstr ""
 
-msgid "<p>This action is only available for Trinity desktop.</p>"
+msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
+msgstr ""
+
+msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr ""
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
@@ -104,11 +110,14 @@ msgstr ""
 msgid "Classic style cascading menu"
 msgstr ""
 
-msgid "Close"
-msgstr "סגירה"
-
 msgid "Desktop effects"
 msgstr "אפקטים בשולחן העבודה"
+
+msgid "Documents online"
+msgstr ""
+
+msgid "Donate to Q4OS"
+msgstr ""
 
 msgid "Enable Autologin"
 msgstr "הפעלת כניסה אוטומטית"
@@ -143,6 +152,9 @@ msgstr ""
 msgid "Menu type"
 msgstr ""
 
+msgid "More options  >"
+msgstr ""
+
 msgid "Q4OS"
 msgstr ""
 
@@ -157,6 +169,9 @@ msgstr "הפעלת פרופיל שולחן עבודה"
 
 msgid "Set Autologin"
 msgstr "הגדרת כניסה אוטומטית"
+
+msgid "Setup Screen scaling ..."
+msgstr ""
 
 msgid "Show this dialog on startup"
 msgstr "הראה דיאלוג זה בכניסה "
@@ -205,6 +220,9 @@ msgstr ""
 
 msgid "textLabel1"
 msgstr ""
+
+#~ msgid "Close"
+#~ msgstr "סגירה"
 
 #~ msgid "<p>Automatic login is now enabled.<p>"
 #~ msgstr "כניסה אוטומטית מופעלת מעכשיו"
