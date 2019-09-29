@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Screen scaler for Trinity desktop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Screen scaler for Trinity desktop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-26 14:30+0200\n"
+"PO-Revision-Date: 2019-09-29 17:45+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt\n"
+
+msgid "1.00"
+msgstr "1.00"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Form (ui_form1)"
+msgstr "Form (ui_form1)"
+
+msgid "Form1"
+msgstr "Form1"
+
+msgid ""
+"If you align the scale, fonts and elements on primary screen will match the "
+"real size."
+msgstr ""
+"Se você alinhar a escala, as fontes e os elementos no ecrã principal "
+"corresponderão ao tamanho real."
+
+msgid "Reset"
+msgstr "Repor"
+
+msgid "Reset screen scaling configuration to system defaults"
+msgstr "Redefinir a configuração de escala do ecrã para os padrões do sistema"
+
+msgid "Ruler [cm]:"
+msgstr "Régua [cm]:"
+
+msgid "Sample:"
+msgstr "Amostra:"
+
+msgid "Save changes, you will need to login again"
+msgstr "Guardar alterações, você precisará de iniciar sessão novamente"
+
+msgid "Scaling factor"
+msgstr "Fator de escala"
+
+msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
+msgstr "Fator de escala / valor de DPI a aplicar / Ecrã principal adivinhado"
+
+msgid ""
+"Screen scaling configuration has been saved. You need to login again for "
+"changes to take effect."
+msgstr ""
+"A configuração de escala do ecrã foi guardada. Você precisa de iniciar "
+"sessão novamente para que as alterações tenham efeito."
+
+msgid "Screen scaling setup"
+msgstr "Configuração da escala do ecrã"
+
+msgid "Show advanced options"
+msgstr "Mostrar opções avançadas"
+
+msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
+msgstr ""
+"Esta ferramenta define o redimensionamento do ecrã para o ambiente de "
+"trabalho Trinity apenas, a sair ..."
