@@ -13,11 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: pt_PT\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Source-Language: C\n"
 
 msgid "A great desktop OS"
-msgstr "Um óptimo SO para o ambiente de trabalho"
+msgstr "Um excelente SO para o ambiente de trabalho"
 
 msgid "An alternative to mainstream operating systems"
 msgstr "Uma alternativa aos sistemas operativos convencionais"

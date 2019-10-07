@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-09 14:45+0200\n"
-"PO-Revision-Date: 2019-06-17 22:05+0100\n"
+"PO-Revision-Date: 2019-10-07 19:17+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid "  Install >"
 msgstr "  Instalar >"
@@ -86,7 +86,6 @@ msgstr "<p>Hardware insuficiente detectado !</p><p>O seu computador está com po
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
 msgstr "<p>Mantenha o ambiente de trabalho <span style=\"font-weight:600\">Trinity</span> como padrão, nenhum Plasma será instalado. Você pode iniciar a instalação do Plasma posteriormente usando a ferramenta do Perfil de ambiente de trabalho.</p>"
 
-#, fuzzy
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>Sistema de pacotes ocupado, não está pronto para instalar agora. A instalação não pode continuar.</p><p>O bloqueio é causado, muito provavelmente, por atualizações em segundo plano do sistema em curso. Se este for o caso, você tem que esperar um momento para o sistema de pacotes concluir essas operações. Por favor, verifique se você não está a instalar outra aplicação e repita a configuração alguns minutos depois.</p>"
 
@@ -94,7 +93,7 @@ msgid "<p>Warning: Canceling installation during this phase could result in pack
 msgstr "<p>Aviso: Cancelar a instalação durante esta fase pode resultar em falha do sistema de pacotes.</p><p>Tem certeza de que deseja interromper o processo de instalação agora ?</p>"
 
 msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
-msgstr ""
+msgstr "<p>Está a solicitar por uma instalação de ambiente de trabalho alternativo, mas não é compatível com o perfil selecionado. Por favor, selecione outro perfil.</p>"
 
 msgid ">"
 msgstr ">"
