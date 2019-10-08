@@ -3,70 +3,70 @@
 # This file is distributed under the same license as the Calamares package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Calamares\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-09 17:06+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-10-08 11:48+0100\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid "A great desktop OS"
-msgstr ""
+msgstr "Um excelente SO para o ambiente de trabalho"
 
 msgid "An alternative to mainstream operating systems"
-msgstr ""
+msgstr "Uma alternativa aos sistemas operacionais convencionais"
 
 msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr ""
+msgstr "O Google Chrome, o Firefox, o Thunderbird e o LibreOffice são facilmente instaláveis, para que você possa começar a usar o ambiente de trabalho e a Internet."
 
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr ""
+msgstr "É seguro e estável, você não precisa de um antivírus, um anti-spyware, uma ferramenta de desfragmentação ou uma ferramenta de limpeza de registro."
 
 msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
-msgstr ""
+msgstr "Outros aplicativos populares <!--como o Google Picasa, Skype, Dropbox, TeamViewer e muito mais -->podem ser instalados com um clique do mouse."
 
 msgid "Out of the box"
-msgstr ""
+msgstr "Pronto a utilizar"
 
 msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr ""
+msgstr "O Q4OS pode detectar outros sistemas operacionais e instalar-se ao lado deles. Você pode escolher o sistema operacional a ser iniciado ao iniciar o computador."
 
 msgid "Q4OS is Free and Open Source."
-msgstr ""
+msgstr "O Q4OS é gratuito e de código aberto."
 
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr ""
+msgstr "O Q4OS é compatível com os formatos de ficheiros mais populares: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
 
 msgid "Q4OS is easy to use, powerful and configurable."
-msgstr ""
+msgstr "O Q4OS é fácil de usar, poderoso e configurável."
 
 msgid "Safe updates"
-msgstr ""
+msgstr "Atualizações seguras"
 
 msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr ""
+msgstr "Atualizações de software e atualizações de segurança são fornecidas, não apenas para o sistema operativo, mas também para o software que você instala."
 
 msgid "Tens of thousands free software applications are available from package manager."
-msgstr ""
+msgstr "Dezenas de milhares de aplicativos de software gratuitas estão disponíveis no gestor de pacotes."
 
 msgid "Thank you for choosing us."
-msgstr ""
+msgstr "Obrigado por nos escolher."
 
 msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
-msgstr ""
+msgstr "O gestor de atualização do Q4OS assiste o seu sistema e atualiza-o automaticamente assim que as atualizações estiverem disponíveis."
 
 msgid "This is Q4OS"
-msgstr ""
+msgstr "Este é o Q4OS"
 
 msgid "We hope you'll enjoy your operating system."
-msgstr ""
+msgstr "Esperamos que goste do seu sistema operacional."
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Bem-vindo ao Q4OS"

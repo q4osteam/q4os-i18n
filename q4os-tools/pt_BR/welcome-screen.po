@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-26 16:47+0200\n"
-"PO-Revision-Date: 2019-07-11 14:55-0300\n"
-"Last-Translator: Sebastião Guerra <sebastiao@guerra.mat.br>\n"
+"PO-Revision-Date: 2019-10-08 11:52+0100\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
-"Language: pt\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operacional rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador clássica e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
@@ -31,7 +31,7 @@ msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and confi
 msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Você terá permissão para selecionar entre diferentes perfis do ambiente de trabalho.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Outras opções úteis de configuração.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Executar um script interativo para instalar uma coleção extra de codecs de qualidade profissional.</p><p>Leitores multimedia, como o VLC ou o Mplayer fazem uso destes codecs, a fim de fornecer suporte para reprodução de DVD e arquivos multimedia codificados por esses codecs.</p></font>"
@@ -75,11 +75,9 @@ msgstr "<p>Menu Iniciar agora está definido para o estilo Clássico.</p>"
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
 msgstr "<p>Menu Iniciar agora está definido para o estilo Kickoff.</p>"
 
-#, fuzzy
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr "<p>Esta ação está disponível somente para o ambiente de trabalho Trinity.</p>"
+msgstr "<p>Esta ação está disponível apenas para os ambientes de trabalho Trinity e Plasma.</p>"
 
-#, fuzzy
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Esta ação está disponível somente para o ambiente de trabalho Trinity.</p>"
 
@@ -117,10 +115,10 @@ msgid "Desktop effects"
 msgstr "Efeitos do ambiente de trabalho"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Documentos online"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Doe ao Q4OS"
 
 msgid "Enable Autologin"
 msgstr "Ativar início de sessão automático"
@@ -156,7 +154,7 @@ msgid "Menu type"
 msgstr "Tipo de menu"
 
 msgid "More options  >"
-msgstr ""
+msgstr "Mais opções  >"
 
 msgid "Q4OS"
 msgstr "Q4OS"
@@ -174,7 +172,7 @@ msgid "Set Autologin"
 msgstr "Definir o início de sessão automático"
 
 msgid "Setup Screen scaling ..."
-msgstr ""
+msgstr "Configuração da escala da tela ...."
 
 msgid "Show this dialog on startup"
 msgstr "Mostrar este diálogo no início"
