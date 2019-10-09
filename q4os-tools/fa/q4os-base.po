@@ -1,0 +1,310 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the q4os-base package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: q4os-base\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 10:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
+msgstr ""
+
+#, sh-format
+msgid "<b>Q4OS optimized</b> ${APD} is preffered to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
+msgstr ""
+
+#, sh-format
+msgid "<b>Warning</b>"
+msgstr ""
+
+#, sh-format
+msgid "Asus Eee PC laptop detected, extra configuration will be performed."
+msgstr ""
+
+#, sh-format
+msgid "Check Internet connection, please."
+msgstr ""
+
+#, sh-format
+msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
+msgstr ""
+
+#, sh-format
+msgid "Click \"Ok\" button to show the MenuEditor window."
+msgstr ""
+
+#, sh-format
+msgid "Click OK to get login screen now."
+msgstr ""
+
+#, sh-format
+msgid "Click OK to run a WiFi connection tool to create a network connection."
+msgstr ""
+
+#, sh-format
+msgid "Click Ok to reboot your computer now."
+msgstr ""
+
+#, sh-format
+msgid "Configuring desktop theme ..."
+msgstr ""
+
+#, sh-format
+msgid "Configuring the profile ..."
+msgstr ""
+
+#, sh-format
+msgid "Configuring the system ..."
+msgstr ""
+
+#, sh-format
+msgid "Congratulations, setup has finished."
+msgstr ""
+
+#, sh-format
+msgid "Current system language: <b>English</b>"
+msgstr ""
+
+#, sh-format
+msgid "Default language: <b>${LANC}</b>"
+msgstr ""
+
+#, sh-format
+msgid "Display setup"
+msgstr ""
+
+#, sh-format
+msgid "Do you want to continue ?"
+msgstr ""
+
+#, sh-format
+msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
+msgstr ""
+
+#, sh-format
+msgid "Do you want to install <b>${APF1}</b> just now ?"
+msgstr ""
+
+#, sh-format
+msgid "Do you want to keep English as default system language ?"
+msgstr ""
+
+#, sh-format
+msgid "Download failed !"
+msgstr ""
+
+#, sh-format
+msgid "Downloading language pack, please wait ..."
+msgstr ""
+
+#, sh-format
+msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
+msgstr ""
+
+#, sh-format
+msgid "Generating system wide locales, please wait ..."
+msgstr ""
+
+#, sh-format
+msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
+msgstr ""
+
+#, sh-format
+msgid "If you want to get the best experience and latest Internet technologies, we recommend you to install <b>${APF1}</b> within Q4OS system."
+msgstr ""
+
+#, sh-format
+msgid "Install wizard"
+msgstr ""
+
+#, sh-format
+msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
+msgstr ""
+
+#, sh-format
+msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
+msgstr ""
+
+#, sh-format
+msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
+msgstr ""
+
+#, sh-format
+msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
+msgstr ""
+
+#, sh-format
+msgid "Language"
+msgstr ""
+
+#, sh-format
+msgid "Language <b>${LANC}</b> has been added to system."
+msgstr ""
+
+#, sh-format
+msgid "Language pack"
+msgstr ""
+
+#, sh-format
+msgid "Live media detected. Printers management is not fully supported within the live media now. It will be available after Q4OS installation."
+msgstr ""
+
+#, sh-format
+msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
+msgstr ""
+
+#, sh-format
+msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
+msgstr ""
+
+#, sh-format
+msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
+msgstr ""
+
+#, sh-format
+msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
+msgstr ""
+
+#, sh-format
+msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
+msgstr ""
+
+#, sh-format
+msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
+msgstr ""
+
+#, sh-format
+msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
+msgstr ""
+
+#, sh-format
+msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
+msgstr ""
+
+#, sh-format
+msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
+msgstr ""
+
+#, sh-format
+msgid "Please login again to take changes effect."
+msgstr ""
+
+#, sh-format
+msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
+msgstr ""
+
+#, sh-format
+msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+msgstr ""
+
+#, sh-format
+msgid "Select your language:"
+msgstr ""
+
+#, sh-format
+msgid "Setup cannot continue ..."
+msgstr ""
+
+#, sh-format
+msgid "Setup cannot continue."
+msgstr ""
+
+#, sh-format
+msgid "Sound card not detected, system sound was disabled."
+msgstr ""
+
+#, sh-format
+msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
+msgstr ""
+
+#, sh-format
+msgid "System is ready to download and install ${LANC} language pack, you need an active Internet link."
+msgstr ""
+
+#, sh-format
+msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
+msgstr ""
+
+#, sh-format
+msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
+msgstr ""
+
+#, sh-format
+msgid "Unable to download ${APD}, check Internet connection, please."
+msgstr ""
+
+#, sh-format
+msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
+msgstr ""
+
+#, sh-format
+msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
+msgstr ""
+
+#, sh-format
+msgid "Wireless network card detected, WiFi support enabled."
+msgstr ""
+
+#, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
+msgstr ""
+
+#, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>.</p><p>Would you like to be notified later ?"
+msgstr ""
+
+#, sh-format
+msgid "Would you like to be notified later ?"
+msgstr ""
+
+#, sh-format
+msgid "Would you like to install the language right now ?"
+msgstr ""
+
+#, sh-format
+msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
+msgstr ""
+
+#, sh-format
+msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
+msgstr ""
+
+#, sh-format
+msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+msgstr ""
+
+#, sh-format
+msgid "You are going to edit Start Menu."
+msgstr ""
+
+#, sh-format
+msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
+msgstr ""
+
+#, sh-format
+msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
+msgstr ""
+
+#, sh-format
+msgid "download"
+msgstr ""
+
+#, sh-format
+msgid "downloading ..."
+msgstr ""
+
+#, sh-format
+msgid "message"
+msgstr ""
