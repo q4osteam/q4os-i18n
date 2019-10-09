@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-09 10:52+0200\n"
+"POT-Creation-Date: 2019-10-09 14:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,6 +130,10 @@ msgid "Install wizard"
 msgstr ""
 
 #, sh-format
+msgid "Installation has not completed, package system is busy. Try it few minutes later please."
+msgstr ""
+
+#, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
 msgstr ""
 
@@ -247,6 +251,10 @@ msgstr ""
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
+msgstr ""
+
+#, sh-format
+msgid "Unable to update, check Internet connection please."
 msgstr ""
 
 #, sh-format
