@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the q4os-shortcuts package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: q4os-shortcuts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 11:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A KDE panel applet for a WINE menu"
+msgstr ""
+
+msgid "Access the Internet"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "Air"
+msgstr ""
+
+msgid "Autumn Leaves"
+msgstr ""
+
+msgid "Blueman Bluetooth Manager"
+msgstr ""
+
+msgid "Bluetooth Manager"
+msgstr ""
+
+msgid "Browse the World Wide Web"
+msgstr ""
+
+msgid "Burning tool"
+msgstr ""
+
+msgid "Centaurus constellation"
+msgstr ""
+
+msgid "Configure NVIDIA X Server Settings"
+msgstr ""
+
+msgid "Control Panel"
+msgstr ""
+
+msgid "Control panel"
+msgstr ""
+
+msgid "Create, reorganize, and delete partitions"
+msgstr ""
+
+msgid "Curls on Green"
+msgstr ""
+
+msgid "Damselfly"
+msgstr ""
+
+msgid "Debian Future prototype"
+msgstr ""
+
+msgid "Debian Lines"
+msgstr ""
+
+msgid "Debian Softwaves"
+msgstr ""
+
+msgid "Debonaire"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Dolomiti"
+msgstr ""
+
+msgid "Dolomiti Cimerlo"
+msgstr ""
+
+msgid "Dropbox"
+msgstr ""
+
+msgid "Ethais"
+msgstr ""
+
+msgid "File Synchronizer"
+msgstr ""
+
+msgid "Files and folders"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Firefox"
+msgstr ""
+
+msgid "GParted"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Google Chrome"
+msgstr ""
+
+msgid "Green curtain"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Install Applications"
+msgstr ""
+
+msgid "Install Q4OS to Pinebook"
+msgstr ""
+
+msgid "Install, remove and upgrade software packages"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "K3B"
+msgstr ""
+
+msgid "Konqueror"
+msgstr ""
+
+msgid "Konsole"
+msgstr ""
+
+msgid "Landscape Keltern"
+msgstr ""
+
+msgid "Language Pack installation"
+msgstr ""
+
+msgid "Lineart Logo"
+msgstr ""
+
+msgid "Look Switcher"
+msgstr ""
+
+msgid "Mail Client"
+msgstr ""
+
+msgid "Media player"
+msgstr ""
+
+msgid "Mozilla Thunderbird"
+msgstr ""
+
+msgid "My Documents"
+msgstr ""
+
+msgid "NVIDIA X Server Settings"
+msgstr ""
+
+msgid "Network Shares"
+msgstr ""
+
+msgid "Network connections"
+msgstr ""
+
+msgid "Nightfear"
+msgstr ""
+
+msgid "Open Terminal"
+msgstr ""
+
+msgid "Origami 1"
+msgstr ""
+
+msgid "Origami 2"
+msgstr ""
+
+msgid "Origami 3"
+msgstr ""
+
+msgid "Package Manager"
+msgstr ""
+
+msgid "Partition Editor"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Print system"
+msgstr ""
+
+msgid "Programs"
+msgstr ""
+
+msgid "Q-Blue flat"
+msgstr ""
+
+msgid "Q4OS Centaurus1"
+msgstr ""
+
+msgid "Q4OS Design 1"
+msgstr ""
+
+msgid "Q4OS Design 2"
+msgstr ""
+
+msgid "Q4OS Hex2"
+msgstr ""
+
+msgid "Q4OS Matrix"
+msgstr ""
+
+msgid "Q4OS Software Centre"
+msgstr ""
+
+msgid "Q4OS Welcome Screen"
+msgstr ""
+
+msgid "Q4OS documentation on-line"
+msgstr ""
+
+msgid "Read, capture, broadcast your multimedia streams"
+msgstr ""
+
+msgid "Read/Write Mail/News with Thunderbird"
+msgstr ""
+
+msgid "Screen scaling"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Simple Screen Recorder"
+msgstr ""
+
+msgid "SimpleOutlook Glass"
+msgstr ""
+
+msgid "SimpleOutlook Glass Adaptive"
+msgstr ""
+
+msgid "SimpleOutlook Pyramids"
+msgstr ""
+
+msgid "SimpleOutlook Ridge"
+msgstr ""
+
+msgid "SimpleOutlook Sunset"
+msgstr ""
+
+msgid "Skype"
+msgstr ""
+
+msgid "Skype Internet Telephony"
+msgstr ""
+
+msgid "Start menu"
+msgstr ""
+
+msgid "StartUp"
+msgstr ""
+
+msgid "Storm Blue"
+msgstr ""
+
+msgid "Synaptic Package Manager"
+msgstr ""
+
+msgid "Sync your files across computers and to the web"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "TDevelop - Q4OS Development Pack"
+msgstr ""
+
+msgid "TDevelop Q4OS"
+msgstr ""
+
+msgid "Terminal Program"
+msgstr ""
+
+msgid "The Bay"
+msgstr ""
+
+msgid "Thunderbird"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstall Chromium"
+msgstr ""
+
+msgid "Uninstall Q4OS Development Pack"
+msgstr ""
+
+msgid "Uninstall substitute_application_name_desc"
+msgstr ""
+
+msgid "Update Manager"
+msgstr ""
+
+msgid "Users and groups"
+msgstr ""
+
+msgid "VLC media player"
+msgstr ""
+
+msgid "Vector 2"
+msgstr ""
+
+msgid "Web Browser"
+msgstr ""
+
+msgid "Wine Configuration"
+msgstr ""
+
+msgid "Wine Menu"
+msgstr ""
+
+msgid "Wine control panel"
+msgstr ""
+
+msgid "X2Go Client"
+msgstr ""
+
+msgid "crystalsvg-kde4"
+msgstr ""
+
+msgid "substitute_application_name for Q4OS"
+msgstr ""
+
+msgid "substitute_application_name_desc"
+msgstr ""
