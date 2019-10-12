@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-09 14:26+0200\n"
+"POT-Creation-Date: 2019-10-12 17:44+0200\n"
 "PO-Revision-Date: 2019-10-11 16:06+0100\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
-"Language-Team: \n"
 "X-Generator: Poedit 2.2.4\n"
 
 #, sh-format
@@ -40,6 +40,10 @@ msgstr "Verifique a ligação à Internet, por favor."
 #, sh-format
 msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "Verifique a ligação com a Internet, por favor.</p><p>O instalador precisa de transferir os pacotes dos recursos da Internet do Q4OS, mas nenhuma informação pode ser recuperada. Será solicitado a instalar o ${APD} no próximo início de sessão, ou pode instalar a qualquer momento a partir do Centro de software."
+
+#, fuzzy, sh-format
+msgid "Click \"Ok\" button to run the tool."
+msgstr "Clique no botão \"Ok\" para mostrar a janela do MenuEditor."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
@@ -110,6 +114,14 @@ msgid "Downloading language pack, please wait ..."
 msgstr "A transferir o pacote de idioma, por favor aguarde ..."
 
 #, sh-format
+msgid "External repositories"
+msgstr ""
+
+#, sh-format
+msgid "External repositories to add"
+msgstr ""
+
+#, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
 msgstr "Para informações mais detalhadas, leia a documentação do Q4OS em https://www.q4os.org"
 
@@ -148,6 +160,10 @@ msgstr "O instalador precisa de transferir pacotes a partir dos recursos Q4OS da
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
 msgstr "O instalador precisa de transferir pacotes a partir dos recursos Q4OS da Internet, mas nenhuma informação pode ser recuperada. Você será solicitado a instalar o ${APF1} na próxima execução do Konqueror, ou pode instalar a qualquer momento a partir do Centro de Software Q4OS."
+
+#, sh-format
+msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
+msgstr ""
 
 #, sh-format
 msgid "Language"
@@ -206,12 +222,20 @@ msgid "Please login again to take changes effect."
 msgstr "Por favor, reinicie a sessão para ter efeito das alterações."
 
 #, sh-format
+msgid "Please use this tool only if you exactly understand what you are doing."
+msgstr ""
+
+#, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
 msgstr "O subsistema de impressão está agora desativado, você precisa de instalar a <b>camada CUPS e o driver de impressora</b> primeiro. Se quiser ativar o subsistema de impressão e o conjunto completo de drivers, instale os seguintes pacotes:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
 msgstr "Q4OS detetado automáticamente <b>${APF}</b> disponível <b>!</b>"
+
+#, sh-format
+msgid "Select a repository:"
+msgstr ""
 
 #, sh-format
 msgid "Select your language:"
@@ -292,6 +316,10 @@ msgstr "Sim, esta é a forma correcta de testar o sistema operativo Q4OS. É <b>
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
 msgstr "Sim, você pode instalar drivers de vídeo NVIDIA proprietários agora mesmo. Esta configuração irá transferir e instalar automáticamente tudo o que é necessário."
+
+#, sh-format
+msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
+msgstr ""
 
 #, sh-format
 msgid "You are going to edit Start Menu."
