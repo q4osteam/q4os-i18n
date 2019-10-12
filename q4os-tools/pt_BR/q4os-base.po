@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-12 17:44+0200\n"
-"PO-Revision-Date: 2019-10-11 16:06+0100\n"
+"PO-Revision-Date: 2019-10-12 17:59+0200\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
@@ -41,9 +41,9 @@ msgstr "Verifique a ligação à Internet, por favor."
 msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "Verifique a ligação com a Internet, por favor.</p><p>O instalador precisa de transferir os pacotes dos recursos da Internet do Q4OS, mas nenhuma informação pode ser recuperada. Será solicitado a instalar o ${APD} no próximo início de sessão, ou pode instalar a qualquer momento a partir do Centro de software."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click \"Ok\" button to run the tool."
-msgstr "Clique no botão \"Ok\" para mostrar a janela do MenuEditor."
+msgstr ""
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
