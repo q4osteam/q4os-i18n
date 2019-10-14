@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-09 14:26+0200\n"
+"POT-Creation-Date: 2019-10-12 17:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,6 +39,10 @@ msgstr ""
 
 #, sh-format
 msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
+msgstr ""
+
+#, sh-format
+msgid "Click \"Ok\" button to run the tool."
 msgstr ""
 
 #, sh-format
@@ -110,6 +114,14 @@ msgid "Downloading language pack, please wait ..."
 msgstr ""
 
 #, sh-format
+msgid "External repositories"
+msgstr ""
+
+#, sh-format
+msgid "External repositories to add"
+msgstr ""
+
+#, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
 msgstr ""
 
@@ -147,6 +159,10 @@ msgstr ""
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
+msgstr ""
+
+#, sh-format
+msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
 msgstr ""
 
 #, sh-format
@@ -206,11 +222,19 @@ msgid "Please login again to take changes effect."
 msgstr ""
 
 #, sh-format
+msgid "Please use this tool only if you exactly understand what you are doing."
+msgstr ""
+
+#, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
 msgstr ""
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+msgstr ""
+
+#, sh-format
+msgid "Select a repository:"
 msgstr ""
 
 #, sh-format
@@ -291,6 +315,10 @@ msgstr ""
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+msgstr ""
+
+#, sh-format
+msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
 msgstr ""
 
 #, sh-format
