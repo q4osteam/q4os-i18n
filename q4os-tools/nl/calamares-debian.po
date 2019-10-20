@@ -1,72 +1,106 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Calamares package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
+# Heimen Stoffels <vistausss@outlook.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Calamares\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-09 17:06+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-10-17 20:45+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Language-Team: Dutch <vistausss@outlook.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.08.2\n"
 
 msgid "A great desktop OS"
-msgstr ""
+msgstr "Een geweldig besturingssysteem"
 
 msgid "An alternative to mainstream operating systems"
-msgstr ""
+msgstr "Een alternatief voor de bekende besturingssystemen"
 
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgid ""
+"Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable,"
+" so you can get started with the desktop and the Internet."
 msgstr ""
+"Google Chrome, Firefox, Thunderbird en LibreOffice kunnen gemakkelijk worden"
+" geïnstalleerd, zodat u snel aan de slag kunt met het systeem en het internet."
 
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgid ""
+"It's safe and stable, you don't need an antivirus, an anti-spyware, a"
+" defragmentation tool or a registry cleaner."
 msgstr ""
+"Het is veilig en stabiel: geen antivirus- en antispywareprogramma nodig, en"
+" geen defragmentatie of registeropschoning nodig."
 
-msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
+msgid ""
+"Other popular applications <!--such as Google Picasa, Skype, Dropbox,"
+" TeamViewer and more -->can be installed with a click of the mouse."
 msgstr ""
+"Andere populaire programma's, <!--zoals Google Picasa, Skype, Dropbox,"
+" TeamViewer en nog véél meer -->, kunnen met één muisklik worden"
+" geïnstalleerd."
 
 msgid "Out of the box"
-msgstr ""
+msgstr "Direct aan de slag"
 
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgid ""
+"Q4OS can detect other operating systems and install itself beside them. You"
+" can choose which operating system to launch when you start the computer."
 msgstr ""
+"Q4OS detecteert andere besturingssystemen en installeert zichzelf ernaast. Na"
+" het aanzetten van de computer kunt u kiezen welk besturingssysteem u wilt"
+" opstarten."
 
 msgid "Q4OS is Free and Open Source."
-msgstr ""
+msgstr "Q4OS is vrij en open source."
 
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgid ""
+"Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar,"
+" mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
 msgstr ""
+"Q4OS is kan omgaan met de populairste bestandsformaten: zip, doc, xls, pdf,"
+" rar, mp3, wmv, mpg, mp4, mkv, avi, mov, etc."
 
 msgid "Q4OS is easy to use, powerful and configurable."
-msgstr ""
+msgstr "Q4OS is eenvoudig in het gebruik, maar ook veelzijdig en aanpasbaar."
 
 msgid "Safe updates"
-msgstr ""
+msgstr "Veilige updates"
 
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgid ""
+"Software updates and security updates are provided, not only for the"
+" operating system but also for the software you install."
 msgstr ""
+"U krijgt alle benodigde software- en beveiligingsupdates, zowel voor het"
+" systeem als voor de geïnstalleerde software."
 
-msgid "Tens of thousands free software applications are available from package manager."
+msgid ""
+"Tens of thousands free software applications are available from package"
+" manager."
 msgstr ""
+"U kunt tienduizenden vrijesoftwareprogramma's installeren middels de"
+" pakketbeheerder."
 
 msgid "Thank you for choosing us."
-msgstr ""
+msgstr "Bedankt dat u voor ons hebt gekozen."
 
-msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+msgid ""
+"The Q4OS update manager watch your system and upgrade it automatically as"
+" soon as updates are available."
 msgstr ""
+"De Q4OS-updatebeheerder houdt uw systeem in de gaten en werkt het automatisch"
+" bij zodra er updates beschikbaar zijn."
 
 msgid "This is Q4OS"
-msgstr ""
+msgstr "Dit is Q4OS"
 
 msgid "We hope you'll enjoy your operating system."
-msgstr ""
+msgstr "We hopen dat u veel plezier gaat beleven aan uw besturingssysteem."
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Welkom bij Q4OS"

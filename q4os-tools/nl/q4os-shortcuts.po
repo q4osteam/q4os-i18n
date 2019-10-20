@@ -1,351 +1,351 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the q4os-shortcuts package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
+# Heimen Stoffels <vistausss@outlook.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 11:25+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-10-18 18:32+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Language-Team: Dutch <vistausss@outlook.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.08.2\n"
 
 msgid "A KDE panel applet for a WINE menu"
-msgstr ""
+msgstr "Een KDE-paneelapplet voor een Wine-menu"
 
 msgid "Access the Internet"
-msgstr ""
+msgstr "Surf op het internet"
 
 msgid "Accessories"
-msgstr ""
+msgstr "Accessories"
 
 msgid "Air"
-msgstr ""
+msgstr "Blauwe lucht"
 
 msgid "Autumn Leaves"
-msgstr ""
+msgstr "Herfstbladeren"
 
 msgid "Blueman Bluetooth Manager"
-msgstr ""
+msgstr "Blueman-bluetoothbeheerder"
 
 msgid "Bluetooth Manager"
-msgstr ""
+msgstr "Bluetoothbeheerder"
 
 msgid "Browse the World Wide Web"
-msgstr ""
+msgstr "Surf op het wereldwijde web"
 
 msgid "Burning tool"
-msgstr ""
+msgstr "CD's/DVD's branden"
 
 msgid "Centaurus constellation"
-msgstr ""
+msgstr "Centaurus-constellatie"
 
 msgid "Configure NVIDIA X Server Settings"
-msgstr ""
+msgstr "Stel de NVIDIA X Server-instellingen in"
 
 msgid "Control Panel"
-msgstr ""
+msgstr "Configuratiescherm"
 
 msgid "Control panel"
-msgstr ""
+msgstr "Configuratiescherm"
 
 msgid "Create, reorganize, and delete partitions"
-msgstr ""
+msgstr "Maak, herorden en verwijder partities"
 
 msgid "Curls on Green"
-msgstr ""
+msgstr "Krullen op groen"
 
 msgid "Damselfly"
-msgstr ""
+msgstr "Stamjuffer"
 
 msgid "Debian Future prototype"
-msgstr ""
+msgstr "Debian-toekomstprototype"
 
 msgid "Debian Lines"
-msgstr ""
+msgstr "Debian-lijnen"
 
 msgid "Debian Softwaves"
-msgstr ""
+msgstr "Debian zachte golven"
 
 msgid "Debonaire"
-msgstr ""
+msgstr "Debonaire"
 
 msgid "Documents"
-msgstr ""
+msgstr "Documenten"
 
 msgid "Dolomiti"
-msgstr ""
+msgstr "Dolomieten"
 
 msgid "Dolomiti Cimerlo"
-msgstr ""
+msgstr "Dolomiti Cimerlo"
 
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 msgid "Ethais"
-msgstr ""
+msgstr "Ethais"
 
 msgid "File Synchronizer"
-msgstr ""
+msgstr "Bestandssynchronisatie"
 
 msgid "Files and folders"
-msgstr ""
+msgstr "Bestanden en mappen"
 
 msgid "Find"
-msgstr ""
+msgstr "Zoeken"
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "GParted"
-msgstr ""
+msgstr "GParted"
 
 msgid "Games"
-msgstr ""
+msgstr "Spellen"
 
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 msgid "Green curtain"
-msgstr ""
+msgstr "Groen gordijn"
 
 msgid "Help"
-msgstr ""
+msgstr "Hulp"
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Programma's installeren"
 
 msgid "Install Q4OS to Pinebook"
-msgstr ""
+msgstr "Q4OS installeren op Pinebook"
 
 msgid "Install, remove and upgrade software packages"
-msgstr ""
+msgstr "Installeer, verwijder en werk softwarepakketten bij"
 
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 msgid "K3B"
-msgstr ""
+msgstr "K3B"
 
 msgid "Konqueror"
-msgstr ""
+msgstr "Konqueror"
 
 msgid "Konsole"
-msgstr ""
+msgstr "Konsole"
 
 msgid "Landscape Keltern"
-msgstr ""
+msgstr "Keltisch landschap"
 
 msgid "Language Pack installation"
-msgstr ""
+msgstr "Taalpakketten installeren"
 
 msgid "Lineart Logo"
-msgstr ""
+msgstr "Lijnkunstlogo"
 
 msgid "Look Switcher"
-msgstr ""
+msgstr "Themakiezer"
 
 msgid "Mail Client"
-msgstr ""
+msgstr "E-mailprogramma"
 
 msgid "Media player"
-msgstr ""
+msgstr "Mediaspeler"
 
 msgid "Mozilla Thunderbird"
-msgstr ""
+msgstr "Mozilla Thunderbird"
 
 msgid "My Documents"
-msgstr ""
+msgstr "Mijn documenten"
 
 msgid "NVIDIA X Server Settings"
-msgstr ""
+msgstr "NVIDIA X Server-instellingen"
 
 msgid "Network Shares"
-msgstr ""
+msgstr "Netwerkdelingen"
 
 msgid "Network connections"
-msgstr ""
+msgstr "Netwerkverbindingen"
 
 msgid "Nightfear"
-msgstr ""
+msgstr "Nachtelijke angst"
 
 msgid "Open Terminal"
-msgstr ""
+msgstr "Terminalvenster openen"
 
 msgid "Origami 1"
-msgstr ""
+msgstr "Origami 1"
 
 msgid "Origami 2"
-msgstr ""
+msgstr "Origami 2"
 
 msgid "Origami 3"
-msgstr ""
+msgstr "Origami 3"
 
 msgid "Package Manager"
-msgstr ""
+msgstr "Pakketbeheer"
 
 msgid "Partition Editor"
-msgstr ""
+msgstr "Partities aanpassen"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Afbeeldingen"
 
 msgid "Print system"
-msgstr ""
+msgstr "Afdruksysteem"
 
 msgid "Programs"
-msgstr ""
+msgstr "Programma's"
 
 msgid "Q-Blue flat"
-msgstr ""
+msgstr "Q-Blue - plat"
 
 msgid "Q4OS Centaurus1"
-msgstr ""
+msgstr "Q4OS - Centaurus 1"
 
 msgid "Q4OS Design 1"
-msgstr ""
+msgstr "Q4OS - Ontwerp 1"
 
 msgid "Q4OS Design 2"
-msgstr ""
+msgstr "Q4OS - Ontwerp 2"
 
 msgid "Q4OS Hex2"
-msgstr ""
+msgstr "Q4OS - Hex 2"
 
 msgid "Q4OS Matrix"
-msgstr ""
+msgstr "Q4OS - Matrix"
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Q4OS-softwarecentrum"
 
 msgid "Q4OS Welcome Screen"
-msgstr ""
+msgstr "Q4OS-welkomstscherm"
 
 msgid "Q4OS documentation on-line"
-msgstr ""
+msgstr "Online Q4OS-documentatie"
 
 msgid "Read, capture, broadcast your multimedia streams"
-msgstr ""
+msgstr "Multimediastreams uitlezen, opnemen en uitzenden"
 
 msgid "Read/Write Mail/News with Thunderbird"
-msgstr ""
+msgstr "E-mail ontvangen en opstellen en nieuws lezen met Thunderbird"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Beeldscherminstellingen"
 
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 msgid "Simple Screen Recorder"
-msgstr ""
+msgstr "Eenvoudig schermopnameprogramma"
 
 msgid "SimpleOutlook Glass"
-msgstr ""
+msgstr "Eenvoudig uitzicht - Glas"
 
 msgid "SimpleOutlook Glass Adaptive"
-msgstr ""
+msgstr "Eenvoudig uitzicht - Glas (past zich aan)"
 
 msgid "SimpleOutlook Pyramids"
-msgstr ""
+msgstr "Eenvoudig uitzicht - Pyramiden"
 
 msgid "SimpleOutlook Ridge"
-msgstr ""
+msgstr "Eenvoudig uitzicht - Rand"
 
 msgid "SimpleOutlook Sunset"
-msgstr ""
+msgstr "Eenvoudig uitzicht - Zonsondergang"
 
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgid "Skype Internet Telephony"
-msgstr ""
+msgstr "Skype-internettelefonie"
 
 msgid "Start menu"
-msgstr ""
+msgstr "Startmenu"
 
 msgid "StartUp"
-msgstr ""
+msgstr "Opstarten"
 
 msgid "Storm Blue"
-msgstr ""
+msgstr "Blauwe storm"
 
 msgid "Synaptic Package Manager"
-msgstr ""
+msgstr "Synaptic-pakketbeheer"
 
 msgid "Sync your files across computers and to the web"
-msgstr ""
+msgstr "Synchroniseer uw bestanden tussen computers en naar het internet"
 
 msgid "System"
-msgstr ""
+msgstr "Systeem"
 
 msgid "TDevelop - Q4OS Development Pack"
-msgstr ""
+msgstr "TDevelop - Q4OS-ontwikkelingspakket"
 
 msgid "TDevelop Q4OS"
-msgstr ""
+msgstr "TDevelop Q4OS"
 
 msgid "Terminal Program"
-msgstr ""
+msgstr "Terminalprogramma"
 
 msgid "The Bay"
-msgstr ""
+msgstr "De baai"
 
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 msgid "Trash"
-msgstr ""
+msgstr "Prullenbak"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Deïnstalleren"
 
 msgid "Uninstall Chromium"
-msgstr ""
+msgstr "Chromium deïnstalleren"
 
 msgid "Uninstall Q4OS Development Pack"
-msgstr ""
+msgstr "Q4OS-ontwikkelingspakket deïnstalleren"
 
 msgid "Uninstall substitute_application_name_desc"
-msgstr ""
+msgstr "substitute_application_name_desc deïnstalleren"
 
 msgid "Update Manager"
-msgstr ""
+msgstr "Updatebeheer"
 
 msgid "Users and groups"
-msgstr ""
+msgstr "Gebruikers en groepen"
 
 msgid "VLC media player"
-msgstr ""
+msgstr "VLC-mediaspeler"
 
 msgid "Vector 2"
-msgstr ""
+msgstr "Vector 2"
 
 msgid "Web Browser"
-msgstr ""
+msgstr "Webbrowser"
 
 msgid "Wine Configuration"
-msgstr ""
+msgstr "Wine-instellingen"
 
 msgid "Wine Menu"
-msgstr ""
+msgstr "Wine-menu"
 
 msgid "Wine control panel"
-msgstr ""
+msgstr "Wine-configuratiescherm"
 
 msgid "X2Go Client"
-msgstr ""
+msgstr "X2Go-client"
 
 msgid "crystalsvg-kde4"
-msgstr ""
+msgstr "crystalsvg-kde4"
 
 msgid "substitute_application_name for Q4OS"
-msgstr ""
+msgstr "substitute_application_name voor Q4OS"
 
 msgid "substitute_application_name_desc"
-msgstr ""
+msgstr "substitute_application_name_desc"
