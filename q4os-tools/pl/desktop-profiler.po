@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:45+0200\n"
+"POT-Creation-Date: 2019-10-21 22:31+0200\n"
 "PO-Revision-Date: 2019-10-15 16:54+0200\n"
 "Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
 "Language-Team: \n"
@@ -93,6 +93,9 @@ msgstr ""
 msgid ">"
 msgstr ""
 
+msgid "Another instance of Desktop Profiler is running, leaving ..."
+msgstr ""
+
 msgid "Cancel"
 msgstr ""
 
@@ -117,6 +120,9 @@ msgstr ""
 msgid "Desktop Profiler - install progress"
 msgstr "Konfigurator Pulpitu - postęp instalacji"
 
+msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
+msgstr ""
+
 msgid "Desktop environment:"
 msgstr ""
 
@@ -140,6 +146,9 @@ msgstr ""
 
 msgid "Next >"
 msgstr "Dalej >"
+
+msgid "No configuration found, exiting .."
+msgstr ""
 
 msgid "None selected"
 msgstr ""
