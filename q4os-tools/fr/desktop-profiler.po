@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:45+0200\n"
-"PO-Revision-Date: 2018-12-24 16:24+0100\n"
+"POT-Creation-Date: 2019-10-21 22:31+0200\n"
+"PO-Revision-Date: 2019-10-15 16:53+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2\n"
+"X-Generator: Poedit 2.2.1\n"
 
 msgid "  Install >"
 msgstr "  Installer >"
@@ -85,7 +85,6 @@ msgstr "<p>Matériel insuffisant détecté !</p><p>Votre ordinateur est faible e
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
 msgstr "<p>Conserver l'environnement de bureau <span style=\"font-weight:600\">Trinity</span> par défaut, Plasma ne sera pas installé. Vous pourrez démarrer l'installation de Plasma plus tard en utilisant l'outil de profil de bureau.</p>"
 
-#, fuzzy
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>Le gestionnaire de paquets est en cours d'utilisation et n'est donc pas prêt à installer un autre logiciel immédiatement. La configuration est interrompue.</p><p>Ce blocage est très certainement causé par une mise à jour système actuellement en cours. Si cela est le cas vous devrez attendre un instant le temps que cela soit terminé pour enfin poursuivre votre opération. Vérifiez évidemment que vous n'êtes pas en train d'installer une autre application présentement et répétez votre tentative dans quelques minutes.</p>"
 
@@ -96,6 +95,9 @@ msgid "<p>You are calling for an alternative desktop installation, but it's not 
 msgstr ""
 
 msgid ">"
+msgstr ""
+
+msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr ""
 
 msgid "Cancel"
@@ -122,6 +124,9 @@ msgstr "Gestionnaire de profil de bureau"
 msgid "Desktop Profiler - install progress"
 msgstr "Gestionnaire de profil de bureau - progression de l'installation"
 
+msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
+msgstr ""
+
 msgid "Desktop environment:"
 msgstr "Environnement de bureau :"
 
@@ -145,6 +150,9 @@ msgstr "Démarrer l'installation"
 
 msgid "Next >"
 msgstr "Suivant >"
+
+msgid "No configuration found, exiting .."
+msgstr ""
 
 msgid "None selected"
 msgstr "Pas de sélection"
