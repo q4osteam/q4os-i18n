@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS CPU-Q package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS CPU-Q\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-25 12:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "BIOS"
+msgstr ""
+
+msgid "Bits"
+msgstr ""
+
+msgid "Bogomips"
+msgstr ""
+
+msgid "Bus Speed"
+msgstr ""
+
+msgid "CPU"
+msgstr ""
+
+msgid "Cache"
+msgstr ""
+
+msgid "Clocks"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Code Name"
+msgstr ""
+
+msgid "Core Speed"
+msgstr ""
+
+msgid "Cores"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Distro"
+msgstr ""
+
+msgid "FW Date"
+msgstr ""
+
+msgid "Family"
+msgstr ""
+
+msgid "Form (ui_form1)"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "HW Summary"
+msgstr ""
+
+msgid "Hardware Info"
+msgstr ""
+
+msgid "Hardware info - Details"
+msgstr ""
+
+msgid "Host"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "Kernel"
+msgstr ""
+
+msgid "L1 Data"
+msgstr ""
+
+msgid "L1 Inst."
+msgstr ""
+
+msgid "L2 Cache"
+msgstr ""
+
+msgid "Level 2"
+msgstr ""
+
+msgid "Level 3"
+msgstr ""
+
+msgid "Mainboard"
+msgstr ""
+
+msgid "Max Speed"
+msgstr ""
+
+msgid "Microcode"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Multiplier"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Processor"
+msgstr ""
+
+msgid "Processor #1"
+msgstr ""
+
+msgid "RAM Total"
+msgstr ""
+
+msgid "Rated FSB"
+msgstr ""
+
+msgid "SecureBoot"
+msgstr ""
+
+msgid "Selection"
+msgstr ""
+
+msgid "Specification"
+msgstr ""
+
+msgid "Stepping"
+msgstr ""
+
+msgid "Storage Total"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Topology"
+msgstr ""
+
+msgid "Type"
+msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 16:47+0200\n"
+"POT-Creation-Date: 2019-10-25 12:39+0200\n"
 "PO-Revision-Date: 2019-10-07 19:22+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
@@ -125,6 +125,9 @@ msgstr "Ativar início de sessão automático"
 
 msgid "Form2"
 msgstr "Form2"
+
+msgid "Hardware info"
+msgstr ""
 
 msgid "Info"
 msgstr "Info"
