@@ -3,163 +3,163 @@
 # This file is distributed under the same license as the Q4OS CPU-Q package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-25 12:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-11-03 18:18+0000\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Velocidade do Bus"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Relógios"
 
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Nome de código"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Velocidade do núcleo"
 
 msgid "Cores"
-msgstr ""
+msgstr "Núcleos"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Ambiente de trabalho"
 
 msgid "Details"
-msgstr ""
+msgstr "Detalhes"
 
 msgid "Distro"
-msgstr ""
+msgstr "Distro"
 
 msgid "FW Date"
-msgstr ""
+msgstr "Data do FW"
 
 msgid "Family"
-msgstr ""
+msgstr "Família"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
 
 msgid "Graphics"
-msgstr ""
+msgstr "Gráficos"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Resumo do HW"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Informação de Hardware"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Informação de hardware - Detalhes"
 
 msgid "Host"
-msgstr ""
+msgstr "Nome da máquina"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instruções"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Data"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 Inst."
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 Cache"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Level 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Level 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Placa principal"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Velocidade máxima"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Microcode"
 
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Multiplicador"
 
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 msgid "Package"
-msgstr ""
+msgstr "Pacote"
 
 msgid "Processor"
-msgstr ""
+msgstr "Processador"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Processador #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "RAM Total"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Avaliação FSB"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "ArraqueSeguro"
 
 msgid "Selection"
-msgstr ""
+msgstr "Seleção"
 
 msgid "Specification"
-msgstr ""
+msgstr "Especificação"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Armazenamento Total"
 
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgid "Threads"
-msgstr ""
+msgstr "Threads"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologia"
 
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
