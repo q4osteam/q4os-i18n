@@ -8,217 +8,218 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-25 12:39+0200\n"
-"PO-Revision-Date: 2015-05-30 11:35+0100\n"
+"PO-Revision-Date: 2020-12-26 20:49-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p align = justify><b>Bienvenido a Q4OS </b>,un sistema operativo de escritorio rápido y potente centrado en la estabilidad a largo plazo, la confiabilidad y la interfaz de usuario de estilo clásico. </p>< p align = justify>Q4OS se instala como un entorno de escritorio muy básico y limpio con un kit de aplicaciones mínimo. Ahora es el momento adecuado para ajustar su nuevo escritorio. Es posible que desee utilizar los siguientes accesos directos.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Omita la pantalla de inicio de sesión e inicie sesión sin ingresar su contraseña después del inicio del sistema.</p></font>"
 
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Al hacer clic en este botón, activará los efectos de suavizado y embellecimiento del escritorio.</p><p>Tenga en cuenta que los efectos de escritorio funcionarán perfectamente solo en hardware moderno, no se recomienda su uso con hardware antiguo. Se realizará una breve prueba del sistema para garantizar que el hardware esté listo para aceptar la configuración.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Desktop Profiler instalará y configurará automáticamente un conjunto de aplicaciones y herramientas adicionales, todo con un solo clic.</p><p>Se le permitirá seleccionar entre diferentes perfiles de escritorio.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Otras opciones de configuración útiles.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Ejecute un script interactivo para instalar una colección adicional de códecs de calidad profesional.</p><p>Los reproductores multimedia como VLC o Mplayer hacen uso de estos códecs para brindar soporte en la reproducción de archivos multimedia y de DVD codificados mediante estos códecs.</p></font>"
 
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Cambie al menú de inicio alternativo KickOff.</p><p>Un menú de inicio de estilo moderno y bien organizado que ofrece barra de búsqueda, pestaña de favoritos, historial y más. </p></font >"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Será redireccionado a los recursos web de Q4OS para descargar e instalar aplicaciones únicas útiles.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>Inicio de sesión automático esta desactivado.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>Inicio de sesión automático esta activado.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
+msgstr "<p>Los efectos de escritorio han sido deshabilitados</p>"
 
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr ""
+msgstr "<p>Los efectos de escritorio han sido habilitados. Por favor, inicie sesión nuevamente para que los cambios surtan efecto</p>"
 
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
+msgstr "<p>¿Quiere activar el inicio de sesión automático?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
+msgstr "<p>¿Quiere cambiar el menú inicio?</p>"
 
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>¿Quiere activar los efectos de escritorio?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>¡Se ha detectado la instalación de NVIDIA!</p><p>Las acciones están deshabilitadas durante la configuración de NVIDIA. Por favor, espere hasta que la instalación haya finalizado.</p>"
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Se ha establecido el estilo Borbón para el menú inicio.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Se ha establecido el estilo Clásico para el menú inicio.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Se ha establecido el estilo Kickoff para el menú inicio.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Esta acción esta disponible solo para los escritorios Trinity y Plasma</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
+msgstr "<p>Esta acción esta disponible solo para el escritorio Trinity</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>¡Se ha detectado la instalación de virtualbox!</p><p>Las acciones están deshabilitadas durante la configuración de virtualbox. Por favor, espere hasta que la instalación haya finalizado.</p>"
 
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>Su equipo parece no contar con los recursos suficientes para ejecutar efectos de escritorio, se recomienda no habilitarlos.</p><p>¿Quiere activarlos?</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 msgid "Autologin configuration"
-msgstr ""
+msgstr "Configuración de inicio de sesión automático "
 
 msgid "Automatic login"
-msgstr ""
+msgstr "Inicio de sesión automático "
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Borbón"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Categories"
-msgstr ""
+msgstr "Categorías "
 
 msgid "Classic"
-msgstr ""
+msgstr "Clásico"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Menú en cascada de estilo clásico"
 
 msgid "Desktop effects"
-msgstr ""
+msgstr "Efectos de escritorio"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Documentos en linea"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Donar a Q4OS"
 
 msgid "Enable Autologin"
-msgstr ""
+msgstr "Activar inicio de sesión automático "
 
 msgid "Form2"
 msgstr ""
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Información de Hardware"
 
 msgid "Info"
-msgstr ""
+msgstr "Información "
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Instalar Aplicaciones"
 
 msgid "Install Proprietary Codecs"
-msgstr ""
+msgstr "Instalar Codecs Privados"
 
 msgid "KickOff"
 msgstr ""
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Menú estilo KickOff"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Ítems en el menú organizados por Aplicación"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Ítems en el menú organizados por Categorías"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Estructura del menú"
 
 msgid "Menu type"
-msgstr ""
+msgstr "Estilo del menú"
 
 msgid "More options  >"
-msgstr ""
+msgstr "Más opciones"
 
 msgid "Q4OS"
 msgstr ""
 
 msgid "Revert to Classic"
-msgstr ""
+msgstr "Revertir a clásico"
 
 msgid "Revert to defaults"
-msgstr ""
+msgstr "Revertir a predeterminado"
 
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Ejecutar Desktop Profiler"
 
 msgid "Set Autologin"
-msgstr ""
+msgstr "Establecer Inicio  de sesión automatico"
 
 msgid "Setup Screen scaling ..."
-msgstr ""
+msgstr "Configurar escalado de pantalla"
 
 msgid "Show this dialog on startup"
-msgstr ""
+msgstr "Mostrar este dialogo al inicio de sesión "
 
 msgid "Start menu configuration"
-msgstr ""
+msgstr "Configuración del menú inicio"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Cambiar a Borbón"
 
 msgid "Switch to Kickoff"
-msgstr ""
+msgstr "Cambiar a KickOff"
 
 msgid "Switch to Kickoff start menu"
-msgstr ""
+msgstr "Cambiar a menú de inicio KickOff"
 
 msgid "Turn ON"
-msgstr ""
+msgstr "Habilitar"
 
 msgid "Turn on Desktop effects"
-msgstr ""
+msgstr "Habilitar efectos de escritorio"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Menú de doble panel con linea de búsqueda"
 
 msgid "Warning !"
-msgstr ""
+msgstr "¡Advertencia!"
 
 msgid "Welcome screen"
-msgstr ""
+msgstr "Pantalla de Bienvenida"
 
 msgid "Working ..."
-msgstr ""
+msgstr "Trabajando ..."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "presionarButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "presionarButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "presionarButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "presionarButton4"
 
 msgid "textLabel1"
 msgstr ""
