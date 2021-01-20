@@ -30,7 +30,7 @@ msgstr "Es seguro y estable, no necesita un antivirus, un anti-spyware, una herr
 msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
 msgstr "Otras aplicaciones populares <! - como Google Picasa, Skype, Dropbox, TeamViewer y más -> se pueden instalar con un clic del mouse."
 
-# "Out of the box" literal meaning is "fuera de la caja" in Spanish, however, in this context I think "listo para usar desde el primer inicio" which means "ready to use from the first login" is a much appropiate translation as it expresses exactly what "OOTB" means here. 
+# "Out of the box" literal meaning is "fuera de la caja" in Spanish, however, in this context I think "listo para usar desde el primer inicio de sesión" which means "ready to use from the first login" is a much appropiate translation as it expresses exactly what "OOTB" means here.
 msgid "Out of the box"
 msgstr "Listo para usar desde el primer inicio de sesión"
 
