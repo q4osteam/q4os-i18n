@@ -19,16 +19,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operativo para o ambiente de trabalho, rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador de estilo clássico e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo(a) ao Q4OS</b>, um sistema operativo para o ambiente de trabalho, rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador de estilo clássico e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>Evita o ecrã de início de sessão e inicia a sessão sem introduzir a sua palavra-passe após o arranque do sistema.</p></font>"
 
 msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr "<font size=\"4\"><p>Ao clicar neste botão, você vai ativar a suavização e os efeitos de embelezamento do ambiente de trabalho.</p><p>Nota, os efeitos do ambiente de trabalho irão funcionar perfeitamente somente em hardware moderno, não é recomendável usá-lo com hardware antigo. Um pequeno teste do sistema será realizado para garantir que o hardware está pronto para aceitar a configuração.</p></font>"
+msgstr "<font size=\"4\"><p>Ao clicar neste botão, vai ativar a suavização e os efeitos de embelezamento do ambiente de trabalho.</p><p>Nota, os efeitos do ambiente de trabalho irão funcionar perfeitamente somente em hardware moderno, não é recomendável usá-lo com hardware antigo. Um pequeno teste do sistema será realizado para garantir que o hardware está pronto para aceitar a configuração.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Você terá permissão para selecionar entre diferentes perfis do ambiente de trabalho.</p></font>"
+msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Terá permissão para selecionar entre diferentes perfis do ambiente de trabalho.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
 msgstr "<font size=\"4\"><p>Outras opções úteis de configuração.</p></font>"
@@ -40,7 +40,7 @@ msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well 
 msgstr "<font size=\"4\"><p>Muda para um menu Iniciar Kickoff alternativo.</p><p>Bem organizado, menu iniciar de estilo moderno oferece uma barra de pesquisa, separador de favoritos, histórico e muito mais.</p></font>"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr "<font size=\"4\"><p>Você será direcionado para os recursos da rede Q4OS para transferir e instalar aplicações úteis independentes.</p></font>"
+msgstr "<font size=\"4\"><p>Será direcionado para os recursos da rede Q4OS para transferir e instalar aplicações úteis independentes.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
 msgstr "<p>O início de sessão automático está agora desativado.</p>"
@@ -58,7 +58,7 @@ msgid "<p>Do you want to enable Automatic login ?</p>"
 msgstr "<p>Quer ativar o início de sessão automático ?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr "<p>Você quer mudar o Menu Iniciar ?</p>"
+msgstr "<p>Quer mudar o Menu Iniciar ?</p>"
 
 msgid "<p>Do you want to turn Desktop Effects on ?</p>"
 msgstr "<p>Quer ativar os efeitos do ambiente de trabalho ?</p>"

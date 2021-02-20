@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: es_ES\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.2.1\n"
 
 msgid "A great desktop OS"
 msgstr "Un gran sistema operativo de escritorio"
@@ -22,7 +22,7 @@ msgid "An alternative to mainstream operating systems"
 msgstr "Una alternativa a los sistemas operativos convencionales"
 
 msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr "Google Chrome, Firefox, Thunderbird y LibreOffice son fáciles de instalar, por lo que puede comenzar a utilizar el escritorio e Internet."
+msgstr "Google Chrome, Firefox, Thunderbird y LibreOffice son fáciles de instalar, para que puede comenzar a utilizar el escritorio e Internet."
 
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
 msgstr "Es seguro y estable, no necesita un antivirus, un anti-spyware, una herramienta de desfragmentación o un limpiador de registro."
@@ -30,8 +30,9 @@ msgstr "Es seguro y estable, no necesita un antivirus, un anti-spyware, una herr
 msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
 msgstr "Otras aplicaciones populares <! - como Google Picasa, Skype, Dropbox, TeamViewer y más -> se pueden instalar con un clic del mouse."
 
+# "Out of the box" literal meaning is "fuera de la caja" in Spanish, however, in this context I think "listo para usar desde el primer inicio de sesión" which means "ready to use from the first login" is a much appropiate translation as it expresses exactly what "OOTB" means here.
 msgid "Out of the box"
-msgstr "Fuera de la caja"
+msgstr "Listo para usar desde el primer inicio de sesión"
 
 msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
 msgstr "Q4OS puede detectar otros sistemas operativos e instalarse junto a ellos. Puede elegir qué sistema operativo iniciar cuando inicie la computadora."
@@ -58,7 +59,7 @@ msgid "Thank you for choosing us."
 msgstr "Gracias por elegirnos."
 
 msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
-msgstr "El administrador de actualizaciones de Q4OS mira su sistema y lo actualiza automáticamente tan pronto como las actualizaciones estén disponibles."
+msgstr "El administrador de actualizaciones de Q4OS vigila su sistema y lo actualiza automáticamente tan pronto como las actualizaciones estén disponibles."
 
 msgid "This is Q4OS"
 msgstr "Esto es Q4OS"
