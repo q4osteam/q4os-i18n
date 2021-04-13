@@ -3,37 +3,37 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-09 14:30+0200\n"
-"PO-Revision-Date: 2017-01-08 17:38+0100\n"
+"PO-Revision-Date: 2021-04-12 22:46+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
 
 msgid "Apply"
-msgstr ""
+msgstr "Applica"
 
 msgid "Auto close updater window on finish"
-msgstr ""
+msgstr "Chiudi automaticamente la finestra di aggiornamento al termine dell'operazione"
 
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgstr "Usa il gestore dei pacchetti Synaptic, se disponibile"
 
 msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
+msgstr "Visualizza l'elenco dei pacchetti aggiornabili e le finestre di conferma"
 
 msgid "Start updater window minimized"
-msgstr ""
+msgstr "Fai partire minimizzata la finestra degli aggiornamenti"
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Gestore degli aggiornamenti - configurazione"

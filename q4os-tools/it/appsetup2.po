@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-09 14:13+0200\n"
-"PO-Revision-Date: 2016-01-31 14:03+0100\n"
+"PO-Revision-Date: 2021-04-12 22:52+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 2.4.2\n"
 
 msgid "< Back"
 msgstr "< Indietro"
 
 msgid "</b></p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "</b></p><p>Pulizia e annullamento dell'operazione ...</p>"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
@@ -29,94 +29,94 @@ msgid ""
 "<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
-"<p><h2>Completamento dell'assistente di configurazione di _SUBST_SWNAME_</h2><br></p>\n"
-"<p>Il programma _SUBST_SWNAME_ è stato installato nel tuo computer.<br></p>\n"
-"<p>Premi Finito per chiudere l'assistente.<br><br><br><br><br><br></p>\n"
-"<p>Visita il sito _SUBST_SWNAME_ per le ultime novità, le domande frequenti e il supporto</p>"
+"<p><h2>L'assistente ha completato la configurazione di _SUBST_SWNAME_</h2><br></p>\n"
+"<p>Il programma _SUBST_SWNAME_ è stato installato sul tuo computer.<br></p>\n"
+"<p>Clicca su \"Finish\" per chiudere l'assistente.<br><br><br><br><br><br></p>\n"
+"<p>Visita il sito di _SUBST_SWNAME_ per le ultime novità, le domande frequenti e il supporto</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
 msgstr ""
-"<p><h2>Benvenuti nell'assistente di configurazione di _SUBST_SWNAME_</h2></p>\n"
+"<p><h2>Benvenuto nell'assistente di configurazione di _SUBST_SWNAME_</h2></p>\n"
 "<p>Questo assistente vi guiderà nell'installazione del programma _SUBST_SWNAME_ .</p>\n"
-"<p>Premi Avanti per continuare.</p>\n"
+"<p>Premi \"Avanti\" per continuare.</p>\n"
 
 msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
-msgstr ""
+msgstr "<p>Si è verificato un errore durante l'installazione, mi dispiace. Non sono riuscito ad installare il programma.</p><p>I messaggi di installazione sono stati salvati nel file di log: <b>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>La connessione ad Internet non è attiva oppure è troppo lenta. L'assistente ne ha bisogno per connettersi ai server di Q4OS e scaricare i pacchetti del programma. L'installazione non può continuare ... </p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>Il sistema di gestione dei pacchetti è occupato. L'installazione non può continuare.</p><p>Molto probabilmente, è in corso un aggiornamento in background oppure l'installazione di un'altra applicazione. In questo caso, basta aspettare che si concluda il processo. Per favore, prova a ripetere l'installazione tra qualche minuto.</p><p>Pulizia e annullamento dell'operazione ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Il sistema di gestione dei pacchetti non funziona correttamente, e deve essere ripristinato manualmente. L'installazione del programma non può continuare.</p><p>Pulizia e annullamento dell'operazione ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Non sono riuscito a scaricare i pacchetti del programma. Per favore, controlla la tua connessione ad Internet. Mi dispiace, l'installazione non può proseguire.</p><p>Pulizia e annullamento dell'operazione ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>La simulazione non è andata a buon fine. Mi dispiace, non riesco a procedere con l'installazione.</p><p>Pulizia e annullamento dell'operazione ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Attenzione: annullare l'installazione durante questa fase potrebbe causare un malfunzionamento del sistema di gestione dei pacchetti.</p><p>Sei davvero sicuro di voler interrompere il processo di installazione ora?</p>"
 
 msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
-msgstr ""
+msgstr "<p>risultato:&nbsp;&nbsp;<b>passato, OK !</b></p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "Aggiunta delle chiavi di sicurezza ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "Aggiunta delle chiavi di sicurezza … OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "Autofix non necessario ... OK"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "Calcolo dello stato di avanzamento ..."
 
 msgid "Cancel"
 msgstr "Annulla"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "Controllo dell'installazione ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "Controllo dell'installazione … Errore!"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "Controllo dell'installazione … OK"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "Controllo del sistema di gestione dei pacchetti ..."
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "Copia dei pacchetti di sistema ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "Copia dei pacchetti di sistema … Fatto"
 
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Vuoi veramente annullare l'operazione in corso?"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Scaricamento dei pacchetti ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Scaricamento dei pacchetti … Fatto"
 
 msgid "Enter your password to continue:"
 msgstr "Immetti la tua password per continuare:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Estrazione dell'archivio ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Estrazione dell'archivio … Fatto"
 
 msgid "Fast system checks"
 msgstr "Controlli veloci del sistema"
@@ -125,7 +125,7 @@ msgid "Finish >"
 msgstr "Finito >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Completamento dell'installazione ..."
 
 msgid "Get permissions"
 msgstr "Ottieni i permessi"
@@ -140,16 +140,16 @@ msgid "Install >"
 msgstr "Installa >"
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "Installazione completata con successo :-)"
 
 msgid "Installing"
 msgstr "Installazione in corso"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "Installazione dei file ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "Installazione dei file … OK"
 
 msgid "License Agreement"
 msgstr "Contratto di licenza"
@@ -161,46 +161,46 @@ msgid "Next >"
 msgstr "Avanti >"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "Sistema di gestione dei pacchetti … Occupato!"
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "Sistema di gestione dei pacchetti non consistente ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "Sistema di gestione dei pacchetti ancora non consistente, annullamento dell'installazione ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "Update parziale del database delle applicazioni ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "Update parziale del database delle applicazioni … Fatto"
 
 msgid "Please review the license terms before install"
 msgstr "Per cortesia rileggi i termini di licenza prima di installare"
 
 msgid "Please wait while software is being installed"
-msgstr "Per cortesia attendi mentre i programmi sono installati"
+msgstr "Per cortesia attendi mentre i programmi vengono installati"
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "Operazioni post installazione ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "Operazioni post installazione … Fatto"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "Operazioni post installazione, comandi addizionali ..."
 
 msgid "Postinstall operations, update sw database ..."
-msgstr ""
+msgstr "Operazioni post installazione, update del database delle applicazioni ..."
 
 msgid "Postinstall operations, upgrade sw database ..."
-msgstr ""
+msgstr "Operazioni post installazione, upgrade del database delle applicazioni ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "Preparazione dei file di installazione …"
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "Preparazione dei file di installazione … OK"
 
 msgid "Press Page Down to see the rest of agreement."
 msgstr "Premi Pagina Giù per vedere il resto della licenza."
@@ -209,22 +209,22 @@ msgid "Q4OS Install System v0.2.0"
 msgstr "Programma di installazione di Q4OS v0.2.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "Ripristinato … OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "Registrazione dell'applicazione … OK"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "Ricerca dei pacchetti della lingua …"
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "Ricerca dei pacchetti della lingua … Fatto"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "Azione di configurazione:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "Azione di configurazione:  "
 
 msgid "System asks for installation permissions"
 msgstr "Il sistema chiede i permessi per l'installazione"
@@ -233,40 +233,40 @@ msgid "System is prechecking installation environment"
 msgstr "Controllo preliminare dell'ambiente di installazione in corso"
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "Test della connessione ad Internet ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "Test della connessione ad Internet … Fallito!"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "Test della connessione ad Internet ...OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "Test dell'installazione ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "Test dell'installazione ... Fatto"
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "Cerco di ripristinare l'integrità di APT ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "Update del database delle applicazioni …"
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "Update del database delle applicazioni … Fatto"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "Aggiornamento della cache di sistema …"
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "Aggiornamento della cache di sistema … Fatto"
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "Verifica … OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "In attesa di completare l'operazione corrente … Fatto"
 
 msgid "Widget_ui_form3"
 msgstr ""
@@ -281,7 +281,7 @@ msgid "Widget_ui_form6"
 msgstr ""
 
 msgid "setup wizard"
-msgstr "Assistente di configurazione"
+msgstr "assistente di configurazione"
 
 #~ msgid "I Agree >"
 #~ msgstr "Accetto >"
