@@ -2,134 +2,138 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the q4os-shortcuts package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# oloke <olokelo@gmail.com>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 11:25+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-20 21:39+0200\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: oloke <olokelo@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "A KDE panel applet for a WINE menu"
-msgstr ""
+msgstr "Aplet KDE dla menu WINE"
 
 msgid "Access the Internet"
-msgstr ""
+msgstr "Skorzystaj z internetu"
 
 msgid "Accessories"
-msgstr ""
+msgstr "Akcesoria"
 
+#, fuzzy
 msgid "Air"
-msgstr ""
+msgstr "Powietrze"
 
 msgid "Autumn Leaves"
-msgstr ""
+msgstr "Jesienne liście"
 
 msgid "Blueman Bluetooth Manager"
-msgstr ""
+msgstr "Menedżer Bluetooth Blueman"
 
 msgid "Bluetooth Manager"
-msgstr ""
+msgstr "Menedżer Bluetooth"
 
 msgid "Browse the World Wide Web"
-msgstr ""
+msgstr "Przeglądaj sieć WWW"
 
 msgid "Burning tool"
-msgstr ""
+msgstr "Narzędzie zgrywania płyt"
 
 msgid "Centaurus constellation"
-msgstr ""
+msgstr "Konstelacja Centaura"
 
 msgid "Configure NVIDIA X Server Settings"
-msgstr ""
+msgstr "Konfiguruj Ustawienia Serwera X NVIDIA"
 
 msgid "Control Panel"
-msgstr ""
+msgstr "Panel Zarządzania"
 
 msgid "Control panel"
-msgstr ""
+msgstr "Panel Zarządzania"
 
 msgid "Create, reorganize, and delete partitions"
-msgstr ""
+msgstr "Twórz, zmieniaj i usuwaj partycje"
 
+#, fuzzy
 msgid "Curls on Green"
-msgstr ""
+msgstr "Zielone loki"
 
+#, fuzzy
 msgid "Damselfly"
-msgstr ""
+msgstr "Damselfly"
 
 msgid "Debian Future prototype"
-msgstr ""
+msgstr "Debian Przyszłość prototyp"
 
 msgid "Debian Lines"
-msgstr ""
+msgstr "Debian Linie"
 
 msgid "Debian Softwaves"
-msgstr ""
+msgstr "Debian Łagodne Fale"
 
 msgid "Debonaire"
-msgstr ""
+msgstr "Debonaire"
 
 msgid "Documents"
-msgstr ""
+msgstr "Dokumenty"
 
 msgid "Dolomiti"
-msgstr ""
+msgstr "Dolomiti"
 
 msgid "Dolomiti Cimerlo"
-msgstr ""
+msgstr "Dolomiti Cimerlo"
 
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 msgid "Ethais"
-msgstr ""
+msgstr "Ethais"
 
 msgid "File Synchronizer"
-msgstr ""
+msgstr "Synchronizator Plików"
 
 msgid "Files and folders"
-msgstr ""
+msgstr "Pliki i foldery"
 
 msgid "Find"
-msgstr ""
+msgstr "Znajdź"
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "GParted"
-msgstr ""
+msgstr "GParted"
 
 msgid "Games"
-msgstr ""
+msgstr "Gry"
 
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 msgid "Green curtain"
-msgstr ""
+msgstr "Zielona kurtyna"
 
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Instaluj aplikacje"
 
 msgid "Install Q4OS to Pinebook"
-msgstr ""
+msgstr "Zainstaluj Q4OS na Pinebook'u"
 
 msgid "Install, remove and upgrade software packages"
-msgstr ""
+msgstr "Instaluj, usuwaj i aktualizuj oprogramowanie"
 
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 msgid "K3B"
 msgstr ""
@@ -144,40 +148,41 @@ msgid "Landscape Keltern"
 msgstr ""
 
 msgid "Language Pack installation"
-msgstr ""
+msgstr "Instalacja Pakietów Językowych"
 
 msgid "Lineart Logo"
 msgstr ""
 
+#, fuzzy
 msgid "Look Switcher"
-msgstr ""
+msgstr "Konfigurator Wyglądu"
 
 msgid "Mail Client"
-msgstr ""
+msgstr "Klient Maila"
 
 msgid "Media player"
-msgstr ""
+msgstr "Odtwarzacz multimediów"
 
 msgid "Mozilla Thunderbird"
 msgstr ""
 
 msgid "My Documents"
-msgstr ""
+msgstr "Moje Dokumenty"
 
 msgid "NVIDIA X Server Settings"
-msgstr ""
+msgstr "Ustawienia Serwera X NVIDIA"
 
 msgid "Network Shares"
-msgstr ""
+msgstr "Zasoby Sieciowe"
 
 msgid "Network connections"
-msgstr ""
+msgstr "Połączenia internetowe"
 
 msgid "Nightfear"
 msgstr ""
 
 msgid "Open Terminal"
-msgstr ""
+msgstr "Otwórz Terminal"
 
 msgid "Origami 1"
 msgstr ""
@@ -189,19 +194,19 @@ msgid "Origami 3"
 msgstr ""
 
 msgid "Package Manager"
-msgstr ""
+msgstr "Menedżer Pakietów"
 
 msgid "Partition Editor"
-msgstr ""
+msgstr "Edytor Partycji"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Obrazy"
 
 msgid "Print system"
-msgstr ""
+msgstr "System drukowania"
 
 msgid "Programs"
-msgstr ""
+msgstr "Programy"
 
 msgid "Q-Blue flat"
 msgstr ""
@@ -222,25 +227,26 @@ msgid "Q4OS Matrix"
 msgstr ""
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Centrum Oprogramowania Q4OS"
 
 msgid "Q4OS Welcome Screen"
-msgstr ""
+msgstr "Ekran Powitalny Q4OS"
 
 msgid "Q4OS documentation on-line"
-msgstr ""
+msgstr "Dokumentacja Q4OS online"
 
+#, fuzzy
 msgid "Read, capture, broadcast your multimedia streams"
-msgstr ""
+msgstr "Odczytuj, nagrywaj, transmituj Twoje multimedia"
 
 msgid "Read/Write Mail/News with Thunderbird"
-msgstr ""
+msgstr "Odczytuj/Pisz Maile/Newsy z Thunderbird"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Skalowanie ekranu"
 
 msgid "Settings"
-msgstr ""
+msgstr "Ustawienia"
 
 msgid "Simple Screen Recorder"
 msgstr ""
@@ -267,7 +273,7 @@ msgid "Skype Internet Telephony"
 msgstr ""
 
 msgid "Start menu"
-msgstr ""
+msgstr "Menu Startu"
 
 msgid "StartUp"
 msgstr ""
@@ -276,67 +282,67 @@ msgid "Storm Blue"
 msgstr ""
 
 msgid "Synaptic Package Manager"
-msgstr ""
+msgstr "Menedżer Pakietów Synaptic"
 
 msgid "Sync your files across computers and to the web"
-msgstr ""
+msgstr "Synchronizuj swoje pliki między komputerami oraz do sieci"
 
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgid "TDevelop - Q4OS Development Pack"
-msgstr ""
+msgstr "TDevelop - Pakiet Deweloperska Q4OS"
 
 msgid "TDevelop Q4OS"
 msgstr ""
 
 msgid "Terminal Program"
-msgstr ""
+msgstr "Program Terminala"
 
 msgid "The Bay"
-msgstr ""
+msgstr "Zatoka"
 
 msgid "Thunderbird"
 msgstr ""
 
 msgid "Trash"
-msgstr ""
+msgstr "Kosz"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Odinstaluj"
 
 msgid "Uninstall Chromium"
-msgstr ""
+msgstr "Odinstaluj Chromium"
 
 msgid "Uninstall Q4OS Development Pack"
-msgstr ""
+msgstr "Odinstaluj Pakiet Deweloperski Q4OS"
 
 msgid "Uninstall substitute_application_name_desc"
-msgstr ""
+msgstr "Odinstaluj substitute_application_name_desc"
 
 msgid "Update Manager"
-msgstr ""
+msgstr "Menedżer Aktualizacji"
 
 msgid "Users and groups"
-msgstr ""
+msgstr "Użytkownicy i grupy"
 
 msgid "VLC media player"
-msgstr ""
+msgstr "Odtwarzacz multimediów VLC"
 
 msgid "Vector 2"
 msgstr ""
 
 msgid "Web Browser"
-msgstr ""
+msgstr "Przeglądarka Internetowa"
 
 msgid "Wine Configuration"
-msgstr ""
+msgstr "Konfiguracja Wine"
 
 msgid "Wine Menu"
-msgstr ""
+msgstr "Menu Wine"
 
 msgid "Wine control panel"
-msgstr ""
+msgstr "Panel zarządzania Wine"
 
 msgid "X2Go Client"
 msgstr ""
@@ -345,7 +351,7 @@ msgid "crystalsvg-kde4"
 msgstr ""
 
 msgid "substitute_application_name for Q4OS"
-msgstr ""
+msgstr "substitute_application_name dla Q4OS"
 
 msgid "substitute_application_name_desc"
 msgstr ""

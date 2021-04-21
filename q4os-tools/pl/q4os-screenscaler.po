@@ -2,29 +2,30 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Screen scaler for Trinity desktop package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# oloke <olokelo@gmail.com>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-26 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-21 15:40+0200\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: oloke <olokelo@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "1.00"
-msgstr ""
+msgstr "1.00"
 
 msgid "Apply"
-msgstr ""
+msgstr "Zastosuj"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgid "Form (ui_form1)"
 msgstr ""
@@ -32,38 +33,40 @@ msgstr ""
 msgid "Form1"
 msgstr ""
 
+#, fuzzy
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
+msgstr "Jeśli dopasujesz skalę, czcionki i elementy na ekranie głównym będą odpowiadały ich rzeczywistemu rozmiarowi."
 
 msgid "Reset"
-msgstr ""
+msgstr "Resetuj"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "Przywróć domyślną konfigurację skalowania ekranu"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Linijka [cm]:"
 
+#, fuzzy
 msgid "Sample:"
-msgstr ""
+msgstr "Przykład:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Zapisz zmiany, konieczne będzie ponowne zalogowanie się"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Współczynnik skalowania"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Współczynnik skalowania  /  Wartość DPI do zastosowania  /  Wykryty ekran główny"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "Ustawienia skalowania ekranu zostały zapisane. Musisz zalogować się ponownie aby zastosować zmiany."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Konfiguracja skalowania ekranu"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Pokaż zaawansowane opcje"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "To narzędzie ustawia skalowanie ekranu wyłącznie dla środowiska Trinity, wychodzenie ..."
