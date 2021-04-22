@@ -2,164 +2,167 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Q4OS CPU-Q package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# oloke <olokelo@gmail.com>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-25 12:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-20 21:21+0200\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: oloke <olokelo@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bity"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Szybkość magistrali"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Pamięć podręczna"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Zegary"
 
 msgid "Close"
 msgstr ""
 
 msgid "Code Name"
-msgstr ""
+msgstr "Nazwa kodowa"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Prędkość rdzenia"
 
 msgid "Cores"
-msgstr ""
+msgstr "Ilość rdzeni"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Pulpit"
 
 msgid "Details"
-msgstr ""
+msgstr "Szczegóły"
 
 msgid "Distro"
-msgstr ""
+msgstr "Dystrybucja"
 
 msgid "FW Date"
-msgstr ""
+msgstr "Data Firmware"
 
 msgid "Family"
-msgstr ""
+msgstr "Rodzina"
 
 msgid "Form (ui_form1)"
 msgstr ""
 
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Podsumowanie sprzętu"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Informacje o sprzęcie"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Informacje o sprzęcie - Szczegóły"
 
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instrukcje"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Jądro"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Dane"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 Inst."
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Level 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Level 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Płyta główna"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Max Szybkość"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Microcode"
 
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Mnożnik"
 
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
+# oloke: I've no clue how to translate "CPU Package"
+#, fuzzy
 msgid "Package"
-msgstr ""
+msgstr "Package"
 
 msgid "Processor"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Procesor #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "RAM Łącznie"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Znamionowe FSB"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "SecureBoot"
 
 msgid "Selection"
 msgstr ""
 
 msgid "Specification"
-msgstr ""
+msgstr "Specyfikacja"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Łączna przestrzeń dyskowa"
 
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgid "Threads"
-msgstr ""
+msgstr "Wątki"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologia"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"

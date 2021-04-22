@@ -2,59 +2,60 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Marcin Wilk <marcin@marcinwilk.eu>, 2015.
+# oloke <olokelo@gmail.com>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-21 22:31+0200\n"
-"PO-Revision-Date: 2019-10-15 16:54+0200\n"
-"Last-Translator: Marcin Wilk <marcin@marcinwilk.eu>\n"
+"PO-Revision-Date: 2021-04-21 00:01+0200\n"
+"Last-Translator: oloke <olokelo@gmail.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr " Instaluj >"
 
 msgid "* select please *"
-msgstr ""
+msgstr "* proszę wybrać *"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid ""
 "<html>\n"
@@ -62,126 +63,131 @@ msgid ""
 "<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
 "</html>"
 msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Proszę, wybierz domyślne środowisko graficzne.</p></font>\n"
+"<p align=justify>Lekkie i wydajne <b>Trinity</b> jest obecnie zainstalowane i skonfigurowane jako domyślne. Mimo to, instalator Q4OS wykrył, że Twój komputer ma odpowiednią moc, żeby obsłużyć bardziej zaawansowane środowisko <b>KDE Plasma</b>.</p>\n"
+"</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>To okno pozwoli Ci wybrać dodatkowe środowisko graficzne do instalacji obok domyślnego pulpitu Q4OS.</p><p align=justify>Proszę nie zaznaczaj tej opcji, chyba że jesteś pewien że wiesz co robisz.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>Czy chcesz anulować oczekującą operację ?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p>Zainstaluj i skonfiguruj środowisko <span style=\"font-weight:600\">KDE Plasma</span> jako domyślne i pozostaw Trinity jako opcję.</p>"
 
+# oloke: "Insufficient hardware detected" changed its meaning to "This PC doesn't meet the system requirements" because I found the word "hardware" to be pretty hard to translate.
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Komputer nie spełnia wymagań sprzętowych !</p><p>Twój procesor nie posiada instrukcji SSE2, które są niezbędne do zainstalowania tego oprogramowania.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Komputer nie spełnia wymagań sprzętowych !</p><p>Twój komputer ma niskie zasoby sprzętowe jak dla wybranego profilu. Instalacja tego profilu nie jest zalecana.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>Użyj środowiska <span style=\"font-weight:600\">Trinity</span> jako domyślne, środowisko Plasma nie będzie instalowane. Możesz je zainstalować później używając narzędzia Konfigurator Pulpitu.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Menedżer paczek programów jest zajęty i nie może instalować w tej chwili. Instalator nie może kontynuować.</p><p>Blokada prawdopodobnie jest wynikiem aktualizacji systemu odbywającej się w tle. Jeżeli tak jest, musisz zaczekać chwilę aż menadżer zakończy swoją pracę. Proszę zwrócić uwagę, by nie powtarzać drugi raz instalacji tego samego programu za kilka minut.</p>"
+msgstr "<p>Menedżer pakietów jest zajęty i nie może instalować w obecnym stanie. Instalator nie może kontynuować.</p><p>Blokada prawdopodobnie spowodowana jest aktualizacją systemu odbywającą się w tle. Jeżeli tak jest, musisz zaczekać chwilę aż menedżer zakończy swoją pracę. Proszę upewnij się, że nie instalujesz innej aplikacji w tle i spróbuj ponownie za kilka minut.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Ostrzeżenie: Anulowanie instalacji w tym stanie może prowadzić do uszkodzenia systemu pakietów.</p><p>Czy jesteś pewien, że teraz chcesz przerwać ten proces ?</p>"
 
 msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
-msgstr ""
+msgstr "<p>Chcesz wybrać instalację innego środowiska lecz nie jest ono kompatybilne z wybranym profilem. Proszę, wybierz inny profil.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "Inna instancja Konfiguratora Pulpitu jest obecnie uruchomiona, wychodzenie ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "Wybierz dodatkowe środowisko graficzne do instalacji."
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "Wybierz dodatkowe środowisko graficzne do instalacji. Proszę nie używaj tej opcji, chyba że jesteś pewien że wiesz co robisz."
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "Wybierz środowisko graficzne"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "Kliknij, aby wybrać profil"
 
 msgid "Default (TDE)"
-msgstr ""
+msgstr "Domyślny (TDE)"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Konfigurator Pulpitu"
 
 msgid "Desktop Profiler - install progress"
 msgstr "Konfigurator Pulpitu - postęp instalacji"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "Konfigurator Pulpitu pozwoli Ci wybrać najodpowiedniejszy profil dla tego komputera."
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "Środowisko graficzne:"
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Konfigurator pulpitu - wybierz domyślne środowisko graficzne"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "Jeśli nie jesteś pewien, wybierz <b>[ KDE Plasma ]</b>. Jest to polecana opcja."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Proces instalacji wymaga ponownego zalogowania tego użytkownika. Czy chcesz się zalogować ponownie teraz?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "Rozpocznij instalację"
 
 msgid "Next >"
 msgstr "Dalej >"
 
 msgid "No configuration found, exiting .."
-msgstr ""
+msgstr "Nie znaleziono konfiguracji, wychodzenie .."
 
 msgid "None selected"
-msgstr ""
+msgstr "Nic nie zaznaczono"
 
 msgid "Note "
-msgstr ""
+msgstr "Informacja "
 
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Proszę jak najszybciej zrestartowac komputer. Czy chcesz zrobić to teraz?"
 
 msgid "Please restart X server as soon as possible."
-msgstr "Proszę zresartować X server najszybciej jak to możliwe."
+msgstr "Proszę zresartować X server tak szybko, jak to możliwe."
 
 msgid "Profile description"
 msgstr "Opis profilu"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "Profil oprogramowania:"
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "Tak, na pewno chcę zainstalować dodatkowe środowisko graficzne"
 
 #~ msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
-#~ msgstr "<p>Q4OS został zainstalowany jako bardzo proste środowiska. Możesz pozostawić swój system w minimalnym, czystym stanie i zainstalować pozostałe elementy samodzielnie. W innym wypadku możesz uruchomić Konfigurator Pulpitu i pozwolić mu zainstalować i skonfigurować zalecane dodatkowe oprogramowanie automatycznie. Masz możliwość wyboru pomiędzy kilkoma profilami. Konfigurator Pulpitu jest także dostępny w Start Menu.</p><p>Czy chciałbyś <b>zachować świeżą instalację Q4OS</b>, szybką i czystą pomijając instalację dodatkowego oprogramowania teraz?</p>"
+#~ msgstr "<p>Q4OS został zainstalowany jako bardzo podstawowe środowisko. Możesz pozostawić swój system w minimalnym, czystym stanie i zainstalować pozostałe elementy samodzielnie. W innym wypadku możesz uruchomić Konfigurator Pulpitu i pozwolić mu zainstalować i skonfigurować zalecane dodatkowe oprogramowanie automatycznie. Masz możliwość wyboru pomiędzy kilkoma profilami. Konfigurator Pulpitu jest także dostępny w Start Menu.</p><p>Czy chciałbyś <b>zachować świeżą instalację Q4OS</b>, szybką i czystą pomijając instalację dodatkowego oprogramowania teraz?</p>"
 
 #~ msgid "Q4OS Setup"
 #~ msgstr "Konfiguracja Q4OS"
@@ -193,10 +199,10 @@ msgstr ""
 #~ msgstr "Uruchom Konfigurator Pulpitu"
 
 #~ msgid "<p>Unsufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-#~ msgstr "<p>Wykryto niewystarczający zasób sprzętowy!</p><p>Twój procesor (CPU) nie posiada instrukcji SSE2, których wymaga program.</p>"
+#~ msgstr "<p>Komputer nie spełnia wymagań sprzętowych !</p><p>Twój procesor (CPU) nie posiada instrukcji SSE2, których wymaga program.</p>"
 
 #~ msgid "<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-#~ msgstr "<p>Wykryto niewystarczający zasób sprzętowy!</p><p>Twój komputer ma za małe zasoby sprzętowe dla profilu, który wybrałeś. Jego instalacja jest nie zalecana.</p>"
+#~ msgstr "<p>Komputer nie spełnia wymagań sprzętowych !</p><p>Twój komputer ma za małe zasoby sprzętowe dla profilu, który wybrałeś. Jego instalacja jest nie zalecana.</p>"
 
 #~ msgid "Do you really want to cancel pending operation ?"
 #~ msgstr "Czy na pewno chcesz przerwać trwającą operację?"
