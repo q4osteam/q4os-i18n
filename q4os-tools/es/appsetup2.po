@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-09 14:13+0200\n"
-"PO-Revision-Date: 2021-01-19 11:01-0400\n"
+"PO-Revision-Date: 2021-07-20 11:31-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 msgid "< Back"
 msgstr "< Atras"
@@ -32,14 +32,14 @@ msgstr ""
 "<p><h2>Completando _SUBST_SWNAME_ asistente</h2><br></p>\n"
 "<p>La aplicación _SUBST_SWNAME_ ha sido instalada en su equipo.<br></p>\n"
 "<p>Clic en finalizar para cerrar el asistente.<br><br><br><br><br><br></p>\n"
-"<p>Visite_SUBST_SWNAME_ sitio web para las ultimas noticias, PFs y soporte</p>"
+"<p>Visite _SUBST_SWNAME_ sitio web para las ultimas noticias, PFs y soporte</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
 msgstr ""
-"<p><h2>Bienvenido/a a el _SUBST_SWNAME_ asistente de instalación</h2></p>\n"
+"<p><h2>Bienvenido/a al asistente de instalación de _SUBST_SWNAME_</h2></p>\n"
 "<p>Este asistente le guiará a través de la instalación de la aplicación _SUBST_SWNAME_.</p>\n"
 "<p>Haga clic en siguiente para continuar.</p>\n"
 
@@ -47,7 +47,7 @@ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup mes
 msgstr "<p>Error al instalar la aplicación, disculpe, no se puede continuar.</p><p>Los mensajes de configuración se guardaron en el archivo de registro: <b> "
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr "<p>La conexión a Internet está inactiva o es muy lenta. El instalador debe descargar los paquetes de aplicaciones de las fuentes de Internet de Q4OS. El programa de instalación no puede continuar...</p>"
+msgstr "<p>La conexión a Internet está inactiva o es muy lenta. El instalador debe descargar los paquetes de aplicaciones de de Q4OS. El programa de instalación no puede continuar...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr "<p>El sistema de paquetes está ocupado, no está listo para instalar ahora. </p><p>La instalación no puede continuar. </p> <p> El bloqueo es causado, muy probablemente, por actualizaciones continuas del sistema en segundo plano. Si este es el caso, debe esperar un momento para que el sistema de paquetes finalice estas operaciones. Asegúrese de no estar instalando otra aplicación y repita la configuración unos minutos más tarde. </p> <p> Limpiando y cancelando ahora ..."
@@ -119,7 +119,7 @@ msgid "Extracting archive ... Done"
 msgstr "Extrayendo archivo ... Hecho"
 
 msgid "Fast system checks"
-msgstr "Comprobacion rápida del sistema"
+msgstr "Comprobación rápida del sistema"
 
 msgid "Finish >"
 msgstr "Finalizar>"
@@ -137,7 +137,7 @@ msgid "If you accept the terms of the agreement, click I Agree to continue. You 
 msgstr "Si acepta los términos del acuerdo, haga clic en Acepto para continuar. Debe aceptar el acuerdo para instalar la aplicación _SUBST_SWNAME_."
 
 msgid "Install >"
-msgstr "Instalar>"
+msgstr "Instalar >"
 
 msgid "Installation successfully completed :-)"
 msgstr "Instalación completada con éxito :-)"
@@ -158,7 +158,7 @@ msgid "License text ..."
 msgstr "Texto de licencia ..."
 
 msgid "Next >"
-msgstr "Siguiente>"
+msgstr "Siguiente >"
 
 msgid "Package system ... Busy !"
 msgstr "Sistema de paquetes ... ¡Ocupado!"
@@ -194,7 +194,7 @@ msgid "Postinstall operations, update sw database ..."
 msgstr "Operaciones posteriores a la instalación,  refrescar base de datos del centro de aplicaciones ..."
 
 msgid "Postinstall operations, upgrade sw database ..."
-msgstr "Operaciones posteriores a la instalación,  actualizar base de datos del centro de aplicaciones"
+msgstr "Operaciones posteriores a la instalación,  actualizar base de datos del centro de aplicaciones."
 
 msgid "Preparing installation files ..."
 msgstr "Preparando archivos de instalación ..."
