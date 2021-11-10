@@ -7,22 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-12 17:44+0200\n"
+"POT-Creation-Date: 2021-11-11 00:23+0100\n"
 "PO-Revision-Date: 2021-04-12 22:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "X-Generator: Poedit 2.4.2\n"
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
 msgstr "<b>Clicca su Sì</b> per far partire l'installazione automatica guidata, che ti guiderà nel processo di installazione dell'ultima versione stabile dell'applicazione, con aggiornamenti automatici. Altrimenti, clicca su No e usa il programma Konqueror come opzione predefinita. Si potrà installare ${APF1} successivamente dal Centro Programmi di Q4OS, in qualunque momento."
 
-#, sh-format
-msgid "<b>Q4OS optimized</b> ${APD} is preffered to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
+#, fuzzy, sh-format
+msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
 msgstr "<b>L'ottimizzazione di Q4OS di</b> ${APD} sarebbe preferita al CD originale di Oracle, per ottenere le migliori prestazioni. Questa configurazione scarica e installerà ora automaticamente tutto il necessario."
 
 #, sh-format
@@ -36,10 +36,6 @@ msgstr "Rilevato laptop modello Asus Eee PC, verrà eseguita una configurazione 
 #, sh-format
 msgid "Check Internet connection, please."
 msgstr "Verifica la connessione ad Internet, per favore."
-
-#, sh-format
-msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr "Verifica la connessione ad Internet, per favore.</p><p> L'assistente ne ha bisogno per connettersi ai server di Q4OS e scaricare i pacchetti, ma non è stato possibile recuperare alcuna informazione. Ti verrà richiesta l'installazione di ${APD} al prossimo login, o puoi farlo manualmente in qualsiasi momento dal Centro Programmi di Q4OS."
 
 #, sh-format
 msgid "Click \"Ok\" button to run the tool."
@@ -177,8 +173,8 @@ msgstr "La lingua: <b>${LANC}</b> è stata aggiunta al sistema."
 msgid "Language pack"
 msgstr "Pacchetto della lingua"
 
-#, sh-format
-msgid "Live media detected. Printers management is not fully supported within the live media now. It will be available after Q4OS installation."
+#, fuzzy, sh-format
+msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
 msgstr "Supporto Live (USB-DVD) rilevato. La gestione delle stampanti non è completamente supportata durante l'utilizzo di un sistema Live. Sarà pienamente disponibile solo dopo l'installazione di Q4OS."
 
 #, sh-format
@@ -282,6 +278,10 @@ msgid "Unable to update, check Internet connection please."
 msgstr "Impossibile effettuare l'aggiornamento, verifica la connessione ad Internet."
 
 #, sh-format
+msgid "Virtualbox Guest Additions setup"
+msgstr ""
+
+#, sh-format
 msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
 msgstr "Attenzione: il sistema ha poca memoria RAM: sarà probabilmente inutilizzabile con l'ambiente desktop KDE Plasma. Per favore, scarica dal sito q4os.org la versione con l'ambiente desktop Trinity."
 
@@ -292,10 +292,6 @@ msgstr "Scheda di rete wireless rilevata, supporto alle connessioni Wi-Fi attiva
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
 msgstr "Vorresti ricevere una <b>notifica al prossimo login</b> ? Se clicchi su \"No\", questa finestra di dialogo non apparirà più. Potrai installare ${APD} in qualunque momento dal<b>Centro Programmi di Q4OS</b>."
-
-#, sh-format
-msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>.</p><p>Would you like to be notified later ?"
-msgstr "Vorresti ricevere una <b>notifica al prossimo login</b> ? Se clicchi su \"No\", questa finestra di dialogo non apparirà più. Potrai installare ${APD} in qualunque momento dal<b>Centro Programmi di Q4OS</b>.</p><p>Vuoi ricevere una notifica più tardi ?"
 
 #, sh-format
 msgid "Would you like to be notified later ?"
@@ -344,3 +340,9 @@ msgstr "download in corso ..."
 #, sh-format
 msgid "message"
 msgstr "messaggio"
+
+#~ msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
+#~ msgstr "Verifica la connessione ad Internet, per favore.</p><p> L'assistente ne ha bisogno per connettersi ai server di Q4OS e scaricare i pacchetti, ma non è stato possibile recuperare alcuna informazione. Ti verrà richiesta l'installazione di ${APD} al prossimo login, o puoi farlo manualmente in qualsiasi momento dal Centro Programmi di Q4OS."
+
+#~ msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>.</p><p>Would you like to be notified later ?"
+#~ msgstr "Vorresti ricevere una <b>notifica al prossimo login</b> ? Se clicchi su \"No\", questa finestra di dialogo non apparirà più. Potrai installare ${APD} in qualunque momento dal<b>Centro Programmi di Q4OS</b>.</p><p>Vuoi ricevere una notifica più tardi ?"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:40+0200\n"
+"POT-Creation-Date: 2021-11-11 00:15+0100\n"
 "PO-Revision-Date: 2019-10-19 14:05+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -17,56 +17,42 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 19.08.2\n"
 
+msgid "#Filter: "
+msgstr ""
+
+msgid "#Records: "
+msgstr ""
+
+msgid "---  Menu  ---"
+msgstr ""
+
+msgid "<"
+msgstr ""
+
 msgid "<p>"
 msgstr "<p>"
 
-msgid ""
-"<p>Discover software manager isn't installed, please install it first.</p>"
+msgid "<p>Discover software manager isn't installed, please install it first.</p>"
 msgstr "<p>Installeer Discover-softwarebeheer.</p>"
 
-msgid ""
-"<p>NVIDIA installation has been detected !</p><p>Actions are disabled during"
-" NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
-"<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens"
-" het instellen van NVIDIA; even geduld.</p>"
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van NVIDIA; even geduld.</p>"
 
-msgid ""
-"<p>Package system is busy, not ready to install now. Setup cannot continue.<"
-"/p><p>The lock is caused, most likely, by ongoing background system updates."
-" If this is the case, you have to wait a moment for package system to finish"
-" these operations. Please make sure you are not installing another"
-" application and repeat setup few minutes later.</p>"
-msgstr ""
-"<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p><p>De"
-" vergrendeling wordt hoogstwaarschijnlijk veroorzaakt door systeemupdates die"
-" op de achtergrond worden geïnstalleerd. Als dat zo is, dan moet u wachten"
-" totdat de updates volledig zijn geïnstalleerd. Controleer ook of u niet een"
-" ander programma gelijktijdig probeert te installeren.</p>"
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr "<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p><p>De vergrendeling wordt hoogstwaarschijnlijk veroorzaakt door systeemupdates die op de achtergrond worden geïnstalleerd. Als dat zo is, dan moet u wachten totdat de updates volledig zijn geïnstalleerd. Controleer ook of u niet een ander programma gelijktijdig probeert te installeren.</p>"
 
-msgid "<p>Select an application to install.</p>"
+#, fuzzy
+msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Kies een te installeren programma.</p>"
 
-msgid ""
-"<p>Synaptic package manager isn't installed, please install it first.</p>"
+msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
 msgstr "<p>Installeer Synaptic-pakketbeheer.</p>"
 
-msgid ""
-"<p>Virtualbox installation has been detected !</p><p>Actions are disabled"
-" during Virtualbox setup, please wait until end of the Virtualbox"
-" installation.</p>"
-msgstr ""
-"<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld"
-" tijdens het instellen van VirtualBox; even geduld.</p>"
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van VirtualBox; even geduld.</p>"
 
-msgid ""
-"<p>You have applied no desktop profile yet. It's highly recommended to apply"
-" a desktop profile before installing applications.</p><p>Please run <b>Dektop"
-" Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
-"<p>U heeft nog geen werkomgevingsprofiel toegepast.</p><p>Wij raden aan om"
-" het programma <b>Werkomgevingsprofielen</b> te openen en zo spoedig mogelijk"
-" één van de beschikbare profielen toe te passen.</p>"
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr "<p>U heeft nog geen werkomgevingsprofiel toegepast.</p><p>Wij raden aan om het programma <b>Werkomgevingsprofielen</b> te openen en zo spoedig mogelijk één van de beschikbare profielen toe te passen.</p>"
 
 msgid "Application"
 msgstr "Programma"
@@ -77,8 +63,20 @@ msgstr "Annuleren"
 msgid "Description"
 msgstr "Omschrijving"
 
+#, fuzzy
+msgid "Desktop Profiler"
+msgstr "Werkomgevingsprofielen"
+
 msgid "Desktop profiler"
 msgstr "Werkomgevingsprofielen"
+
+#, fuzzy
+msgid "Featured applications"
+msgstr "Geselecteerde programma's installeren"
+
+#, fuzzy
+msgid "Featured applications: #"
+msgstr "Geselecteerde programma's installeren"
 
 msgid "Info"
 msgstr "Informatie"
@@ -86,11 +84,11 @@ msgstr "Informatie"
 msgid "Install application"
 msgstr "Programma installeren"
 
-msgid "Install selected applications"
-msgstr "Geselecteerde programma's installeren"
+msgid "Install or uninstall selected application from the featured applications list below"
+msgstr ""
 
-msgid "Package manager"
-msgstr "Pakketbeheer"
+msgid "More options"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS-softwarecentrum"
@@ -101,14 +99,25 @@ msgstr "Beoordeling"
 msgid "Run 'Desktop Profiler' tool"
 msgstr "Open het programma 'Werkomgevingsprofielen'"
 
-msgid "Run 'Discover' - software manager"
+#, fuzzy
+msgid "Run 'Discover' advanced software manager"
 msgstr "Open 'Discover'-softwarebeheer"
 
-msgid "Run 'Synaptic' - system package manager"
-msgstr "Open 'Synaptic'-pakketbeheer"
+#, fuzzy
+msgid "Run 'Synaptic' advanced software manager"
+msgstr "Open 'Discover'-softwarebeheer"
+
+msgid "Run comfortable package installer and Flatpak installer"
+msgstr ""
 
 msgid "Search:"
 msgstr "Zoeken:"
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
 
 msgid "Uninstall"
 msgstr "Deïnstalleren"
@@ -116,14 +125,35 @@ msgstr "Deïnstalleren"
 msgid "Uninstall now"
 msgstr "Nu deïnstalleren"
 
+msgid "action1"
+msgstr ""
+
+msgid "action2"
+msgstr ""
+
 msgid "config_file"
 msgstr "config_file"
 
 msgid "download"
 msgstr "Downloaden"
 
+msgid "no selection"
+msgstr ""
+
 msgid "package"
 msgstr "Pakket"
 
 msgid "rating_num"
 msgstr "rating_num"
+
+msgid "recordnum"
+msgstr ""
+
+msgid "textLabel"
+msgstr ""
+
+#~ msgid "Package manager"
+#~ msgstr "Pakketbeheer"
+
+#~ msgid "Run 'Synaptic' - system package manager"
+#~ msgstr "Open 'Synaptic'-pakketbeheer"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:40+0200\n"
+"POT-Creation-Date: 2021-11-11 00:15+0100\n"
 "PO-Revision-Date: 2019-10-15 16:36+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,6 +16,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
+
+msgid "#Filter: "
+msgstr ""
+
+msgid "#Records: "
+msgstr ""
+
+msgid "---  Menu  ---"
+msgstr ""
+
+msgid "<"
+msgstr ""
 
 msgid "<p>"
 msgstr "<p>"
@@ -30,7 +42,7 @@ msgid "<p>Package system is busy, not ready to install now. Setup cannot continu
 msgstr ""
 
 #, fuzzy
-msgid "<p>Select an application to install.</p>"
+msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Sélectionner l'application à installer.<p>"
 
 #, fuzzy
@@ -52,8 +64,20 @@ msgstr "Annuler"
 msgid "Description"
 msgstr "Description"
 
+#, fuzzy
+msgid "Desktop Profiler"
+msgstr "Gestionnaire de profil"
+
 msgid "Desktop profiler"
 msgstr "Gestionnaire de profil"
+
+#, fuzzy
+msgid "Featured applications"
+msgstr "Installer les applications sélectionnées"
+
+#, fuzzy
+msgid "Featured applications: #"
+msgstr "Installer les applications sélectionnées"
 
 msgid "Info"
 msgstr "Info"
@@ -61,11 +85,11 @@ msgstr "Info"
 msgid "Install application"
 msgstr "Installer l'application"
 
-msgid "Install selected applications"
-msgstr "Installer les applications sélectionnées"
+msgid "Install or uninstall selected application from the featured applications list below"
+msgstr ""
 
-msgid "Package manager"
-msgstr "Gestionnaire de paquets"
+msgid "More options"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Centre de logiciels Q4OS"
@@ -76,14 +100,25 @@ msgstr "Notation"
 msgid "Run 'Desktop Profiler' tool"
 msgstr "Exécuter le gestionnaire de profil"
 
-msgid "Run 'Discover' - software manager"
+#, fuzzy
+msgid "Run 'Discover' advanced software manager"
 msgstr "Exécuter le gestionnaire de paquets « Discover »"
 
-msgid "Run 'Synaptic' - system package manager"
-msgstr "Exécuter le gestionnaire de paquets « Synaptic »"
+#, fuzzy
+msgid "Run 'Synaptic' advanced software manager"
+msgstr "Exécuter le gestionnaire de paquets « Discover »"
+
+msgid "Run comfortable package installer and Flatpak installer"
+msgstr ""
 
 msgid "Search:"
 msgstr "Chercher :"
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
 
 msgid "Uninstall"
 msgstr "Désinstaller"
@@ -91,14 +126,35 @@ msgstr "Désinstaller"
 msgid "Uninstall now"
 msgstr "Désinstaller maintenant"
 
+msgid "action1"
+msgstr ""
+
+msgid "action2"
+msgstr ""
+
 msgid "config_file"
 msgstr "fichier de configuration"
 
 msgid "download"
 msgstr "télécharger"
 
+msgid "no selection"
+msgstr ""
+
 msgid "package"
 msgstr "paquet"
 
 msgid "rating_num"
 msgstr "notation"
+
+msgid "recordnum"
+msgstr ""
+
+msgid "textLabel"
+msgstr ""
+
+#~ msgid "Package manager"
+#~ msgstr "Gestionnaire de paquets"
+
+#~ msgid "Run 'Synaptic' - system package manager"
+#~ msgstr "Exécuter le gestionnaire de paquets « Synaptic »"

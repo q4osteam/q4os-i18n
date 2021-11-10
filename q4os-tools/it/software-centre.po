@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:40+0200\n"
+"POT-Creation-Date: 2021-11-11 00:15+0100\n"
 "PO-Revision-Date: 2021-04-12 22:45+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
@@ -16,6 +16,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.2\n"
+
+msgid "#Filter: "
+msgstr ""
+
+msgid "#Records: "
+msgstr ""
+
+msgid "---  Menu  ---"
+msgstr ""
+
+msgid "<"
+msgstr ""
 
 msgid "<p>"
 msgstr ""
@@ -29,7 +41,8 @@ msgstr "<p>Un processo di installazione di NVIDIA è stato rilevato !</p><p>Alcu
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>Il gestore di pacchetti di sistema è occupato, non è possibile installare ora. L'installazione non può continuare.</p><p>Il blocco è molto probabilmente causato dall'installazione in background di aggiornamenti di sistema. Nel caso, è sufficiente aspettare che il gestore di pacchetti di sistema termini queste operazioni. Assicurati di non installare contemporaneamente altre applicazioni e ripeti l'installazione tra qualche minuto.</p>"
 
-msgid "<p>Select an application to install.</p>"
+#, fuzzy
+msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Seleziona un'applicazione da installare.</p>"
 
 msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
@@ -50,8 +63,20 @@ msgstr "Annulla"
 msgid "Description"
 msgstr "Descrizione"
 
+#, fuzzy
+msgid "Desktop Profiler"
+msgstr "Esegui 'Desktop Profiler'"
+
 msgid "Desktop profiler"
 msgstr ""
+
+#, fuzzy
+msgid "Featured applications"
+msgstr "Installa applicazioni selezionate"
+
+#, fuzzy
+msgid "Featured applications: #"
+msgstr "Installa applicazioni selezionate"
 
 msgid "Info"
 msgstr "Informazioni"
@@ -59,11 +84,11 @@ msgstr "Informazioni"
 msgid "Install application"
 msgstr "Installa applicazione"
 
-msgid "Install selected applications"
-msgstr "Installa applicazioni selezionate"
+msgid "Install or uninstall selected application from the featured applications list below"
+msgstr ""
 
-msgid "Package manager"
-msgstr "Gestore dei pacchetti"
+msgid "More options"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Centro Programmi di Q4OS"
@@ -74,14 +99,25 @@ msgstr "Voto"
 msgid "Run 'Desktop Profiler' tool"
 msgstr "Esegui 'Desktop Profiler'"
 
-msgid "Run 'Discover' - software manager"
+#, fuzzy
+msgid "Run 'Discover' advanced software manager"
 msgstr "Esegui \"Discover' - il gestore di pacchetti di sistema"
 
-msgid "Run 'Synaptic' - system package manager"
-msgstr "Esegui \"Synaptic' - il gestore di pacchetti di sistema"
+#, fuzzy
+msgid "Run 'Synaptic' advanced software manager"
+msgstr "Esegui \"Discover' - il gestore di pacchetti di sistema"
+
+msgid "Run comfortable package installer and Flatpak installer"
+msgstr ""
 
 msgid "Search:"
 msgstr "Cerca:"
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
 
 msgid "Uninstall"
 msgstr "Disinstalla"
@@ -89,10 +125,19 @@ msgstr "Disinstalla"
 msgid "Uninstall now"
 msgstr "Disinstalla ora"
 
+msgid "action1"
+msgstr ""
+
+msgid "action2"
+msgstr ""
+
 msgid "config_file"
 msgstr ""
 
 msgid "download"
+msgstr ""
+
+msgid "no selection"
 msgstr ""
 
 msgid "package"
@@ -100,3 +145,15 @@ msgstr "pacchetto"
 
 msgid "rating_num"
 msgstr ""
+
+msgid "recordnum"
+msgstr ""
+
+msgid "textLabel"
+msgstr ""
+
+#~ msgid "Package manager"
+#~ msgstr "Gestore dei pacchetti"
+
+#~ msgid "Run 'Synaptic' - system package manager"
+#~ msgstr "Esegui \"Synaptic' - il gestore di pacchetti di sistema"

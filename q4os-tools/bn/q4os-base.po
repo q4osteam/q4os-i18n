@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-12 17:44+0200\n"
+"POT-Creation-Date: 2021-11-11 00:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you 
 msgstr ""
 
 #, sh-format
-msgid "<b>Q4OS optimized</b> ${APD} is preffered to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
+msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
 msgstr ""
 
 #, sh-format
@@ -35,10 +35,6 @@ msgstr ""
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
-
-#, sh-format
-msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr ""
 
 #, sh-format
@@ -178,7 +174,7 @@ msgid "Language pack"
 msgstr ""
 
 #, sh-format
-msgid "Live media detected. Printers management is not fully supported within the live media now. It will be available after Q4OS installation."
+msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
 msgstr ""
 
 #, sh-format
@@ -282,6 +278,10 @@ msgid "Unable to update, check Internet connection please."
 msgstr ""
 
 #, sh-format
+msgid "Virtualbox Guest Additions setup"
+msgstr ""
+
+#, sh-format
 msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
 msgstr ""
 
@@ -291,10 +291,6 @@ msgstr ""
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr ""
-
-#, sh-format
-msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>.</p><p>Would you like to be notified later ?"
 msgstr ""
 
 #, sh-format

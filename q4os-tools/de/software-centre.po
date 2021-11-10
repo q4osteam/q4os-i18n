@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:40+0200\n"
+"POT-Creation-Date: 2021-11-11 00:15+0100\n"
 "PO-Revision-Date: 2019-10-15 16:37+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -16,6 +16,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
+
+msgid "#Filter: "
+msgstr ""
+
+msgid "#Records: "
+msgstr ""
+
+msgid "---  Menu  ---"
+msgstr ""
+
+msgid "<"
+msgstr ""
 
 msgid "<p>"
 msgstr ""
@@ -29,7 +41,7 @@ msgstr ""
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr ""
 
-msgid "<p>Select an application to install.</p>"
+msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr ""
 
 msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
@@ -50,8 +62,20 @@ msgstr "Abbrechen"
 msgid "Description"
 msgstr "Beschreibung"
 
+#, fuzzy
+msgid "Desktop Profiler"
+msgstr "Desktop-Profiler"
+
 msgid "Desktop profiler"
 msgstr "Desktop-Profiler"
+
+#, fuzzy
+msgid "Featured applications"
+msgstr "Installiere die ausgewählten Programme"
+
+#, fuzzy
+msgid "Featured applications: #"
+msgstr "Installiere die ausgewählten Programme"
 
 msgid "Info"
 msgstr "Info"
@@ -59,11 +83,11 @@ msgstr "Info"
 msgid "Install application"
 msgstr "Installieren"
 
-msgid "Install selected applications"
-msgstr "Installiere die ausgewählten Programme"
+msgid "Install or uninstall selected application from the featured applications list below"
+msgstr ""
 
-msgid "Package manager"
-msgstr "Paket-Manager"
+msgid "More options"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS Software Center"
@@ -74,14 +98,25 @@ msgstr "Bewertung"
 msgid "Run 'Desktop Profiler' tool"
 msgstr "Starte den 'Desktop-Profiler'"
 
-msgid "Run 'Discover' - software manager"
+#, fuzzy
+msgid "Run 'Discover' advanced software manager"
 msgstr "Starte 'Discover' - System-Paket-Manager"
 
-msgid "Run 'Synaptic' - system package manager"
-msgstr "Starte 'Synaptic' - System-Paket-Manager"
+#, fuzzy
+msgid "Run 'Synaptic' advanced software manager"
+msgstr "Starte 'Discover' - System-Paket-Manager"
+
+msgid "Run comfortable package installer and Flatpak installer"
+msgstr ""
 
 msgid "Search:"
 msgstr "Suche:"
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
 
 msgid "Uninstall"
 msgstr "Deinstallieren"
@@ -89,17 +124,38 @@ msgstr "Deinstallieren"
 msgid "Uninstall now"
 msgstr "Jetzt Deinstallieren"
 
+msgid "action1"
+msgstr ""
+
+msgid "action2"
+msgstr ""
+
 msgid "config_file"
 msgstr "config_file"
 
 msgid "download"
 msgstr "Herunterladen"
 
+msgid "no selection"
+msgstr ""
+
 msgid "package"
 msgstr "Paket"
 
 msgid "rating_num"
 msgstr "rating_num"
+
+msgid "recordnum"
+msgstr ""
+
+msgid "textLabel"
+msgstr ""
+
+#~ msgid "Package manager"
+#~ msgstr "Paket-Manager"
+
+#~ msgid "Run 'Synaptic' - system package manager"
+#~ msgstr "Starte 'Synaptic' - System-Paket-Manager"
 
 #~ msgid "<p></p>"
 #~ msgstr "<p></p>"
