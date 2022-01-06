@@ -7,21 +7,21 @@ msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-11 00:23+0100\n"
-"PO-Revision-Date: 2019-10-19 14:06+0200\n"
-"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"PO-Revision-Date: 2022-01-06 13:46+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 19.08.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr "<b>Klik op 'Ja'</b> om de installatiehulp te starten. Deze begeleidt je door het installatieproces van de nieuwste stabiele versie, voorzien van automatische updates. Als u dit niet wilt, klik dan op 'Nee' om standaard Konqueror te gebruiken. U kunt ${APF1} altijd installeren middels het Q4OS-softwarecentrum."
+msgstr "<b>Klik op ‘Ja’</b> om de installatiehulp te starten. Deze begeleidt je door het installatieproces van de nieuwste stabiele versie, voorzien van automatische updates. Als u dit niet wilt, klik dan op ‘Nee’ om standaard Konqueror te gebruiken. U kunt ${APF1} altijd installeren middels het Q4OS-softwarecentrum."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
 msgstr "Om de beste prestaties te krijgen gaat de voorkeur uit naar <b>Q4OS's geoptimaliseerde</b> ${APD}. Deze instelhulp downloadt en installeert al het nodige."
 
@@ -39,35 +39,35 @@ msgstr "Controleer uw internetverbinding."
 
 #, sh-format
 msgid "Click \"Ok\" button to run the tool."
-msgstr "Klik op 'Oké' om het programma uit te voeren."
+msgstr "Klik op ‘Oké’ om het programma uit te voeren."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr "Klik op 'Oké' om de menubewerker te openen."
+msgstr "Klik op ‘Oké’ om de menubewerker te openen."
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr "Klik op 'Oké' om het aanmeldscherm te tonen."
+msgstr "Klik op ‘Oké’ om het aanmeldscherm te tonen."
 
 #, sh-format
 msgid "Click OK to run a WiFi connection tool to create a network connection."
-msgstr "Klik op 'Oké' om het Wi-Fi-programma te starten zodat u verbinding kunt maken met internet."
+msgstr "Klik op ‘Oké’ om het Wi-Fi-programma te starten zodat u verbinding kunt maken met internet."
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr "Klik op 'Oké' om uw computer opnieuw op te starten."
+msgstr "Klik op ‘Oké’ om uw computer opnieuw op te starten."
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr "Bezig instellen van werkomgevingsthema..."
+msgstr "Bezig instellen van werkomgevingsthema…"
 
 #, sh-format
 msgid "Configuring the profile ..."
-msgstr "Bezig met instellen van profiel..."
+msgstr "Bezig met instellen van profiel…"
 
 #, sh-format
 msgid "Configuring the system ..."
-msgstr "Bezig met instellen van systeem..."
+msgstr "Bezig met instellen van systeem…"
 
 #, sh-format
 msgid "Congratulations, setup has finished."
@@ -107,7 +107,7 @@ msgstr "Downloaden mislukt!"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
-msgstr "Bezig met downloaden van taalpakket; even geduld ..."
+msgstr "Bezig met downloaden van taalpakket; even geduld…"
 
 #, sh-format
 msgid "External repositories"
@@ -123,7 +123,7 @@ msgstr "Ga voor meer informatie naar de Q4OS-documentatiepagina op https://www.q
 
 #, sh-format
 msgid "Generating system wide locales, please wait ..."
-msgstr "Bezig met genereren van systeemtalen; even geduld ..."
+msgstr "Bezig met genereren van systeemtalen; even geduld…"
 
 #, sh-format
 msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
@@ -173,7 +173,7 @@ msgstr "De taal <b>${LANC}</b> is toegevoegd aan het systeem."
 msgid "Language pack"
 msgstr "Taalpakket"
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
 msgstr "Livemedium gedetecteerd. Er is geen volledige ondersteuning voor printerbeheer op het livemedium, maar wél na het installeren van Q4OS."
 
@@ -183,7 +183,7 @@ msgstr "De installatiehulp en pictogrammen van de themakiezer worden verwijderd 
 
 #, sh-format
 msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
-msgstr "Bezig met plaatsen van bestandssysteem in werkgeheugen; even geduld..."
+msgstr "Bezig met plaatsen van bestandssysteem in werkgeheugen; even geduld…"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -239,7 +239,7 @@ msgstr "Kies uw taal:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr "De installatie is afgebroken..."
+msgstr "De installatie is afgebroken…"
 
 #, sh-format
 msgid "Setup cannot continue."
@@ -279,7 +279,7 @@ msgstr "Bijwerken mislukt. Controleer uw internetverbinding."
 
 #, sh-format
 msgid "Virtualbox Guest Additions setup"
-msgstr ""
+msgstr "Virtualbox Guest Additions-installatie"
 
 #, sh-format
 msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
@@ -291,7 +291,7 @@ msgstr "Draadloze netwerkkaart gedetecteerd. Wi-Fi-ondersteuning is ingeschakeld
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr "Wilt u een <b>melding ontvangen zodra u opnieuw aanmeldt</b>? Als u 'Nee' kiest, dan wordt dit venster nooit meer getoond. U kunt ${APD} altijd installeren middels het softwarecentrum."
+msgstr "Wilt u een <b>melding ontvangen zodra u opnieuw aanmeldt</b>? Als u ‘Nee’ kiest, dan wordt dit venster nooit meer getoond. U kunt ${APD} altijd installeren middels het softwarecentrum."
 
 #, sh-format
 msgid "Would you like to be notified later ?"
@@ -323,7 +323,7 @@ msgstr "U staat op het punt om het startmenu aan te passen."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr "U kunt de leesbaarheid verhogen door tekst en widgets te vergroten. Klik op 'Oké' om de instelhulp voor beeldschermen te starten."
+msgstr "U kunt de leesbaarheid verhogen door tekst en widgets te vergroten. Klik op ‘Oké’ om de instelhulp voor beeldschermen te starten."
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
@@ -335,7 +335,7 @@ msgstr "Downloaden"
 
 #, sh-format
 msgid "downloading ..."
-msgstr "Bezig met downloaden..."
+msgstr "Bezig met downloaden…"
 
 #, sh-format
 msgid "message"

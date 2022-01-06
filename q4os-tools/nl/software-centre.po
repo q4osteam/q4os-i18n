@@ -7,27 +7,27 @@ msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-11 00:15+0100\n"
-"PO-Revision-Date: 2019-10-19 14:05+0200\n"
-"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"PO-Revision-Date: 2022-01-06 13:43+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 19.08.2\n"
+"X-Generator: Poedit 3.0\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#Filter: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#Items: "
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  Menu  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p>"
 msgstr "<p>"
@@ -41,9 +41,8 @@ msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijd
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p><p>De vergrendeling wordt hoogstwaarschijnlijk veroorzaakt door systeemupdates die op de achtergrond worden geïnstalleerd. Als dat zo is, dan moet u wachten totdat de updates volledig zijn geïnstalleerd. Controleer ook of u niet een ander programma gelijktijdig probeert te installeren.</p>"
 
-#, fuzzy
 msgid "<p>Select an application to install from the list of featured applications.</p>"
-msgstr "<p>Kies een te installeren programma.</p>"
+msgstr "<p>Kies een te installeren programma van de lijst met uitgelichte programma's.</p>"
 
 msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
 msgstr "<p>Installeer Synaptic-pakketbeheer.</p>"
@@ -63,20 +62,17 @@ msgstr "Annuleren"
 msgid "Description"
 msgstr "Omschrijving"
 
-#, fuzzy
 msgid "Desktop Profiler"
 msgstr "Werkomgevingsprofielen"
 
 msgid "Desktop profiler"
 msgstr "Werkomgevingsprofielen"
 
-#, fuzzy
 msgid "Featured applications"
-msgstr "Geselecteerde programma's installeren"
+msgstr "Uitgelichte programma's"
 
-#, fuzzy
 msgid "Featured applications: #"
-msgstr "Geselecteerde programma's installeren"
+msgstr "Uitgelichte programma's: #"
 
 msgid "Info"
 msgstr "Informatie"
@@ -85,10 +81,10 @@ msgid "Install application"
 msgstr "Programma installeren"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "Installeer of verwijder een programma van de lijst met uitgelichte programma's"
 
 msgid "More options"
-msgstr ""
+msgstr "Meer opties"
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS-softwarecentrum"
@@ -97,27 +93,25 @@ msgid "Rating"
 msgstr "Beoordeling"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr "Open het programma 'Werkomgevingsprofielen'"
+msgstr "Open het programma ‘Werkomgevingsprofielen’"
 
-#, fuzzy
 msgid "Run 'Discover' advanced software manager"
-msgstr "Open 'Discover'-softwarebeheer"
+msgstr "Open ‘Discover’-softwarebeheer"
 
-#, fuzzy
 msgid "Run 'Synaptic' advanced software manager"
-msgstr "Open 'Discover'-softwarebeheer"
+msgstr "Open ‘Synaptic’-softwarebeheer"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "Open de eenvoudige pakket- en Flatpak-installatie"
 
 msgid "Search:"
 msgstr "Zoeken:"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 msgid "Uninstall"
 msgstr "Deïnstalleren"
@@ -126,10 +120,10 @@ msgid "Uninstall now"
 msgstr "Nu deïnstalleren"
 
 msgid "action1"
-msgstr ""
+msgstr "actie1"
 
 msgid "action2"
-msgstr ""
+msgstr "actie2"
 
 msgid "config_file"
 msgstr "config_file"
@@ -138,7 +132,7 @@ msgid "download"
 msgstr "Downloaden"
 
 msgid "no selection"
-msgstr ""
+msgstr "Niets geselecteerd"
 
 msgid "package"
 msgstr "Pakket"
@@ -147,10 +141,10 @@ msgid "rating_num"
 msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "textLabel"
-msgstr ""
+msgstr "tekstlabel"
 
 #~ msgid "Package manager"
 #~ msgstr "Pakketbeheer"
