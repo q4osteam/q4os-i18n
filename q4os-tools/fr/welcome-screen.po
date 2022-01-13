@@ -179,7 +179,7 @@ msgid "Setup Screen scaling ..."
 msgstr ""
 
 msgid "Show this dialog on startup"
-msgstr "Affichier cet élément au démarrage"
+msgstr "Afficher cet élément au démarrage"
 
 msgid "Start menu configuration"
 msgstr "Paramètres du menu Démarrer"
