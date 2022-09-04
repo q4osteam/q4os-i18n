@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-25 12:39+0200\n"
+"POT-Creation-Date: 2022-09-04 22:03+0200\n"
 "PO-Revision-Date: 2021-04-21 15:39+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
 "Language-Team: \n"
@@ -18,14 +18,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.1\n"
 
+msgid "(C) 2019 Q4OS"
+msgstr ""
+
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Witaj w Q4OS</b>, szybkim i rozbudowanym systemie operacyjnym skoncentrowanym na stabilności, niezawodności i klasycznym interfejsie użytkownika.</p><p align=justify>Q4OS jest instalowany jako proste i czyste środowisko graficzne, z minimalną ilością oprogramowania. Teraz jest właściwy czas, abyś dostosował swój pulpit, możesz zacząć od wprowadzania zmian korzystając z opcji poniżej.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>Pomija ekran logowania i automatycznie uruchamia pulpit po starcie systemu, bez wpisywania hasła.</p></font>"
-
-msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr "<font size=\"4\"><p>Naciśnij ten przycisk aby włączyć efekty wygładzania itp.</p><p>Uwaga, efekty pulpitu działają płynnie jedynie na nowszych komputerach, nie jest zalecane używanie ich na starszych komputerach. Krótki test systemu zostanie wykonany by upewnić się, czy komputer jest gotowy by zaakceptować taką konfigurację.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>Konfigurator Pulpitu automatycznie zainstaluje i skonfiguruje zestaw dodatkowych aplikacji i narzędzi, poprzez pojedyńcze kliknięcie.</p><p>Będziesz miał możliwość wyboru pomiędzy różnymi profilami pulpitu.</p></font>"
@@ -59,9 +59,6 @@ msgstr "<p>Czy chcesz włączyć automatyczne logowanie?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Czy chcesz przełączyć Start Menu ?</p>"
-
-msgid "<p>Do you want to turn Desktop Effects on ?</p>"
-msgstr "<p>Czy chcesz włączyć Efekty Pulpitu ?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>Została wykryta instalacja NVIDIA !</p><p>Wszystkie działania są wyłączone na czas instalacji NVIDII, proszę zaczekać do końca instalacji NVIDII.</p>"
@@ -99,6 +96,9 @@ msgstr "Automatyczne logowanie"
 msgid "Bourbon"
 msgstr "Bourbon"
 
+msgid "Brief system info."
+msgstr ""
+
 msgid "Cancel"
 msgstr "Anuluj"
 
@@ -113,6 +113,10 @@ msgstr "Klasyczne kaskadowe menu"
 
 msgid "Desktop effects"
 msgstr "Efekty Pulpitu"
+
+#, fuzzy
+msgid "Do you want to turn Desktop Effects on ?"
+msgstr "<p>Czy chcesz włączyć Efekty Pulpitu ?</p>"
 
 #, fuzzy
 msgid "Documents online"
@@ -160,8 +164,19 @@ msgstr "Typ menu"
 msgid "More options  >"
 msgstr "Więcej opcji  >"
 
+#, fuzzy
+msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
+msgstr "<font size=\"4\"><p>Naciśnij ten przycisk aby włączyć efekty wygładzania itp.</p><p>Uwaga, efekty pulpitu działają płynnie jedynie na nowszych komputerach, nie jest zalecane używanie ich na starszych komputerach. Krótki test systemu zostanie wykonany by upewnić się, czy komputer jest gotowy by zaakceptować taką konfigurację.</p></font>"
+
 msgid "Q4OS"
 msgstr "Q4OS"
+
+#, fuzzy
+msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
+msgstr "<font size=\"4\"><p align=justify><b>Witaj w Q4OS</b>, szybkim i rozbudowanym systemie operacyjnym skoncentrowanym na stabilności, niezawodności i klasycznym interfejsie użytkownika.</p><p align=justify>Q4OS jest instalowany jako proste i czyste środowisko graficzne, z minimalną ilością oprogramowania. Teraz jest właściwy czas, abyś dostosował swój pulpit, możesz zacząć od wprowadzania zmian korzystając z opcji poniżej.</p></font>"
+
+msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
+msgstr ""
 
 msgid "Revert to Classic"
 msgstr "Przełącz na Klasyczny"
@@ -172,11 +187,12 @@ msgstr "Przywróć ustawienia domyślne"
 msgid "Run Desktop Profiler"
 msgstr "Uruchom Konfigurator Pulpitu"
 
+#, fuzzy
+msgid "Screen scaling"
+msgstr "Skonfiguruj skalowanie ekranu ..."
+
 msgid "Set Autologin"
 msgstr "Włącz autologowanie"
-
-msgid "Setup Screen scaling ..."
-msgstr "Skonfiguruj skalowanie ekranu ..."
 
 msgid "Show this dialog on startup"
 msgstr "Pokaż to okno przy starcie"
@@ -184,20 +200,24 @@ msgstr "Pokaż to okno przy starcie"
 msgid "Start menu configuration"
 msgstr "Konfiguracja Start Menu"
 
+msgid "Support us on Patreon"
+msgstr ""
+
+#, fuzzy
+msgid "Switch start menu"
+msgstr "Przełącz na menu startu Kickoff"
+
 msgid "Switch to Bourbon"
 msgstr "Przełącz na Bourbon"
 
 msgid "Switch to Kickoff"
 msgstr "Przełącz na Kickoff"
 
-msgid "Switch to Kickoff start menu"
-msgstr "Przełącz na menu startu Kickoff"
+msgid "This option is to turn smoothing and beautifying desktop effects on."
+msgstr ""
 
 msgid "Turn ON"
 msgstr "Włącz"
-
-msgid "Turn on Desktop effects"
-msgstr "Włącz Efekty Pulpitu"
 
 msgid "Two panel menu with search line"
 msgstr "Menu z dwoma panelami oraz wyszukiwarką"
@@ -208,8 +228,18 @@ msgstr "Uwaga !"
 msgid "Welcome screen"
 msgstr "Ekran powitania"
 
+#, fuzzy
+msgid "Welcome to Q4OS"
+msgstr "Sponsoruj Q4OS"
+
+msgid "Well arranged system hardware information."
+msgstr ""
+
 msgid "Working ..."
 msgstr "Pracuję ..."
+
+msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
+msgstr ""
 
 msgid "pushButton1"
 msgstr ""
@@ -225,6 +255,9 @@ msgstr ""
 
 msgid "textLabel1"
 msgstr ""
+
+#~ msgid "Turn on Desktop effects"
+#~ msgstr "Włącz Efekty Pulpitu"
 
 #~ msgid "Close"
 #~ msgstr "Zamknij"

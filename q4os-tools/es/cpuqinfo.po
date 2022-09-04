@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-25 12:30+0200\n"
+"POT-Creation-Date: 2022-09-04 22:02+0200\n"
 "PO-Revision-Date: 2021-01-19 10:56-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,6 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
+
+msgid "(C) 2019 Q4OS"
+msgstr ""
 
 msgid "BIOS"
 msgstr ""
@@ -64,6 +67,9 @@ msgstr ""
 
 msgid "Family"
 msgstr "Familia"
+
+msgid "Form (ui_form0)"
+msgstr ""
 
 msgid "Form (ui_form1)"
 msgstr ""

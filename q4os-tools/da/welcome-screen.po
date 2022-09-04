@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-25 12:39+0200\n"
+"POT-Creation-Date: 2022-09-04 22:03+0200\n"
 "PO-Revision-Date: 2019-01-10 11:02+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,13 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.11\n"
 
+msgid "(C) 2019 Q4OS"
+msgstr ""
+
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr ""
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr ""
-
-msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
 msgstr ""
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
@@ -57,9 +57,6 @@ msgid "<p>Do you want to enable Automatic login ?</p>"
 msgstr ""
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
-
-msgid "<p>Do you want to turn Desktop Effects on ?</p>"
 msgstr ""
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
@@ -98,6 +95,9 @@ msgstr ""
 msgid "Bourbon"
 msgstr ""
 
+msgid "Brief system info."
+msgstr ""
+
 msgid "Cancel"
 msgstr ""
 
@@ -111,6 +111,9 @@ msgid "Classic style cascading menu"
 msgstr ""
 
 msgid "Desktop effects"
+msgstr ""
+
+msgid "Do you want to turn Desktop Effects on ?"
 msgstr ""
 
 msgid "Documents online"
@@ -158,7 +161,16 @@ msgstr ""
 msgid "More options  >"
 msgstr ""
 
+msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
+msgstr ""
+
 msgid "Q4OS"
+msgstr ""
+
+msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
+msgstr ""
+
+msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
 msgstr ""
 
 msgid "Revert to Classic"
@@ -170,10 +182,10 @@ msgstr ""
 msgid "Run Desktop Profiler"
 msgstr ""
 
-msgid "Set Autologin"
+msgid "Screen scaling"
 msgstr ""
 
-msgid "Setup Screen scaling ..."
+msgid "Set Autologin"
 msgstr ""
 
 msgid "Show this dialog on startup"
@@ -182,19 +194,22 @@ msgstr ""
 msgid "Start menu configuration"
 msgstr ""
 
+msgid "Support us on Patreon"
+msgstr ""
+
+msgid "Switch start menu"
+msgstr ""
+
 msgid "Switch to Bourbon"
 msgstr ""
 
 msgid "Switch to Kickoff"
 msgstr ""
 
-msgid "Switch to Kickoff start menu"
+msgid "This option is to turn smoothing and beautifying desktop effects on."
 msgstr ""
 
 msgid "Turn ON"
-msgstr ""
-
-msgid "Turn on Desktop effects"
 msgstr ""
 
 msgid "Two panel menu with search line"
@@ -206,7 +221,16 @@ msgstr ""
 msgid "Welcome screen"
 msgstr ""
 
+msgid "Welcome to Q4OS"
+msgstr ""
+
+msgid "Well arranged system hardware information."
+msgstr ""
+
 msgid "Working ..."
+msgstr ""
+
+msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr ""
 
 msgid "pushButton1"

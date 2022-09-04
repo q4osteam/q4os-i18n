@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-25 12:39+0200\n"
+"POT-Creation-Date: 2022-09-04 22:03+0200\n"
 "PO-Revision-Date: 2015-07-01 22:17+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,14 +17,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.1\n"
 
+msgid "(C) 2019 Q4OS"
+msgstr ""
+
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надежность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>Позволяет после загрузки системы входить в систему сразу, без ввода Вашего пароля.</p></font>"
-
-msgid "<font size=\"4\"><p>Clicking this button, you will turn desktop smoothing and beautifying effects on.</p><p>Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration.</p></font>"
-msgstr "<font size=\"4\"><p>Нажимая на кнопку, Вы включаете эффекты рабочего стола (эффекты теней, сглаживания и т.п.)</p><p>Учтите, что устаревшее оборудование не сможет обеспечить их нормальную работу. Ваш компьютер будет предварительно протестирован на совместимость с эффектами.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>Профайлер - это мастер настройки, который за один клик установит и настроит набор дополнительных программ и утилит .</p><p>Вам будет предложено на выбор несколько наборов.</p></font>"
@@ -58,9 +58,6 @@ msgstr "<p>Вы хотите включить автоматический вх�
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Вы хотите переключить Главное Меню ?</p>"
-
-msgid "<p>Do you want to turn Desktop Effects on ?</p>"
-msgstr "<p>Вы хотите включить эффекты рабочего стола ?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr ""
@@ -98,6 +95,9 @@ msgstr "Автоматический вход"
 msgid "Bourbon"
 msgstr ""
 
+msgid "Brief system info."
+msgstr ""
+
 msgid "Cancel"
 msgstr ""
 
@@ -112,6 +112,10 @@ msgstr ""
 
 msgid "Desktop effects"
 msgstr "Эффекты рабочего стола"
+
+#, fuzzy
+msgid "Do you want to turn Desktop Effects on ?"
+msgstr "<p>Вы хотите включить эффекты рабочего стола ?</p>"
 
 msgid "Documents online"
 msgstr ""
@@ -158,7 +162,18 @@ msgstr ""
 msgid "More options  >"
 msgstr ""
 
+#, fuzzy
+msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
+msgstr "<font size=\"4\"><p>Нажимая на кнопку, Вы включаете эффекты рабочего стола (эффекты теней, сглаживания и т.п.)</p><p>Учтите, что устаревшее оборудование не сможет обеспечить их нормальную работу. Ваш компьютер будет предварительно протестирован на совместимость с эффектами.</p></font>"
+
 msgid "Q4OS"
+msgstr ""
+
+#, fuzzy
+msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
+msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надежность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
+
+msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
 msgstr ""
 
 msgid "Revert to Classic"
@@ -170,11 +185,11 @@ msgstr "Вернуть первоначальные настройки"
 msgid "Run Desktop Profiler"
 msgstr "Запуск Профайлера"
 
+msgid "Screen scaling"
+msgstr ""
+
 msgid "Set Autologin"
 msgstr "Настроить Автовход"
-
-msgid "Setup Screen scaling ..."
-msgstr ""
 
 msgid "Show this dialog on startup"
 msgstr "Показывать это окно при запуске"
@@ -182,20 +197,24 @@ msgstr "Показывать это окно при запуске"
 msgid "Start menu configuration"
 msgstr "Настройка Главного Меню"
 
+msgid "Support us on Patreon"
+msgstr ""
+
+#, fuzzy
+msgid "Switch start menu"
+msgstr "Включить меню Kickoff"
+
 msgid "Switch to Bourbon"
 msgstr ""
 
 msgid "Switch to Kickoff"
 msgstr "Переключить на Kickoff"
 
-msgid "Switch to Kickoff start menu"
-msgstr "Включить меню Kickoff"
+msgid "This option is to turn smoothing and beautifying desktop effects on."
+msgstr ""
 
 msgid "Turn ON"
 msgstr "Включить"
-
-msgid "Turn on Desktop effects"
-msgstr "Включить эффекты"
 
 msgid "Two panel menu with search line"
 msgstr ""
@@ -206,7 +225,16 @@ msgstr "Внимание!"
 msgid "Welcome screen"
 msgstr "Окно приветствия"
 
+msgid "Welcome to Q4OS"
+msgstr ""
+
+msgid "Well arranged system hardware information."
+msgstr ""
+
 msgid "Working ..."
+msgstr ""
+
+msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr ""
 
 msgid "pushButton1"
@@ -223,6 +251,9 @@ msgstr ""
 
 msgid "textLabel1"
 msgstr ""
+
+#~ msgid "Turn on Desktop effects"
+#~ msgstr "Включить эффекты"
 
 #~ msgid "Close"
 #~ msgstr "Закрыть"
