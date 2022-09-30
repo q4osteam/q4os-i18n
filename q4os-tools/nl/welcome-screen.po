@@ -7,18 +7,18 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-04 22:03+0200\n"
-"PO-Revision-Date: 2019-10-27 17:09+0100\n"
-"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"PO-Revision-Date: 2022-09-10 18:08+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 msgid "(C) 2019 Q4OS"
-msgstr ""
+msgstr "(C) 2019 Q4OS"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Welkom bij Q4OS</b>, een snel doch krachtig besturingssysteem. Bij Q4OS ligt de focus op langdurige stabiliteit, betrouwbaarheid en een traditioneel uiterlijk.</p><p align=justify>De standaarduitrusting van Q4OS is laagdrempelig: een eenvoudige werkomgeving en een beperkt programma-aanbod. Na het installeren kunt u alles naar eigen hand zetten; hieronder wordt u daarmee op weg geholpen.</p></font>"
@@ -27,19 +27,19 @@ msgid "<font size=\"4\"><p>Bypass login screen and login without entering your p
 msgstr "<font size=\"4\"><p>Sla het aanmeldscherm over: u hoeft geen wachtwoord meer in te voeren na het aanzetten van de computer.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr "<font size=\"4\"><p>Het programma 'Werkomgevingsprofielen' installeert, middels één muisklik, automatisch een set met programma's en hulpmiddelen.</p><p>U kunt kiezen uit verschillende soorten profielen.</p></font>"
+msgstr "<font size=\"4\"><p>Het programma ‘Werkomgevingsprofielen’ installeert met één muisklik automatisch een set programma's en hulpmiddelen.</p><p>U kunt kiezen uit verschillende soorten profielen.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
 msgstr "<font size=\"4\"><p>Andere nuttige instelopties.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr "<font size=\"4\"><p>Voer een interactief script uit om een extra set kwaliteitscodecs te installeren.</p><p>Mediaspelers, zoals VLC of Mplayer, gebruiken deze codecs om DVD's en multimediabestanden af te kunnen spelen.</p></font>"
+msgstr "<font size=\"4\"><p>Voer een interactief script uit om een extra set kwaliteitscodecs te installeren.</p><p>Mediaspelers, zoals VLC of Mplayer, maken gebruik van deze codecs om dvd's en multimediabestanden af te kunnen spelen.</p></font>"
 
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr "<font size=\"4\"><p>Gebruik het alternatieve 'Kickoff'-startmenu.</p><p>Kickoff is een modern startmenu met een handige indeling, zoekbalk, favorieten, geschiedenis en nog veel meer.</p></font>"
+msgstr "<font size=\"4\"><p>Gebruik het alternatieve ‘Kickoff’-startmenu.</p><p>Kickoff is een modern startmenu met een handige indeling, zoekbalk, favorieten, geschiedenis en nog veel meer.</p></font>"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr "<font size=\"4\"><p>U wordt doorgestuurd naar Q4OS's online-bronnen om handige programma's te downloaden en installeren.</p></font>"
+msgstr "<font size=\"4\"><p>U wordt doorgestuurd naar de online-bronnen van Q4OS om handige programma's te downloaden en installeren.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
 msgstr "<p>Automatisch aanmelden is uitgeschakeld.</p>"
@@ -63,13 +63,13 @@ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled dur
 msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van NVIDIA; even geduld.</p>"
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr "<p>Het startmenu is nu ingesteld op de 'Bourbon'-stijl.</p>"
+msgstr "<p>Het startmenu is nu ingesteld op de ‘Bourbon’-stijl.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
 msgstr "<p>Het startmenu is nu ingesteld op de klassieke stijl.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr "<p>Het startmenu is nu ingesteld op de 'Kickoff'-stijl.</p>"
+msgstr "<p>Het startmenu is nu ingesteld op de ‘Kickoff’-stijl.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
 msgstr "<p>Deze actie is alleen beschikbaar in de Trinity- en Plasma-werkomgevingen.</p>"
@@ -81,7 +81,7 @@ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled
 msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van VirtualBox; even geduld.</p>"
 
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Het lijkt erop dat uw hardware niet krachtig genoeg is om werkomgevingseffecten te gebruiken. Wij raden dit dan ook sterk af.</p><p>Weet u zeker dat u ze wilt inschakelen?</p>"
+msgstr "<p>Het lijkt er op dat uw hardware niet krachtig genoeg is om werkomgevingseffecten te gebruiken. Wij raden dit dan ook sterk af.</p><p>Weet u zeker dat u ze wilt inschakelen?</p>"
 
 msgid "Apply"
 msgstr "Toepassen"
@@ -96,7 +96,7 @@ msgid "Bourbon"
 msgstr "Bourbon"
 
 msgid "Brief system info."
-msgstr ""
+msgstr "Kort systeeminformatie-overzicht."
 
 msgid "Cancel"
 msgstr "Annuleren"
@@ -113,9 +113,8 @@ msgstr "Klassiek uitklapmenu"
 msgid "Desktop effects"
 msgstr "Werkomgevingseffecten"
 
-#, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>Wilt u werkomgevingseffecten inschakelen?</p>"
+msgstr "Wilt u werkomgevingseffecten inschakelen?"
 
 msgid "Documents online"
 msgstr "Online-documentatie"
@@ -162,19 +161,17 @@ msgstr "Soort menu"
 msgid "More options  >"
 msgstr "Meer opties >"
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>Klik hier om de werkomgeving te verfraaien met scherpere tekst en mooie effecten.</p><p>Let op: de effecten werken beter op moderne hardware dan op oudere. Wij raden dan ook aan geen effecten te gebruiken op oudere hardware. Na het inschakelen wordt hiervoor een korte test uitgevoerd.</p></font>"
+msgstr "Let op: de effecten werken beter op moderne hardware dan op oudere. Wij raden dan ook aan geen effecten te gebruiken op oudere hardware. Na het inschakelen wordt hiervoor een korte test uitgevoerd."
 
 msgid "Q4OS"
 msgstr "Q4OS"
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<font size=\"4\"><p align=justify><b>Welkom bij Q4OS</b>, een snel doch krachtig besturingssysteem. Bij Q4OS ligt de focus op langdurige stabiliteit, betrouwbaarheid en een traditioneel uiterlijk.</p><p align=justify>De standaarduitrusting van Q4OS is laagdrempelig: een eenvoudige werkomgeving en een beperkt programma-aanbod. Na het installeren kunt u alles naar eigen hand zetten; hieronder wordt u daarmee op weg geholpen.</p></font>"
+msgstr "De standaarduitrusting van Q4OS is laagdrempelig: een eenvoudige werkomgeving en een beperkt programma-aanbod. Na het installeren kunt u alles naar eigen hand zetten; hieronder wordt u daarmee op weg geholpen."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Pas lettertypen en pictogrammen aan aan de huidige schermresolutie om ze scherper te maken."
 
 msgid "Revert to Classic"
 msgstr "Terug naar klassieke stijl"
@@ -183,11 +180,10 @@ msgid "Revert to defaults"
 msgstr "Standaardwaarden herstellen"
 
 msgid "Run Desktop Profiler"
-msgstr "Open het programma 'Werkomgevingsprofielen'"
+msgstr "Open het programma ‘Werkomgevingsprofielen’"
 
-#, fuzzy
 msgid "Screen scaling"
-msgstr "Beeldscherminstellingen openen..."
+msgstr "Beeldgrootte"
 
 msgid "Set Autologin"
 msgstr "Automatisch aanmelden instellen"
@@ -199,20 +195,19 @@ msgid "Start menu configuration"
 msgstr "Startmenu instellen"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Ondersteun ons op Patreon"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "'Kickoff'-startmenustijl gebruiken"
+msgstr "Ander startmenu kiezen"
 
 msgid "Switch to Bourbon"
-msgstr "'Bourbon'-stijl gebruiken"
+msgstr "‘Bourbon’-stijl gebruiken"
 
 msgid "Switch to Kickoff"
-msgstr "'Kickoff'-stijl gebruiken"
+msgstr "‘Kickoff’-stijl gebruiken"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Met deze optie worden de werkomgevingseffecten ingeschakeld."
 
 msgid "Turn ON"
 msgstr "Inschakelen"
@@ -226,18 +221,17 @@ msgstr "Waarschuwing!"
 msgid "Welcome screen"
 msgstr "Welkomstscherm"
 
-#, fuzzy
 msgid "Welcome to Q4OS"
-msgstr "Doneren aan Q4OS"
+msgstr "Welkom bij Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Een mooi overzicht met hardware-informatie."
 
 msgid "Working ..."
-msgstr "Bezig met uitvoeren..."
+msgstr "Bezig met uitvoeren…"
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "een snel doch krachtig besturingssysteem waarbij de focus ligt op langdurige stabiliteit, betrouwbaarheid en een klassieke werkomgeving."
 
 msgid "pushButton1"
 msgstr "pushButton1"
