@@ -120,7 +120,7 @@ msgid "Ok"
 msgstr ""
 
 msgid "Performing upgrade"
-msgstr "Installation de le mise à jour"
+msgstr "Installation de la mise à jour"
 
 msgid "Please, try to run Update Manager a few minutes later again."
 msgstr "Veuillez réessayer de lancer le gestionnaire de mises à jour dans quelques minutes."
