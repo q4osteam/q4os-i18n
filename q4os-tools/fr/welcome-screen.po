@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-04 22:03+0200\n"
-"PO-Revision-Date: 2022-02-23 00:08+0000\n"
+"PO-Revision-Date: 2023-02-12 07:29+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <gnome-pt-translation@googlegroups.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 21.12.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "(C) 2019 Q4OS"
 msgstr ""
@@ -30,7 +30,7 @@ msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and confi
 msgstr "<font size=\"4\"><p>Le gestionnaire de profil installe et paramètre un ensemble d'applications supplémentaires en un seul click.</p><p>Vous aurez la possibilité de choisir entre différents profils bureautiques.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Autres options de configuration utiles.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Exécuter le script interactif pour installer la collection de codecs de qualité professionnelle.</p><p>Les lecteurs multimedia tels que VLC et Mplayer font usage de ces codecs pour lire les DVD et autres media encodés avec ces codecs.</p></font>"
@@ -71,11 +71,9 @@ msgstr "<p>Le style \"Classic\" est appliqué au menu démarrer.</p>"
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
 msgstr "<p>Le style \"Kickoff\" est appliqué au menu démarrer.</p>"
 
-#, fuzzy
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr "<p>Cette action est disponible uniquement pour le bureau Trinity.</p>"
+msgstr "<p>Cette action est disponible uniquement pour les bureaux Trinity et Plasma.</p>"
 
-#, fuzzy
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Cette action est disponible uniquement pour le bureau Trinity.</p>"
 
@@ -98,7 +96,7 @@ msgid "Bourbon"
 msgstr "\"Bourbon\""
 
 msgid "Brief system info."
-msgstr ""
+msgstr "Aperçu des info. système."
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -115,15 +113,14 @@ msgstr "Menu en cascade de style \"Classic\""
 msgid "Desktop effects"
 msgstr "Effets visuels"
 
-#, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>Voulez-vous activer les effets visuels ?</p>"
+msgstr "Voulez-vous activer les effets visuels ?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Documents en ligne"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Faites un don à Q4OS"
 
 msgid "Enable Autologin"
 msgstr "Activer l'ouverture automatique de session"
@@ -132,7 +129,7 @@ msgid "Form2"
 msgstr "Forme 2"
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Info matériel"
 
 msgid "Info"
 msgstr "Info"
@@ -164,19 +161,17 @@ msgstr "Type de menu"
 msgid "More options  >"
 msgstr ""
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>En cliquant ce boutton, vous activez le lissage du bureau et autres effets visuels.</p><p>Notez que les effets visuels ne fonctionneront correctement qu'à l'aide d'un matériel suffisament puissant.  Un test va être réalisé afin de vérifier les capacités matérielles de gestion des effets visuels.</p></font>"
+msgstr "Notez que les effets de bureau ne fonctionneront parfaitement que sur du matériel moderne, il n'est pas recommandé de l'utiliser avec du matériel ancien. Un test rapide du système va être effectué pour s'assurer que le matériel est prêt à accepter la configuration.\n"
 
 msgid "Q4OS"
 msgstr ""
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<font size=\"4\"><p align=justify><b>Bienvenue sur le système Q4OS</b> pour stations de travail et bureautique. Ce système est destiné à être rapide, efficace, stable et fiable dans la durée, avec une interface utilisateur traditionnelle.<br>Q4OS est installé en tant que système bureautique basique et propre avec un kit logiciel minimal. Il est maintenant temps d'ajuster quelques paramètres de votre environnement en cliquant sur les raccourcis ci-dessous.</p></font>"
+msgstr "Q4OS est installé comme un environnement de bureau très basique et propre avec le kit logiciel minimal. C'est maintenant le bon moment pour ajuster votre nouveau bureau, vous voudrez peut-être utiliser les raccourcis ci-dessous."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Redimensionnez les polices et les icônes pour les ajuster en fonction de la résolution actuelle de l'écran et les rendre plus lisibles."
 
 msgid "Revert to Classic"
 msgstr "Retour au style \"Classic\""
@@ -188,7 +183,7 @@ msgid "Run Desktop Profiler"
 msgstr "Gestionnaire de profil"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Mise à l'échelle de l'écran"
 
 msgid "Set Autologin"
 msgstr "Authentification automatique"
@@ -200,11 +195,10 @@ msgid "Start menu configuration"
 msgstr "Paramètres du menu Démarrer"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Soutenez-nous sur Patreon"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "Menu démarrer style \"KickOff\""
+msgstr "Personnalisez le menu de démarrage"
 
 msgid "Switch to Bourbon"
 msgstr "Style \"Bourbon\""
@@ -213,7 +207,7 @@ msgid "Switch to Kickoff"
 msgstr "Style \"KickOff\""
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Cette option permet d'activer les effets de lissage et d'embellissement du bureau."
 
 msgid "Turn ON"
 msgstr "Activer"
@@ -228,16 +222,16 @@ msgid "Welcome screen"
 msgstr "Ecran d'accueil"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Bienvenue sur Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Informations matérielles du système bien organisées."
 
 msgid "Working ..."
 msgstr "Patientez ..."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "système d'exploitation rapide et puissant axé sur la stabilité à long terme, la fiabilité et une interface utilisateur classique."
 
 msgid "pushButton1"
 msgstr "Bouton 1"
