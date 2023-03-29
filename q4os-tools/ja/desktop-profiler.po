@@ -3,58 +3,58 @@
 # This file is distributed under the same license as the Q4OS Desktop Profiler package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-21 22:31+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-29 11:25+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr " インストール>"
 
 msgid "* select please *"
-msgstr ""
+msgstr "[選択してください]"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid ""
 "<html>\n"
@@ -62,120 +62,124 @@ msgid ""
 "<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
 "</html>"
 msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>標準のデスクトップ環境を選択してください。</p></font>\n"
+"<p align=justify>現時点では、軽量で効率的な <b>Trinity</b> デスクトップがインストールされ、標準設定としてすでに構成されていますが、お使いのコンピューターはより高機能な <b>KDE Plasma</b> デスクトップ環境が動作する性能を十分に持っているようです。</p>\n"
+"</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>ここでは、既存のQ4OS デスクトップの一緒にインストールする別のデスクトップ環境を選択できます。</p><p align=justify>ただし、明確な目的がない限り、使用すべきではありません。</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>保留中の操作を中止しますか？</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p><span style=\"font-weight:600\">KDE Plasma</span> 環境を標準とし、 Trinityはオプションのデスクトップ環境になります。</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>ハードウェアの一部がシステム要件を満たしていません！</p><p>お使いのCPUはSSE2対応していません, 必要なソフトウェアを動作させるには、SSE2に対応している必要があります。</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>ハードウェアの一部が要件を満たしていません！</p><p>お使いのPCのハードウェア構成は、このプロファイルを使用するには性能が不十分です。インストールしないことをおすすめします。</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>Keep the <span style=\"font-weight:600\">Trinity</span> を標準デスクトップ環境とし、Plasmaはインストールしません。ですが、デスクトッププロファイルをつかってあとからインストールすることは可能です。</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>パッケージシステムがビジー状態です。セットアップは続行できません。</p><p>この問題は大抵の場合、バッググラウンドでシステムの更新が行われているときなどに発生します。その場合、まずはその処理が完了するまで待たなければなりません。他のアプリケーションがインストール処理を行っていないことを確認し、しばらくしてからもう一度やり直してください。</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>警告: この段階でインストールをキャンセルすると、パッケージ システムに異常が生じるおそれがあります。</p><p>それでもインストール プロセスを今すぐ中断してもよろしいですか？</p>"
 
 msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
-msgstr ""
+msgstr "<p>別のデスクトップをインストールしようとしているみたいですが、選択したプロファイルと互換性がありません。 別のプロファイルを選択してください。</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "デスクトッププロファイラーはすでに実行されているようなので、起動しません。"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "追加でインストールするデスクトップ環境を選択してください。"
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "追加でインストールするデスクトップ環境を選択してください。ただし、明確な目的がない場合、使用すべきではないです。"
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "デスクトップ環境を選択"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "クリックしてプロファイルを選択する"
 
 msgid "Default (TDE)"
-msgstr ""
+msgstr "標準（TDE）"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "デスクトッププロファイラー"
 
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "デスクトッププロファイラー  インストールの進捗"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "デスクトッププロファイラを使用すれば、お使いのコンピュータに適した「プロファイル」を選択し、簡単にQ4OSをセットアップできます。"
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "デスクトップ環境："
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "デスクトッププロファイラー　デスクトップ環境の選択"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "よくわからないのであれば、[KDE Plasma]を選択するのが良いでしょう。"
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr ""
+msgstr "インストールの処理を完了するためにログオフする必要があります。今ログインしなおしますか？"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "インストールを実行"
 
 msgid "Next >"
-msgstr ""
+msgstr "次 >"
 
 msgid "No configuration found, exiting .."
-msgstr ""
+msgstr "構成が見つかりません。終了します。"
 
 msgid "None selected"
-msgstr ""
+msgstr "選択が空です"
 
 msgid "Note "
-msgstr ""
+msgstr "注意 "
 
 msgid "Ok"
-msgstr ""
+msgstr "OK"
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgstr "できるだけ早くコンピュータを再起動してください。今すぐ再起動しますか？"
 
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "できるだけ早くXサーバーを再起動してください。"
 
 msgid "Profile description"
-msgstr ""
+msgstr "プロファイルの説明"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "ソフトウェアプロファイル："
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "はい、私は本当に追加のデスクトップ環境を導入したいです"
