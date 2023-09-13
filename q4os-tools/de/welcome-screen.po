@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-04 22:03+0200\n"
-"PO-Revision-Date: 2016-04-15 11:52+0100\n"
+"PO-Revision-Date: 2023-09-13 18:42+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "(C) 2019 Q4OS"
 msgstr ""
@@ -30,7 +30,7 @@ msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and confi
 msgstr "<font size=\"4\"><p>Der Desktop-Profiler wird automatisch optionale Programme und tools installieren und konfigurieren, und das nur mit einem einzigen Klick.</p><p>Sie dürfen zwischen verschiedenen Desktop-Profilen auswählen.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Andere praktische Konfigurationsoptionen.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Ein interaktives Skript starten, um professionelle Qualitäts-Codecs zu installieren.</p><p>Media Player wie VLC oder Mplayer benutzen diese Codecs um DVDs und andere Multimedia-Dateien abzuspielen.</p></font>"
@@ -42,10 +42,10 @@ msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to downloa
 msgstr "<font size=\"4\"><p>Sie werden zu den Q4OS Web-Ressourcen geleitet, um nützliche Apps installieren zu können.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>Automatische Anmeldung angeschaltet.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>Automatische Anmeldung ausgeschaltet.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
 msgstr "<p>Die Desktop-Effekte wurden deaktiviert</p>"
