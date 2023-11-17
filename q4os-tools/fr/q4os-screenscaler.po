@@ -21,10 +21,10 @@ msgid "1.00"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "Appliquer"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Form (ui_form1)"
 msgstr ""
@@ -33,37 +33,37 @@ msgid "Form1"
 msgstr ""
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
+msgstr "Si vous alignez l'échelle, les polices et les éléments sur l'écran principal correspondront à la taille réelle."
 
 msgid "Reset"
-msgstr ""
+msgstr "Réinitialiser"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "Réinitialiser la configuration de mise à l'échelle de l'écran aux paramètres par défaut du système."
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Règle [cm]"
 
 msgid "Sample:"
-msgstr ""
+msgstr "Echantillon:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Enregistrez les modifications, vous devrez vous reconnecter."
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Facteur d'échelle"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Facteur de mise à l'échelle / Valeur DPI à appliquer / Écran principal estimé"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "La configuration de mise à l'échelle de l'écran a été enregistrée. Vous devez vous reconnecter pour que les modifications prennent effet."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Configuration de mise à l'échelle de l'écran"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Afficher les options avancées"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "Cet outil configure la mise à l'échelle de l'écran uniquement pour le bureau Trinity, sortie..."
