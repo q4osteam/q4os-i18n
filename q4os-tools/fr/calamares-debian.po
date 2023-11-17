@@ -18,55 +18,55 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "A great desktop OS"
-msgstr ""
+msgstr "Un excellent système d'exploitation de bureau."
 
 msgid "An alternative to mainstream operating systems"
-msgstr ""
+msgstr "Une alternative aux systèmes d'exploitation grand public."
 
 msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr ""
+msgstr "Google Chrome, Firefox, Thunderbird et LibreOffice sont facilement installables, vous permettant ainsi de démarrer avec le bureau et Internet."
 
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr ""
+msgstr "Q4OS est sûr et stable, vous n'avez pas besoin d'un antivirus, d'un anti-spyware, d'un outil de défragmentation ou d'un nettoyeur de registre."
 
 msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
-msgstr ""
+msgstr "D'autres applications populaires <!--telles que Google Picasa, Skype, Dropbox, TeamViewer et plus encore --> peuvent être installées d'un simple clic de souris."
 
 msgid "Out of the box"
-msgstr ""
+msgstr "Prêt à l'emploi."
 
 msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr ""
+msgstr "Q4OS peut détecter d'autres systèmes d'exploitation et s'installer à côté d'eux. Vous pouvez choisir quel système d'exploitation lancer au démarrage de l'ordinateur."
 
 msgid "Q4OS is Free and Open Source."
-msgstr ""
+msgstr "Q4OS est libre et open source."
 
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr ""
+msgstr "Q4OS est compatible avec la plupart des formats de fichiers populaires : zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov, etc."
 
 msgid "Q4OS is easy to use, powerful and configurable."
-msgstr ""
+msgstr "Q4OS est facile à utiliser, puissant et configurable."
 
 msgid "Safe updates"
-msgstr ""
+msgstr "Mises à jour sécurisées."
 
 msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr ""
+msgstr "Des mises à jour logicielles et des mises à jour de sécurité sont fournies non seulement pour le système d'exploitation, mais aussi pour les logiciels que vous installez."
 
 msgid "Tens of thousands free software applications are available from package manager."
-msgstr ""
+msgstr "Des dizaines de milliers d'applications logicielles gratuites sont disponibles via le gestionnaire de paquets."
 
 msgid "Thank you for choosing us."
-msgstr ""
+msgstr "Merci de nous avoir choisis."
 
 msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
-msgstr ""
+msgstr "Le gestionnaire de mises à jour Q4OS surveille votre système et le met à jour automatiquement dès que des mises à jour sont disponibles."
 
 msgid "This is Q4OS"
-msgstr ""
+msgstr "C'est Q4OS."
 
 msgid "We hope you'll enjoy your operating system."
-msgstr ""
+msgstr "Nous espérons que vous apprécierez votre système d'exploitation."
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Bienvenue sur Q4OS."
