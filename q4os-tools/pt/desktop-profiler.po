@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-21 22:31+0200\n"
-"PO-Revision-Date: 2022-09-30 15:03+0100\n"
+"POT-Creation-Date: 2023-08-04 16:39+0000\n"
+"PO-Revision-Date: 2024-02-14 17:02+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -17,13 +17,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "  Install >"
 msgstr "  Instalar >"
 
 msgid "* select please *"
 msgstr "* selecione *"
+
+msgid "--- General ---"
+msgstr "--- Geral ---"
+
+msgid "--- Miscellaneous ---"
+msgstr "--- Diversos ---"
+
+msgid "--- Selected profile ---"
+msgstr "--- Perfil selecionado ---"
 
 msgid "0"
 msgstr "0"
@@ -58,6 +67,9 @@ msgstr "8"
 msgid "9"
 msgstr "9"
 
+msgid "<"
+msgstr "<"
+
 msgid ""
 "<html>\n"
 "<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
@@ -85,6 +97,9 @@ msgstr ""
 "adicional(DE) para instalar juntamente com o ambiente de trabalho padrão do "
 "Q4OS.</p><p align=justify> Não use esta opção, a menos que tenha certeza "
 "absoluta do que está a fazer.</p>"
+
+msgid "<p>Couldn't open file.</p>"
+msgstr "<p>Não foi possível abrir o ficheiro.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Deseja cancelar a operação pendente?</p>"
@@ -145,23 +160,40 @@ msgstr ""
 "sistema de pacotes.</p><p>Tem certeza de que deseja interromper o processo "
 "de instalação agora ?</p>"
 
-msgid ""
-"<p>You are calling for an alternative desktop installation, but it's not "
-"compatible with the profile selected. Please select another profile.</p>"
-msgstr ""
-"<p>Está a solicitar por uma instalação de ambiente de trabalho alternativo, "
-"mas não é compatível com o perfil selecionado. Selecione outro perfil.</p>"
-
 msgid ">"
 msgstr ">"
+
+msgid "A profile has been already applied for this system."
+msgstr "Já foi aplicado um perfil a este sistema."
+
+msgid "Additional repositories:"
+msgstr "Repositórios adicionais:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr ""
 "Outra instância do Perfil de ambiente de trabalho está em execução, a "
 "sair ..."
 
+msgid "Apply profile"
+msgstr "Aplicar perfil"
+
+msgid "Applying a profile within the live systems isn't supported."
+msgstr "A aplicação de um perfil nos sistemas live não é suportada."
+
 msgid "Cancel"
 msgstr "Cancelar"
+
+msgid "Cancel installation"
+msgstr "Cancelar a instalação"
+
+msgid "Cancel menu"
+msgstr "Cancelar menu"
+
+msgid "Choose a new filename to export current status to"
+msgstr "Escolha um novo nome de ficheiro para exportar o estado atual para"
+
+msgid "Choose a new filename to save the profile to"
+msgstr "Escolha um novo nome de ficheiro para guardar o perfil"
 
 msgid "Choose an additional desktop environment to install."
 msgstr "Escolha um ambiente de trabalho adicional para instalar."
@@ -179,8 +211,14 @@ msgstr "Escolha o ambiente de trabalho"
 msgid "Click to select profile"
 msgstr "Clique para selecionar o perfil"
 
-msgid "Default (TDE)"
-msgstr "Padrão (TDE)"
+msgid "Configuration file:"
+msgstr "Ficheiro de configuração:"
+
+msgid "Current desktop status has been saved to profile:"
+msgstr "O estado atual do ambiente de trabalho foi guardado no perfil:"
+
+msgid "DEB packages to install:"
+msgstr "Pacotes DEB a instalar:"
 
 msgid "Desktop Profiler"
 msgstr "Perfil do ambiente de trabalho"
@@ -198,9 +236,36 @@ msgstr ""
 msgid "Desktop environment:"
 msgstr "Ambiente de trabalho:"
 
+msgid "Desktop environments:"
+msgstr "Ambientes de trabalho:"
+
 msgid "Desktop profiler - select default desktop environment"
 msgstr ""
 "Perfil do ambiente de trabalho - selecione o ambiente de trabalho padrão"
+
+msgid "Do you want to continue ?"
+msgstr "Quer continuar ?"
+
+msgid "ESH applications to install:"
+msgstr "Aplicações ESH a instalar:"
+
+msgid "Error: profile not found, file: "
+msgstr "Erro: perfil não encontrado, ficheiro: "
+
+msgid "Export profile"
+msgstr "Exportar perfil"
+
+msgid "Failed to read packages list, file: "
+msgstr "Ocorreu um erro na leitura da lista de pacotes, ficheiro: "
+
+msgid "Failed to read repositories list, file: "
+msgstr "Ocorreu um erro na leitura da lista de repositórios, ficheiro: "
+
+msgid "Get snapshot profile"
+msgstr "Obter uma cópia de perfil"
+
+msgid "Help"
+msgstr "Ajuda"
 
 msgid ""
 "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the "
@@ -208,6 +273,22 @@ msgid ""
 msgstr ""
 "Se não tiver a certeza, basta pressionar o botão <b>[KDE Plasma]</b> para "
 "selecionar a opção recomendada."
+
+msgid ""
+"If you continue, the selected profile replaces the previous one and system "
+"will be configured accordingly."
+msgstr ""
+"Se continuar, o perfil selecionado substitui o anterior e o sistema será "
+"configurado em conformidade."
+
+msgid "Import a profile"
+msgstr "Importar um perfil"
+
+msgid "Import local profile"
+msgstr "Importar perfil local"
+
+msgid "Import shared profile"
+msgstr "Importar perfil partilhado"
 
 msgid ""
 "Installation process has requested to logoff this session. Do you want re-"
@@ -228,17 +309,29 @@ msgstr "Iniciar a instalação"
 msgid "Next >"
 msgstr "Avançar >"
 
-msgid "No configuration found, exiting .."
-msgstr "Nenhuma configuração encontrada, a sair.."
+msgid "No configuration found."
+msgstr "Nenhuma configuração encontrada."
+
+msgid "No profile selected. Select a profile please."
+msgstr "Nenhum perfil selecionado. Selecione um perfil."
 
 msgid "None selected"
 msgstr "Nenhum selecionado"
+
+msgid "Not implemented yet."
+msgstr "Ainda não implementado."
 
 msgid "Note "
 msgstr "Nota "
 
 msgid "Ok"
 msgstr "Ok"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Please enter shared profile code, or Internet address:"
+msgstr "Introduza o código de perfil partilhado ou o endereço de Internet:"
 
 msgid ""
 "Please reboot your computer as soon as possible. Do you want reboot just "
@@ -248,11 +341,50 @@ msgstr "Reinicie o seu computador assim que possível. Deseja reiniciar agora ?"
 msgid "Please restart X server as soon as possible."
 msgstr "Reinicie o servidor X, o mais rapidamente possível."
 
+msgid "Previous profile:"
+msgstr "Perfil anterior:"
+
 msgid "Profile description"
 msgstr "Descrição do perfil"
 
+msgid "Profile export"
+msgstr "Exportar perfil"
+
+msgid "Profile has been imported."
+msgstr "O perfil foi importado."
+
+msgid "Profile has been removed."
+msgstr "O perfil foi removido."
+
+msgid "Profile info"
+msgstr "Informação do perfil"
+
+msgid "Profile:"
+msgstr "Perfil:"
+
+msgid "Remote profile not found."
+msgstr "Perfil remoto não encontrado."
+
+msgid "Remove profile"
+msgstr "Remover perfil"
+
+msgid "Remove superfluous packages"
+msgstr "Remover pacotes supérfluos"
+
+msgid "Select a profile from the list please."
+msgstr "Selecione um perfil da lista."
+
+msgid "Selected profile has been saved to file:"
+msgstr "O perfil selecionado foi guardado no ficheiro:"
+
 msgid "Software profile:"
 msgstr "Perfil de software:"
+
+msgid "System profiles cannot be removed."
+msgstr "Os perfis de sistema não podem ser removidos."
+
+msgid "This profile has been already imported."
+msgstr "Este perfil já foi importado."
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -260,8 +392,36 @@ msgstr "Trinity"
 msgid "Trinity >"
 msgstr "Trinity >"
 
+msgid "Uncheck to preserve currently installed packages."
+msgstr "Desmarque para preservar os pacotes atualmente instalados."
+
 msgid "Yes, I really want to install additional DE"
 msgstr "Sim, eu quero instalar um DE adicional"
+
+msgid "Yes, still apply"
+msgstr "Sim, ainda se aplica"
+
+msgid ""
+"You are about to cancel desktop profiler without installing a profile. Are "
+"you sure ?"
+msgstr ""
+"Está prestes a cancelar o desktop profiler sem instalar um perfil. Tem a "
+"certeza?"
+
+msgid ""
+"You are calling for an alternative desktop installation, but it's not "
+"compatible with the profile selected. Please select another profile or "
+"desktop."
+msgstr ""
+"Está a solicitar uma instalação de ambiente de trabalho alternativo, mas não "
+"é compatível com o perfil selecionado. Selecione outro perfil ou ambiente de "
+"trabalho."
+
+msgid "You can now edit the file to your preferences."
+msgstr "Pode agora editar o ficheiro de acordo com as suas preferências."
+
+#~ msgid "Default (TDE)"
+#~ msgstr "Padrão (TDE)"
 
 #~ msgid ""
 #~ "<p>Q4OS is now installed as a very basic desktop environment. You can "
@@ -339,6 +499,3 @@ msgstr "Sim, eu quero instalar um DE adicional"
 #~ msgstr ""
 #~ "Área de trabalho completa de recursos com o navegador web, programa de "
 #~ "produtividade e aplicações definidas recomendadas"
-
-#~ msgid "Select a profile"
-#~ msgstr "Selecione um perfil"
