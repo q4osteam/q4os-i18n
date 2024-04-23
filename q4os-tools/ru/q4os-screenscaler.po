@@ -18,52 +18,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "1.00"
-msgstr ""
+msgstr "1,00"
 
 msgid "Apply"
-msgstr ""
+msgstr "Применить"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Форма (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "Форма1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
+msgstr "Если вы подберёте масштаб, шрифты и элементы на первичном экране будут соответствовать реальному размеру."
 
 msgid "Reset"
-msgstr ""
+msgstr "Сброс"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "Сбросить настройки масштабирования экрана к системным стандартным"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Линейка [см]:"
 
 msgid "Sample:"
-msgstr ""
+msgstr "Пример:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Сохранить изменения, вам будет нужно снова войти в систему"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Коэффициент масштаба"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Коэффициент масштаба / Значение DPI для применения / Предполагаемый основной экран"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "Настройка масштабирования экрана была сохранена. Чтобы изменения вступили в силу, необходимо снова войти в систему."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Настройка масштаба экрана"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Показать дополнительные параметры"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "Это средство задаёт масштаб экрана только для рабочего стола Trinity. Производится выход…"
