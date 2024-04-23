@@ -18,22 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Apply"
-msgstr ""
+msgstr "Применить"
 
 msgid "Auto close updater window on finish"
-msgstr ""
+msgstr "Автоматически закрыть окно менеджера обновления по завершении"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgstr "Использовать менеджер пакетов Synaptic, если он доступен"
 
 msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
+msgstr "Показывать списки обновляемых пакетов и диалоги подтверждения"
 
 msgid "Start updater window minimized"
-msgstr ""
+msgstr "Запускать окно менеджера обновления в свёрнутом режиме"
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Менеджер обновления — настройки"
