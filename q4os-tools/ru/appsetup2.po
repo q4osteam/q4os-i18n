@@ -21,7 +21,7 @@ msgid "< Back"
 msgstr "< Назад"
 
 msgid "</b></p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "</b></p><p>Очистка и отмена сейчас…</p>"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
@@ -30,7 +30,7 @@ msgid ""
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
 "<p><h2>Завершение установки _SUBST_SWNAME_</h2><br></p>\n"
-"<p>Программа _SUBST_SWNAME_ успешно утсановлена на Ваш компьютер.<br></p>\n"
+"<p>Программа _SUBST_SWNAME_ успешно установлена на Ваш компьютер.<br></p>\n"
 "<p>Нажмите кнопку Готово для закрытия данного окна.<br><br><br><br><br><br></p>\n"
 "<p>Посетите сайт _SUBST_SWNAME_ для получения последних новостей и поддержки.</p>"
 
@@ -40,14 +40,14 @@ msgid ""
 "<p>Click Next to continue.</p>\n"
 msgstr ""
 "<p><h2>Добро пожаловать в Мастер установки _SUBST_SWNAME_</h2></p>\n"
-"<p>Мастер проведет Вас через все шаги процесса установки _SUBST_SWNAME_.</p>\n"
+"<p>Мастер проведёт вас через все шаги процесса установки _SUBST_SWNAME_.</p>\n"
 "<p>Нажмите кнопку Далее, чтобы продолжить.</p>\n"
 
 msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
-msgstr ""
+msgstr "<p>Ошибка установки приложения, извините, невозможно установить.</p><p>Сообщения установки были записаны в файл журнала: <b>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>Соединение с Интернетом неактивно или медленное. Установщику необходимо загрузить пакеты приложений из сетевых источников Q4OS. Установку невозможно продолжить…</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr ""
@@ -68,112 +68,112 @@ msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
 msgstr ""
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "Добавляются ключи защиты…"
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "Добавляются ключи защиты… ОК"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "Автоисправление не требуется… ОК"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "Вычисляется прогресс…"
 
 msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "Проверяется установка…"
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "Проверяется установка… Ошибка!"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "Проверяется установка… ОК"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "Проверяется система пакетов…"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "Копируются пакеты системы…"
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "Копируются пакеты системы… Готово"
 
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Вы действительно хотите прервать текущую операцию?"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Загружаются пакеты…"
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Загружаются пакеты… Готово"
 
 msgid "Enter your password to continue:"
-msgstr "Введите Ваш пароль для продолжения:"
+msgstr "Введите ваш пароль для продолжения:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Распаковывается архив…"
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Распаковывается архив… Готово"
 
 msgid "Fast system checks"
 msgstr "Быстрая проверка системы"
 
 msgid "Finish >"
-msgstr "Готово >"
+msgstr "Завершить >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Завершается установка…"
 
 msgid "Get permissions"
-msgstr "Получение привелегий"
+msgstr "Получить привилегии"
 
 msgid "I Agree"
 msgstr "Согласен"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr "Нажмите Согласен, если Вы принимаете условия соглашения. Согласие необходимо для продолжения установки _SUBST_SWNAME_."
+msgstr "Нажмите «Согласен», если вы принимаете условия соглашения. Согласие необходимо для продолжения установки _SUBST_SWNAME_."
 
 msgid "Install >"
-msgstr "Установка >"
+msgstr "Установить >"
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "Установка успешно завершена :-)"
 
 msgid "Installing"
 msgstr "Установка"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "Устанавливаются файлы…"
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "Устанавливаются файлы… ОК"
 
 msgid "License Agreement"
 msgstr "Лицензионное соглашение"
 
 msgid "License text ..."
-msgstr "Текст лицензии ..."
+msgstr "Текст лицензии…"
 
 msgid "Next >"
 msgstr "Далее >"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "Система пакетов… В работе!"
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "Непоследовательная система пакетов…"
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "Система пакетов всё ещё непоследовательна. Установка отменяется…"
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "Частичное обновление базы данных ПО…"
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "Частичное обновление базы данных ПО… Готово"
 
 msgid "Please review the license terms before install"
 msgstr "Пожалуйста, ознакомьтесь с условиями лицензии перед установкой"
@@ -182,19 +182,19 @@ msgid "Please wait while software is being installed"
 msgstr "Пожалуйста, дождитесь окончания процесса установки"
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "Операции после установки…"
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "Операции после установки… Готово"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "Операции после установки, дополнительные команды…"
 
 msgid "Postinstall operations, update sw database ..."
-msgstr ""
+msgstr "Операции после установки, сверка базы данных ПО…"
 
 msgid "Postinstall operations, upgrade sw database ..."
-msgstr ""
+msgstr "Операции после установки, обновление базы данных ПО…"
 
 msgid "Preparing installation files ..."
 msgstr ""

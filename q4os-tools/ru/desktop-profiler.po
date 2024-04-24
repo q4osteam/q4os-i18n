@@ -18,43 +18,43 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr "  Установить >"
 
 msgid "* select please *"
-msgstr ""
+msgstr "* пожалуйста, выберите *"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid ""
 "<html>\n"
@@ -82,7 +82,7 @@ msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as def
 msgstr ""
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Пакетная система занята, установка не может быть продолжена.</p><p>Скорее всего, блокировка вызвана фоновым процессом обновления системы.  В таком случае подождите несколько минут и повторите попытку снова. Также убедитесь, что паралельно не запущена установка другой программы.</p>"
+msgstr "<p>Пакетная система занята, установка не может быть продолжена.</p><p>Скорее всего, блокировка вызвана фоновым процессом обновления системы.  В таком случае подождите несколько минут и повторите попытку снова. Также убедитесь, что параллельно не запущена установка другой программы.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr ""
@@ -115,10 +115,10 @@ msgid "Default (TDE)"
 msgstr ""
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Профайлер рабочего стола"
 
 msgid "Desktop Profiler - install progress"
-msgstr "Профайлер - прогресс установки"
+msgstr "Профайлер рабочего стола — прогресс установки"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
 msgstr ""
@@ -157,7 +157,7 @@ msgid "Note "
 msgstr ""
 
 msgid "Ok"
-msgstr ""
+msgstr "Хорошо"
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Необходимо перезагрузить компьютер. Перезагрузить компьютер сейчас?"
@@ -202,7 +202,7 @@ msgstr ""
 #~ msgstr "Вы действительно хотите прервать выполнение операции?"
 
 #~ msgid "Desktop Profiler - batch software installer"
-#~ msgstr "Профайлер - готовые наборы программ"
+#~ msgstr "Профайлер рабочего стола — готовые наборы программ"
 
 #~ msgid "Select a profile:"
 #~ msgstr "Выберите профиль:"
@@ -214,10 +214,10 @@ msgstr ""
 #~ msgstr "Оставить систему как есть - вы можете установить все самостоятельно"
 
 #~ msgid "Basic Q4OS Desktop with common utilities, command-line tools and libraries"
-#~ msgstr "Базовая версия системы, с основными утилитами, библиотеками и инструментами коммандной строки"
+#~ msgstr "Базовая версия системы, с основными утилитами, библиотеками и инструментами командной строки"
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
-#~ msgstr "Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором рекоммендуемого программного обеспечения."
+#~ msgstr "Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором рекомендуемого программного обеспечения."
 
 #~ msgid "Select a profile"
 #~ msgstr "Выберите профиль"

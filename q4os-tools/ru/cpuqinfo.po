@@ -33,16 +33,16 @@ msgid "Bus Speed"
 msgstr ""
 
 msgid "CPU"
-msgstr ""
+msgstr "ЦП"
 
 msgid "Cache"
-msgstr ""
+msgstr "Кэш"
 
 msgid "Clocks"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Code Name"
 msgstr ""
@@ -51,7 +51,7 @@ msgid "Core Speed"
 msgstr ""
 
 msgid "Cores"
-msgstr ""
+msgstr "Ядра"
 
 msgid "Desktop"
 msgstr ""
@@ -162,10 +162,10 @@ msgid "System"
 msgstr ""
 
 msgid "Threads"
-msgstr ""
+msgstr "Потоки"
 
 msgid "Topology"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "Тип"

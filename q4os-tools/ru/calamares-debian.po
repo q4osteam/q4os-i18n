@@ -40,7 +40,7 @@ msgid "Q4OS is Free and Open Source."
 msgstr "Q4OS - бесплатный и открытый источник."
 
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "Q4OS совместим с большинством популярных форматов файлов: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ... ит "
+msgstr "Q4OS совместим с большинством популярных форматов файлов: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov и т. п."
 
 msgid "Q4OS is easy to use, powerful and configurable."
 msgstr "Q4OS прост в использовании, мощный и настраиваемый."
@@ -58,7 +58,7 @@ msgid "Thank you for choosing us."
 msgstr "Спасибо, что выбрали нас."
 
 msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
-msgstr "Менеджер обновлений Q4OS следит за вашей системой и обновляет ее автоматически, как только будут доступны обновления."
+msgstr "Менеджер обновлений Q4OS следит за вашей системой и обновляет её автоматически, как только будут доступны обновления."
 
 msgid "This is Q4OS"
 msgstr "Это Q4OS"
