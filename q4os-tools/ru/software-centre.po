@@ -24,10 +24,10 @@ msgid "#Records: "
 msgstr ""
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  Меню  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p>"
 msgstr "<p>"
@@ -87,7 +87,7 @@ msgid "Install or uninstall selected application from the featured applications 
 msgstr ""
 
 msgid "More options"
-msgstr ""
+msgstr "Больше параметров"
 
 msgid "Q4OS Software Centre"
 msgstr "Центр приложений Q4OS"
@@ -113,7 +113,7 @@ msgid "Search:"
 msgstr "Поиск:"
 
 msgid "Status"
-msgstr ""
+msgstr "Состояние"
 
 msgid "Status:"
 msgstr ""
@@ -152,7 +152,7 @@ msgid "textLabel"
 msgstr ""
 
 #~ msgid "Package manager"
-#~ msgstr "Пакетный менеджер"
+#~ msgstr "Менеджер пакетов"
 
 #~ msgid "Run 'Synaptic' - system package manager"
 #~ msgstr "Запуск Менеджера пакетов Synaptic"

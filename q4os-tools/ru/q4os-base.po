@@ -331,12 +331,12 @@ msgstr ""
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "скачать"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
+msgstr "скачивание…"
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "сообщение"

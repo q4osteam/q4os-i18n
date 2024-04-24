@@ -42,13 +42,13 @@ msgid "Additional updates has been detected"
 msgstr ""
 
 msgid "Available updates"
-msgstr ""
+msgstr "Доступные обновления"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Canceled !"
-msgstr ""
+msgstr "Отменено!"
 
 msgid "Checking Internet connection"
 msgstr ""
@@ -66,43 +66,43 @@ msgid "Checking permissions"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Closing.."
-msgstr ""
+msgstr "Закрывается…"
 
 msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
 msgstr ""
 
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Хотите продолжить?"
 
 msgid "Don't show this dialog again"
 msgstr ""
 
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 msgid "Downloading packages"
 msgstr ""
 
 msgid "Failed"
-msgstr ""
+msgstr "Не удалось"
 
 msgid "Failed!"
-msgstr ""
+msgstr "Не удалось!"
 
 msgid "Finish >"
-msgstr ""
+msgstr "Завершить >"
 
 msgid "Finished :)"
-msgstr ""
+msgstr "Завершено :)"
 
 msgid "Fixing apt database"
-msgstr ""
+msgstr "Исправляется база данных apt"
 
 msgid "Installing.."
-msgstr ""
+msgstr "Устанавливается…"
 
 msgid "Listing updates"
 msgstr ""
@@ -111,16 +111,16 @@ msgid "Locking SW database"
 msgstr ""
 
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 msgid "Not available!"
-msgstr ""
+msgstr "Не доступно!"
 
 msgid "Ok"
-msgstr ""
+msgstr "Хорошо"
 
 msgid "Performing upgrade"
-msgstr ""
+msgstr "Выполняется обновление"
 
 msgid "Please, try to run Update Manager a few minutes later again."
 msgstr ""
@@ -129,7 +129,7 @@ msgid "Removing unnecessary packages"
 msgstr ""
 
 msgid "Show details"
-msgstr ""
+msgstr "Показать подробности"
 
 msgid "Success. The most recent update has been implemented."
 msgstr ""
@@ -153,10 +153,10 @@ msgid "Waiting"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 msgid "Your system is up to date and healthy."
-msgstr ""
+msgstr "Ваша система актуальна и свежа."
 
 msgid "need to be fixed"
 msgstr ""
