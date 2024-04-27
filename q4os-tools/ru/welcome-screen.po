@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.1\n"
 
 msgid "(C) 2019 Q4OS"
-msgstr ""
+msgstr "(C) 2019 Q4OS"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надёжность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
@@ -30,7 +30,7 @@ msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and confi
 msgstr "<font size=\"4\"><p>Профайлер — это мастер настройки, который за один клик установит и настроит набор дополнительных программ и утилит .</p><p>Вам будет предложено на выбор несколько наборов.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Другие полезные параметры настройки.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Запуск скрипта для установки коллекции профессиональных кодеков.</p><p>Они используются проигрывателями мультимедиа (например VLC, Mplayer) для воспроизведения DVD-дисков и отдельных файлов аудио и видео.</p></font>"
@@ -54,37 +54,37 @@ msgid "<p>Desktop effects have been enabled. Please login again to take changes 
 msgstr "<p>Эффекты рабочего стола включены. Пожалуйста, войдите в систему снова, чтобы изменения вступили в силу.</p>"
 
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr "<p>Вы хотите включить автоматический вход в систему ?</p>"
+msgstr "<p>Вы хотите включить автоматический вход в систему?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr "<p>Вы хотите переключить Главное Меню ?</p>"
+msgstr "<p>Вы хотите переключить Главное меню?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>Обнаружена установка NVIDIA!</p><p>Действия отключены во время установки NVIDIA, пожалуйста, дождитесь окончания установки NVIDIA.</p>"
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Главное меню теперь настроено на стиль Бурбон.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Главное меню теперь настроено на классический стиль.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Главное меню теперь настроено на стиль Kickoff.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Это действие доступно только для рабочих столов Trinity и Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
+msgstr "<p>Это действие доступно только для рабочего стола Trinity.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Обнаружена установка VirtualBox !</p><p>Действия отключены на время установки. Пожалуйста, дождитесь окончания процесса. </p>"
+msgstr "<p>Обнаружена установка VirtualBox!</p><p>Действия отключены на время установки. Пожалуйста, дождитесь окончания процесса.</p>"
 
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Похоже, Ваш компьютер слишком слаб для поддержки эффектов рабочего стола. Нормальная работа не гарантируется.</p><p>Вы все еще хотите включить эффекты рабочего стола ?</p>"
+msgstr "<p>Похоже, ваш компьютер слишком слаб для поддержки эффектов рабочего стола. Нормальная работа не гарантируется.</p><p>Вы все ещё хотите включить эффекты рабочего стола?</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Применить"
 
 msgid "Autologin configuration"
 msgstr "Настройка Автовхода"
@@ -93,10 +93,10 @@ msgid "Automatic login"
 msgstr "Автоматический вход"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Бурбон"
 
 msgid "Brief system info."
-msgstr ""
+msgstr "Краткая системная сводка."
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -113,12 +113,11 @@ msgstr "Каскадное меню в классическом стиле"
 msgid "Desktop effects"
 msgstr "Эффекты рабочего стола"
 
-#, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>Вы хотите включить эффекты рабочего стола ?</p>"
+msgstr "Вы хотите включить эффекты рабочего стола?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Документы в сети"
 
 msgid "Donate to Q4OS"
 msgstr "Пожертвовать для Q4OS"
@@ -142,19 +141,19 @@ msgid "Install Proprietary Codecs"
 msgstr "Установить проприетарные кодеки"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff""
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Тип меню KickOff"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Пункты меню упорядочены по приложениям"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Пункты меню упорядочены по категориям"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Структура меню"
 
 msgid "Menu type"
 msgstr "Тип меню"
@@ -164,17 +163,16 @@ msgstr "Больше параметров  >"
 
 #, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>Нажимая на кнопку, Вы включаете эффекты рабочего стола (эффекты теней, сглаживания и т.п.)</p><p>Учтите, что устаревшее оборудование не сможет обеспечить их нормальную работу. Ваш компьютер будет предварительно протестирован на совместимость с эффектами.</p></font>"
+msgstr "Обратите внимание, что эффекты рабочего стола будут безупречно работать только на современном оборудовании, не рекомендуется использовать их на устаревшем оборудовании. Будет проведено короткое тестирование системы, чтобы убедиться, что оборудование готово принять конфигурацию."
 
 msgid "Q4OS"
 msgstr "Q4OS"
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надёжность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
+msgstr "Q4OS устанавливается как очень базовая и чистая среда рабочего стола с минимальным набором программ. Теперь самое время настроить ваш новый рабочий стол, возможно, вам пригодятся ярлыки настроек, приведённые ниже."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Подберите размер шрифтов и значков в соответствии с текущим разрешением экрана, чтобы сделать более понятными."
 
 msgid "Revert to Classic"
 msgstr "Вернуть классический вид"
@@ -200,24 +198,23 @@ msgstr "Настройка Главного Меню"
 msgid "Support us on Patreon"
 msgstr "Поддержать нас в Patreon"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "Включить меню Kickoff"
+msgstr "Вкл/откл главное меню"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Переключить на Бурбон"
 
 msgid "Switch to Kickoff"
 msgstr "Переключить на Kickoff"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Этот параметр позволяет включить эффекты сглаживания и украшения рабочего стола."
 
 msgid "Turn ON"
 msgstr "Включить"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Двухпанельное меню со строкой поиска"
 
 msgid "Warning !"
 msgstr "Внимание!"
@@ -229,13 +226,13 @@ msgid "Welcome to Q4OS"
 msgstr "Добро пожаловать в Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Хорошо оформленная информация об аппаратном обеспечении системы."
 
 msgid "Working ..."
 msgstr "В работе…"
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "быстрая и мощная настольная операционная система, ориентированная на долгосрочную стабильность, надёжность и классический стиль пользовательского интерфейса."
 
 msgid "pushButton1"
 msgstr "pushButton1"
