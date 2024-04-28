@@ -18,10 +18,10 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#Фильтр: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#Записи: "
 
 msgid "---  Menu  ---"
 msgstr "---  Меню  ---"
@@ -48,13 +48,13 @@ msgid "<p>Synaptic package manager isn't installed, please install it first.</p>
 msgstr ""
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Обнаружена установка Virtualbox!</p><p>Действия отключены, дождитесь окончания процесса установки.</p>"
+msgstr "<p>Обнаружена установка Virtualbox!</p><p>Действия отключены, пожалуйста, дождитесь окончания процесса установки.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Мы настоятельно рекомендуем Вам применить один из профилей перед установкой отдельных приложений.</p><p>Пожалуйста, запустите Профайлер рабочего стола, выберите и установите профиль.</p>"
 
 msgid "Application"
-msgstr "Программы"
+msgstr "Приложение"
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -62,20 +62,17 @@ msgstr "Отмена"
 msgid "Description"
 msgstr "Описание"
 
-#, fuzzy
 msgid "Desktop Profiler"
 msgstr "Профайлер рабочего стола"
 
 msgid "Desktop profiler"
 msgstr "Профайлер рабочего стола"
 
-#, fuzzy
 msgid "Featured applications"
-msgstr "Установить выбранные приложения"
+msgstr "Рекомендуемые приложения"
 
-#, fuzzy
 msgid "Featured applications: #"
-msgstr "Установить выбранные приложения"
+msgstr "Рекомендуемые приложения: #"
 
 msgid "Info"
 msgstr "Сведения"
@@ -116,7 +113,7 @@ msgid "Status"
 msgstr "Состояние"
 
 msgid "Status:"
-msgstr ""
+msgstr "Состояние:"
 
 msgid "Uninstall"
 msgstr "Удалить"
@@ -125,10 +122,10 @@ msgid "Uninstall now"
 msgstr "Удалить сейчас"
 
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 msgid "config_file"
 msgstr "config_file"
@@ -146,10 +143,10 @@ msgid "rating_num"
 msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "textLabel"
-msgstr ""
+msgstr "текстоваяМетка"
 
 #~ msgid "Package manager"
 #~ msgstr "Менеджер пакетов"
