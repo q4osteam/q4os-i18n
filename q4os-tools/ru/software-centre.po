@@ -81,7 +81,7 @@ msgid "Install application"
 msgstr "Установить программу"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "Установить или удалить выбранное приложение из следующего списка рекомендуемых приложений"
 
 msgid "More options"
 msgstr "Больше параметров"
@@ -97,14 +97,14 @@ msgstr "Запуск Профайлера рабочего стола"
 
 #, fuzzy
 msgid "Run 'Discover' advanced software manager"
-msgstr "Запуск Менеджера пакетов Discover"
+msgstr "Запуск продвинутого менеджера пакетов «Discover»"
 
 #, fuzzy
 msgid "Run 'Synaptic' advanced software manager"
-msgstr "Запуск Менеджера пакетов Discover"
+msgstr "Запуск продвинутого менеджера пакетов «Synaptic»"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "Запуск удобного установщика пакетов и Flatpak"
 
 msgid "Search:"
 msgstr "Поиск:"

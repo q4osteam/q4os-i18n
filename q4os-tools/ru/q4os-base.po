@@ -27,7 +27,7 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Warning</b>"
-msgstr ""
+msgstr "<b>Предупреждение</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
@@ -83,11 +83,11 @@ msgstr ""
 
 #, sh-format
 msgid "Display setup"
-msgstr ""
+msgstr "Настройка дисплея"
 
 #, sh-format
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Хотите продолжить?"
 
 #, sh-format
 msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
@@ -103,7 +103,7 @@ msgstr ""
 
 #, sh-format
 msgid "Download failed !"
-msgstr ""
+msgstr "Загрузка не удалась!"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
@@ -111,7 +111,7 @@ msgstr ""
 
 #, sh-format
 msgid "External repositories"
-msgstr ""
+msgstr "Сторонние репозитории"
 
 #, sh-format
 msgid "External repositories to add"
@@ -135,7 +135,7 @@ msgstr ""
 
 #, sh-format
 msgid "Install wizard"
-msgstr ""
+msgstr "Помощник установки"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. Try it few minutes later please."
@@ -163,7 +163,7 @@ msgstr ""
 
 #, sh-format
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 #, sh-format
 msgid "Language <b>${LANC}</b> has been added to system."
@@ -231,11 +231,11 @@ msgstr ""
 
 #, sh-format
 msgid "Select a repository:"
-msgstr ""
+msgstr "Выберите репозиторий:"
 
 #, sh-format
 msgid "Select your language:"
-msgstr ""
+msgstr "Выберите ваш язык:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
@@ -319,7 +319,7 @@ msgstr ""
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "Вы собираетесь изменить Главное меню"
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
