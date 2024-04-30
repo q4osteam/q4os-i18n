@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(C) 2019 Q4OS"
-msgstr ""
+msgstr "(C) 2019 Q4OS"
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bits"
-msgstr ""
+msgstr "Бит"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Богомипы"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Скорость шины"
 
 msgid "CPU"
 msgstr "ЦП"
@@ -39,133 +39,133 @@ msgid "Cache"
 msgstr "Кэш"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Частоты"
 
 msgid "Close"
 msgstr "Закрыть"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Кодовое имя"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Скорость ядра"
 
 msgid "Cores"
 msgstr "Ядра"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Рабочий стол"
 
 msgid "Details"
-msgstr ""
+msgstr "Подробности"
 
 msgid "Distro"
-msgstr ""
+msgstr "Дистрибутив"
 
 msgid "FW Date"
-msgstr ""
+msgstr "Дата прошивки"
 
 msgid "Family"
-msgstr ""
+msgstr "Семейство"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Форма (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Форма (ui_form1)"
 
 msgid "Graphics"
-msgstr ""
+msgstr "Графика"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Сводка апп. обеспеч."
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Сведения апп. обеспеч."
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Сведения апп. обеспеч. — Подробности"
 
 msgid "Host"
-msgstr ""
+msgstr "Хост"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Инструкции"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Ядро ОС"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "Данные L1"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "Инструк. L1"
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "Кэш L2"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Уровень 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Уровень 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Мат. плата"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Макс. скорость"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Микрокод"
 
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Множитель"
 
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 msgid "Package"
-msgstr ""
+msgstr "Пакет"
 
 msgid "Processor"
-msgstr ""
+msgstr "Процессор"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Процессор №1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "Всего оператив. памяти"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Номинальная FSB"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "SecureBoot"
 
 msgid "Selection"
-msgstr ""
+msgstr "Выборка"
 
 msgid "Specification"
-msgstr ""
+msgstr "Спецификация"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Степпинг"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Хранилище в общем"
 
 msgid "System"
-msgstr ""
+msgstr "Система"
 
 msgid "Threads"
 msgstr "Потоки"
 
 msgid "Topology"
-msgstr ""
+msgstr "Топология"
 
 msgid "Type"
 msgstr "Тип"

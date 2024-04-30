@@ -91,13 +91,13 @@ msgid "<p>You are calling for an alternative desktop installation, but it's not 
 msgstr ""
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Choose an additional desktop environment to install."
 msgstr ""
@@ -112,7 +112,7 @@ msgid "Click to select profile"
 msgstr ""
 
 msgid "Default (TDE)"
-msgstr ""
+msgstr "По умолчанию (TDE)"
 
 msgid "Desktop Profiler"
 msgstr "Профайлер рабочего стола"
@@ -124,7 +124,7 @@ msgid "Desktop Profiler lets you to choose and apply the most appropriate deskto
 msgstr ""
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "Среда рабочего стола:"
 
 msgid "Desktop profiler - select default desktop environment"
 msgstr ""
@@ -136,13 +136,13 @@ msgid "Installation process has requested to logoff this session. Do you want re
 msgstr "Для завершения установки необходимо повторно войти в систему. Вы хотите сделать это прямо сейчас?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "Запуск установки"
 
 msgid "Next >"
 msgstr "Далее >"
@@ -151,10 +151,10 @@ msgid "No configuration found, exiting .."
 msgstr ""
 
 msgid "None selected"
-msgstr ""
+msgstr "Не выбрано"
 
 msgid "Note "
-msgstr ""
+msgstr "Заметка "
 
 msgid "Ok"
 msgstr "Хорошо"
@@ -172,13 +172,13 @@ msgid "Software profile:"
 msgstr ""
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "Да, я хочу установить дополнительную среду"
 
 #~ msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
 #~ msgstr "<p>Q4OS установлена с минимальным набором компонентов. Вы можете установить и настроить все необходимые Вам компоненты самостоятельно. Также Вы можете использовать Профайлер, который позволяет автоматически установить наборы рекомендуемых приложений на Ваш выбор. Вы можете запустить Профайлер через Главное меню.</p><p>Желаете пропустить установку <b>дополнительного</b> программного обеспечения?</p>"

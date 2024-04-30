@@ -87,7 +87,7 @@ msgid "Dolomiti Cimerlo"
 msgstr ""
 
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 msgid "Ethais"
 msgstr ""
@@ -96,10 +96,10 @@ msgid "File Synchronizer"
 msgstr ""
 
 msgid "Files and folders"
-msgstr ""
+msgstr "Файлы и каталоги"
 
 msgid "Find"
-msgstr ""
+msgstr "Поиск"
 
 msgid "Firefox"
 msgstr "Firefox"
@@ -132,13 +132,13 @@ msgid "Internet"
 msgstr "Интернет"
 
 msgid "K3B"
-msgstr ""
+msgstr "K3B"
 
 msgid "Konqueror"
-msgstr ""
+msgstr "Konqueror"
 
 msgid "Konsole"
-msgstr ""
+msgstr "Konsole"
 
 msgid "Landscape Keltern"
 msgstr ""
@@ -153,7 +153,7 @@ msgid "Look Switcher"
 msgstr ""
 
 msgid "Mail Client"
-msgstr ""
+msgstr "Почтовый клиент"
 
 msgid "Media player"
 msgstr ""
@@ -165,7 +165,7 @@ msgid "My Documents"
 msgstr "Мои документы"
 
 msgid "NVIDIA X Server Settings"
-msgstr ""
+msgstr "Настройки NVIDIA X Server"
 
 msgid "Network Shares"
 msgstr ""
@@ -177,7 +177,7 @@ msgid "Nightfear"
 msgstr ""
 
 msgid "Open Terminal"
-msgstr ""
+msgstr "Открыть терминал"
 
 msgid "Origami 1"
 msgstr ""
@@ -198,7 +198,7 @@ msgid "Pictures"
 msgstr "Изображения"
 
 msgid "Print system"
-msgstr ""
+msgstr "Система печати"
 
 msgid "Programs"
 msgstr "Программы"
@@ -237,10 +237,10 @@ msgid "Read/Write Mail/News with Thunderbird"
 msgstr ""
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Масштаб экрана"
 
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 msgid "Simple Screen Recorder"
 msgstr ""
@@ -288,7 +288,7 @@ msgid "TDevelop - Q4OS Development Pack"
 msgstr ""
 
 msgid "TDevelop Q4OS"
-msgstr ""
+msgstr "TDevelop Q4OS"
 
 msgid "Terminal Program"
 msgstr ""
@@ -303,13 +303,13 @@ msgid "Trash"
 msgstr "Корзина"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Удаление"
 
 msgid "Uninstall Chromium"
 msgstr "Удалить Chromium"
 
 msgid "Uninstall Q4OS Development Pack"
-msgstr ""
+msgstr "Удалит пакет разработки Q4OS"
 
 msgid "Uninstall substitute_application_name_desc"
 msgstr ""
@@ -321,7 +321,7 @@ msgid "Users and groups"
 msgstr "Пользователи и группы"
 
 msgid "VLC media player"
-msgstr ""
+msgstr "Медиапроигрыватель VLC"
 
 msgid "Vector 2"
 msgstr ""
@@ -330,7 +330,7 @@ msgid "Web Browser"
 msgstr "Веб-браузер"
 
 msgid "Wine Configuration"
-msgstr ""
+msgstr "Настройка Wine"
 
 msgid "Wine Menu"
 msgstr "Меню Wine"
