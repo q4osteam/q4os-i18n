@@ -28,7 +28,7 @@ msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a def
 msgstr "Это безопасно и стабильно, вам не нужен антивирус, антишпион, инструмент дефрагментации или средство для очистки реестра."
 
 msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
-msgstr "Другие популярные приложения <! - такие как Google Picasa, Skype, Dropbox, TeamViewer и другие -> могут быть установлены одним щелчком мыши."
+msgstr "Другие популярные приложения, <!--такие как Google Picasa, Skype, Dropbox, TeamViewer и другие, -->можно установить одним щелчком мыши."
 
 msgid "Out of the box"
 msgstr "Из коробки"
@@ -37,7 +37,7 @@ msgid "Q4OS can detect other operating systems and install itself beside them. Y
 msgstr "Q4OS может обнаруживать другие операционные системы и устанавливать себя рядом с ними. Вы можете выбрать, какую операционную систему запускать при запуске компьютера."
 
 msgid "Q4OS is Free and Open Source."
-msgstr "Q4OS - бесплатный и открытый источник."
+msgstr "Q4OS — бесплатный и свободный."
 
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
 msgstr "Q4OS совместим с большинством популярных форматов файлов: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov и т. п."

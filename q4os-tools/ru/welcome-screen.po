@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-04 22:03+0200\n"
-"PO-Revision-Date: 2015-07-01 22:17+0100\n"
+"PO-Revision-Date: 2024-05-02 23:40+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "(C) 2019 Q4OS"
 msgstr "(C) 2019 Q4OS"
@@ -141,7 +141,7 @@ msgid "Install Proprietary Codecs"
 msgstr "Установить проприетарные кодеки"
 
 msgid "KickOff"
-msgstr "KickOff""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
 msgstr "Тип меню KickOff"
@@ -161,7 +161,6 @@ msgstr "Тип меню"
 msgid "More options  >"
 msgstr "Больше параметров  >"
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
 msgstr "Обратите внимание, что эффекты рабочего стола будут безупречно работать только на современном оборудовании, не рекомендуется использовать их на устаревшем оборудовании. Будет проведено короткое тестирование системы, чтобы убедиться, что оборудование готово принять конфигурацию."
 
@@ -199,7 +198,7 @@ msgid "Support us on Patreon"
 msgstr "Поддержать нас в Patreon"
 
 msgid "Switch start menu"
-msgstr "Вкл/откл главное меню"
+msgstr "Вкл./откл. главное меню"
 
 msgid "Switch to Bourbon"
 msgstr "Переключить на Бурбон"
