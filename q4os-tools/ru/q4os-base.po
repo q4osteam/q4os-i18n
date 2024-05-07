@@ -9,21 +9,22 @@ msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-11 00:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2024-05-02 23:38+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr ""
+msgstr "<b>Нажмите кнопку Да</b>, чтобы запустить мастер автоматической установки, который проведёт вас через процесс установки последней стабильной версии с автоматическими обновлениями. В противном случае нажмите кнопку Нет и используйте Konqueror в качестве выбора по умолчанию. Получить инсталлятор ${APF1} из Центра программного обеспечения Q4OS можно в любое время."
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr ""
+msgstr "<b>Оптимизированный Q4OS</b> ${APD} предпочтительнее оригинального компакт-диска Oracle в плане производительности. Эта установка загрузит и автоматически установит всё необходимое."
 
 #, sh-format
 msgid "<b>Warning</b>"
@@ -31,23 +32,23 @@ msgstr "<b>Предупреждение</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Обнаружен ноутбук Asus Eee PC, будет выполнена дополнительная настройка."
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
+msgstr "Пожалуйста, проверьте подключение к Интернету."
 
 #, sh-format
 msgid "Click \"Ok\" button to run the tool."
-msgstr ""
+msgstr "Нажмите кнопку «Хорошо», чтобы запустить инструмент."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr ""
+msgstr "Нажмите кнопку «Хорошо», чтобы открыть окно РедактораМеню."
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr ""
+msgstr "Щёлкните Хорошо, чтобы попасть на экран входа в систему."
 
 #, sh-format
 msgid "Click OK to run a WiFi connection tool to create a network connection."
@@ -55,7 +56,7 @@ msgstr ""
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr ""
+msgstr "Щёлкните Хорошо для немедленной перезагрузки вашего компьютера."
 
 #, sh-format
 msgid "Configuring desktop theme ..."
@@ -171,7 +172,7 @@ msgstr ""
 
 #, sh-format
 msgid "Language pack"
-msgstr ""
+msgstr "Языковой пакет"
 
 #, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
@@ -239,11 +240,11 @@ msgstr "Выберите ваш язык:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr ""
+msgstr "Невозможно продолжить установку…"
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr ""
+msgstr "Невозможно продолжить установку."
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
@@ -279,7 +280,7 @@ msgstr ""
 
 #, sh-format
 msgid "Virtualbox Guest Additions setup"
-msgstr ""
+msgstr "Установка гостевых дополнений VirtualBox"
 
 #, sh-format
 msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
@@ -319,7 +320,7 @@ msgstr ""
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr "Вы собираетесь изменить Главное меню"
+msgstr "Вы собираетесь изменить Главное меню."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."

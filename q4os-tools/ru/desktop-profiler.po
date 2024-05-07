@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-21 22:31+0200\n"
-"PO-Revision-Date: 2019-10-15 16:53+0200\n"
+"PO-Revision-Date: 2024-05-06 19:52+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "  Install >"
 msgstr "  Установить >"
@@ -62,54 +62,58 @@ msgid ""
 "<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
 "</html>"
 msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Выберите среду рабочего стола по умолчанию.</p></font>\n"
+"<p align=justify>Лёгкий и эффективный рабочий стол <b>Trinity</b> установлен и предварительно настроен по умолчанию на данный момент. Тем не менее, программа установки Q4OS автоматически определила, что ваш компьютер достаточно мощный для работы с более продвинутой средой<b>KDE Plasma</b>.</p>\n"
+"</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>В этом диалоговом окне можно выбрать дополнительную среду рабочего стола (СРС) для установки рядом со стандратной средой Q4OS.</p><p align=justify>Пожалуйста, не используйте этот параметр, если вы не уверены в том, что делаете.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>Хотите отменить отложенную операцию?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p>Установить и настроить среду <span style=\"font-weight:600\">KDE Plasma</span> в качестве стандратной и оставить рабочий стол Trinity в качестве выбора.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Обнаружено устаревшее оборудование!</p><p>В вашем процессоре отсутствует поддержка набора инструкций SSE2, который необходим для требуемого программного обеспечения.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Обнаружено устаревшее оборудование!</p><p>На вашем компьютере недостаточно аппаратных ресурсов для выбранного профиля, его не рекомендуется устанавливать.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>Оставить рабочий стол <span style=\"font-weight:600\">Trinity</span> стандартным, Plasma не будет установлена. Вы можете запустить установку Plasma позже с помощью Профайлера рабочего стола.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Пакетная система занята, установка не может быть продолжена.</p><p>Скорее всего, блокировка вызвана фоновым процессом обновления системы.  В таком случае подождите несколько минут и повторите попытку снова. Также убедитесь, что параллельно не запущена установка другой программы.</p>"
+msgstr "<p>Пакетная система занята, установка не может быть продолжена.</p><p>Скорее всего, блокировка вызвана фоновым процессом обновления системы. В таком случае подождите несколько минут и повторите попытку снова. Также убедитесь, что параллельно не запущена установка другой программы.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Предупреждение: Отмена установки на этом этапе может привести к сбою системы пакетов.</p><p>Уверены, что хотите прервать процесс установки сейчас?</p>"
 
 msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
-msgstr ""
+msgstr "<p>Вы вызываете установку альтернативного рабочего стола, но он не совместим с выбранным профилем. Пожалуйста, выберите другой профиль.</p>"
 
 msgid ">"
 msgstr ">"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "Другой экземпляр Профайлера рабочего стола уже запущен, производится выход…"
 
 msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "Выберите дополнительную среду рабочего стола для установки."
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "Выберите дополнительную среду рабочего стола для установки. Пожалуйста, не используйте этот параметр, если вы не уверены в том, что делаете."
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "Выберите среду рабочего стола"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "Щёлкните, чтобы выбрать профиль"
 
 msgid "Default (TDE)"
 msgstr "По умолчанию (TDE)"
@@ -121,16 +125,16 @@ msgid "Desktop Profiler - install progress"
 msgstr "Профайлер рабочего стола — прогресс установки"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "Профайлер рабочего стола позволяет выбрать и применить наиболее подходящий профиль среды для этого компьютера."
 
 msgid "Desktop environment:"
 msgstr "Среда рабочего стола:"
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Профайлер рабочего стола — выбор среды рабочего стола по умолчанию"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "Если вы не уверены, просто нажмите кнопку <b>[ KDE Plasma ]</b>, чтобы выбрать рекомендуемый вариант."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Для завершения установки необходимо повторно войти в систему. Вы хотите сделать это прямо сейчас?"
@@ -148,7 +152,7 @@ msgid "Next >"
 msgstr "Далее >"
 
 msgid "No configuration found, exiting .."
-msgstr ""
+msgstr "Конфигурация не найдена, производится выход…"
 
 msgid "None selected"
 msgstr "Не выбрано"
@@ -169,7 +173,7 @@ msgid "Profile description"
 msgstr "Описание профиля"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "Профиль ПО:"
 
 msgid "Trinity"
 msgstr "Trinity"
