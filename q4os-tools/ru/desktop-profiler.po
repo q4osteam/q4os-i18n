@@ -68,13 +68,13 @@ msgstr ""
 "</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr "<p align=justify>В этом диалоговом окне можно выбрать дополнительную среду рабочего стола (СРС) для установки рядом со стандратной средой Q4OS.</p><p align=justify>Пожалуйста, не используйте этот параметр, если вы не уверены в том, что делаете.</p>"
+msgstr "<p align=justify>В этом диалоговом окне можно выбрать дополнительную среду рабочего стола (СРС) для установки рядом со стандартной средой Q4OS.</p><p align=justify>Пожалуйста, не используйте этот параметр, если вы не уверены в том, что делаете.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Хотите отменить отложенную операцию?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr "<p>Установить и настроить среду <span style=\"font-weight:600\">KDE Plasma</span> в качестве стандратной и оставить рабочий стол Trinity в качестве выбора.</p>"
+msgstr "<p>Установить и настроить среду <span style=\"font-weight:600\">KDE Plasma</span> в качестве стандартной и оставить рабочий стол Trinity в качестве выбора.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
 msgstr "<p>Обнаружено устаревшее оборудование!</p><p>В вашем процессоре отсутствует поддержка набора инструкций SSE2, который необходим для требуемого программного обеспечения.</p>"
