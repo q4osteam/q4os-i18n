@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-21 22:31+0200\n"
+"POT-Creation-Date: 2024-07-13 21:05+0200\n"
 "PO-Revision-Date: 2019-10-15 16:54+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -22,6 +22,16 @@ msgstr ""
 
 msgid "* select please *"
 msgstr ""
+
+msgid "--- General ---"
+msgstr ""
+
+msgid "--- Miscellaneous ---"
+msgstr ""
+
+#, fuzzy
+msgid "--- Selected profile ---"
+msgstr "Wählen Sie ein Profil aus"
 
 msgid "0"
 msgstr ""
@@ -56,6 +66,9 @@ msgstr ""
 msgid "9"
 msgstr ""
 
+msgid "<"
+msgstr ""
+
 msgid ""
 "<html>\n"
 "<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
@@ -64,6 +77,9 @@ msgid ""
 msgstr ""
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
+msgstr ""
+
+msgid "<p>Couldn't open file.</p>"
 msgstr ""
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
@@ -87,16 +103,41 @@ msgstr "<p>Das Paket-System scheint beschäftigt zu sein, da es momentan nichts 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr ""
 
-msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
+msgid ">"
 msgstr ""
 
-msgid ">"
+msgid "A profile has been already applied for this system."
+msgstr ""
+
+msgid "Additional repositories:"
 msgstr ""
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr ""
 
+#, fuzzy
+msgid "Apply profile"
+msgstr "Wählen Sie ein Profil aus"
+
+msgid "Applying a profile within the live systems isn't supported."
+msgstr ""
+
+msgid "Are you really sure to overwrite the previous profile ?"
+msgstr ""
+
 msgid "Cancel"
+msgstr ""
+
+msgid "Cancel installation"
+msgstr ""
+
+msgid "Cancel menu"
+msgstr ""
+
+msgid "Choose a new filename to export current status to"
+msgstr ""
+
+msgid "Choose a new filename to save the profile to"
 msgstr ""
 
 msgid "Choose an additional desktop environment to install."
@@ -111,7 +152,13 @@ msgstr ""
 msgid "Click to select profile"
 msgstr ""
 
-msgid "Default (TDE)"
+msgid "Configuration file:"
+msgstr ""
+
+msgid "Current desktop status has been saved to profile:"
+msgstr ""
+
+msgid "DEB packages to install:"
 msgstr ""
 
 msgid "Desktop Profiler"
@@ -126,10 +173,54 @@ msgstr ""
 msgid "Desktop environment:"
 msgstr ""
 
+msgid "Desktop environments:"
+msgstr ""
+
 msgid "Desktop profiler - select default desktop environment"
 msgstr ""
 
+#, fuzzy
+msgid "Do you want to continue ?"
+msgstr "Wollen Sie den laufenden Prozess wirklich abbrechen ?"
+
+msgid "ESH applications to install:"
+msgstr ""
+
+msgid "Error: profile not found, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Export profile"
+msgstr "Wählen Sie ein Profil aus"
+
+msgid "Failed to read packages list, file: "
+msgstr ""
+
+msgid "Failed to read repositories list, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Get snapshot profile"
+msgstr "Wählen Sie ein Profil aus"
+
+msgid "Help"
+msgstr ""
+
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
+msgstr ""
+
+msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
+msgstr ""
+
+#, fuzzy
+msgid "Import a profile"
+msgstr "Wählen Sie ein Profil aus"
+
+#, fuzzy
+msgid "Import local profile"
+msgstr "Wählen Sie ein Profil aus"
+
+msgid "Import shared profile"
 msgstr ""
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
@@ -147,10 +238,16 @@ msgstr ""
 msgid "Next >"
 msgstr "Fortfahren >"
 
-msgid "No configuration found, exiting .."
+msgid "No configuration found."
+msgstr ""
+
+msgid "No profile selected. Select a profile please."
 msgstr ""
 
 msgid "None selected"
+msgstr ""
+
+msgid "Not implemented yet."
 msgstr ""
 
 msgid "Note "
@@ -159,16 +256,64 @@ msgstr ""
 msgid "Ok"
 msgstr ""
 
+msgid "Options"
+msgstr ""
+
+msgid "Please enter shared profile code, or Internet address:"
+msgstr ""
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Der Computer muss schnellstens neu gestartet werden. Wollen Sie jetzt einen Neustart durchführen ?"
 
 msgid "Please restart X server as soon as possible."
 msgstr "Bitte starten Sie den X Server so schnell wie möglich neu."
 
+msgid "Previous profile:"
+msgstr ""
+
 msgid "Profile description"
 msgstr "Profilbeschreibung"
 
+#, fuzzy
+msgid "Profile export"
+msgstr "Profilbeschreibung"
+
+msgid "Profile has been imported."
+msgstr ""
+
+msgid "Profile has been removed."
+msgstr ""
+
+#, fuzzy
+msgid "Profile info"
+msgstr "Profilbeschreibung"
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Remote profile not found."
+msgstr ""
+
+#, fuzzy
+msgid "Remove profile"
+msgstr "Wählen Sie ein Profil aus"
+
+msgid "Remove superfluous packages"
+msgstr ""
+
+msgid "Select a profile from the list please."
+msgstr ""
+
+msgid "Selected profile has been saved to file:"
+msgstr ""
+
 msgid "Software profile:"
+msgstr ""
+
+msgid "System profiles cannot be removed."
+msgstr ""
+
+msgid "This profile has been already imported."
 msgstr ""
 
 msgid "Trinity"
@@ -177,7 +322,25 @@ msgstr ""
 msgid "Trinity >"
 msgstr ""
 
+msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
 msgid "Yes, I really want to install additional DE"
+msgstr ""
+
+msgid "Yes, still apply"
+msgstr ""
+
+msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
+msgstr ""
+
+msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
+msgstr ""
+
+msgid "You can now edit the file to your preferences."
+msgstr ""
+
+msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr ""
 
 #, fuzzy
@@ -199,9 +362,6 @@ msgstr ""
 #~ msgid "<p>Unsufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
 #~ msgstr "<p>Inkompatible Hardware erkannt !</p><p>Ihr Computer hat nicht genügend Hardware-Ressourcen für das Profil, das Sie ausgewählt haben. Es wird nicht empfohlen, das Profil zu installieren.</p>"
 
-#~ msgid "Do you really want to cancel pending operation ?"
-#~ msgstr "Wollen Sie den laufenden Prozess wirklich abbrechen ?"
-
 #~ msgid "Desktop Profiler - batch software installer"
 #~ msgstr "Desktop-Profiler - Batch Software Installer"
 
@@ -219,6 +379,3 @@ msgstr ""
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
 #~ msgstr "Kompletter Desktop mit Webbrowser, Office Programmen und empfohlenen Anwendungen"
-
-#~ msgid "Select a profile"
-#~ msgstr "Wählen Sie ein Profil aus"

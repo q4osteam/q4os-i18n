@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-04 22:03+0200\n"
+"POT-Creation-Date: 2024-07-13 21:44+0200\n"
 "PO-Revision-Date: 2023-02-12 08:43+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <gnome-pt-translation@googlegroups.com>\n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2.2\n"
-
-msgid "(C) 2019 Q4OS"
-msgstr ""
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Bienvenue sur le système Q4OS</b> pour stations de travail et bureautique. Ce système est destiné à être rapide, efficace, stable et fiable dans la durée, avec une interface utilisateur traditionnelle.<br>Q4OS est installé en tant que système bureautique basique et propre avec un kit logiciel minimal. Il est maintenant temps d'ajuster quelques paramètres de votre environnement en cliquant sur les raccourcis ci-dessous.</p></font>"
@@ -94,9 +91,6 @@ msgstr "Ouverture automatique de session"
 
 msgid "Bourbon"
 msgstr "\"Bourbon\""
-
-msgid "Brief system info."
-msgstr "Aperçu des info. système."
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -247,6 +241,9 @@ msgstr "Bouton 4"
 
 msgid "textLabel1"
 msgstr "Libellé 1"
+
+#~ msgid "Brief system info."
+#~ msgstr "Aperçu des info. système."
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Activer les effets visuels"

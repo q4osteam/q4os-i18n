@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-21 22:31+0200\n"
+"POT-Creation-Date: 2024-07-13 21:05+0200\n"
 "PO-Revision-Date: 2019-01-10 11:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -21,6 +21,15 @@ msgid "  Install >"
 msgstr ""
 
 msgid "* select please *"
+msgstr ""
+
+msgid "--- General ---"
+msgstr ""
+
+msgid "--- Miscellaneous ---"
+msgstr ""
+
+msgid "--- Selected profile ---"
 msgstr ""
 
 msgid "0"
@@ -56,6 +65,9 @@ msgstr ""
 msgid "9"
 msgstr ""
 
+msgid "<"
+msgstr ""
+
 msgid ""
 "<html>\n"
 "<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
@@ -64,6 +76,9 @@ msgid ""
 msgstr ""
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
+msgstr ""
+
+msgid "<p>Couldn't open file.</p>"
 msgstr ""
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
@@ -87,16 +102,40 @@ msgstr ""
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr ""
 
-msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
+msgid ">"
 msgstr ""
 
-msgid ">"
+msgid "A profile has been already applied for this system."
+msgstr ""
+
+msgid "Additional repositories:"
 msgstr ""
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr ""
 
+msgid "Apply profile"
+msgstr ""
+
+msgid "Applying a profile within the live systems isn't supported."
+msgstr ""
+
+msgid "Are you really sure to overwrite the previous profile ?"
+msgstr ""
+
 msgid "Cancel"
+msgstr ""
+
+msgid "Cancel installation"
+msgstr ""
+
+msgid "Cancel menu"
+msgstr ""
+
+msgid "Choose a new filename to export current status to"
+msgstr ""
+
+msgid "Choose a new filename to save the profile to"
 msgstr ""
 
 msgid "Choose an additional desktop environment to install."
@@ -111,7 +150,13 @@ msgstr ""
 msgid "Click to select profile"
 msgstr ""
 
-msgid "Default (TDE)"
+msgid "Configuration file:"
+msgstr ""
+
+msgid "Current desktop status has been saved to profile:"
+msgstr ""
+
+msgid "DEB packages to install:"
 msgstr ""
 
 msgid "Desktop Profiler"
@@ -126,10 +171,49 @@ msgstr ""
 msgid "Desktop environment:"
 msgstr ""
 
+msgid "Desktop environments:"
+msgstr ""
+
 msgid "Desktop profiler - select default desktop environment"
 msgstr ""
 
+msgid "Do you want to continue ?"
+msgstr ""
+
+msgid "ESH applications to install:"
+msgstr ""
+
+msgid "Error: profile not found, file: "
+msgstr ""
+
+msgid "Export profile"
+msgstr ""
+
+msgid "Failed to read packages list, file: "
+msgstr ""
+
+msgid "Failed to read repositories list, file: "
+msgstr ""
+
+msgid "Get snapshot profile"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
+msgstr ""
+
+msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
+msgstr ""
+
+msgid "Import a profile"
+msgstr ""
+
+msgid "Import local profile"
+msgstr ""
+
+msgid "Import shared profile"
 msgstr ""
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
@@ -147,10 +231,16 @@ msgstr ""
 msgid "Next >"
 msgstr ""
 
-msgid "No configuration found, exiting .."
+msgid "No configuration found."
+msgstr ""
+
+msgid "No profile selected. Select a profile please."
 msgstr ""
 
 msgid "None selected"
+msgstr ""
+
+msgid "Not implemented yet."
 msgstr ""
 
 msgid "Note "
@@ -159,16 +249,61 @@ msgstr ""
 msgid "Ok"
 msgstr ""
 
+msgid "Options"
+msgstr ""
+
+msgid "Please enter shared profile code, or Internet address:"
+msgstr ""
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr ""
 
 msgid "Please restart X server as soon as possible."
 msgstr ""
 
+msgid "Previous profile:"
+msgstr ""
+
 msgid "Profile description"
 msgstr ""
 
+msgid "Profile export"
+msgstr ""
+
+msgid "Profile has been imported."
+msgstr ""
+
+msgid "Profile has been removed."
+msgstr ""
+
+msgid "Profile info"
+msgstr ""
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Remote profile not found."
+msgstr ""
+
+msgid "Remove profile"
+msgstr ""
+
+msgid "Remove superfluous packages"
+msgstr ""
+
+msgid "Select a profile from the list please."
+msgstr ""
+
+msgid "Selected profile has been saved to file:"
+msgstr ""
+
 msgid "Software profile:"
+msgstr ""
+
+msgid "System profiles cannot be removed."
+msgstr ""
+
+msgid "This profile has been already imported."
 msgstr ""
 
 msgid "Trinity"
@@ -177,5 +312,23 @@ msgstr ""
 msgid "Trinity >"
 msgstr ""
 
+msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
 msgid "Yes, I really want to install additional DE"
+msgstr ""
+
+msgid "Yes, still apply"
+msgstr ""
+
+msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
+msgstr ""
+
+msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
+msgstr ""
+
+msgid "You can now edit the file to your preferences."
+msgstr ""
+
+msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr ""

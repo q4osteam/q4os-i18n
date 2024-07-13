@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-04 22:03+0200\n"
+"POT-Creation-Date: 2024-07-13 21:44+0200\n"
 "PO-Revision-Date: 2024-05-02 23:40+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
-
-msgid "(C) 2019 Q4OS"
-msgstr "(C) 2019 Q4OS"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надёжность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
@@ -94,9 +91,6 @@ msgstr "Автоматический вход"
 
 msgid "Bourbon"
 msgstr "Бурбон"
-
-msgid "Brief system info."
-msgstr "Краткая системная сводка."
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -247,6 +241,12 @@ msgstr "pushButton4"
 
 msgid "textLabel1"
 msgstr "текстоваяМетка1"
+
+#~ msgid "(C) 2019 Q4OS"
+#~ msgstr "(C) 2019 Q4OS"
+
+#~ msgid "Brief system info."
+#~ msgstr "Краткая системная сводка."
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Включить эффекты рабочего стола"

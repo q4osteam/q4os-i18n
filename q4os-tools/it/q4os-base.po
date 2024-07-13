@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:23+0100\n"
+"POT-Creation-Date: 2024-07-13 21:32+0200\n"
 "PO-Revision-Date: 2021-04-12 22:42+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -49,8 +49,8 @@ msgstr "Clicca su \"Ok\" per mostrare la finestra con l'editor del menu."
 msgid "Click OK to get login screen now."
 msgstr "Clicca su \"Ok\" per andare alla schermata di login."
 
-#, sh-format
-msgid "Click OK to run a WiFi connection tool to create a network connection."
+#, fuzzy, sh-format
+msgid "Click OK to run WiFi connection tool to create a network connection."
 msgstr "Clicca su \"Ok\" per far partire lo strumento di gestione Wi-Fi e creare una connessione di rete."
 
 #, sh-format
@@ -72,6 +72,10 @@ msgstr "Configurazione del sistema ..."
 #, sh-format
 msgid "Congratulations, setup has finished."
 msgstr "Congratulazioni, la configurazione è terminata."
+
+#, sh-format
+msgid "Connection not successful, check the Wifi password please."
+msgstr ""
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
@@ -264,6 +268,14 @@ msgstr "Grazie per usare il browser Konqueror per accedere ad Internet. Konquero
 #, sh-format
 msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
 msgstr "Grazie per aver scelto il sistema operativo Q4OS. Dopo la configurazione dello strumento <b>Look Switcher</b>, sarai in grado di cambiare diversi temi e scegliere quello che ti piace di più."
+
+#, sh-format
+msgid "Trinity session not detected. Please run this tool within Trinity desktop."
+msgstr ""
+
+#, sh-format
+msgid "Trying to setup wireless network ..."
+msgstr ""
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."

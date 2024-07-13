@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 17:06+0200\n"
+"POT-Creation-Date: 2024-07-13 21:34+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -27,7 +27,8 @@ msgstr "Google Chrome, Firefox, Thunderbird y LibreOffice son fáciles de instal
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
 msgstr "Es seguro y estable, no necesita un antivirus, un anti-spyware, una herramienta de desfragmentación o un limpiador de registro."
 
-msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
+#, fuzzy
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
 msgstr "Otras aplicaciones populares <! - como Google Picasa, Skype, Dropbox, TeamViewer y más -> se pueden instalar con un clic del mouse."
 
 # "Out of the box" literal meaning is "fuera de la caja" in Spanish, however, in this context I think "listo para usar desde el primer inicio de sesión" which means "ready to use from the first login" is a much appropiate translation as it expresses exactly what "OOTB" means here.

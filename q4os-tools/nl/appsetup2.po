@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:13+0200\n"
+"POT-Creation-Date: 2023-08-02 18:24+0200\n"
 "PO-Revision-Date: 2019-10-17 23:30+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -23,91 +23,69 @@ msgstr "< Terug"
 msgid "</b></p><p>Cleaning and canceling now ...</p>"
 msgstr "</b></p><p>Bezig met opschonen en afbreken...</p>"
 
+#, fuzzy
+msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
+msgstr "Het systeem controleert de installatie-omgeving"
+
+#, fuzzy
+msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
+msgstr "Het systeem vraagt om extra machtigingen"
+
+#, fuzzy
+msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
+msgstr "Wacht totdat de software geïnstalleerd is"
+
+#, fuzzy
+msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
+msgstr "Lees de licentievoorwaarden voordat u doorgaat met installeren"
+
+#, fuzzy
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
-"<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
+"<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
 "<p><h2>Bezig met voltooien van _SUBST_SWNAME_-instelhulp</h2><br></p>\n"
 "<p>Het programma _SUBST_SWNAME_ is geïnstalleerd.<br></p>\n"
-"<p>Klik op 'Afronden' om de instelhulp af te sluiten.<br><br><br><br><br><br"
-"></p>\n"
-"<p>Ga naar de website van _SUBST_SWNAME_ voor het laatste nieuws,"
-" veelgestelde vragen en ondersteuning</p>"
+"<p>Klik op 'Afronden' om de instelhulp af te sluiten.<br><br><br><br><br><br></p>\n"
+"<p>Ga naar de website van _SUBST_SWNAME_ voor het laatste nieuws, veelgestelde vragen en ondersteuning</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
-"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_"
-" application.</p>\n"
+"<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
 msgstr ""
 "<p><h2>Welkom bij de _SUBST_SWNAME_-instelhulp</h2></p>\n"
-"<p>Deze instelhulp begeleidt u door het installatieproces van"
-" _SUBST_SWNAME_.</p>\n"
+"<p>Deze instelhulp begeleidt u door het installatieproces van _SUBST_SWNAME_.</p>\n"
 "<p>Klik op 'Volgende' om verder te gaan.</p>\n"
 
-msgid ""
-"<p>Error installing application, sorry, I cannot install.</p><p>Setup"
-" messages were recorded into logfile: <b>"
+msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
 msgstr ""
-"<p>Er is een fout opgetreden tijdens het installeren; excuses voor het"
-" ongemak.</p><p>Het voorval is vastgelegd in een logbestand: <b>"
 
-msgid ""
-"<p>Internet connection is inactive or very slow. Installer needs to download"
-" application packages from Q4OS Internet sources. Setup cannot continue ...<"
-"/p>"
-msgstr ""
-"<p>Er moeten pakketten worden gedownload uit Q4OS's online pakketbronnen,"
-" maar de internetverbinding is inactief of te langzaam. De instelhulp kan"
-" niet doorgaan...</p>"
+msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+msgstr "<p>Er is een fout opgetreden tijdens het installeren; excuses voor het ongemak.</p><p>Het voorval is vastgelegd in een logbestand: <b>"
 
-msgid ""
-"<p>Package system is busy, not ready to install now. Setup cannot continue.<"
-"/p><p>The lock is caused, very probably, by ongoing background system"
-" updates. If this is the case, you have to wait a moment for package system"
-" to finish these operations. Please make sure you are not installing another"
-" application and repeat setup few minutes later.</p><p>Cleaning and canceling"
-" now ...</p>"
+msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr ""
-"<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p><p>De"
-" vergrendeling wordt hoogstwaarschijnlijk veroorzaakt door systeemupdates die"
-" op de achtergrond worden geïnstalleerd. Als dat zo is, dan moet u wachten"
-" totdat de updates volledig zijn geïnstalleerd. Controleer ook of u niet een"
-" ander programma gelijktijdig probeert te installeren.</p><p>Bezig met"
-" opschonen en afbreken...</p>"
 
-msgid ""
-"<p>Package system is in non consistent state, it has to be recovered"
-" manually. Installation cannot continue now.</p><p>Cleaning and canceling"
-" ...</p>"
-msgstr ""
-"<p>Het pakketsysteem is verward en moet handmatig worden hersteld. Het"
-" installeren kan niet doorgaan.</p><p>Bezig met opschonen en afbreken...</p>"
+msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
+msgstr "<p>Er moeten pakketten worden gedownload uit Q4OS's online pakketbronnen, maar de internetverbinding is inactief of te langzaam. De instelhulp kan niet doorgaan...</p>"
 
-msgid ""
-"<p>Packages couldn't be downloaded, please check your Internet connection."
-" Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
-"<p>De pakketten kunnen niet worden gedownload; controleer uw"
-" internetverbinding.</p><p>Bezig met opschonen en afbreken...</p>"
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
+msgstr "<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p><p>De vergrendeling wordt hoogstwaarschijnlijk veroorzaakt door systeemupdates die op de achtergrond worden geïnstalleerd. Als dat zo is, dan moet u wachten totdat de updates volledig zijn geïnstalleerd. Controleer ook of u niet een ander programma gelijktijdig probeert te installeren.</p><p>Bezig met opschonen en afbreken...</p>"
 
-msgid ""
-"<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and"
-" canceling ...</p>"
-msgstr ""
-"<p>De simulatie is mislukt. Het installeren kan niet doorgaan.</p><p>Bezig"
-" met opschonen en afbreken...</p>"
+msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
+msgstr "<p>Het pakketsysteem is verward en moet handmatig worden hersteld. Het installeren kan niet doorgaan.</p><p>Bezig met opschonen en afbreken...</p>"
 
-msgid ""
-"<p>Warning: Canceling installation during this phase could result in package"
-" system failure.</p><p>Are you really sure, you want to interrupt the install"
-" process now ?</p>"
-msgstr ""
-"<p>Waarschuwing: door het installatieproces nú af te breken kan het"
-" pakketsysteem schade oplopen.</p><p>Weet u zeker dat u het proces wilt"
-" afbreken?</p>"
+msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
+msgstr "<p>De pakketten kunnen niet worden gedownload; controleer uw internetverbinding.</p><p>Bezig met opschonen en afbreken...</p>"
+
+msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
+msgstr "<p>De simulatie is mislukt. Het installeren kan niet doorgaan.</p><p>Bezig met opschonen en afbreken...</p>"
+
+msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
+msgstr "<p>Waarschuwing: door het installatieproces nú af te breken kan het pakketsysteem schade oplopen.</p><p>Weet u zeker dat u het proces wilt afbreken?</p>"
 
 msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
 msgstr "<p>Resultaat:&nbsp;&nbsp;<b>controle geslaagd!</b></p>"
@@ -121,11 +99,17 @@ msgstr "De beveiligingssleutels zijn toegevoegd."
 msgid "Autofix not needed ... OK"
 msgstr "Geen automatische reparatie benodigd."
 
+msgid "CPU architecture doesn't match !"
+msgstr ""
+
 msgid "Calculating progress ..."
 msgstr "Bezig met berekenen van de voortgang..."
 
 msgid "Cancel"
 msgstr "Afbreken"
+
+msgid "Cannot lock APT database, exiting ..."
+msgstr ""
 
 msgid "Checking installation ..."
 msgstr "Bezig met controleren van installatie..."
@@ -145,6 +129,15 @@ msgstr "Bezig met kopiëren van systeempakketten..."
 msgid "Copying system packages ... Done"
 msgstr "De systeempakketten zijn gekopieerd."
 
+msgid "Could not initialize, incorrect data header !"
+msgstr ""
+
+msgid "Could not initialize, incorrect data header."
+msgstr ""
+
+msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Weet u zeker dat u de huidige handeling wilt afbreken?"
 
@@ -163,8 +156,11 @@ msgstr "Bezig met uitpakken van archief..."
 msgid "Extracting archive ... Done"
 msgstr "Het archief is uitgepakt."
 
-msgid "Fast system checks"
-msgstr "Snelle systeemcontrole"
+msgid "Failed. Configuration file doesn't exist."
+msgstr ""
+
+msgid "Failed. Input file doesn't exist."
+msgstr ""
 
 msgid "Finish >"
 msgstr "Afronden >"
@@ -172,27 +168,21 @@ msgstr "Afronden >"
 msgid "Finishing installation ..."
 msgstr "Bezig met afronden van installatie..."
 
-msgid "Get permissions"
-msgstr "Machtigingen verkrijgen"
-
 msgid "I Agree"
 msgstr "Ik ga akkoord"
 
-msgid ""
-"If you accept the terms of the agreement, click I Agree to continue. You must"
-" accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
-"Klik op 'Ik ga akkoord' als u akkoord gaat met de voorwaarden van de"
-" overeenkomst. U dient akkoord te gaan als u _SUBST_SWNAME_ wilt installeren."
+msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
+msgstr "Klik op 'Ik ga akkoord' als u akkoord gaat met de voorwaarden van de overeenkomst. U dient akkoord te gaan als u _SUBST_SWNAME_ wilt installeren."
 
 msgid "Install >"
 msgstr "Installeren >"
 
+#, fuzzy
+msgid "Installation failed !"
+msgstr "Bezig met installeren van bestanden..."
+
 msgid "Installation successfully completed :-)"
 msgstr "Installatie geslaagd :-)"
-
-msgid "Installing"
-msgstr "Bezig met installeren"
 
 msgid "Installing files ..."
 msgstr "Bezig met installeren van bestanden..."
@@ -200,14 +190,17 @@ msgstr "Bezig met installeren van bestanden..."
 msgid "Installing files ... OK"
 msgstr "De bestanden zijn geïnstalleerd."
 
-msgid "License Agreement"
-msgstr "Licentie-overeenkomst"
+msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
+msgstr ""
 
 msgid "License text ..."
 msgstr "Licentietekst..."
 
 msgid "Next >"
 msgstr "Volgende >"
+
+msgid "Package"
+msgstr ""
 
 msgid "Package system ... Busy !"
 msgstr "Het pakketsysteem is bezig!"
@@ -216,20 +209,13 @@ msgid "Package system not consistent ..."
 msgstr "Het pakketsysteem is verward..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
-"Het pakketsysteem is nog steeds verward; de installatie wordt afgebroken..."
+msgstr "Het pakketsysteem is nog steeds verward; de installatie wordt afgebroken..."
 
 msgid "Partial update sw database ..."
 msgstr "De softwaredatabank wordt deels bijgewerkt..."
 
 msgid "Partial update sw database ... Done"
 msgstr "De softwaredatabank is deels bijgewerkt."
-
-msgid "Please review the license terms before install"
-msgstr "Lees de licentievoorwaarden voordat u doorgaat met installeren"
-
-msgid "Please wait while software is being installed"
-msgstr "Wacht totdat de software geïnstalleerd is"
 
 msgid "Postinstall operations ..."
 msgstr "Bezig met afhandelen..."
@@ -252,10 +238,14 @@ msgstr "Bezig met voorbereiden van installatiebestanden..."
 msgid "Preparing installation files ... OK"
 msgstr "De installatiebestanden zijn voorbereid."
 
+msgid "Prerun script requested exit. Exit code:"
+msgstr ""
+
 msgid "Press Page Down to see the rest of agreement."
 msgstr "Druk op Page Down om de rest van de overeenkomst te lezen."
 
-msgid "Q4OS Install System v0.2.0"
+#, fuzzy
+msgid "Q4OS Install System v1.0"
 msgstr "Q4OS-installatiesysteem v0.2.0"
 
 msgid "Recovered ... OK"
@@ -263,6 +253,16 @@ msgstr "Hersteld."
 
 msgid "Registering application ... OK"
 msgstr "Het programma is geregistreerd."
+
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
+msgid "Running custom scripts ..."
+msgstr ""
+
+#, fuzzy
+msgid "Running custom scripts ... Done"
+msgstr "De systeempakketten zijn gekopieerd."
 
 msgid "Searching for language packages ..."
 msgstr "Bezig met zoeken naar taalpakketten..."
@@ -276,11 +276,9 @@ msgstr "Instelactie:"
 msgid "Setup action:  "
 msgstr "Instelactie:  "
 
-msgid "System asks for installation permissions"
-msgstr "Het systeem vraagt om extra machtigingen"
-
-msgid "System is prechecking installation environment"
-msgstr "Het systeem controleert de installatie-omgeving"
+#, fuzzy
+msgid "Setup wizard"
+msgstr "instelhulp"
 
 msgid "Testing Internet connection ..."
 msgstr "Bezig met testen van internetverbinding..."
@@ -318,17 +316,35 @@ msgstr "Verificatie geslaagd."
 msgid "Waiting to complete current operation ... Done"
 msgstr "De huidige handeling is afgerond."
 
-msgid "Widget_ui_form3"
-msgstr "Widget_ui_form3"
+msgid "Warning: cannot terminate proc_lock !"
+msgstr ""
 
-msgid "Widget_ui_form4"
-msgstr "Widget_ui_form4"
+msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
+msgstr ""
 
-msgid "Widget_ui_form5"
-msgstr "Widget_ui_form5"
+msgid "already installed, exiting ..."
+msgstr ""
 
-msgid "Widget_ui_form6"
-msgstr "Widget_ui_form6"
+#~ msgid "Fast system checks"
+#~ msgstr "Snelle systeemcontrole"
 
-msgid "setup wizard"
-msgstr "instelhulp"
+#~ msgid "Get permissions"
+#~ msgstr "Machtigingen verkrijgen"
+
+#~ msgid "Installing"
+#~ msgstr "Bezig met installeren"
+
+#~ msgid "License Agreement"
+#~ msgstr "Licentie-overeenkomst"
+
+#~ msgid "Widget_ui_form3"
+#~ msgstr "Widget_ui_form3"
+
+#~ msgid "Widget_ui_form4"
+#~ msgstr "Widget_ui_form4"
+
+#~ msgid "Widget_ui_form5"
+#~ msgstr "Widget_ui_form5"
+
+#~ msgid "Widget_ui_form6"
+#~ msgstr "Widget_ui_form6"

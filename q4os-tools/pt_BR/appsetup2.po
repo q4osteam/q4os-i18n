@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:13+0200\n"
+"POT-Creation-Date: 2023-08-02 18:24+0200\n"
 "PO-Revision-Date: 2019-10-08 11:48+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
@@ -24,10 +24,27 @@ msgstr "< Voltar"
 msgid "</b></p><p>Cleaning and canceling now ...</p>"
 msgstr "</b></p><p>Limpando e cancelando agora...</p>"
 
+#, fuzzy
+msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
+msgstr "O sistema está pré-verificando o ambiente de instalação"
+
+#, fuzzy
+msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
+msgstr "O sistema pede permissões de instalação"
+
+#, fuzzy
+msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
+msgstr "Por favor, aguarde enquanto o programa é instalado"
+
+#, fuzzy
+msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
+msgstr "Por favor, reveja os termos da licença antes de instalar"
+
+#, fuzzy
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
-"<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
+"<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
 "<p><h2>Finalizando o assistente de configuração _SUBST_SWNAME_</h2><br></p>\n"
@@ -44,8 +61,14 @@ msgstr ""
 "<p>Este assistente irá guiá-lo através da instalação da aplicação _SUBST_SWNAME_.</p>\n"
 "<p>Clique em Avançar para continuar.</p>\n"
 
+msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
+msgstr ""
+
 msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
 msgstr "<p>Erro ao instalar a aplicação, desculpe, não consigo instalar.</p><p>As mensagens de configuração foram gravadas no arquivo de log: <b>"
+
+msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
+msgstr ""
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
 msgstr "<p>A conexão com a Internet está inativa ou muito lenta. O instalador precisa baixar os pacotes da aplicação das fontes da Internet do Q4OS. A instalação não pode continuar ...</p>"
@@ -77,11 +100,17 @@ msgstr "Adicionando chaves de segurança ... OK"
 msgid "Autofix not needed ... OK"
 msgstr "Autocorreção não necessária ... OK"
 
+msgid "CPU architecture doesn't match !"
+msgstr ""
+
 msgid "Calculating progress ..."
 msgstr "Calculando o progresso ..."
 
 msgid "Cancel"
 msgstr "Cancelando"
+
+msgid "Cannot lock APT database, exiting ..."
+msgstr ""
 
 msgid "Checking installation ..."
 msgstr "Verificando a instalação ..."
@@ -101,6 +130,15 @@ msgstr "Copiando pacotes do sistema ..."
 msgid "Copying system packages ... Done"
 msgstr "Copiando pacotes do sistema ... Concluído"
 
+msgid "Could not initialize, incorrect data header !"
+msgstr ""
+
+msgid "Could not initialize, incorrect data header."
+msgstr ""
+
+msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Tem a certeza que deseja cancelar a operação pendente ?"
 
@@ -119,17 +157,17 @@ msgstr "Extraindo arquivo ..."
 msgid "Extracting archive ... Done"
 msgstr "Extraindo arquivo ... Concluído"
 
-msgid "Fast system checks"
-msgstr "Verificações rápidas do sistema"
+msgid "Failed. Configuration file doesn't exist."
+msgstr ""
+
+msgid "Failed. Input file doesn't exist."
+msgstr ""
 
 msgid "Finish >"
 msgstr "Concluir >"
 
 msgid "Finishing installation ..."
 msgstr "Concluindo a instalação ..."
-
-msgid "Get permissions"
-msgstr "Obter permissões"
 
 msgid "I Agree"
 msgstr "Eu Concordo"
@@ -140,11 +178,12 @@ msgstr "Se aceita os termos do contrato, clique em Concordo para continuar. Voc�
 msgid "Install >"
 msgstr "Instalar >"
 
+#, fuzzy
+msgid "Installation failed !"
+msgstr "Instalando arquivos ..."
+
 msgid "Installation successfully completed :-)"
 msgstr "Instalação concluída com sucesso :-)"
-
-msgid "Installing"
-msgstr "Instalando"
 
 msgid "Installing files ..."
 msgstr "Instalando arquivos ..."
@@ -152,14 +191,17 @@ msgstr "Instalando arquivos ..."
 msgid "Installing files ... OK"
 msgstr "Instalando arquivos ... OK"
 
-msgid "License Agreement"
-msgstr "Termos de licença"
+msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
+msgstr ""
 
 msgid "License text ..."
 msgstr "Texto da licença ..."
 
 msgid "Next >"
 msgstr "Avançar >"
+
+msgid "Package"
+msgstr ""
 
 msgid "Package system ... Busy !"
 msgstr "Sistema de pacotes ... Ocupado !"
@@ -175,12 +217,6 @@ msgstr "Atualização parcial da base de dados de software ..."
 
 msgid "Partial update sw database ... Done"
 msgstr "Atualização parcial da base de dados de software ... Concluído"
-
-msgid "Please review the license terms before install"
-msgstr "Por favor, reveja os termos da licença antes de instalar"
-
-msgid "Please wait while software is being installed"
-msgstr "Por favor, aguarde enquanto o programa é instalado"
 
 msgid "Postinstall operations ..."
 msgstr "Operações de pós-instalação ..."
@@ -203,10 +239,14 @@ msgstr "Preparando arquivos de instalação ..."
 msgid "Preparing installation files ... OK"
 msgstr "Preparando arquivos de instalação ... OK"
 
+msgid "Prerun script requested exit. Exit code:"
+msgstr ""
+
 msgid "Press Page Down to see the rest of agreement."
 msgstr "Pressione Page Down para ver o resto do acordo."
 
-msgid "Q4OS Install System v0.2.0"
+#, fuzzy
+msgid "Q4OS Install System v1.0"
 msgstr "Sistema de Instalação Q4OS v0.2.0"
 
 msgid "Recovered ... OK"
@@ -214,6 +254,16 @@ msgstr "Recuperado ... OK"
 
 msgid "Registering application ... OK"
 msgstr "Registrando aplicação ... OK"
+
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
+msgid "Running custom scripts ..."
+msgstr ""
+
+#, fuzzy
+msgid "Running custom scripts ... Done"
+msgstr "Copiando pacotes do sistema ... Concluído"
 
 msgid "Searching for language packages ..."
 msgstr "Procurando pacotes de idiomas ..."
@@ -227,11 +277,9 @@ msgstr "Ação de configuração:"
 msgid "Setup action:  "
 msgstr "Ação de configuração:  "
 
-msgid "System asks for installation permissions"
-msgstr "O sistema pede permissões de instalação"
-
-msgid "System is prechecking installation environment"
-msgstr "O sistema está pré-verificando o ambiente de instalação"
+#, fuzzy
+msgid "Setup wizard"
+msgstr "assistente de configuração"
 
 msgid "Testing Internet connection ..."
 msgstr "Testando a conexão com a Internet ..."
@@ -269,20 +317,38 @@ msgstr "Verificado ... OK"
 msgid "Waiting to complete current operation ... Done"
 msgstr "Aguardando para concluir a operação atual ... Concluído"
 
-msgid "Widget_ui_form3"
-msgstr "Widget_ui_form3"
+msgid "Warning: cannot terminate proc_lock !"
+msgstr ""
 
-msgid "Widget_ui_form4"
-msgstr "Widget_ui_form4"
+msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
+msgstr ""
 
-msgid "Widget_ui_form5"
-msgstr "Widget_ui_form5"
+msgid "already installed, exiting ..."
+msgstr ""
 
-msgid "Widget_ui_form6"
-msgstr "Widget_ui_form6"
+#~ msgid "Fast system checks"
+#~ msgstr "Verificações rápidas do sistema"
 
-msgid "setup wizard"
-msgstr "assistente de configuração"
+#~ msgid "Get permissions"
+#~ msgstr "Obter permissões"
+
+#~ msgid "Installing"
+#~ msgstr "Instalando"
+
+#~ msgid "License Agreement"
+#~ msgstr "Termos de licença"
+
+#~ msgid "Widget_ui_form3"
+#~ msgstr "Widget_ui_form3"
+
+#~ msgid "Widget_ui_form4"
+#~ msgstr "Widget_ui_form4"
+
+#~ msgid "Widget_ui_form5"
+#~ msgstr "Widget_ui_form5"
+
+#~ msgid "Widget_ui_form6"
+#~ msgstr "Widget_ui_form6"
 
 #~ msgid "I Agree >"
 #~ msgstr "Eu Concordo >"

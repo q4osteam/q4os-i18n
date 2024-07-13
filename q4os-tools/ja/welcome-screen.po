@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-04 22:03+0200\n"
+"POT-Creation-Date: 2024-07-13 21:44+0200\n"
 "PO-Revision-Date: 2023-03-29 12:36+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.2.2\n"
-
-msgid "(C) 2019 Q4OS"
-msgstr "(C) 2019 Q4OS"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Q4OSへようこそ！</b>Q4OSは、持続的な安定性、信頼性と、クラシックなスタイルの使いやすいユーザーインターフェースに焦点を当てた、高速かつパワフルなデスクトップオペレーティングシステムです。</p><p align=justify>Q4OSは最小限のソフトウェアキットで、とても基本的・かつクリーンなデスクトップ環境として構築されています。 より使いやすくカスタマイズするために、以下のショートカットを使ってみましょう。</p></font>"
@@ -94,9 +91,6 @@ msgstr "自動ログイン"
 
 msgid "Bourbon"
 msgstr "Bourbon"
-
-msgid "Brief system info."
-msgstr "簡易的なシステム情報。"
 
 msgid "Cancel"
 msgstr "キャンセル"
@@ -247,3 +241,9 @@ msgstr "押しボタン4"
 
 msgid "textLabel1"
 msgstr "テキストラベル1"
+
+#~ msgid "(C) 2019 Q4OS"
+#~ msgstr "(C) 2019 Q4OS"
+
+#~ msgid "Brief system info."
+#~ msgstr "簡易的なシステム情報。"

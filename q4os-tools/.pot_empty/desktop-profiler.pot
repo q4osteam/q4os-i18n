@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-04 16:39+0000\n"
+"POT-Creation-Date: 2024-07-13 21:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -120,6 +120,9 @@ msgstr ""
 msgid "Applying a profile within the live systems isn't supported."
 msgstr ""
 
+msgid "Are you really sure to overwrite the previous profile ?"
+msgstr ""
+
 msgid "Cancel"
 msgstr ""
 
@@ -201,7 +204,7 @@ msgstr ""
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr ""
 
-msgid "If you continue, the selected profile replaces the previous one and system will be configured accordingly."
+msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
 msgstr ""
 
 msgid "Import a profile"
@@ -325,4 +328,7 @@ msgid "You are calling for an alternative desktop installation, but it's not com
 msgstr ""
 
 msgid "You can now edit the file to your preferences."
+msgstr ""
+
+msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr ""

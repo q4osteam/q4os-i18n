@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
+"POT-Creation-Date: 2023-07-09 13:22+0200\n"
 "PO-Revision-Date: 2020-12-26 20:32-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -38,7 +38,8 @@ msgstr "<p>El sistema ha recibido correcciones de seguridad y actualizaciones im
 msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
 msgstr "<p>No está autorizado a realizar actualizaciones del sistema. Primero debe ser miembro del grupo administrativo \"sudo\", comuníquese con el administrador del sistema.</p>"
 
-msgid "Additional updates has been detected"
+#, fuzzy
+msgid "Additional updates have been detected"
 msgstr "Se han detectado actualizaciones adicionales"
 
 msgid "Available updates"

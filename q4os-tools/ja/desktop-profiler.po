@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-21 22:31+0200\n"
+"POT-Creation-Date: 2024-07-13 21:05+0200\n"
 "PO-Revision-Date: 2023-03-29 11:25+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -22,6 +22,15 @@ msgstr " インストール>"
 
 msgid "* select please *"
 msgstr "[選択してください]"
+
+msgid "--- General ---"
+msgstr ""
+
+msgid "--- Miscellaneous ---"
+msgstr ""
+
+msgid "--- Selected profile ---"
+msgstr ""
 
 msgid "0"
 msgstr "0"
@@ -56,6 +65,9 @@ msgstr "8"
 msgid "9"
 msgstr "9"
 
+msgid "<"
+msgstr ""
+
 msgid ""
 "<html>\n"
 "<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
@@ -69,6 +81,9 @@ msgstr ""
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>ここでは、既存のQ4OS デスクトップの一緒にインストールする別のデスクトップ環境を選択できます。</p><p align=justify>ただし、明確な目的がない限り、使用すべきではありません。</p>"
+
+msgid "<p>Couldn't open file.</p>"
+msgstr ""
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>保留中の操作を中止しますか？</p>"
@@ -91,17 +106,43 @@ msgstr "<p>パッケージシステムがビジー状態です。セットアッ
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>警告: この段階でインストールをキャンセルすると、パッケージ システムに異常が生じるおそれがあります。</p><p>それでもインストール プロセスを今すぐ中断してもよろしいですか？</p>"
 
-msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
-msgstr "<p>別のデスクトップをインストールしようとしているみたいですが、選択したプロファイルと互換性がありません。 別のプロファイルを選択してください。</p>"
-
 msgid ">"
 msgstr ">"
+
+msgid "A profile has been already applied for this system."
+msgstr ""
+
+msgid "Additional repositories:"
+msgstr ""
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr "デスクトッププロファイラーはすでに実行されているようなので、起動しません。"
 
+msgid "Apply profile"
+msgstr ""
+
+msgid "Applying a profile within the live systems isn't supported."
+msgstr ""
+
+msgid "Are you really sure to overwrite the previous profile ?"
+msgstr ""
+
 msgid "Cancel"
 msgstr "キャンセル"
+
+#, fuzzy
+msgid "Cancel installation"
+msgstr "インストールを実行"
+
+#, fuzzy
+msgid "Cancel menu"
+msgstr "キャンセル"
+
+msgid "Choose a new filename to export current status to"
+msgstr ""
+
+msgid "Choose a new filename to save the profile to"
+msgstr ""
 
 msgid "Choose an additional desktop environment to install."
 msgstr "追加でインストールするデスクトップ環境を選択してください。"
@@ -115,8 +156,14 @@ msgstr "デスクトップ環境を選択"
 msgid "Click to select profile"
 msgstr "クリックしてプロファイルを選択する"
 
-msgid "Default (TDE)"
-msgstr "標準（TDE）"
+msgid "Configuration file:"
+msgstr ""
+
+msgid "Current desktop status has been saved to profile:"
+msgstr ""
+
+msgid "DEB packages to install:"
+msgstr ""
 
 msgid "Desktop Profiler"
 msgstr "デスクトッププロファイラー"
@@ -130,11 +177,55 @@ msgstr "デスクトッププロファイラを使用すれば、お使いのコ
 msgid "Desktop environment:"
 msgstr "デスクトップ環境："
 
+#, fuzzy
+msgid "Desktop environments:"
+msgstr "デスクトップ環境："
+
 msgid "Desktop profiler - select default desktop environment"
 msgstr "デスクトッププロファイラー　デスクトップ環境の選択"
 
+#, fuzzy
+msgid "Do you want to continue ?"
+msgstr "<p>保留中の操作を中止しますか？</p>"
+
+msgid "ESH applications to install:"
+msgstr ""
+
+msgid "Error: profile not found, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Export profile"
+msgstr "ソフトウェアプロファイル："
+
+msgid "Failed to read packages list, file: "
+msgstr ""
+
+msgid "Failed to read repositories list, file: "
+msgstr ""
+
+msgid "Get snapshot profile"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "よくわからないのであれば、[KDE Plasma]を選択するのが良いでしょう。"
+
+msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
+msgstr ""
+
+#, fuzzy
+msgid "Import a profile"
+msgstr "ソフトウェアプロファイル："
+
+msgid "Import local profile"
+msgstr ""
+
+#, fuzzy
+msgid "Import shared profile"
+msgstr "ソフトウェアプロファイル："
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "インストールの処理を完了するためにログオフする必要があります。今ログインしなおしますか？"
@@ -151,11 +242,18 @@ msgstr "インストールを実行"
 msgid "Next >"
 msgstr "次 >"
 
-msgid "No configuration found, exiting .."
+#, fuzzy
+msgid "No configuration found."
 msgstr "構成が見つかりません。終了します。"
+
+msgid "No profile selected. Select a profile please."
+msgstr ""
 
 msgid "None selected"
 msgstr "選択が空です"
+
+msgid "Not implemented yet."
+msgstr ""
 
 msgid "Note "
 msgstr "注意 "
@@ -163,17 +261,66 @@ msgstr "注意 "
 msgid "Ok"
 msgstr "OK"
 
+msgid "Options"
+msgstr ""
+
+msgid "Please enter shared profile code, or Internet address:"
+msgstr ""
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "できるだけ早くコンピュータを再起動してください。今すぐ再起動しますか？"
 
 msgid "Please restart X server as soon as possible."
 msgstr "できるだけ早くXサーバーを再起動してください。"
 
+#, fuzzy
+msgid "Previous profile:"
+msgstr "ソフトウェアプロファイル："
+
 msgid "Profile description"
 msgstr "プロファイルの説明"
 
+#, fuzzy
+msgid "Profile export"
+msgstr "プロファイルの説明"
+
+msgid "Profile has been imported."
+msgstr ""
+
+msgid "Profile has been removed."
+msgstr ""
+
+#, fuzzy
+msgid "Profile info"
+msgstr "プロファイルの説明"
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Remote profile not found."
+msgstr ""
+
+#, fuzzy
+msgid "Remove profile"
+msgstr "ソフトウェアプロファイル："
+
+msgid "Remove superfluous packages"
+msgstr ""
+
+msgid "Select a profile from the list please."
+msgstr ""
+
+msgid "Selected profile has been saved to file:"
+msgstr ""
+
 msgid "Software profile:"
 msgstr "ソフトウェアプロファイル："
+
+msgid "System profiles cannot be removed."
+msgstr ""
+
+msgid "This profile has been already imported."
+msgstr ""
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -181,5 +328,27 @@ msgstr "Trinity"
 msgid "Trinity >"
 msgstr "Trinity >"
 
+msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
 msgid "Yes, I really want to install additional DE"
 msgstr "はい、私は本当に追加のデスクトップ環境を導入したいです"
+
+msgid "Yes, still apply"
+msgstr ""
+
+msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
+msgstr ""
+
+#, fuzzy
+msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
+msgstr "<p>別のデスクトップをインストールしようとしているみたいですが、選択したプロファイルと互換性がありません。 別のプロファイルを選択してください。</p>"
+
+msgid "You can now edit the file to your preferences."
+msgstr ""
+
+msgid "some installed applications and packages may be removed as they are not part of the new profile."
+msgstr ""
+
+#~ msgid "Default (TDE)"
+#~ msgstr "標準（TDE）"

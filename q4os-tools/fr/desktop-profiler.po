@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-21 22:31+0200\n"
+"POT-Creation-Date: 2024-07-13 21:05+0200\n"
 "PO-Revision-Date: 2019-10-15 16:53+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -22,6 +22,16 @@ msgstr "  Installer >"
 
 msgid "* select please *"
 msgstr "* veuillez sélectionner *"
+
+msgid "--- General ---"
+msgstr ""
+
+msgid "--- Miscellaneous ---"
+msgstr ""
+
+#, fuzzy
+msgid "--- Selected profile ---"
+msgstr "Choisissez un profil"
 
 msgid "0"
 msgstr ""
@@ -56,6 +66,9 @@ msgstr ""
 msgid "9"
 msgstr ""
 
+msgid "<"
+msgstr ""
+
 msgid ""
 "<html>\n"
 "<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
@@ -69,6 +82,9 @@ msgstr ""
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>Cette fenêtre vous laisse choisir un environnement de bureau additionnel à installer à côté du bureau par défaut de Q4OS .</p><p align=justify>N'utilisez pas cette option, sauf si vous êtres absolument sûr de ce que vous faites.</p>"
+
+msgid "<p>Couldn't open file.</p>"
+msgstr ""
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Voulez-vous annuler l'opération en attente ?</p>"
@@ -91,17 +107,44 @@ msgstr "<p>Le gestionnaire de paquets est en cours d'utilisation et n'est donc p
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Attention : L'annulation de l'installation dans cette phase peut entraîner une panne du système.</p><p>Etes vous bien sûr de vouloir interrompre le processus d'installation maintenant ?</p>"
 
-msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
+msgid ">"
 msgstr ""
 
-msgid ">"
+msgid "A profile has been already applied for this system."
+msgstr ""
+
+msgid "Additional repositories:"
 msgstr ""
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr ""
 
+#, fuzzy
+msgid "Apply profile"
+msgstr "Choisissez un profil"
+
+msgid "Applying a profile within the live systems isn't supported."
+msgstr ""
+
+msgid "Are you really sure to overwrite the previous profile ?"
+msgstr ""
+
 msgid "Cancel"
 msgstr "Annuler"
+
+#, fuzzy
+msgid "Cancel installation"
+msgstr "Démarrer l'installation"
+
+#, fuzzy
+msgid "Cancel menu"
+msgstr "Annuler"
+
+msgid "Choose a new filename to export current status to"
+msgstr ""
+
+msgid "Choose a new filename to save the profile to"
+msgstr ""
 
 msgid "Choose an additional desktop environment to install."
 msgstr "Choisissez un environnement de bureau additionnel à installer."
@@ -115,8 +158,14 @@ msgstr "Choisissez un environnement de bureau"
 msgid "Click to select profile"
 msgstr "Cliquez pour sélectionner un profil"
 
-msgid "Default (TDE)"
-msgstr "Défaut (TDE)"
+msgid "Configuration file:"
+msgstr ""
+
+msgid "Current desktop status has been saved to profile:"
+msgstr ""
+
+msgid "DEB packages to install:"
+msgstr ""
 
 msgid "Desktop Profiler"
 msgstr "Gestionnaire de profil de bureau"
@@ -130,11 +179,57 @@ msgstr ""
 msgid "Desktop environment:"
 msgstr "Environnement de bureau :"
 
+#, fuzzy
+msgid "Desktop environments:"
+msgstr "Environnement de bureau :"
+
 msgid "Desktop profiler - select default desktop environment"
 msgstr "Gestionnaire de profil de bureau - sélection de l'environnement de bureau par défaut"
 
+#, fuzzy
+msgid "Do you want to continue ?"
+msgstr "<p>Voulez-vous annuler l'opération en attente ?</p>"
+
+msgid "ESH applications to install:"
+msgstr ""
+
+msgid "Error: profile not found, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Export profile"
+msgstr "Profil logiciel :"
+
+msgid "Failed to read packages list, file: "
+msgstr ""
+
+msgid "Failed to read repositories list, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Get snapshot profile"
+msgstr "Choisissez un profil"
+
+msgid "Help"
+msgstr ""
+
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "Si vous n'êtes pas sûr, appuyez sur le bouton <b>[ KDE Plasma ]</b> pour sélectionner l'option recommandée."
+
+msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
+msgstr ""
+
+#, fuzzy
+msgid "Import a profile"
+msgstr "Choisissez un profil"
+
+#, fuzzy
+msgid "Import local profile"
+msgstr "Choisissez un profil"
+
+#, fuzzy
+msgid "Import shared profile"
+msgstr "Profil logiciel :"
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Le processus d'installation demande de se déconnecter de cette session.  Souhaitez-vous vous déconnecter et vous reconnecter immédiatement ?"
@@ -151,16 +246,28 @@ msgstr "Démarrer l'installation"
 msgid "Next >"
 msgstr "Suivant >"
 
-msgid "No configuration found, exiting .."
+msgid "No configuration found."
+msgstr ""
+
+msgid "No profile selected. Select a profile please."
 msgstr ""
 
 msgid "None selected"
 msgstr "Pas de sélection"
 
+msgid "Not implemented yet."
+msgstr ""
+
 msgid "Note "
 msgstr ""
 
 msgid "Ok"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Please enter shared profile code, or Internet address:"
 msgstr ""
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
@@ -169,11 +276,54 @@ msgstr "SVP redémarrez votre ordinateur dès que possible.  Souhaitez-vous red�
 msgid "Please restart X server as soon as possible."
 msgstr "Merci de redémarrer le serveur d'affichage X dès que possible."
 
+#, fuzzy
+msgid "Previous profile:"
+msgstr "Profil logiciel :"
+
 msgid "Profile description"
 msgstr "Description du profil"
 
+#, fuzzy
+msgid "Profile export"
+msgstr "Description du profil"
+
+msgid "Profile has been imported."
+msgstr ""
+
+msgid "Profile has been removed."
+msgstr ""
+
+#, fuzzy
+msgid "Profile info"
+msgstr "Description du profil"
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Remote profile not found."
+msgstr ""
+
+#, fuzzy
+msgid "Remove profile"
+msgstr "Choisissez un profil"
+
+msgid "Remove superfluous packages"
+msgstr ""
+
+msgid "Select a profile from the list please."
+msgstr ""
+
+msgid "Selected profile has been saved to file:"
+msgstr ""
+
 msgid "Software profile:"
 msgstr "Profil logiciel :"
+
+msgid "System profiles cannot be removed."
+msgstr ""
+
+msgid "This profile has been already imported."
+msgstr ""
 
 msgid "Trinity"
 msgstr ""
@@ -181,8 +331,29 @@ msgstr ""
 msgid "Trinity >"
 msgstr ""
 
+msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
 msgid "Yes, I really want to install additional DE"
 msgstr "Oui, je veux vraiment installer l'environnement de bureau additionnel"
+
+msgid "Yes, still apply"
+msgstr ""
+
+msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
+msgstr ""
+
+msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
+msgstr ""
+
+msgid "You can now edit the file to your preferences."
+msgstr ""
+
+msgid "some installed applications and packages may be removed as they are not part of the new profile."
+msgstr ""
+
+#~ msgid "Default (TDE)"
+#~ msgstr "Défaut (TDE)"
 
 #~ msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
 #~ msgstr "<p>Q4OS est maintenant installé en tant que système bureautique propre et minimal. Vous pouvez le garder ainsi comme base pour choisir les logiciels supplémentaires à ajouter par vos soins. Autrement vous avez la possibilité d'exécuter le gestionnaire de profil burautique qui se chargera d'installer un ensemble d'applications fort courantes. Vous avez la possibilité de choisir entre différents profils burautiques. Cet outil est également disponible dans le menu démarrer.</p><p>Souhaitez vous <b>garder le système bureautique en cet état minimal</b> sans exécuter le gestionnaire de profil immédiatement ?</p>"
@@ -222,6 +393,3 @@ msgstr "Oui, je veux vraiment installer l'environnement de bureau additionnel"
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
 #~ msgstr "Ensemble bureautique complet avec navigateur Web, une suite bureautique et autres applications recommandées"
-
-#~ msgid "Select a profile"
-#~ msgstr "Choisissez un profil"

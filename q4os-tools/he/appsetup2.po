@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:13+0200\n"
+"POT-Creation-Date: 2023-08-02 18:24+0200\n"
 "PO-Revision-Date: 2015-05-30 11:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -22,10 +22,22 @@ msgstr ""
 msgid "</b></p><p>Cleaning and canceling now ...</p>"
 msgstr ""
 
+msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
+msgstr ""
+
+msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
+msgstr ""
+
+msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
+msgstr ""
+
+msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
+msgstr ""
+
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
-"<p>Click Finish to close the wizard.<br><br><br><br><br><br></p>\n"
+"<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
 
@@ -35,7 +47,13 @@ msgid ""
 "<p>Click Next to continue.</p>\n"
 msgstr ""
 
+msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
+msgstr ""
+
 msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+msgstr ""
+
+msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr ""
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
@@ -68,10 +86,16 @@ msgstr ""
 msgid "Autofix not needed ... OK"
 msgstr ""
 
+msgid "CPU architecture doesn't match !"
+msgstr ""
+
 msgid "Calculating progress ..."
 msgstr ""
 
 msgid "Cancel"
+msgstr ""
+
+msgid "Cannot lock APT database, exiting ..."
 msgstr ""
 
 msgid "Checking installation ..."
@@ -92,6 +116,15 @@ msgstr ""
 msgid "Copying system packages ... Done"
 msgstr ""
 
+msgid "Could not initialize, incorrect data header !"
+msgstr ""
+
+msgid "Could not initialize, incorrect data header."
+msgstr ""
+
+msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
 msgstr ""
 
@@ -110,16 +143,16 @@ msgstr ""
 msgid "Extracting archive ... Done"
 msgstr ""
 
-msgid "Fast system checks"
+msgid "Failed. Configuration file doesn't exist."
+msgstr ""
+
+msgid "Failed. Input file doesn't exist."
 msgstr ""
 
 msgid "Finish >"
 msgstr ""
 
 msgid "Finishing installation ..."
-msgstr ""
-
-msgid "Get permissions"
 msgstr ""
 
 msgid "I Agree"
@@ -131,10 +164,10 @@ msgstr ""
 msgid "Install >"
 msgstr ""
 
-msgid "Installation successfully completed :-)"
+msgid "Installation failed !"
 msgstr ""
 
-msgid "Installing"
+msgid "Installation successfully completed :-)"
 msgstr ""
 
 msgid "Installing files ..."
@@ -143,13 +176,16 @@ msgstr ""
 msgid "Installing files ... OK"
 msgstr ""
 
-msgid "License Agreement"
+msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
 msgstr ""
 
 msgid "License text ..."
 msgstr ""
 
 msgid "Next >"
+msgstr ""
+
+msgid "Package"
 msgstr ""
 
 msgid "Package system ... Busy !"
@@ -165,12 +201,6 @@ msgid "Partial update sw database ..."
 msgstr ""
 
 msgid "Partial update sw database ... Done"
-msgstr ""
-
-msgid "Please review the license terms before install"
-msgstr ""
-
-msgid "Please wait while software is being installed"
 msgstr ""
 
 msgid "Postinstall operations ..."
@@ -194,16 +224,28 @@ msgstr ""
 msgid "Preparing installation files ... OK"
 msgstr ""
 
+msgid "Prerun script requested exit. Exit code:"
+msgstr ""
+
 msgid "Press Page Down to see the rest of agreement."
 msgstr ""
 
-msgid "Q4OS Install System v0.2.0"
+msgid "Q4OS Install System v1.0"
 msgstr ""
 
 msgid "Recovered ... OK"
 msgstr ""
 
 msgid "Registering application ... OK"
+msgstr ""
+
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
+msgid "Running custom scripts ..."
+msgstr ""
+
+msgid "Running custom scripts ... Done"
 msgstr ""
 
 msgid "Searching for language packages ..."
@@ -218,10 +260,7 @@ msgstr ""
 msgid "Setup action:  "
 msgstr ""
 
-msgid "System asks for installation permissions"
-msgstr ""
-
-msgid "System is prechecking installation environment"
+msgid "Setup wizard"
 msgstr ""
 
 msgid "Testing Internet connection ..."
@@ -260,17 +299,11 @@ msgstr ""
 msgid "Waiting to complete current operation ... Done"
 msgstr ""
 
-msgid "Widget_ui_form3"
+msgid "Warning: cannot terminate proc_lock !"
 msgstr ""
 
-msgid "Widget_ui_form4"
+msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
 msgstr ""
 
-msgid "Widget_ui_form5"
-msgstr ""
-
-msgid "Widget_ui_form6"
-msgstr ""
-
-msgid "setup wizard"
+msgid "already installed, exiting ..."
 msgstr ""

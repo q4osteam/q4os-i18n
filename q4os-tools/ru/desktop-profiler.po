@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-21 22:31+0200\n"
+"POT-Creation-Date: 2024-07-13 21:05+0200\n"
 "PO-Revision-Date: 2024-05-06 19:52+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -22,6 +22,16 @@ msgstr "  Установить >"
 
 msgid "* select please *"
 msgstr "* пожалуйста, выберите *"
+
+msgid "--- General ---"
+msgstr ""
+
+msgid "--- Miscellaneous ---"
+msgstr ""
+
+#, fuzzy
+msgid "--- Selected profile ---"
+msgstr "Выберите профиль"
 
 msgid "0"
 msgstr "0"
@@ -56,6 +66,9 @@ msgstr "8"
 msgid "9"
 msgstr "9"
 
+msgid "<"
+msgstr ""
+
 msgid ""
 "<html>\n"
 "<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
@@ -69,6 +82,9 @@ msgstr ""
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>В этом диалоговом окне можно выбрать дополнительную среду рабочего стола (СРС) для установки рядом со стандартной средой Q4OS.</p><p align=justify>Пожалуйста, не используйте этот параметр, если вы не уверены в том, что делаете.</p>"
+
+msgid "<p>Couldn't open file.</p>"
+msgstr ""
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Хотите отменить отложенную операцию?</p>"
@@ -91,17 +107,44 @@ msgstr "<p>Пакетная система занята, установка не
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Предупреждение: Отмена установки на этом этапе может привести к сбою системы пакетов.</p><p>Уверены, что хотите прервать процесс установки сейчас?</p>"
 
-msgid "<p>You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile.</p>"
-msgstr "<p>Вы вызываете установку альтернативного рабочего стола, но он не совместим с выбранным профилем. Пожалуйста, выберите другой профиль.</p>"
-
 msgid ">"
 msgstr ">"
+
+msgid "A profile has been already applied for this system."
+msgstr ""
+
+msgid "Additional repositories:"
+msgstr ""
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr "Другой экземпляр Профайлера рабочего стола уже запущен, производится выход…"
 
+#, fuzzy
+msgid "Apply profile"
+msgstr "Выберите профиль"
+
+msgid "Applying a profile within the live systems isn't supported."
+msgstr ""
+
+msgid "Are you really sure to overwrite the previous profile ?"
+msgstr ""
+
 msgid "Cancel"
 msgstr "Отмена"
+
+#, fuzzy
+msgid "Cancel installation"
+msgstr "Запуск установки"
+
+#, fuzzy
+msgid "Cancel menu"
+msgstr "Отмена"
+
+msgid "Choose a new filename to export current status to"
+msgstr ""
+
+msgid "Choose a new filename to save the profile to"
+msgstr ""
 
 msgid "Choose an additional desktop environment to install."
 msgstr "Выберите дополнительную среду рабочего стола для установки."
@@ -115,8 +158,14 @@ msgstr "Выберите среду рабочего стола"
 msgid "Click to select profile"
 msgstr "Щёлкните, чтобы выбрать профиль"
 
-msgid "Default (TDE)"
-msgstr "По умолчанию (TDE)"
+msgid "Configuration file:"
+msgstr ""
+
+msgid "Current desktop status has been saved to profile:"
+msgstr ""
+
+msgid "DEB packages to install:"
+msgstr ""
 
 msgid "Desktop Profiler"
 msgstr "Профайлер рабочего стола"
@@ -130,11 +179,57 @@ msgstr "Профайлер рабочего стола позволяет выб
 msgid "Desktop environment:"
 msgstr "Среда рабочего стола:"
 
+#, fuzzy
+msgid "Desktop environments:"
+msgstr "Среда рабочего стола:"
+
 msgid "Desktop profiler - select default desktop environment"
 msgstr "Профайлер рабочего стола — выбор среды рабочего стола по умолчанию"
 
+#, fuzzy
+msgid "Do you want to continue ?"
+msgstr "<p>Хотите отменить отложенную операцию?</p>"
+
+msgid "ESH applications to install:"
+msgstr ""
+
+msgid "Error: profile not found, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Export profile"
+msgstr "Профиль ПО:"
+
+msgid "Failed to read packages list, file: "
+msgstr ""
+
+msgid "Failed to read repositories list, file: "
+msgstr ""
+
+#, fuzzy
+msgid "Get snapshot profile"
+msgstr "Выберите профиль"
+
+msgid "Help"
+msgstr ""
+
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "Если вы не уверены, просто нажмите кнопку <b>[ KDE Plasma ]</b>, чтобы выбрать рекомендуемый вариант."
+
+msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
+msgstr ""
+
+#, fuzzy
+msgid "Import a profile"
+msgstr "Выберите профиль"
+
+#, fuzzy
+msgid "Import local profile"
+msgstr "Выберите профиль"
+
+#, fuzzy
+msgid "Import shared profile"
+msgstr "Профиль ПО:"
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Для завершения установки необходимо повторно войти в систему. Вы хотите сделать это прямо сейчас?"
@@ -151,11 +246,18 @@ msgstr "Запуск установки"
 msgid "Next >"
 msgstr "Далее >"
 
-msgid "No configuration found, exiting .."
+#, fuzzy
+msgid "No configuration found."
 msgstr "Конфигурация не найдена, производится выход…"
+
+msgid "No profile selected. Select a profile please."
+msgstr ""
 
 msgid "None selected"
 msgstr "Не выбрано"
+
+msgid "Not implemented yet."
+msgstr ""
 
 msgid "Note "
 msgstr "Заметка "
@@ -163,17 +265,66 @@ msgstr "Заметка "
 msgid "Ok"
 msgstr "Хорошо"
 
+msgid "Options"
+msgstr ""
+
+msgid "Please enter shared profile code, or Internet address:"
+msgstr ""
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Необходимо перезагрузить компьютер. Перезагрузить компьютер сейчас?"
 
 msgid "Please restart X server as soon as possible."
 msgstr "Пожалуйста, перезапустите X сервер."
 
+#, fuzzy
+msgid "Previous profile:"
+msgstr "Профиль ПО:"
+
 msgid "Profile description"
 msgstr "Описание профиля"
 
+#, fuzzy
+msgid "Profile export"
+msgstr "Описание профиля"
+
+msgid "Profile has been imported."
+msgstr ""
+
+msgid "Profile has been removed."
+msgstr ""
+
+#, fuzzy
+msgid "Profile info"
+msgstr "Описание профиля"
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Remote profile not found."
+msgstr ""
+
+#, fuzzy
+msgid "Remove profile"
+msgstr "Выберите профиль"
+
+msgid "Remove superfluous packages"
+msgstr ""
+
+msgid "Select a profile from the list please."
+msgstr ""
+
+msgid "Selected profile has been saved to file:"
+msgstr ""
+
 msgid "Software profile:"
 msgstr "Профиль ПО:"
+
+msgid "System profiles cannot be removed."
+msgstr ""
+
+msgid "This profile has been already imported."
+msgstr ""
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -181,8 +332,30 @@ msgstr "Trinity"
 msgid "Trinity >"
 msgstr "Trinity >"
 
+msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
 msgid "Yes, I really want to install additional DE"
 msgstr "Да, я хочу установить дополнительную среду"
+
+msgid "Yes, still apply"
+msgstr ""
+
+msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
+msgstr ""
+
+#, fuzzy
+msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
+msgstr "<p>Вы вызываете установку альтернативного рабочего стола, но он не совместим с выбранным профилем. Пожалуйста, выберите другой профиль.</p>"
+
+msgid "You can now edit the file to your preferences."
+msgstr ""
+
+msgid "some installed applications and packages may be removed as they are not part of the new profile."
+msgstr ""
+
+#~ msgid "Default (TDE)"
+#~ msgstr "По умолчанию (TDE)"
 
 #~ msgid "<p>Q4OS is now installed as a very basic desktop environment. You can keep your system in minimal, clean state and make setup of other software by yourself. Otherwise, you might want to run the Desktop Profiler and let it to install and configure recommended additional software automatically, you are allowed to select between different desktop profiles. Desktop Profiler is accessible in Start menu too.</p><p>Would you like to <b>keep your fresh Q4OS</b> installation fast and clean and skip additional installation now ?</p>"
 #~ msgstr "<p>Q4OS установлена с минимальным набором компонентов. Вы можете установить и настроить все необходимые Вам компоненты самостоятельно. Также Вы можете использовать Профайлер, который позволяет автоматически установить наборы рекомендуемых приложений на Ваш выбор. Вы можете запустить Профайлер через Главное меню.</p><p>Желаете пропустить установку <b>дополнительного</b> программного обеспечения?</p>"
@@ -222,6 +395,3 @@ msgstr "Да, я хочу установить дополнительную ср
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
 #~ msgstr "Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором рекомендуемого программного обеспечения."
-
-#~ msgid "Select a profile"
-#~ msgstr "Выберите профиль"

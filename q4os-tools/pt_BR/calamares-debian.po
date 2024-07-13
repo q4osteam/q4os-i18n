@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Calamares\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 17:06+0200\n"
+"POT-Creation-Date: 2024-07-13 21:34+0200\n"
 "PO-Revision-Date: 2019-10-08 11:48+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
@@ -29,7 +29,8 @@ msgstr "O Google Chrome, o Firefox, o Thunderbird e o LibreOffice são facilment
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
 msgstr "É seguro e estável, você não precisa de um antivírus, um anti-spyware, uma ferramenta de desfragmentação ou uma ferramenta de limpeza de registro."
 
-msgid "Other popular applications <!--such as Google Picasa, Skype, Dropbox, TeamViewer and more -->can be installed with a click of the mouse."
+#, fuzzy
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
 msgstr "Outros aplicativos populares <!--como o Google Picasa, Skype, Dropbox, TeamViewer e muito mais -->podem ser instalados com um clique do mouse."
 
 msgid "Out of the box"

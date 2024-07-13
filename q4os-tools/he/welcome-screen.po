@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-04 22:03+0200\n"
+"POT-Creation-Date: 2024-07-13 21:44+0200\n"
 "PO-Revision-Date: 2015-05-17 14:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.6\n"
-
-msgid "(C) 2019 Q4OS"
-msgstr ""
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<p dir=rtl align=justify class=\"auto-style1\"><strong>ברוכים הבאים ל-Q4OS, </strong>מערכת הפעלה מהירה וחזקה ממוקדת בתמיכה לטווח ארוך, יציבות, אמינות וממשק בעל מראה קלאסי.</p><p dir=rtl align=justify class=\"auto-style1\">Q4OS מותקנת כמערכת בסיסית ונקיה עם מינימום תוכנות נלוות. ניתן כעת להתאים את שולחן העבודה על-ידי שימוש בקיצור הדרך שלמטה.</p>"
@@ -93,9 +90,6 @@ msgid "Automatic login"
 msgstr "כניסה אוטומטית"
 
 msgid "Bourbon"
-msgstr ""
-
-msgid "Brief system info."
 msgstr ""
 
 msgid "Cancel"
