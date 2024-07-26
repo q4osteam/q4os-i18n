@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:05+0200\n"
+"POT-Creation-Date: 2024-07-26 15:31+0200\n"
 "PO-Revision-Date: 2019-10-15 16:53+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -68,17 +68,6 @@ msgstr ""
 
 msgid "<"
 msgstr ""
-
-msgid ""
-"<html>\n"
-"<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
-"<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
-"</html>"
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Veuillez sélectionner l'environnement de bureau par défaut.</p></font>\n"
-"<p align=justify>Le plus léger et performant <b>Trinity</b> est installé et préconfiguré par défaut en ce moment. Toutefois, l'installateur Q4OS a détecté automatiquement que votre ordinateur est suffisamment puissant pour utiliser l'environnement de bureau <b>KDE Plasma</b> qui est plus avancé.</p>\n"
-"</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>Cette fenêtre vous laisse choisir un environnement de bureau additionnel à installer à côté du bureau par défaut de Q4OS .</p><p align=justify>N'utilisez pas cette option, sauf si vous êtres absolument sûr de ce que vous faites.</p>"
@@ -277,6 +266,18 @@ msgid "Please restart X server as soon as possible."
 msgstr "Merci de redémarrer le serveur d'affichage X dès que possible."
 
 #, fuzzy
+msgid "Please select default desktop environment."
+msgstr "Gestionnaire de profil de bureau - sélection de l'environnement de bureau par défaut"
+
+#, fuzzy
+msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
+msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Veuillez sélectionner l'environnement de bureau par défaut.</p></font>\n"
+"<p align=justify>Le plus léger et performant <b>Trinity</b> est installé et préconfiguré par défaut en ce moment. Toutefois, l'installateur Q4OS a détecté automatiquement que votre ordinateur est suffisamment puissant pour utiliser l'environnement de bureau <b>KDE Plasma</b> qui est plus avancé.</p>\n"
+"</html>"
+
+#, fuzzy
 msgid "Previous profile:"
 msgstr "Profil logiciel :"
 
@@ -321,6 +322,14 @@ msgstr "Profil logiciel :"
 
 msgid "System profiles cannot be removed."
 msgstr ""
+
+#, fuzzy
+msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
+msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Veuillez sélectionner l'environnement de bureau par défaut.</p></font>\n"
+"<p align=justify>Le plus léger et performant <b>Trinity</b> est installé et préconfiguré par défaut en ce moment. Toutefois, l'installateur Q4OS a détecté automatiquement que votre ordinateur est suffisamment puissant pour utiliser l'environnement de bureau <b>KDE Plasma</b> qui est plus avancé.</p>\n"
+"</html>"
 
 msgid "This profile has been already imported."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:05+0200\n"
+"POT-Creation-Date: 2024-07-26 15:31+0200\n"
 "PO-Revision-Date: 2024-02-14 17:02+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -69,17 +69,6 @@ msgstr "9"
 
 msgid "<"
 msgstr "<"
-
-msgid ""
-"<html>\n"
-"<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
-"<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
-"</html>"
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Selecione o ambiente de trabalho padrão.</p></font>\n"
-"<p align=justify>O leve e eficiente ambiente de trabalho <b>Trinity</b> está instalado e pré-configurado como padrão no momento. No entanto, o instalador do Q4OS detetou automaticamente que o computador é poderoso o suficiente para operar um mais avançado ambiente de trabalho <b>KDE Plasma</b>.</p>\n"
-"</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify> Esta janela permite que escolha um ambiente de trabalho adicional(DE) para instalar juntamente com o ambiente de trabalho padrão do Q4OS.</p><p align=justify> Não use esta opção, a menos que tenha certeza absoluta do que está a fazer.</p>"
@@ -268,6 +257,18 @@ msgstr "Reinicie o seu computador assim que possível. Deseja reiniciar agora ?"
 msgid "Please restart X server as soon as possible."
 msgstr "Reinicie o servidor X, o mais rapidamente possível."
 
+#, fuzzy
+msgid "Please select default desktop environment."
+msgstr "Perfil do ambiente de trabalho - selecione o ambiente de trabalho padrão"
+
+#, fuzzy
+msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
+msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Selecione o ambiente de trabalho padrão.</p></font>\n"
+"<p align=justify>O leve e eficiente ambiente de trabalho <b>Trinity</b> está instalado e pré-configurado como padrão no momento. No entanto, o instalador do Q4OS detetou automaticamente que o computador é poderoso o suficiente para operar um mais avançado ambiente de trabalho <b>KDE Plasma</b>.</p>\n"
+"</html>"
+
 msgid "Previous profile:"
 msgstr "Perfil anterior:"
 
@@ -309,6 +310,14 @@ msgstr "Perfil de software:"
 
 msgid "System profiles cannot be removed."
 msgstr "Os perfis de sistema não podem ser removidos."
+
+#, fuzzy
+msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
+msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Selecione o ambiente de trabalho padrão.</p></font>\n"
+"<p align=justify>O leve e eficiente ambiente de trabalho <b>Trinity</b> está instalado e pré-configurado como padrão no momento. No entanto, o instalador do Q4OS detetou automaticamente que o computador é poderoso o suficiente para operar um mais avançado ambiente de trabalho <b>KDE Plasma</b>.</p>\n"
+"</html>"
 
 msgid "This profile has been already imported."
 msgstr "Este perfil já foi importado."

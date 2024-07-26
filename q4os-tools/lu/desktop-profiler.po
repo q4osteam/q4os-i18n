@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:05+0200\n"
+"POT-Creation-Date: 2024-07-26 15:31+0200\n"
 "PO-Revision-Date: 2015-05-30 11:21+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -65,13 +65,6 @@ msgid "9"
 msgstr ""
 
 msgid "<"
-msgstr ""
-
-msgid ""
-"<html>\n"
-"<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
-"<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
-"</html>"
 msgstr ""
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
@@ -260,6 +253,12 @@ msgstr ""
 msgid "Please restart X server as soon as possible."
 msgstr ""
 
+msgid "Please select default desktop environment."
+msgstr ""
+
+msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
+msgstr ""
+
 msgid "Previous profile:"
 msgstr ""
 
@@ -300,6 +299,9 @@ msgid "Software profile:"
 msgstr ""
 
 msgid "System profiles cannot be removed."
+msgstr ""
+
+msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
 msgstr ""
 
 msgid "This profile has been already imported."

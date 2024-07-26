@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:05+0200\n"
+"POT-Creation-Date: 2024-07-26 15:31+0200\n"
 "PO-Revision-Date: 2019-10-27 17:13+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -67,17 +67,6 @@ msgstr "9"
 
 msgid "<"
 msgstr ""
-
-msgid ""
-"<html>\n"
-"<font size=\"5\"><p>Please select default desktop environment.</p></font>\n"
-"<p align=justify>The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment.</p>\n"
-"</html>"
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Kies de standaard werkomgeving.</p></font>\n"
-"<p align=justify>Momenteel is de lichte, efficiënte <b>Trinity</b>-werkomgeving geïnstalleerd en afgesteld. Echter, de Q4OS-instelhulp heeft vastgesteld dat uw computer krachtig genoeg is om de krachtigere <b>KDE Plasma</b>-werkomgeving te gebruiken.</p>\n"
-"</html>"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>In dit venster kunt u een aanvullende werkomgeving (DE) kiezen. Deze wordt geïnstalleerd naast de standaard Q4OS-werkomgeving.</p><p align=justify>Gebruik deze optie alléén als u weet wat u doet.</p>"
@@ -274,6 +263,18 @@ msgid "Please restart X server as soon as possible."
 msgstr "Herstart de X-server zo spoedig mogelijk."
 
 #, fuzzy
+msgid "Please select default desktop environment."
+msgstr "Werkomgevingsprofielen - Kies de standaard werkomgeving"
+
+#, fuzzy
+msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
+msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Kies de standaard werkomgeving.</p></font>\n"
+"<p align=justify>Momenteel is de lichte, efficiënte <b>Trinity</b>-werkomgeving geïnstalleerd en afgesteld. Echter, de Q4OS-instelhulp heeft vastgesteld dat uw computer krachtig genoeg is om de krachtigere <b>KDE Plasma</b>-werkomgeving te gebruiken.</p>\n"
+"</html>"
+
+#, fuzzy
 msgid "Previous profile:"
 msgstr "Softwareprofiel:"
 
@@ -318,6 +319,14 @@ msgstr "Softwareprofiel:"
 
 msgid "System profiles cannot be removed."
 msgstr ""
+
+#, fuzzy
+msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
+msgstr ""
+"<html>\n"
+"<font size=\"5\"><p>Kies de standaard werkomgeving.</p></font>\n"
+"<p align=justify>Momenteel is de lichte, efficiënte <b>Trinity</b>-werkomgeving geïnstalleerd en afgesteld. Echter, de Q4OS-instelhulp heeft vastgesteld dat uw computer krachtig genoeg is om de krachtigere <b>KDE Plasma</b>-werkomgeving te gebruiken.</p>\n"
+"</html>"
 
 msgid "This profile has been already imported."
 msgstr ""
