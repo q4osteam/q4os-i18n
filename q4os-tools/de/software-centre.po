@@ -87,7 +87,7 @@ msgid "Install or uninstall selected application from the featured applications 
 msgstr ""
 
 msgid "More options"
-msgstr ""
+msgstr "Mehr Möglichkeiten"
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS Software Center"
