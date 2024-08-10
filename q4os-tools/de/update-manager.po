@@ -48,7 +48,7 @@ msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Canceled !"
-msgstr ""
+msgstr "Abgebrochen!"
 
 msgid "Checking Internet connection"
 msgstr ""
@@ -69,7 +69,7 @@ msgid "Close"
 msgstr ""
 
 msgid "Closing.."
-msgstr ""
+msgstr "Schliessen.."
 
 msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
 msgstr ""
@@ -96,7 +96,7 @@ msgid "Finish >"
 msgstr "Fertigstellen >"
 
 msgid "Finished :)"
-msgstr ""
+msgstr "Fertiggestellt"
 
 msgid "Fixing apt database"
 msgstr ""
