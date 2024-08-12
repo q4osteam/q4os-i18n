@@ -81,7 +81,7 @@ msgid "<p>Your hardware seems to be low to run desktop effects, it's not recomme
 msgstr "<p>Ihre Hardware scheint zu schwach zu sein, um Desktop-Effekte anzuzeigen. Es wird davon abgeraten, diese Effekte zu aktivieren.</p><p>Wollen Sie die Desktop-Effekte wirklich aktivieren ?</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Anwenden"
 
 msgid "Autologin configuration"
 msgstr "Autologin-Konfiguration"
@@ -96,7 +96,7 @@ msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategorien"
 
 msgid "Classic"
 msgstr ""
@@ -105,17 +105,17 @@ msgid "Classic style cascading menu"
 msgstr ""
 
 msgid "Desktop effects"
-msgstr "Desktop-Effekte"
+msgstr "Schreibtisch-Effekte"
 
 #, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "<p>Wollen sie die Desktop-Effekte einschalten ?</p>"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Dokumente im Netz"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Spenden Sie für Q4OS"
 
 msgid "Enable Autologin"
 msgstr "Automatische Anmeldung aktivieren"
@@ -124,7 +124,7 @@ msgid "Form2"
 msgstr ""
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Hardware-Info"
 
 msgid "Info"
 msgstr "Info"
@@ -154,7 +154,7 @@ msgid "Menu type"
 msgstr ""
 
 msgid "More options  >"
-msgstr ""
+msgstr "Mehr Optionen  >"
 
 #, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
@@ -192,7 +192,7 @@ msgid "Start menu configuration"
 msgstr "Startmenü-Konfiguration"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Unterstützen Sie uns auf Patreon"
 
 #, fuzzy
 msgid "Switch start menu"
@@ -214,13 +214,13 @@ msgid "Two panel menu with search line"
 msgstr ""
 
 msgid "Warning !"
-msgstr "Achtung !"
+msgstr "Achtung!"
 
 msgid "Welcome screen"
 msgstr "Willkommensbildschirm"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Willkommen bei Q4OS"
 
 msgid "Well arranged system hardware information."
 msgstr ""
