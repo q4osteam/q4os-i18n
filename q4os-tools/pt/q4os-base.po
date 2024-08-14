@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 21:32+0200\n"
-"PO-Revision-Date: 2022-09-30 15:04+0100\n"
+"PO-Revision-Date: 2024-08-14 22:52+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
@@ -51,9 +51,9 @@ msgstr "Clique no botão \"Ok\" para mostrar a janela do Editor do Menu."
 msgid "Click OK to get login screen now."
 msgstr "Clique em OK para obter o ecrã de início de sessão agora."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr "Clique em OK para executar uma ferramenta de ligação WiFi para criar uma ligação de rede."
+msgstr "Clique em OK para executar a ferramenta de ligação WiFi e criar uma ligação de rede."
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
@@ -77,7 +77,7 @@ msgstr "Parabéns, a instalação terminou."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "A ligação não foi bem sucedida, verifique a palavra-passe Wifi."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
@@ -273,11 +273,11 @@ msgstr "Obrigado por utilizar o sistema operativo Q4OS. Após a configuração d
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Sessão do Trinity não detetada. Execute esta ferramenta no ambiente de trabalho Trinity."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "A tentar configurar uma rede sem fios ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
