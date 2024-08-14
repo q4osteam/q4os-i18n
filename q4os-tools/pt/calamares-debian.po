@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: pt_PT\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Source-Language: C\n"
 
 msgid "A great desktop OS"
@@ -28,9 +28,8 @@ msgstr "O Google Chrome, Firefox, Thunderbird e o LibreOffice são facilmente in
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
 msgstr "É seguro e estável, não precisa de um antivírus, um anti-spyware, uma ferramenta de desfragmentação ou uma ferramenta de limpeza de registo."
 
-#, fuzzy
 msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Outras aplicações populares <!--como o Google Picasa, Skype, Dropbox, TeamViewer e muito mais -->podem ser instaladas com um simples clique."
+msgstr "Outras aplicações populares <!--como o Skype, Dropbox, TeamViewer, Opera e outras -->podem ser instaladas com um simples clique."
 
 msgid "Out of the box"
 msgstr "Pronto a utilizar"
