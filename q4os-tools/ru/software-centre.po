@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:15+0100\n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
 "PO-Revision-Date: 2024-05-10 22:21+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -26,14 +26,14 @@ msgstr "#Записи: "
 msgid "---  Menu  ---"
 msgstr "---  Меню  ---"
 
+msgid "1"
+msgstr ""
+
 msgid "<"
 msgstr "<"
 
 msgid "<p>"
 msgstr "<p>"
-
-msgid "<p>Discover software manager isn't installed, please install it first.</p>"
-msgstr "<p>У вас не установлен менеджер программ, пожалуйста, сначала установите его.</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>Обнаружена установка NVIDIA !</p><p>Действия отключены во время установки NVIDIA, пожалуйста, дождитесь окончания установки NVIDIA.</p>"
@@ -44,14 +44,14 @@ msgstr "<p>Система пакетов занята и не готова к у
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Выберите приложение, которое нужно установить, из представленных в списке.</p>"
 
-msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr "<p>Менеджер пакетов Synaptic не установлен, пожалуйста, сначала установите его.</p>"
-
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Обнаружена установка VirtualBox!</p><p>Действия отключены, пожалуйста, дождитесь окончания процесса установки.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Мы настоятельно рекомендуем Вам применить один из профилей перед установкой отдельных приложений.</p><p>Пожалуйста, запустите Профайлер рабочего стола, выберите и установите профиль.</p>"
+
+msgid "APT database hasn't been updated yet."
+msgstr ""
 
 msgid "Application"
 msgstr "Приложение"
@@ -68,14 +68,35 @@ msgstr "Профайлер рабочего стола"
 msgid "Desktop profiler"
 msgstr "Профайлер рабочего стола"
 
+#, fuzzy
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr "<p>У вас не установлен менеджер программ, пожалуйста, сначала установите его.</p>"
+
 msgid "Featured applications"
 msgstr "Рекомендуемые приложения"
 
 msgid "Featured applications: #"
 msgstr "Рекомендуемые приложения: #"
 
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
 msgid "Info"
 msgstr "Сведения"
+
+#, fuzzy
+msgid "Install"
+msgstr "Удалить"
+
+msgid "Install Discover ?"
+msgstr ""
+
+#, fuzzy
+msgid "Install Synaptic ?"
+msgstr "Установить программу"
 
 msgid "Install application"
 msgstr "Установить программу"
@@ -85,6 +106,9 @@ msgstr "Установить или удалить выбранное прило
 
 msgid "More options"
 msgstr "Больше параметров"
+
+msgid "Open Flathub repository in the preferred web browser"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Центр приложений Q4OS"
@@ -113,6 +137,10 @@ msgstr "Состояние"
 msgid "Status:"
 msgstr "Состояние:"
 
+#, fuzzy
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr "<p>Менеджер пакетов Synaptic не установлен, пожалуйста, сначала установите его.</p>"
+
 msgid "Uninstall"
 msgstr "Удалить"
 
@@ -128,11 +156,17 @@ msgstr "action2"
 msgid "config_file"
 msgstr "config_file"
 
+msgid "dependencies"
+msgstr ""
+
 msgid "download"
 msgstr "загрузка"
 
 msgid "no selection"
 msgstr "нет выбора"
+
+msgid "origin"
+msgstr ""
 
 msgid "package"
 msgstr "пакет"
@@ -142,6 +176,9 @@ msgstr "rating_num"
 
 msgid "recordnum"
 msgstr "recordnum"
+
+msgid "repositories"
+msgstr ""
 
 msgid "textLabel"
 msgstr "текстоваяМетка"

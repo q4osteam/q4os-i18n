@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-02 18:24+0200\n"
+"POT-Creation-Date: 2024-10-06 15:39+0200\n"
 "PO-Revision-Date: 2019-01-10 10:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,9 +18,6 @@ msgstr ""
 "X-Generator: Poedit 1.8.11\n"
 
 msgid "< Back"
-msgstr ""
-
-msgid "</b></p><p>Cleaning and canceling now ...</p>"
 msgstr ""
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
@@ -49,9 +46,6 @@ msgid ""
 msgstr ""
 
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
-msgstr ""
-
-msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
 msgstr ""
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
@@ -87,6 +81,9 @@ msgstr ""
 msgid "Autofix not needed ... OK"
 msgstr ""
 
+msgid "Busy !"
+msgstr ""
+
 msgid "CPU architecture doesn't match !"
 msgstr ""
 
@@ -96,7 +93,16 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Canceling installation ..."
+msgstr ""
+
 msgid "Cannot lock APT database, exiting ..."
+msgstr ""
+
+msgid "Cannot lock Flatpak framework, exiting ..."
+msgstr ""
+
+msgid "Checking distro"
 msgstr ""
 
 msgid "Checking installation ..."
@@ -109,6 +115,15 @@ msgid "Checking installation ... OK"
 msgstr ""
 
 msgid "Checking package system ..."
+msgstr ""
+
+msgid "Cleaning and canceling now ..."
+msgstr ""
+
+msgid "Configuring Apt ..."
+msgstr ""
+
+msgid "Configuring Apt ... Done"
 msgstr ""
 
 msgid "Copying system packages ..."
@@ -126,7 +141,16 @@ msgstr ""
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr ""
 
+msgid "Determining Flatpak configuration ... "
+msgstr ""
+
+msgid "Distro"
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
+msgstr ""
+
+msgid "Done"
 msgstr ""
 
 msgid "Downloading packages ..."
@@ -144,6 +168,9 @@ msgstr ""
 msgid "Extracting archive ... Done"
 msgstr ""
 
+msgid "Failed"
+msgstr ""
+
 msgid "Failed. Configuration file doesn't exist."
 msgstr ""
 
@@ -154,6 +181,21 @@ msgid "Finish >"
 msgstr ""
 
 msgid "Finishing installation ..."
+msgstr ""
+
+msgid "Flatpak framework is busy, another application is being installed just now."
+msgstr ""
+
+msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
+msgstr ""
+
+msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
+msgstr ""
+
+msgid "Flatpak isn't installed ... Cancel !"
+msgstr ""
+
+msgid "Flatpak isn't installed, exiting ..."
 msgstr ""
 
 msgid "I Agree"
@@ -168,6 +210,9 @@ msgstr ""
 msgid "Installation failed !"
 msgstr ""
 
+msgid "Installation not successful."
+msgstr ""
+
 msgid "Installation successfully completed :-)"
 msgstr ""
 
@@ -175,6 +220,9 @@ msgid "Installing files ..."
 msgstr ""
 
 msgid "Installing files ... OK"
+msgstr ""
+
+msgid "Installing package ..."
 msgstr ""
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
@@ -186,10 +234,19 @@ msgstr ""
 msgid "Next >"
 msgstr ""
 
+msgid "No Flathub repository ... Cancel !"
+msgstr ""
+
+msgid "No Flathub repository, exiting ..."
+msgstr ""
+
 msgid "Package"
 msgstr ""
 
 msgid "Package system ... Busy !"
+msgstr ""
+
+msgid "Package system is busy, another application is being installed just now."
 msgstr ""
 
 msgid "Package system not consistent ..."
@@ -204,6 +261,12 @@ msgstr ""
 msgid "Partial update sw database ... Done"
 msgstr ""
 
+msgid "Please make sure you are not installing another software and repeat setup few moments later."
+msgstr ""
+
+msgid "Please make sure you are not installing another software and repeat the setup."
+msgstr ""
+
 msgid "Postinstall operations ..."
 msgstr ""
 
@@ -211,12 +274,6 @@ msgid "Postinstall operations ... Done"
 msgstr ""
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
-
-msgid "Postinstall operations, update sw database ..."
-msgstr ""
-
-msgid "Postinstall operations, upgrade sw database ..."
 msgstr ""
 
 msgid "Preparing installation files ..."
@@ -261,6 +318,9 @@ msgstr ""
 msgid "Setup action:  "
 msgstr ""
 
+msgid "Setup messages were recorded into logfile:"
+msgstr ""
+
 msgid "Setup wizard"
 msgstr ""
 
@@ -279,7 +339,19 @@ msgstr ""
 msgid "Testing installation ... Done"
 msgstr ""
 
+msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
+msgstr ""
+
+msgid "The post installation check failed, the software may not have been installed correctly."
+msgstr ""
+
 msgid "Trying to recover APT integrity ..."
+msgstr ""
+
+msgid "Unsupported distro"
+msgstr ""
+
+msgid "Update Apt database ..."
 msgstr ""
 
 msgid "Update sw database ..."
@@ -294,6 +366,9 @@ msgstr ""
 msgid "Update system cache ... Done"
 msgstr ""
 
+msgid "Upgrade Apt database ..."
+msgstr ""
+
 msgid "Verified ... OK"
 msgstr ""
 
@@ -306,5 +381,17 @@ msgstr ""
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
 msgstr ""
 
+msgid "You are trying to install flatpak based software."
+msgstr ""
+
 msgid "already installed, exiting ..."
+msgstr ""
+
+msgid "installed ... Cancel !"
+msgstr ""
+
+msgid "not supported, exiting ..."
+msgstr ""
+
+msgid "software is already installed, so cancelling installation ..."
 msgstr ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:15+0100\n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
 "PO-Revision-Date: 2022-01-06 13:43+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -26,14 +26,14 @@ msgstr "#Items: "
 msgid "---  Menu  ---"
 msgstr "---  Menu  ---"
 
+msgid "1"
+msgstr ""
+
 msgid "<"
 msgstr "<"
 
 msgid "<p>"
 msgstr "<p>"
-
-msgid "<p>Discover software manager isn't installed, please install it first.</p>"
-msgstr "<p>Installeer Discover-softwarebeheer.</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van NVIDIA; even geduld.</p>"
@@ -44,14 +44,14 @@ msgstr "<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p><p>
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Kies een te installeren programma van de lijst met uitgelichte programma's.</p>"
 
-msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr "<p>Installeer Synaptic-pakketbeheer.</p>"
-
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van VirtualBox; even geduld.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>U heeft nog geen werkomgevingsprofiel toegepast.</p><p>Wij raden aan om het programma <b>Werkomgevingsprofielen</b> te openen en zo spoedig mogelijk één van de beschikbare profielen toe te passen.</p>"
+
+msgid "APT database hasn't been updated yet."
+msgstr ""
 
 msgid "Application"
 msgstr "Programma"
@@ -68,14 +68,35 @@ msgstr "Werkomgevingsprofielen"
 msgid "Desktop profiler"
 msgstr "Werkomgevingsprofielen"
 
+#, fuzzy
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr "<p>Installeer Discover-softwarebeheer.</p>"
+
 msgid "Featured applications"
 msgstr "Uitgelichte programma's"
 
 msgid "Featured applications: #"
 msgstr "Uitgelichte programma's: #"
 
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
 msgid "Info"
 msgstr "Informatie"
+
+#, fuzzy
+msgid "Install"
+msgstr "Deïnstalleren"
+
+msgid "Install Discover ?"
+msgstr ""
+
+#, fuzzy
+msgid "Install Synaptic ?"
+msgstr "Programma installeren"
 
 msgid "Install application"
 msgstr "Programma installeren"
@@ -85,6 +106,9 @@ msgstr "Installeer of verwijder een programma van de lijst met uitgelichte progr
 
 msgid "More options"
 msgstr "Meer opties"
+
+msgid "Open Flathub repository in the preferred web browser"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS-softwarecentrum"
@@ -113,6 +137,10 @@ msgstr "Status"
 msgid "Status:"
 msgstr "Status:"
 
+#, fuzzy
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr "<p>Installeer Synaptic-pakketbeheer.</p>"
+
 msgid "Uninstall"
 msgstr "Deïnstalleren"
 
@@ -128,11 +156,17 @@ msgstr "actie2"
 msgid "config_file"
 msgstr "config_file"
 
+msgid "dependencies"
+msgstr ""
+
 msgid "download"
 msgstr "Downloaden"
 
 msgid "no selection"
 msgstr "Niets geselecteerd"
+
+msgid "origin"
+msgstr ""
 
 msgid "package"
 msgstr "Pakket"
@@ -142,6 +176,9 @@ msgstr "rating_num"
 
 msgid "recordnum"
 msgstr "recordnum"
+
+msgid "repositories"
+msgstr ""
 
 msgid "textLabel"
 msgstr "tekstlabel"

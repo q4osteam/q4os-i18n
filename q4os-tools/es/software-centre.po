@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:15+0100\n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
 "PO-Revision-Date: 2020-12-26 21:42-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -26,14 +26,14 @@ msgstr ""
 msgid "---  Menu  ---"
 msgstr ""
 
+msgid "1"
+msgstr ""
+
 msgid "<"
 msgstr ""
 
 msgid "<p>"
 msgstr ""
-
-msgid "<p>Discover software manager isn't installed, please install it first.</p>"
-msgstr "<p>El administrador de aplicaciones Discover no está instalado, instálelo primero.</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>¡Se ha detectado la instalación de NVIDIA!</p><p>Las acciones se desactivan durante la configuración de NVIDIA, espere hasta que finalice la instalación de NVIDIA.</p>"
@@ -45,14 +45,14 @@ msgstr "<p>El sistema de paquetes está ocupado, no está listo para instalar ah
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Seleccione una aplicación para instalar.</p>"
 
-msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr "<p>El administrador de paquetes Synaptic no está instalado, instálelo primero.</p>"
-
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>¡Se ha detectado la instalación de Virtualbox! </p><p> Las acciones están deshabilitadas durante la configuración de Virtualbox, espere hasta el final de la instalación de Virtualbox.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Aún no ha aplicado ningún perfil de escritorio. Se recomienda aplicar un perfil de escritorio antes de instalar aplicaciones.</p><p>Ejecute la herramienta <b>Dektop Profiler</b> para elegir y aplicar un perfil.</p>"
+
+msgid "APT database hasn't been updated yet."
+msgstr ""
 
 msgid "Application"
 msgstr "Aplicación"
@@ -71,6 +71,10 @@ msgid "Desktop profiler"
 msgstr ""
 
 #, fuzzy
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr "<p>El administrador de aplicaciones Discover no está instalado, instálelo primero.</p>"
+
+#, fuzzy
 msgid "Featured applications"
 msgstr "Instalar aplicaciones seleccionadas"
 
@@ -78,8 +82,25 @@ msgstr "Instalar aplicaciones seleccionadas"
 msgid "Featured applications: #"
 msgstr "Instalar aplicaciones seleccionadas"
 
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
 msgid "Info"
 msgstr "Información"
+
+#, fuzzy
+msgid "Install"
+msgstr "Desinstalar"
+
+msgid "Install Discover ?"
+msgstr ""
+
+#, fuzzy
+msgid "Install Synaptic ?"
+msgstr "Instalar aplicación"
 
 msgid "Install application"
 msgstr "Instalar aplicación"
@@ -88,6 +109,9 @@ msgid "Install or uninstall selected application from the featured applications 
 msgstr ""
 
 msgid "More options"
+msgstr ""
+
+msgid "Open Flathub repository in the preferred web browser"
 msgstr ""
 
 msgid "Q4OS Software Centre"
@@ -119,6 +143,10 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 
+#, fuzzy
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr "<p>El administrador de paquetes Synaptic no está instalado, instálelo primero.</p>"
+
 msgid "Uninstall"
 msgstr "Desinstalar"
 
@@ -134,10 +162,16 @@ msgstr ""
 msgid "config_file"
 msgstr ""
 
+msgid "dependencies"
+msgstr ""
+
 msgid "download"
 msgstr "descargar"
 
 msgid "no selection"
+msgstr ""
+
+msgid "origin"
 msgstr ""
 
 msgid "package"
@@ -147,6 +181,9 @@ msgid "rating_num"
 msgstr ""
 
 msgid "recordnum"
+msgstr ""
+
+msgid "repositories"
 msgstr ""
 
 msgid "textLabel"

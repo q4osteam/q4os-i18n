@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-02 18:24+0200\n"
+"POT-Creation-Date: 2024-10-06 15:39+0200\n"
 "PO-Revision-Date: 2019-10-17 23:30+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -19,9 +19,6 @@ msgstr ""
 
 msgid "< Back"
 msgstr "< Terug"
-
-msgid "</b></p><p>Cleaning and canceling now ...</p>"
-msgstr "</b></p><p>Bezig met opschonen en afbreken...</p>"
 
 #, fuzzy
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
@@ -63,9 +60,6 @@ msgstr ""
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
 msgstr ""
 
-msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
-msgstr "<p>Er is een fout opgetreden tijdens het installeren; excuses voor het ongemak.</p><p>Het voorval is vastgelegd in een logbestand: <b>"
-
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr ""
 
@@ -99,6 +93,9 @@ msgstr "De beveiligingssleutels zijn toegevoegd."
 msgid "Autofix not needed ... OK"
 msgstr "Geen automatische reparatie benodigd."
 
+msgid "Busy !"
+msgstr ""
+
 msgid "CPU architecture doesn't match !"
 msgstr ""
 
@@ -108,8 +105,19 @@ msgstr "Bezig met berekenen van de voortgang..."
 msgid "Cancel"
 msgstr "Afbreken"
 
+#, fuzzy
+msgid "Canceling installation ..."
+msgstr "Bezig met controleren van installatie..."
+
 msgid "Cannot lock APT database, exiting ..."
 msgstr ""
+
+msgid "Cannot lock Flatpak framework, exiting ..."
+msgstr ""
+
+#, fuzzy
+msgid "Checking distro"
+msgstr "Bezig met controleren van installatie..."
 
 msgid "Checking installation ..."
 msgstr "Bezig met controleren van installatie..."
@@ -122,6 +130,17 @@ msgstr "De controle is geslaagd."
 
 msgid "Checking package system ..."
 msgstr "Bezig met controleren van pakketsysteem..."
+
+#, fuzzy
+msgid "Cleaning and canceling now ..."
+msgstr "</b></p><p>Bezig met opschonen en afbreken...</p>"
+
+msgid "Configuring Apt ..."
+msgstr ""
+
+#, fuzzy
+msgid "Configuring Apt ... Done"
+msgstr "De systeempakketten zijn gekopieerd."
 
 msgid "Copying system packages ..."
 msgstr "Bezig met kopiëren van systeempakketten..."
@@ -138,8 +157,18 @@ msgstr ""
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr ""
 
+#, fuzzy
+msgid "Determining Flatpak configuration ... "
+msgstr "Het programma is geregistreerd."
+
+msgid "Distro"
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Weet u zeker dat u de huidige handeling wilt afbreken?"
+
+msgid "Done"
+msgstr ""
 
 msgid "Downloading packages ..."
 msgstr "Bezig met downloaden van pakketten..."
@@ -156,6 +185,9 @@ msgstr "Bezig met uitpakken van archief..."
 msgid "Extracting archive ... Done"
 msgstr "Het archief is uitgepakt."
 
+msgid "Failed"
+msgstr ""
+
 msgid "Failed. Configuration file doesn't exist."
 msgstr ""
 
@@ -166,6 +198,22 @@ msgid "Finish >"
 msgstr "Afronden >"
 
 msgid "Finishing installation ..."
+msgstr "Bezig met afronden van installatie..."
+
+msgid "Flatpak framework is busy, another application is being installed just now."
+msgstr ""
+
+msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
+msgstr ""
+
+msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
+msgstr ""
+
+msgid "Flatpak isn't installed ... Cancel !"
+msgstr ""
+
+#, fuzzy
+msgid "Flatpak isn't installed, exiting ..."
 msgstr "Bezig met afronden van installatie..."
 
 msgid "I Agree"
@@ -181,6 +229,10 @@ msgstr "Installeren >"
 msgid "Installation failed !"
 msgstr "Bezig met installeren van bestanden..."
 
+#, fuzzy
+msgid "Installation not successful."
+msgstr "Installatie geslaagd :-)"
+
 msgid "Installation successfully completed :-)"
 msgstr "Installatie geslaagd :-)"
 
@@ -189,6 +241,10 @@ msgstr "Bezig met installeren van bestanden..."
 
 msgid "Installing files ... OK"
 msgstr "De bestanden zijn geïnstalleerd."
+
+#, fuzzy
+msgid "Installing package ..."
+msgstr "Bezig met installeren van bestanden..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
 msgstr ""
@@ -199,11 +255,21 @@ msgstr "Licentietekst..."
 msgid "Next >"
 msgstr "Volgende >"
 
+msgid "No Flathub repository ... Cancel !"
+msgstr ""
+
+msgid "No Flathub repository, exiting ..."
+msgstr ""
+
 msgid "Package"
 msgstr ""
 
 msgid "Package system ... Busy !"
 msgstr "Het pakketsysteem is bezig!"
+
+#, fuzzy
+msgid "Package system is busy, another application is being installed just now."
+msgstr "Het pakketsysteem is nog steeds verward; de installatie wordt afgebroken..."
 
 msgid "Package system not consistent ..."
 msgstr "Het pakketsysteem is verward..."
@@ -217,6 +283,12 @@ msgstr "De softwaredatabank wordt deels bijgewerkt..."
 msgid "Partial update sw database ... Done"
 msgstr "De softwaredatabank is deels bijgewerkt."
 
+msgid "Please make sure you are not installing another software and repeat setup few moments later."
+msgstr ""
+
+msgid "Please make sure you are not installing another software and repeat the setup."
+msgstr ""
+
 msgid "Postinstall operations ..."
 msgstr "Bezig met afhandelen..."
 
@@ -225,12 +297,6 @@ msgstr "Afgehandeld."
 
 msgid "Postinstall operations, additional commands ..."
 msgstr "Bezig met afhandelen en uitvoeren van aanvullende opdrachten..."
-
-msgid "Postinstall operations, update sw database ..."
-msgstr "Bezig met afhandelen en bijwerken van softwaredatabank..."
-
-msgid "Postinstall operations, upgrade sw database ..."
-msgstr "Bezig met afhandelen en opwaarderen van softwaredatabank..."
 
 msgid "Preparing installation files ..."
 msgstr "Bezig met voorbereiden van installatiebestanden..."
@@ -276,6 +342,9 @@ msgstr "Instelactie:"
 msgid "Setup action:  "
 msgstr "Instelactie:  "
 
+msgid "Setup messages were recorded into logfile:"
+msgstr ""
+
 #, fuzzy
 msgid "Setup wizard"
 msgstr "instelhulp"
@@ -295,8 +364,21 @@ msgstr "Bezig met testen van installatie..."
 msgid "Testing installation ... Done"
 msgstr "De installatietest is geslaagd."
 
+msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
+msgstr ""
+
+msgid "The post installation check failed, the software may not have been installed correctly."
+msgstr ""
+
 msgid "Trying to recover APT integrity ..."
 msgstr "Bezig met proberen ATP-integriteit te herstellen..."
+
+msgid "Unsupported distro"
+msgstr ""
+
+#, fuzzy
+msgid "Update Apt database ..."
+msgstr "Bezig met bijwerken van softwaredatabank..."
 
 msgid "Update sw database ..."
 msgstr "Bezig met bijwerken van softwaredatabank..."
@@ -310,6 +392,10 @@ msgstr "Bezig met bijwerken van systeemcache..."
 msgid "Update system cache ... Done"
 msgstr "De systeemcache is bijgewerkt."
 
+#, fuzzy
+msgid "Upgrade Apt database ..."
+msgstr "Bezig met bijwerken van softwaredatabank..."
+
 msgid "Verified ... OK"
 msgstr "Verificatie geslaagd."
 
@@ -322,8 +408,30 @@ msgstr ""
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
 msgstr ""
 
+msgid "You are trying to install flatpak based software."
+msgstr ""
+
 msgid "already installed, exiting ..."
 msgstr ""
+
+msgid "installed ... Cancel !"
+msgstr ""
+
+msgid "not supported, exiting ..."
+msgstr ""
+
+#, fuzzy
+msgid "software is already installed, so cancelling installation ..."
+msgstr "Het pakketsysteem is nog steeds verward; de installatie wordt afgebroken..."
+
+#~ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+#~ msgstr "<p>Er is een fout opgetreden tijdens het installeren; excuses voor het ongemak.</p><p>Het voorval is vastgelegd in een logbestand: <b>"
+
+#~ msgid "Postinstall operations, update sw database ..."
+#~ msgstr "Bezig met afhandelen en bijwerken van softwaredatabank..."
+
+#~ msgid "Postinstall operations, upgrade sw database ..."
+#~ msgstr "Bezig met afhandelen en opwaarderen van softwaredatabank..."
 
 #~ msgid "Fast system checks"
 #~ msgstr "Snelle systeemcontrole"

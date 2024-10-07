@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:15+0100\n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
 "PO-Revision-Date: 2021-04-20 22:45+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
 "Language-Team: \n"
@@ -27,14 +27,14 @@ msgstr ""
 msgid "---  Menu  ---"
 msgstr ""
 
+msgid "1"
+msgstr ""
+
 msgid "<"
 msgstr ""
 
 msgid "<p>"
 msgstr "<p>"
-
-msgid "<p>Discover software manager isn't installed, please install it first.</p>"
-msgstr "<p>Menedżer oprogramowania 'Discover' nie jest zainstalowany, najpierw go zainstaluj.</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>Została wykryta instalacja NVIDIA !</p><p>Wszystkie działania są wyłączone na czas instalacji NVIDII, proszę zaczekać do końca instalacji NVIDII.</p>"
@@ -46,14 +46,14 @@ msgstr "<p>Menedżer pakietów jest zajęty i nie może instalować w obecnym st
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Wybierz aplikację do instalacji.</p>"
 
-msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr "<p>Menedżer pakietów 'Synaptic' nie jest zainstalowany, najpierw go zainstaluj.</p>"
-
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, proszę zaczekać do końca instalacji Virtualbox.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Nie ustawiłeś jeszcze żadnego profilu pulpitu. Bardzo zalecane jest jego wybranie przed instalacją programów.</p><p>Proszę uruchomić <b>Konfigurator Pulpitu</b> by wybrać i zastosować profil.</p>"
+
+msgid "APT database hasn't been updated yet."
+msgstr ""
 
 msgid "Application"
 msgstr "Aplikacja"
@@ -72,6 +72,10 @@ msgid "Desktop profiler"
 msgstr "Konfigurator Pulpitu"
 
 #, fuzzy
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr "<p>Menedżer oprogramowania 'Discover' nie jest zainstalowany, najpierw go zainstaluj.</p>"
+
+#, fuzzy
 msgid "Featured applications"
 msgstr "Instaluj wybraną aplikację"
 
@@ -79,8 +83,25 @@ msgstr "Instaluj wybraną aplikację"
 msgid "Featured applications: #"
 msgstr "Instaluj wybraną aplikację"
 
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
 msgid "Info"
 msgstr "Info"
+
+#, fuzzy
+msgid "Install"
+msgstr "Odinstaluj"
+
+msgid "Install Discover ?"
+msgstr ""
+
+#, fuzzy
+msgid "Install Synaptic ?"
+msgstr "Instaluj aplikację"
 
 msgid "Install application"
 msgstr "Instaluj aplikację"
@@ -89,6 +110,9 @@ msgid "Install or uninstall selected application from the featured applications 
 msgstr ""
 
 msgid "More options"
+msgstr ""
+
+msgid "Open Flathub repository in the preferred web browser"
 msgstr ""
 
 msgid "Q4OS Software Centre"
@@ -120,6 +144,10 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 
+#, fuzzy
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr "<p>Menedżer pakietów 'Synaptic' nie jest zainstalowany, najpierw go zainstaluj.</p>"
+
 msgid "Uninstall"
 msgstr "Odinstaluj"
 
@@ -135,10 +163,16 @@ msgstr ""
 msgid "config_file"
 msgstr ""
 
+msgid "dependencies"
+msgstr ""
+
 msgid "download"
 msgstr "pobierz"
 
 msgid "no selection"
+msgstr ""
+
+msgid "origin"
 msgstr ""
 
 msgid "package"
@@ -148,6 +182,9 @@ msgid "rating_num"
 msgstr ""
 
 msgid "recordnum"
+msgstr ""
+
+msgid "repositories"
 msgstr ""
 
 msgid "textLabel"

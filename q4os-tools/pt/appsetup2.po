@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-02 18:24+0200\n"
+"POT-Creation-Date: 2024-10-06 15:39+0200\n"
 "PO-Revision-Date: 2024-02-14 16:40+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -23,9 +23,6 @@ msgstr ""
 
 msgid "< Back"
 msgstr "< Voltar"
-
-msgid "</b></p><p>Cleaning and canceling now ...</p>"
-msgstr "</b></p><p>A limpar e cancelar agora ...</p>"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
 msgstr "<b>Verificações rápidas do sistema</b><br>&nbsp;&nbsp;&nbsp;O sistema está a pré-verificar o ambiente de instalação"
@@ -62,9 +59,6 @@ msgstr ""
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
 msgstr "<p>A arquitetura da CPU não coincide !</p><p> A cancelar a instalação ...</p>"
 
-msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
-msgstr "<p>Erro ao instalar a aplicação, não foi possível instalar.</p><p>As mensagens de configuração foram gravadas no ficheiro de registo: <b>"
-
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr "<p>Dados iniciais incompletos !</p><p> A cancelar a instalação ...</p>"
 
@@ -98,6 +92,9 @@ msgstr "A adicionar chaves de segurança ... OK"
 msgid "Autofix not needed ... OK"
 msgstr "A correção automática não é necessária ... OK"
 
+msgid "Busy !"
+msgstr ""
+
 msgid "CPU architecture doesn't match !"
 msgstr "A arquitetura da CPU não coincide !"
 
@@ -107,8 +104,20 @@ msgstr "A calcular o progresso ..."
 msgid "Cancel"
 msgstr "Cancelar"
 
+#, fuzzy
+msgid "Canceling installation ..."
+msgstr "A verificar a instalação ..."
+
 msgid "Cannot lock APT database, exiting ..."
 msgstr "Não é possível bloquear a base de dados APT, a sair ..."
+
+#, fuzzy
+msgid "Cannot lock Flatpak framework, exiting ..."
+msgstr "Não é possível bloquear a base de dados APT, a sair ..."
+
+#, fuzzy
+msgid "Checking distro"
+msgstr "A verificar a instalação ..."
 
 msgid "Checking installation ..."
 msgstr "A verificar a instalação ..."
@@ -121,6 +130,17 @@ msgstr "A verificar a instalação ... OK"
 
 msgid "Checking package system ..."
 msgstr "A verificar o sistema de pacotes ..."
+
+#, fuzzy
+msgid "Cleaning and canceling now ..."
+msgstr "</b></p><p>A limpar e cancelar agora ...</p>"
+
+msgid "Configuring Apt ..."
+msgstr ""
+
+#, fuzzy
+msgid "Configuring Apt ... Done"
+msgstr "A executar scripts personalizados ... Concluído"
 
 msgid "Copying system packages ..."
 msgstr "A copiar pacotes do sistema ..."
@@ -137,8 +157,18 @@ msgstr "Não foi possível inicializar. Cabeçalho de dados incorreto."
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr "Não foi possível executar os utilitários apt de baixo nível do Q4OS ! É um problema sério, que interrompe a instalação ..."
 
+#, fuzzy
+msgid "Determining Flatpak configuration ... "
+msgstr "A registar aplicação ... OK"
+
+msgid "Distro"
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Pretende cancelar a operação pendente ?"
+
+msgid "Done"
+msgstr ""
 
 msgid "Downloading packages ..."
 msgstr "A transferir pacotes ..."
@@ -155,6 +185,9 @@ msgstr "A extrair arquivo ..."
 msgid "Extracting archive ... Done"
 msgstr "A extrair arquivo ... Concluído"
 
+msgid "Failed"
+msgstr ""
+
 msgid "Failed. Configuration file doesn't exist."
 msgstr "Ocorreu um erro. O ficheiro de configuração não existe."
 
@@ -166,6 +199,22 @@ msgstr "Concluir >"
 
 msgid "Finishing installation ..."
 msgstr "A terminar a instalação ..."
+
+msgid "Flatpak framework is busy, another application is being installed just now."
+msgstr ""
+
+msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
+msgstr ""
+
+msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
+msgstr ""
+
+msgid "Flatpak isn't installed ... Cancel !"
+msgstr ""
+
+#, fuzzy
+msgid "Flatpak isn't installed, exiting ..."
+msgstr "já está instalado, a sair ..."
 
 msgid "I Agree"
 msgstr "Concordo"
@@ -179,6 +228,10 @@ msgstr "Instalar >"
 msgid "Installation failed !"
 msgstr "Ocorreu um erro ao instalar !"
 
+#, fuzzy
+msgid "Installation not successful."
+msgstr "Instalação concluída com sucesso :-)"
+
 msgid "Installation successfully completed :-)"
 msgstr "Instalação concluída com sucesso :-)"
 
@@ -187,6 +240,10 @@ msgstr "A instalar ficheiros ..."
 
 msgid "Installing files ... OK"
 msgstr "A instalar ficheiros ... OK"
+
+#, fuzzy
+msgid "Installing package ..."
+msgstr "A instalar ficheiros ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
 msgstr "Permissões insuficientes, o utilizador não é membro do grupo \"sudo\", a sair ..."
@@ -197,11 +254,21 @@ msgstr "Texto da licença ..."
 msgid "Next >"
 msgstr "Seguinte >"
 
+msgid "No Flathub repository ... Cancel !"
+msgstr ""
+
+msgid "No Flathub repository, exiting ..."
+msgstr ""
+
 msgid "Package"
 msgstr "Pacote"
 
 msgid "Package system ... Busy !"
 msgstr "Sistema de pacotes ... Ocupado !"
+
+#, fuzzy
+msgid "Package system is busy, another application is being installed just now."
+msgstr "Sistema de pacotes ainda não consistente, a cancelar a instalação ..."
 
 msgid "Package system not consistent ..."
 msgstr "Sistema de pacotes não consistente ..."
@@ -215,6 +282,12 @@ msgstr "Atualização parcial da base de dados sw ..."
 msgid "Partial update sw database ... Done"
 msgstr "Atualização parcial da base de dados sw ... Concluído"
 
+msgid "Please make sure you are not installing another software and repeat setup few moments later."
+msgstr ""
+
+msgid "Please make sure you are not installing another software and repeat the setup."
+msgstr ""
+
 msgid "Postinstall operations ..."
 msgstr "Operações pós-instalação ..."
 
@@ -223,12 +296,6 @@ msgstr "Operações pós-instalação ... Concluído"
 
 msgid "Postinstall operations, additional commands ..."
 msgstr "Operações pós-instalação, comandos adicionais ..."
-
-msgid "Postinstall operations, update sw database ..."
-msgstr "Operações pós-instalação, atualizar base de dados sw ..."
-
-msgid "Postinstall operations, upgrade sw database ..."
-msgstr "Operações pós-instalação, atualizar base de dados sw ..."
 
 msgid "Preparing installation files ..."
 msgstr "A preparar ficheiros de instalação ..."
@@ -272,6 +339,9 @@ msgstr "Ação de configuração:"
 msgid "Setup action:  "
 msgstr "Ação de configuração:  "
 
+msgid "Setup messages were recorded into logfile:"
+msgstr ""
+
 msgid "Setup wizard"
 msgstr "Assistente de configuração"
 
@@ -290,8 +360,21 @@ msgstr "A testar a instalação ..."
 msgid "Testing installation ... Done"
 msgstr "A testar a instalação ... Concluído"
 
+msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
+msgstr ""
+
+msgid "The post installation check failed, the software may not have been installed correctly."
+msgstr ""
+
 msgid "Trying to recover APT integrity ..."
 msgstr "A tentar recuperar a integridade do APT ..."
+
+msgid "Unsupported distro"
+msgstr ""
+
+#, fuzzy
+msgid "Update Apt database ..."
+msgstr "Atualizar a base de dados sw ..."
 
 msgid "Update sw database ..."
 msgstr "Atualizar a base de dados sw ..."
@@ -305,6 +388,10 @@ msgstr "Atualizar cache do sistema ..."
 msgid "Update system cache ... Done"
 msgstr "Atualizar cache do sistema ... Concluído"
 
+#, fuzzy
+msgid "Upgrade Apt database ..."
+msgstr "Atualizar a base de dados sw ..."
+
 msgid "Verified ... OK"
 msgstr "Verificado ... OK"
 
@@ -317,8 +404,31 @@ msgstr "Aviso: não é possível terminar o proc_lock !"
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
 msgstr "Aviso: o proc_lock já está em execução, a tentar executar novamente o qprocess !"
 
+msgid "You are trying to install flatpak based software."
+msgstr ""
+
 msgid "already installed, exiting ..."
 msgstr "já está instalado, a sair ..."
+
+msgid "installed ... Cancel !"
+msgstr ""
+
+#, fuzzy
+msgid "not supported, exiting ..."
+msgstr "Necessita de permissões root. A sair ..."
+
+#, fuzzy
+msgid "software is already installed, so cancelling installation ..."
+msgstr "Sistema de pacotes ainda não consistente, a cancelar a instalação ..."
+
+#~ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+#~ msgstr "<p>Erro ao instalar a aplicação, não foi possível instalar.</p><p>As mensagens de configuração foram gravadas no ficheiro de registo: <b>"
+
+#~ msgid "Postinstall operations, update sw database ..."
+#~ msgstr "Operações pós-instalação, atualizar base de dados sw ..."
+
+#~ msgid "Postinstall operations, upgrade sw database ..."
+#~ msgstr "Operações pós-instalação, atualizar base de dados sw ..."
 
 #~ msgid "Fast system checks"
 #~ msgstr "Verificações rápidas do sistema"

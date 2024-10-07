@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-02 18:24+0200\n"
+"POT-Creation-Date: 2024-10-06 15:39+0200\n"
 "PO-Revision-Date: 2021-04-12 22:52+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
@@ -19,9 +19,6 @@ msgstr ""
 
 msgid "< Back"
 msgstr "< Indietro"
-
-msgid "</b></p><p>Cleaning and canceling now ...</p>"
-msgstr "</b></p><p>Pulizia e annullamento dell'operazione ...</p>"
 
 #, fuzzy
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
@@ -63,9 +60,6 @@ msgstr ""
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
 msgstr ""
 
-msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
-msgstr "<p>Si è verificato un errore durante l'installazione, mi dispiace. Non sono riuscito ad installare il programma.</p><p>I messaggi di installazione sono stati salvati nel file di log: <b>"
-
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr ""
 
@@ -99,6 +93,9 @@ msgstr "Aggiunta delle chiavi di sicurezza … OK"
 msgid "Autofix not needed ... OK"
 msgstr "Autofix non necessario ... OK"
 
+msgid "Busy !"
+msgstr ""
+
 msgid "CPU architecture doesn't match !"
 msgstr ""
 
@@ -108,8 +105,19 @@ msgstr "Calcolo dello stato di avanzamento ..."
 msgid "Cancel"
 msgstr "Annulla"
 
+#, fuzzy
+msgid "Canceling installation ..."
+msgstr "Controllo dell'installazione ..."
+
 msgid "Cannot lock APT database, exiting ..."
 msgstr ""
+
+msgid "Cannot lock Flatpak framework, exiting ..."
+msgstr ""
+
+#, fuzzy
+msgid "Checking distro"
+msgstr "Controllo dell'installazione ..."
 
 msgid "Checking installation ..."
 msgstr "Controllo dell'installazione ..."
@@ -122,6 +130,17 @@ msgstr "Controllo dell'installazione … OK"
 
 msgid "Checking package system ..."
 msgstr "Controllo del sistema di gestione dei pacchetti ..."
+
+#, fuzzy
+msgid "Cleaning and canceling now ..."
+msgstr "</b></p><p>Pulizia e annullamento dell'operazione ...</p>"
+
+msgid "Configuring Apt ..."
+msgstr ""
+
+#, fuzzy
+msgid "Configuring Apt ... Done"
+msgstr "Copia dei pacchetti di sistema … Fatto"
 
 msgid "Copying system packages ..."
 msgstr "Copia dei pacchetti di sistema ..."
@@ -138,8 +157,18 @@ msgstr ""
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr ""
 
+#, fuzzy
+msgid "Determining Flatpak configuration ... "
+msgstr "Registrazione dell'applicazione … OK"
+
+msgid "Distro"
+msgstr ""
+
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Vuoi veramente annullare l'operazione in corso?"
+
+msgid "Done"
+msgstr ""
 
 msgid "Downloading packages ..."
 msgstr "Scaricamento dei pacchetti ..."
@@ -156,6 +185,9 @@ msgstr "Estrazione dell'archivio ..."
 msgid "Extracting archive ... Done"
 msgstr "Estrazione dell'archivio … Fatto"
 
+msgid "Failed"
+msgstr ""
+
 msgid "Failed. Configuration file doesn't exist."
 msgstr ""
 
@@ -166,6 +198,22 @@ msgid "Finish >"
 msgstr "Finito >"
 
 msgid "Finishing installation ..."
+msgstr "Completamento dell'installazione ..."
+
+msgid "Flatpak framework is busy, another application is being installed just now."
+msgstr ""
+
+msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
+msgstr ""
+
+msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
+msgstr ""
+
+msgid "Flatpak isn't installed ... Cancel !"
+msgstr ""
+
+#, fuzzy
+msgid "Flatpak isn't installed, exiting ..."
 msgstr "Completamento dell'installazione ..."
 
 msgid "I Agree"
@@ -181,6 +229,10 @@ msgstr "Installa >"
 msgid "Installation failed !"
 msgstr "Installazione dei file ..."
 
+#, fuzzy
+msgid "Installation not successful."
+msgstr "Installazione completata con successo :-)"
+
 msgid "Installation successfully completed :-)"
 msgstr "Installazione completata con successo :-)"
 
@@ -189,6 +241,10 @@ msgstr "Installazione dei file ..."
 
 msgid "Installing files ... OK"
 msgstr "Installazione dei file … OK"
+
+#, fuzzy
+msgid "Installing package ..."
+msgstr "Installazione dei file ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
 msgstr ""
@@ -199,11 +255,21 @@ msgstr "Contratto di licenza..."
 msgid "Next >"
 msgstr "Avanti >"
 
+msgid "No Flathub repository ... Cancel !"
+msgstr ""
+
+msgid "No Flathub repository, exiting ..."
+msgstr ""
+
 msgid "Package"
 msgstr ""
 
 msgid "Package system ... Busy !"
 msgstr "Sistema di gestione dei pacchetti … Occupato!"
+
+#, fuzzy
+msgid "Package system is busy, another application is being installed just now."
+msgstr "Sistema di gestione dei pacchetti ancora non consistente, annullamento dell'installazione ..."
 
 msgid "Package system not consistent ..."
 msgstr "Sistema di gestione dei pacchetti non consistente ..."
@@ -217,6 +283,12 @@ msgstr "Update parziale del database delle applicazioni ..."
 msgid "Partial update sw database ... Done"
 msgstr "Update parziale del database delle applicazioni … Fatto"
 
+msgid "Please make sure you are not installing another software and repeat setup few moments later."
+msgstr ""
+
+msgid "Please make sure you are not installing another software and repeat the setup."
+msgstr ""
+
 msgid "Postinstall operations ..."
 msgstr "Operazioni post installazione ..."
 
@@ -225,12 +297,6 @@ msgstr "Operazioni post installazione … Fatto"
 
 msgid "Postinstall operations, additional commands ..."
 msgstr "Operazioni post installazione, comandi addizionali ..."
-
-msgid "Postinstall operations, update sw database ..."
-msgstr "Operazioni post installazione, update del database delle applicazioni ..."
-
-msgid "Postinstall operations, upgrade sw database ..."
-msgstr "Operazioni post installazione, upgrade del database delle applicazioni ..."
 
 msgid "Preparing installation files ..."
 msgstr "Preparazione dei file di installazione …"
@@ -276,6 +342,9 @@ msgstr "Azione di configurazione:"
 msgid "Setup action:  "
 msgstr "Azione di configurazione:  "
 
+msgid "Setup messages were recorded into logfile:"
+msgstr ""
+
 #, fuzzy
 msgid "Setup wizard"
 msgstr "assistente di configurazione"
@@ -295,8 +364,21 @@ msgstr "Test dell'installazione ..."
 msgid "Testing installation ... Done"
 msgstr "Test dell'installazione ... Fatto"
 
+msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
+msgstr ""
+
+msgid "The post installation check failed, the software may not have been installed correctly."
+msgstr ""
+
 msgid "Trying to recover APT integrity ..."
 msgstr "Cerco di ripristinare l'integrità di APT ..."
+
+msgid "Unsupported distro"
+msgstr ""
+
+#, fuzzy
+msgid "Update Apt database ..."
+msgstr "Update del database delle applicazioni …"
 
 msgid "Update sw database ..."
 msgstr "Update del database delle applicazioni …"
@@ -310,6 +392,10 @@ msgstr "Aggiornamento della cache di sistema …"
 msgid "Update system cache ... Done"
 msgstr "Aggiornamento della cache di sistema … Fatto"
 
+#, fuzzy
+msgid "Upgrade Apt database ..."
+msgstr "Update del database delle applicazioni …"
+
 msgid "Verified ... OK"
 msgstr "Verifica … OK"
 
@@ -322,8 +408,30 @@ msgstr ""
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
 msgstr ""
 
+msgid "You are trying to install flatpak based software."
+msgstr ""
+
 msgid "already installed, exiting ..."
 msgstr ""
+
+msgid "installed ... Cancel !"
+msgstr ""
+
+msgid "not supported, exiting ..."
+msgstr ""
+
+#, fuzzy
+msgid "software is already installed, so cancelling installation ..."
+msgstr "Sistema di gestione dei pacchetti ancora non consistente, annullamento dell'installazione ..."
+
+#~ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
+#~ msgstr "<p>Si è verificato un errore durante l'installazione, mi dispiace. Non sono riuscito ad installare il programma.</p><p>I messaggi di installazione sono stati salvati nel file di log: <b>"
+
+#~ msgid "Postinstall operations, update sw database ..."
+#~ msgstr "Operazioni post installazione, update del database delle applicazioni ..."
+
+#~ msgid "Postinstall operations, upgrade sw database ..."
+#~ msgstr "Operazioni post installazione, upgrade del database delle applicazioni ..."
 
 #~ msgid "Fast system checks"
 #~ msgstr "Controlli veloci del sistema"

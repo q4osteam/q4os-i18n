@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:15+0100\n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
 "PO-Revision-Date: 2019-10-15 16:37+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -26,13 +26,13 @@ msgstr ""
 msgid "---  Menu  ---"
 msgstr ""
 
+msgid "1"
+msgstr ""
+
 msgid "<"
 msgstr ""
 
 msgid "<p>"
-msgstr ""
-
-msgid "<p>Discover software manager isn't installed, please install it first.</p>"
 msgstr ""
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
@@ -44,13 +44,13 @@ msgstr ""
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr ""
 
-msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr ""
-
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Eine Virtualbox-Installation wurde erkannt !</p><p>Alle Funktionen werden während des Virtualbox-Setups deaktiviert. Bitte warten Sie bis zum Ende der Virtualbox-Installation.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr ""
+
+msgid "APT database hasn't been updated yet."
 msgstr ""
 
 msgid "Application"
@@ -69,6 +69,9 @@ msgstr "Desktop-Profiler"
 msgid "Desktop profiler"
 msgstr "Desktop-Profiler"
 
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr ""
+
 #, fuzzy
 msgid "Featured applications"
 msgstr "Installiere die ausgewählten Programme"
@@ -77,8 +80,25 @@ msgstr "Installiere die ausgewählten Programme"
 msgid "Featured applications: #"
 msgstr "Installiere die ausgewählten Programme"
 
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
 msgid "Info"
 msgstr "Info"
+
+#, fuzzy
+msgid "Install"
+msgstr "Deinstallieren"
+
+msgid "Install Discover ?"
+msgstr ""
+
+#, fuzzy
+msgid "Install Synaptic ?"
+msgstr "Installieren"
 
 msgid "Install application"
 msgstr "Installieren"
@@ -88,6 +108,9 @@ msgstr ""
 
 msgid "More options"
 msgstr "Mehr Möglichkeiten"
+
+msgid "Open Flathub repository in the preferred web browser"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS Software Center"
@@ -118,6 +141,9 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr ""
+
 msgid "Uninstall"
 msgstr "Deinstallieren"
 
@@ -133,10 +159,16 @@ msgstr ""
 msgid "config_file"
 msgstr "config_file"
 
+msgid "dependencies"
+msgstr ""
+
 msgid "download"
 msgstr "Herunterladen"
 
 msgid "no selection"
+msgstr ""
+
+msgid "origin"
 msgstr ""
 
 msgid "package"
@@ -146,6 +178,9 @@ msgid "rating_num"
 msgstr "rating_num"
 
 msgid "recordnum"
+msgstr ""
+
+msgid "repositories"
 msgstr ""
 
 msgid "textLabel"

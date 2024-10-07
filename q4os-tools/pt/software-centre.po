@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 00:15+0100\n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
 "PO-Revision-Date: 2022-09-30 15:05+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -28,14 +28,14 @@ msgstr "#Registos: "
 msgid "---  Menu  ---"
 msgstr "---  Menu  ---"
 
+msgid "1"
+msgstr ""
+
 msgid "<"
 msgstr "<"
 
 msgid "<p>"
 msgstr "<p>"
-
-msgid "<p>Discover software manager isn't installed, please install it first.</p>"
-msgstr "<p>O gestor de software Discover não está instalado, instale-o primeiro.</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>A instalação da NVIDIA foi detectada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
@@ -46,14 +46,14 @@ msgstr "<p>Sistema de pacotes ocupado, não está pronto para instalar agora. A 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Selecione uma aplicação a instalar a partir da lista de aplicações em destaque.</p>"
 
-msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.</p>"
-
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Uma instalação Virtualbox foi detectada !</p><p>As ações estão desativadas durante a instalação Virtualbox, aguarde até ao final da instalação do Virtualbox.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Ainda não aplicou nenhum perfil do ambiente de trabalho. É altamente recomendado aplicar um perfil de ambiente de trabalho antes de instalar aplicações.</p><p>Execute a ferramenta <b>Perfil de ambiente de trabalho</b> para escolher e aplicar um perfil.</p>"
+
+msgid "APT database hasn't been updated yet."
+msgstr ""
 
 msgid "Application"
 msgstr "Aplicação"
@@ -70,14 +70,35 @@ msgstr "Perfil do ambiente de trabalho"
 msgid "Desktop profiler"
 msgstr "Perfil de ambiente de trabalho"
 
+#, fuzzy
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr "<p>O gestor de software Discover não está instalado, instale-o primeiro.</p>"
+
 msgid "Featured applications"
 msgstr "Aplicações em destaque"
 
 msgid "Featured applications: #"
 msgstr "Aplicações em destaque: #"
 
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
 msgid "Info"
 msgstr "Info"
+
+#, fuzzy
+msgid "Install"
+msgstr "Desinstalar"
+
+msgid "Install Discover ?"
+msgstr ""
+
+#, fuzzy
+msgid "Install Synaptic ?"
+msgstr "Instalar a aplicação"
 
 msgid "Install application"
 msgstr "Instalar a aplicação"
@@ -87,6 +108,9 @@ msgstr "Instalar ou desinstalar a aplicação selecionada a partir da lista de a
 
 msgid "More options"
 msgstr "Mais opções"
+
+msgid "Open Flathub repository in the preferred web browser"
+msgstr ""
 
 msgid "Q4OS Software Centre"
 msgstr "Centro de software Q4OS"
@@ -115,6 +139,10 @@ msgstr "Estado"
 msgid "Status:"
 msgstr "Estado:"
 
+#, fuzzy
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.</p>"
+
 msgid "Uninstall"
 msgstr "Desinstalar"
 
@@ -130,11 +158,17 @@ msgstr "action2"
 msgid "config_file"
 msgstr "config_file"
 
+msgid "dependencies"
+msgstr ""
+
 msgid "download"
 msgstr "transferir"
 
 msgid "no selection"
 msgstr "nenhuma seleção"
+
+msgid "origin"
+msgstr ""
 
 msgid "package"
 msgstr "pacote"
@@ -144,6 +178,9 @@ msgstr "rating_num"
 
 msgid "recordnum"
 msgstr "recordnum"
+
+msgid "repositories"
+msgstr ""
 
 msgid "textLabel"
 msgstr "textLabel"
