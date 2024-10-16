@@ -1,15 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-06 17:15+0200\n"
-"PO-Revision-Date: 2022-09-30 15:05+0100\n"
+"PO-Revision-Date: 2024-10-16 17:54+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -17,7 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.5\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: C\n"
 
 msgid "#Filter: "
 msgstr "#Filtro: "
@@ -29,7 +30,7 @@ msgid "---  Menu  ---"
 msgstr "---  Menu  ---"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "<"
 msgstr "<"
@@ -53,7 +54,7 @@ msgid "<p>You have applied no desktop profile yet. It's highly recommended to ap
 msgstr "<p>Ainda não aplicou nenhum perfil do ambiente de trabalho. É altamente recomendado aplicar um perfil de ambiente de trabalho antes de instalar aplicações.</p><p>Execute a ferramenta <b>Perfil de ambiente de trabalho</b> para escolher e aplicar um perfil.</p>"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "A base de dados APT ainda não foi atualizada."
 
 msgid "Application"
 msgstr "Aplicação"
@@ -70,9 +71,8 @@ msgstr "Perfil do ambiente de trabalho"
 msgid "Desktop profiler"
 msgstr "Perfil de ambiente de trabalho"
 
-#, fuzzy
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr "<p>O gestor de software Discover não está instalado, instale-o primeiro.</p>"
+msgstr "O gestor de software Discover não está instalado, pretende instalá-lo agora?"
 
 msgid "Featured applications"
 msgstr "Aplicações em destaque"
@@ -81,24 +81,22 @@ msgid "Featured applications: #"
 msgstr "Aplicações em destaque: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Aplicações Flathub"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Para obter mais aplicações na lista em destaque, atualize a base de dados APT e inicie novamente o Centro de Software."
 
 msgid "Info"
 msgstr "Info"
 
-#, fuzzy
 msgid "Install"
-msgstr "Desinstalar"
+msgstr "Instalar"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "Instalar o Discover ?"
 
-#, fuzzy
 msgid "Install Synaptic ?"
-msgstr "Instalar a aplicação"
+msgstr "Instalar o Synaptic ?"
 
 msgid "Install application"
 msgstr "Instalar a aplicação"
@@ -110,7 +108,7 @@ msgid "More options"
 msgstr "Mais opções"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "Abrir o repositório Flathub no navegador Web preferido"
 
 msgid "Q4OS Software Centre"
 msgstr "Centro de software Q4OS"
@@ -139,9 +137,8 @@ msgstr "Estado"
 msgid "Status:"
 msgstr "Estado:"
 
-#, fuzzy
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr "<p>O Gestor de pacotes Synaptic não está instalado, instale-o primeiro.</p>"
+msgstr "O gestor de software Synaptic não está instalado, pretende instalá-lo agora?"
 
 msgid "Uninstall"
 msgstr "Desinstalar"
@@ -159,7 +156,7 @@ msgid "config_file"
 msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependências"
 
 msgid "download"
 msgstr "transferir"
@@ -168,7 +165,7 @@ msgid "no selection"
 msgstr "nenhuma seleção"
 
 msgid "origin"
-msgstr ""
+msgstr "origem"
 
 msgid "package"
 msgstr "pacote"
@@ -180,7 +177,7 @@ msgid "recordnum"
 msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositórios"
 
 msgid "textLabel"
 msgstr "textLabel"
