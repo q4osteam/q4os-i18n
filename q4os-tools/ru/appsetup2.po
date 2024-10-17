@@ -20,33 +20,28 @@ msgstr ""
 msgid "< Back"
 msgstr "< Назад"
 
-#, fuzzy
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr "Система проверяется на готовность к установке"
+msgstr "<b>Быстрые проверки системы</b><br>&nbsp;&nbsp;&nbsp;Система предварительно проверяет среду установки"
 
-#, fuzzy
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr "Система запрашивает права на установку"
+msgstr "<b>Получение прав</b><br>&nbsp;&nbsp;&nbsp;Система запрашивает права на установку"
 
-#, fuzzy
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr "Пожалуйста, дождитесь окончания процесса установки"
+msgstr "<b>Установка</b><br>&nbsp;&nbsp;&nbsp;Пожалуйста, дождитесь завершения установки ПО"
 
-#, fuzzy
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr "Пожалуйста, ознакомьтесь с условиями лицензии перед установкой"
+msgstr "<b>Лицензионное соглашение</b><br>&nbsp;&nbsp;&nbsp;Пожалуйста, ознакомьтесь с условиями лицензии перед установкой"
 
-#, fuzzy
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
-"<p><h2>Завершение установки _SUBST_SWNAME_</h2><br></p>\n"
-"<p>Программа _SUBST_SWNAME_ успешно установлена на Ваш компьютер.<br></p>\n"
-"<p>Нажмите кнопку Готово для закрытия данного окна.<br><br><br><br><br><br></p>\n"
-"<p>Посетите сайт _SUBST_SWNAME_ для получения последних новостей и поддержки.</p>"
+"<p><h2>Завершение мастера установки _SUBST_SWNAME_</h2><br></p>\n"
+"<p>Приложение _SUBST_SWNAME_ успешно установлено на ваш компьютер.<br></p>\n"
+"<p>Нажмите кнопку Завершить для закрытия мастера.<br><br><br><br><br><br></p>\n"
+"<p>Посетите сайт _SUBST_SWNAME_ для получения последних новостей и поддержки</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
@@ -54,14 +49,14 @@ msgid ""
 "<p>Click Next to continue.</p>\n"
 msgstr ""
 "<p><h2>Добро пожаловать в Мастер установки _SUBST_SWNAME_</h2></p>\n"
-"<p>Мастер проведёт вас через все шаги процесса установки _SUBST_SWNAME_.</p>\n"
-"<p>Нажмите кнопку Далее, чтобы продолжить.</p>\n"
+"<p>Этот мастер проведёт вас через все шаги установки приложения _SUBST_SWNAME_.</p>\n"
+"<p>Нажмите кнопку Далее для продолжения.</p>\n"
 
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Архитектура процессора не подходит!</p><p> Установка отменяется…</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Изначальные данные неполные!</p><p> Установка отменяется…</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
 msgstr "<p>Соединение с Интернетом неактивно или медленное. Установщику необходимо загрузить пакеты приложений из сетевых источников Q4OS. Установку невозможно продолжить…</p>"
@@ -94,10 +89,10 @@ msgid "Autofix not needed ... OK"
 msgstr "Автоисправление не требуется… ОК"
 
 msgid "Busy !"
-msgstr ""
+msgstr "В работе!"
 
 msgid "CPU architecture doesn't match !"
-msgstr ""
+msgstr "Архитектура процессора не подходит!"
 
 msgid "Calculating progress ..."
 msgstr "Вычисляется прогресс…"
@@ -105,19 +100,17 @@ msgstr "Вычисляется прогресс…"
 msgid "Cancel"
 msgstr "Отмена"
 
-#, fuzzy
 msgid "Canceling installation ..."
-msgstr "Проверяется установка…"
+msgstr "Установка отменяется…"
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "Невозможно заблокировать базу данных APT, выход…"
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Невозможно заблокировать фреймворк Flatpak, выход…"
 
-#, fuzzy
 msgid "Checking distro"
-msgstr "Проверяется установка…"
+msgstr "Проверяется дистрибутив"
 
 msgid "Checking installation ..."
 msgstr "Проверяется установка…"
@@ -131,16 +124,14 @@ msgstr "Проверяется установка… ОК"
 msgid "Checking package system ..."
 msgstr "Проверяется система пакетов…"
 
-#, fuzzy
 msgid "Cleaning and canceling now ..."
-msgstr "</b></p><p>Очистка и отмена сейчас…</p>"
+msgstr "Очистка и отмена сейчас…"
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Настраивается Apt…"
 
-#, fuzzy
 msgid "Configuring Apt ... Done"
-msgstr "Копируются пакеты системы… Готово"
+msgstr "Настраивается Apt… Готово"
 
 msgid "Copying system packages ..."
 msgstr "Копируются пакеты системы…"
@@ -149,26 +140,25 @@ msgid "Copying system packages ... Done"
 msgstr "Копируются пакеты системы… Готово"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "Не удалось инициализировать, неверный заголовок данных!"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "Не удалось инициализировать, неверный заголовок данных."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Не удалось запустить низкоуровневые средства apt для Q4OS! Это серьёзная проблема, которая может нарушить установку…"
 
-#, fuzzy
 msgid "Determining Flatpak configuration ... "
-msgstr "Регистрируется приложения… ОК"
+msgstr "Определяется конфигурация Flatpak… "
 
 msgid "Distro"
-msgstr ""
+msgstr "Дистрибутив"
 
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Вы действительно хотите прервать текущую операцию?"
 
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 msgid "Downloading packages ..."
 msgstr "Загружаются пакеты…"
@@ -186,13 +176,13 @@ msgid "Extracting archive ... Done"
 msgstr "Распаковывается архив… Готово"
 
 msgid "Failed"
-msgstr ""
+msgstr "Ошибка"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "Ошибка. Файл конфигурации не существует."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "Ошибка. Входной файл не существует."
 
 msgid "Finish >"
 msgstr "Завершить >"
@@ -201,20 +191,19 @@ msgid "Finishing installation ..."
 msgstr "Завершается установка…"
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Фреймворк Flatpak занят, в данный момент устанавливается другое приложение."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak установлен, но репозиторий Flathub не включён. Пожалуйста, сначала добавьте репозиторий Flathub. Установка отменяется…"
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak не установлен, поэтому установка отменяется. Пожалуйста, сначала установите пакет flatpak…"
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak не установлен… Отмена!"
 
-#, fuzzy
 msgid "Flatpak isn't installed, exiting ..."
-msgstr "Завершается установка…"
+msgstr "Flatpak не установлен, выход…"
 
 msgid "I Agree"
 msgstr "Согласен"
@@ -225,13 +214,11 @@ msgstr "Нажмите «Согласен», если вы принимаете 
 msgid "Install >"
 msgstr "Установить >"
 
-#, fuzzy
 msgid "Installation failed !"
-msgstr "Устанавливаются файлы…"
+msgstr "Установка не удалась!"
 
-#, fuzzy
 msgid "Installation not successful."
-msgstr "Установка успешно завершена :-)"
+msgstr "Установка завершилась неудачей."
 
 msgid "Installation successfully completed :-)"
 msgstr "Установка успешно завершена :-)"
@@ -242,12 +229,11 @@ msgstr "Устанавливаются файлы…"
 msgid "Installing files ... OK"
 msgstr "Устанавливаются файлы… ОК"
 
-#, fuzzy
 msgid "Installing package ..."
-msgstr "Устанавливаются файлы…"
+msgstr "Устанавливается пакет…"
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "Недостаточно прав, пользователь не входит в группу «sudo», выход…"
 
 msgid "License text ..."
 msgstr "Текст лицензии…"
@@ -256,20 +242,19 @@ msgid "Next >"
 msgstr "Далее >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Нет репозитория Flayhub… Отмена!"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Нет репозитория Flayhub, выход…"
 
 msgid "Package"
-msgstr ""
+msgstr "Пакет"
 
 msgid "Package system ... Busy !"
 msgstr "Система пакетов… В работе!"
 
-#, fuzzy
 msgid "Package system is busy, another application is being installed just now."
-msgstr "Система пакетов всё ещё непоследовательна. Установка отменяется…"
+msgstr "Система пакетов занята, в данный момент устанавливается другое приложение."
 
 msgid "Package system not consistent ..."
 msgstr "Непоследовательная система пакетов…"
@@ -284,10 +269,10 @@ msgid "Partial update sw database ... Done"
 msgstr "Частичное обновление базы данных ПО… Готово"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "Пожалуйста, убедитесь, что вы не устанавливаете другое ПО, и повторите настройку через несколько минут."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "Пожалуйста, убедитесь, что вы не устанавливаете другое ПО, и повторите установку."
 
 msgid "Postinstall operations ..."
 msgstr "Операции после установки…"
@@ -305,14 +290,13 @@ msgid "Preparing installation files ... OK"
 msgstr "Подготавливаются файлы установки… ОК"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "Сценарий предварительного исполнения запросил выход. Код выхода:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr "Нажмите клавишу Page Down для прокрутки текста соглашения"
+msgstr "Нажмите клавишу Page Down для прокрутки текста соглашения."
 
-#, fuzzy
 msgid "Q4OS Install System v1.0"
-msgstr "Мастер установки Q4OS v0.2.0"
+msgstr "Установочная система Q4OS v1.0"
 
 msgid "Recovered ... OK"
 msgstr "Восстановлено… ОК"
@@ -321,14 +305,13 @@ msgid "Registering application ... OK"
 msgstr "Регистрируется приложения… ОК"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Требуются права root, выход…"
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "Выполнение пользовательских скриптов…"
 
-#, fuzzy
 msgid "Running custom scripts ... Done"
-msgstr "Копируются пакеты системы… Готово"
+msgstr "Выполнение пользовательских скриптов… Готово"
 
 msgid "Searching for language packages ..."
 msgstr "Поиск языковых пакетов…"
@@ -343,11 +326,10 @@ msgid "Setup action:  "
 msgstr "Действие установки:  "
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "Сообщения установки записаны в файл журнала:"
 
-#, fuzzy
 msgid "Setup wizard"
-msgstr "мастер установки"
+msgstr "Мастер установки"
 
 msgid "Testing Internet connection ..."
 msgstr "Проверяется соединение с Интернетом…"
@@ -365,20 +347,19 @@ msgid "Testing installation ... Done"
 msgstr "Проверяется установка… Готово"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "Блокировка также может быть вызвана обновлением системы, выполняемым в фоновом режиме. В этом случае необходимо подождать несколько минут, пока система пакета завершит эти операции."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "Проверка после установки не удалась, возможно, ПО было установлено неправильно."
 
 msgid "Trying to recover APT integrity ..."
 msgstr "Попытка восстановить целостность APT…"
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "Неподдерживаемый дистрибутив"
 
-#, fuzzy
 msgid "Update Apt database ..."
-msgstr "Обновление базы данных ПО…"
+msgstr "Обновление базы данных Apt…"
 
 msgid "Update sw database ..."
 msgstr "Обновление базы данных ПО…"
@@ -387,14 +368,13 @@ msgid "Update sw database ... Done"
 msgstr "Обновление базы данных ПО… Готово"
 
 msgid "Update system cache ..."
-msgstr "Обновляется кэш системы… "
+msgstr "Обновляется кэш системы…"
 
 msgid "Update system cache ... Done"
 msgstr "Обновляется кэш системы… Готово"
 
-#, fuzzy
 msgid "Upgrade Apt database ..."
-msgstr "Обновление базы данных ПО…"
+msgstr "Обновление базы данных Apt…"
 
 msgid "Verified ... OK"
 msgstr "Проверка… ОК"
@@ -403,26 +383,25 @@ msgid "Waiting to complete current operation ... Done"
 msgstr "Ожидается завершение текущей операции… Готово"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "Предупреждение: невозможно завершить proc_lock!"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "Предупреждение: proc_lock уже запущен, попытка повторно запустить qprocess!"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "Вы пытаетесь установить программное обеспечение на основе flatpak."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "уже установлено, выход…"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "установлено… Отмена!"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "не поддерживается, выход…"
 
-#, fuzzy
 msgid "software is already installed, so cancelling installation ..."
-msgstr "Система пакетов всё ещё непоследовательна. Установка отменяется…"
+msgstr "программное обеспечение уже установлено, поэтому установка отменяется…"
 
 #~ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
 #~ msgstr "<p>Ошибка установки приложения, извините, невозможно установить.</p><p>Сообщения установки были записаны в файл журнала: <b>"
