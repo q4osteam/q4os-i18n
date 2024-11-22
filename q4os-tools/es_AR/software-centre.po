@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS Software Centre package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS Software Centre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#Filter: "
+msgstr ""
+
+msgid "#Records: "
+msgstr ""
+
+msgid "---  Menu  ---"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "<"
+msgstr ""
+
+msgid "<p>"
+msgstr ""
+
+msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+msgstr ""
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr ""
+
+msgid "<p>Select an application to install from the list of featured applications.</p>"
+msgstr ""
+
+msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+msgstr ""
+
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr ""
+
+msgid "APT database hasn't been updated yet."
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desktop Profiler"
+msgstr ""
+
+msgid "Desktop profiler"
+msgstr ""
+
+msgid "Discover software manager isn't installed, do you want to install it now ?"
+msgstr ""
+
+msgid "Featured applications"
+msgstr ""
+
+msgid "Featured applications: #"
+msgstr ""
+
+msgid "Flathub apps"
+msgstr ""
+
+msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Install Discover ?"
+msgstr ""
+
+msgid "Install Synaptic ?"
+msgstr ""
+
+msgid "Install application"
+msgstr ""
+
+msgid "Install or uninstall selected application from the featured applications list below"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "Open Flathub repository in the preferred web browser"
+msgstr ""
+
+msgid "Q4OS Software Centre"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Run 'Desktop Profiler' tool"
+msgstr ""
+
+msgid "Run 'Discover' advanced software manager"
+msgstr ""
+
+msgid "Run 'Synaptic' advanced software manager"
+msgstr ""
+
+msgid "Run comfortable package installer and Flatpak installer"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
+
+msgid "Synaptic package manager isn't installed, do you want to install it now ?"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstall now"
+msgstr ""
+
+msgid "action1"
+msgstr ""
+
+msgid "action2"
+msgstr ""
+
+msgid "config_file"
+msgstr ""
+
+msgid "dependencies"
+msgstr ""
+
+msgid "download"
+msgstr ""
+
+msgid "no selection"
+msgstr ""
+
+msgid "origin"
+msgstr ""
+
+msgid "package"
+msgstr ""
+
+msgid "rating_num"
+msgstr ""
+
+msgid "recordnum"
+msgstr ""
+
+msgid "repositories"
+msgstr ""
+
+msgid "textLabel"
+msgstr ""
