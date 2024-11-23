@@ -27,7 +27,7 @@ msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation 
 msgstr "<b>Obtener permisos</b><br>&nbsp;&nbsp;&nbsp;El sistema solicita permisos de instalación."
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr "<b>Instalando</b><br>&nbsp;&nbsp;&nbsp;Espere mientras se instala el software"
+msgstr "<b>Instalando</b><br>&nbsp;&nbsp;&nbsp;Esperá mientras se instala el software"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
 msgstr "<b>Contrato de licencia de usuario final</b><br>&nbsp;&nbsp;&nbsp;Por favor, revise los términos de licencia antes de instalar"
@@ -36,7 +36,7 @@ msgid "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr "<p><h2>Terminando el asistente de instalación de _SUBST_SWNAME_</h2><br></p>\n"
-"<p>El software _SUBST_SWNAME_ ha sido instalado en su ordenador.<br></p>\n"
+"<p>El software _SUBST_SWNAME_ ha sido instalado en tu computadora.<br></p>\n"
 "<p>Hacé clic en Finalizar para cerrar el asistente.<br><br><br><br><br></p>\n"
 "<p>Visitá el sitio web de _SUBST_SWNAME_ para obtener las últimas noticias, preguntas frecuentes y asistencia</p> <p>"
 
