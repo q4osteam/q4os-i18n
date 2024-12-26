@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Q4OS CPU-Q package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2024.
 #
 #, fuzzy
 msgid ""
@@ -18,154 +18,154 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(C) 2019 Q4OS"
-msgstr ""
+msgstr "(C) 2019 Q4OS"
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Velocidad del Bus"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Chaché"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Relojes"
 
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Nombre clave"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Velocidad del núcleo"
 
 msgid "Cores"
-msgstr ""
+msgstr "Núcleos"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Escritorio"
 
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 msgid "Distro"
-msgstr ""
+msgstr "Distribución"
 
 msgid "FW Date"
-msgstr ""
+msgstr "FW Date"
 
 msgid "Family"
-msgstr ""
+msgstr "Familia"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
 
 msgid "Graphics"
-msgstr ""
+msgstr "Graficos"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Resumen HW"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Información de Hardware"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Información de Hardware - Detalles"
 
 msgid "Host"
-msgstr ""
+msgstr "Anfitrión"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instrucciones"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Data"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 Inst"
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 Cache"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Nivel 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Nivel 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Tarjeta Madre"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Velocidad Máxima"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Microcódigo"
 
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Multiplicador"
 
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 msgid "Package"
-msgstr ""
+msgstr "Paquete"
 
 msgid "Processor"
-msgstr ""
+msgstr "Procesador"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Procesador #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "Memoria RAM Total"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Rated FSB"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "Arranque Seguro"
 
 msgid "Selection"
-msgstr ""
+msgstr "Selección"
 
 msgid "Specification"
-msgstr ""
+msgstr "Especificación"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Almacenamiento Total"
 
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgid "Threads"
-msgstr ""
+msgstr "Hilos"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topología"
 
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
