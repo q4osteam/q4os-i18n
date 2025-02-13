@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Calamares\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:34+0200\n"
+"POT-Creation-Date: 2025-02-13 14:30+0100\n"
 "PO-Revision-Date: 2019-10-17 20:45+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -60,7 +60,8 @@ msgstr "U kunt tienduizenden vrijesoftwareprogramma's installeren middels de pak
 msgid "Thank you for choosing us."
 msgstr "Bedankt dat u voor ons hebt gekozen."
 
-msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+#, fuzzy
+msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 msgstr "De Q4OS-updatebeheerder houdt uw systeem in de gaten en werkt het automatisch bij zodra er updates beschikbaar zijn."
 
 msgid "This is Q4OS"

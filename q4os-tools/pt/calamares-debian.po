@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS calamares debian\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:34+0200\n"
+"POT-Creation-Date: 2025-02-13 14:30+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -58,7 +58,8 @@ msgstr "Dezenas de milhares de aplicações de software gratuitas estão dispon�
 msgid "Thank you for choosing us."
 msgstr "Obrigado por nos escolher."
 
-msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+#, fuzzy
+msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 msgstr "O gestor de atualizações do Q4OS vigia o seu sistema e atualiza-o automaticamente assim que as atualizações estiverem disponíveis."
 
 msgid "This is Q4OS"

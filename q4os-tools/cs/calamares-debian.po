@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:34+0200\n"
+"POT-Creation-Date: 2025-02-13 14:30+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -58,7 +58,8 @@ msgstr "Deset tisíc bezplatných softwarových aplikací je k dispozici od spr�
 msgid "Thank you for choosing us."
 msgstr "Děkujeme, že jste si nás vybral."
 
-msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
+#, fuzzy
+msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 msgstr "Správce aktualizací Q4OS sleduje systém a automaticky aktualizuje, jakmile budou k dispozici aktualizace."
 
 msgid "This is Q4OS"
