@@ -9,235 +9,236 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 21:44+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-01-28 16:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p align=justify><b>Üdvözlünk a Q40S-ben</b>, a gyors és erőteljes operációs rendszerben, amely a stabilitásra, a megbízhatóságra és a klasszikus felhasználói felületre összpontosít.</p><p align=justify>A Q40S egy letisztult asztali környezetként települ, minimális szoftverkészlettel. Itt az ideje, hogy testre szabd az asztalt, az alábbi gyorsgombok ebben segítenek.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>A bejelentkezési képernyő megkerülése és bejelentkezés jelszó megadása nélkül rendszerindításkor.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>A Desktop Profiler automatikusan egyetlen kattintással telepíti és konfigurálja a további alkalmazásokat és eszközöket.</p><p>Különböző asztali profilok közül választhatsz.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Egyéb hasznos konfigurációs lehetőségek.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Futtass egy interaktív szkriptet a professzionális minőségű kodekek extra gyűjteményének telepítéséhez.</p><p>A médialejátszók, mint például a VLC vagy az Mplayer, ezeket a kodekeket használják, hogy támogassák az ilyen kodekekkel kódolt DVD-k és multimédia fájlok lejátszását.</p></font>"
 
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Váltás az alternatív Kickoff Start menüre.</p><p>A jól elrendezett, modern stílusú Start menü keresősávot, kedvencek lapot, előzményeket és egyebeket kínál.</p></font>"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>A számodra hasznos alkalmazások letöltéséhez és telepítéséhez a Q4OS webes erőforrásaihoz irányítunk.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>Az automatikus bejelentkezés le van tiltva.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>Az automatikus bejelentkezés engedélyezve van.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
+msgstr "<p>Asztali effektek letiltásra kerültek.</p>"
 
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr ""
+msgstr "<p>Az asztali effektek engedélyezve lettek. Jelentkezz be újra, hogy a változások érvénybe lépjenek.</p>"
 
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
+msgstr "<p>Szeretnéd engedélyezni az automatikus bejelentkezést?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
+msgstr "<p>Szeretnéd átkapcsolni a Start menüt?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>NVIDIA telepítést észleltünk !</p><p>Az NVIDIA telepítés során a funkciók le vannak tiltva, kérlek, várj az NVIDIA telepítés végéig.</p>"
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>A Start menü mostantól Bourbon stílusra van állítva.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>A Start menü mostantól Klasszikus stílusra van állítva.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>A Start menü mostantól Kickoff stílusra van állítva.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Ez a művelet csak a Trinity és a Plasma asztali környezetben érhető el.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
+msgstr "<p>Ez a művelet csak a Trinity asztali környezetben érhető el.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>A Virtualbox telepítését észleltük !</p><p>A Virtualbox telepítése alatt a műveletek le vannak tiltva, kérlek, várj a Virtualbox telepítésének végéig.</p>"
 
 msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>A hardver gyengének tűnik az asztali effektek futtatásához, ezért nem ajánlott bekapcsolni az effekteket.</p><p>Szeretnéd bekapcsolni az asztali effekteket?</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Alkalmazz"
 
 msgid "Autologin configuration"
-msgstr ""
+msgstr "Autologin konfiguráció"
 
 msgid "Automatic login"
-msgstr ""
+msgstr "Automatikus bejelentkezés"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Bourbon"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Visszavon"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategóriák"
 
 msgid "Classic"
-msgstr ""
+msgstr "Klasszikus"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Klasszikus stílusú kaszkád menü"
 
 msgid "Desktop effects"
-msgstr ""
+msgstr "Asztali effektek"
 
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr ""
+msgstr "Szeretnéd bekapcsolni az asztali effekteket?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Online dokumentáció"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Támogatás a Q4OS-nak"
 
 msgid "Enable Autologin"
-msgstr ""
+msgstr "Autologin engedélyezése"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Hardver információk"
 
 msgid "Info"
-msgstr ""
+msgstr "Információk"
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Alkalmazások telepítése"
 
 msgid "Install Proprietary Codecs"
-msgstr ""
+msgstr "Saját codec-ek telepítése"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "KickOff típusú menü"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Alkalmazások szerint rendezett menü"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Kategóriák szerint rendezett menü"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Menü szerkezet"
 
 msgid "Menu type"
-msgstr ""
+msgstr "Menü típus"
 
 msgid "More options  >"
-msgstr ""
+msgstr "További lehetőségek >"
 
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr ""
+msgstr "Figyelem, az asztali effektek csak modern hardvereken működnek hibátlanul, nem ajánlott a használata régi hardverekkel. Egy rövid rendszertesztet fogunk végezni, hogy megbizonyosodjunk arról, hogy a hardver készen áll a konfiguráció elfogadására."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr ""
+msgstr "A Q4OS egy nagyon egyszerű és tiszta asztali környezetként települ, minimális szoftverkészlettel. Itt az ideje, hogy beállítsd az új munkaasztalt, érdemes kihasználni az alábbi gyorsgombokat."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "A betűtípusok és ikonok méretének módosítása, hogy az aktuális képernyőfelbontáshoz igazítsd, és olvashatóbbá tedd őket."
 
 msgid "Revert to Classic"
-msgstr ""
+msgstr "Visszaállítani a Klasszikusra"
 
 msgid "Revert to defaults"
-msgstr ""
+msgstr "Visszaállítás az alapértelmezettre"
 
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Asztal Profiler futtatása"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Képernyő méretezése"
 
 msgid "Set Autologin"
-msgstr ""
+msgstr "Autologin beállítása"
 
 msgid "Show this dialog on startup"
-msgstr ""
+msgstr "A párbeszédpanel megjelenítése indításkor"
 
 msgid "Start menu configuration"
-msgstr ""
+msgstr "Start menü konfigurációja"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Támogass minket a Patreonon"
 
 msgid "Switch start menu"
-msgstr ""
+msgstr "Váltás start menü"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Váltás Bourbonra"
 
 msgid "Switch to Kickoff"
-msgstr ""
+msgstr "Váltás Kickoff-ra"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Ezzel a beállítással bekapcsolod a simító és szépítő asztali effekteket."
 
 msgid "Turn ON"
-msgstr ""
+msgstr "Bekapcsolás"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Kétpaneles menü keresősorral"
 
 msgid "Warning !"
-msgstr ""
+msgstr "Figyelmeztetés!"
 
 msgid "Welcome screen"
-msgstr ""
+msgstr "Üdvözlő képernyő"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Üdvözlünk a Q4OS-ben"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Rendezett rendszerhardver-információk."
 
 msgid "Working ..."
-msgstr ""
+msgstr "Dolgozunk ..."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "gyors, nagy teljesítményű operációs rendszer, amely a hosszú távú stabilitásra, megbízhatóságra és a klasszikus felhasználói felületre összpontosít."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "pushButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "pushButton4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"

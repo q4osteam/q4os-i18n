@@ -9,328 +9,329 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-26 15:31+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-02-10 17:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr "  Telepítés >"
 
 msgid "* select please *"
-msgstr ""
+msgstr "* Kérlek válassz *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- Általános ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- Különféle ---"
 
 msgid "--- Selected profile ---"
-msgstr ""
+msgstr "--- Kiválasztott profil ---"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>Ez a párbeszédpanel lehetővé teszi egy további asztali környezet (DE) kiválasztását az alapértelmezett Q4OS-asztal mellé.</p><p align=justify>Kérlek, ne használd ezt az opciót, hacsak nem teljesen biztos vagy benne, hogy mit csinálsz.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>Nem lehetett megnyitni a fájlt.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>Törölni szeretnéd a függőben lévő műveletet ?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p>Telepítsd és állítsd be a <span style=„font-weight:600”>KDE Plasma</span> környezetet alapértelmezettként, és hagyd a Trinity asztali környezetet opcionálisnak.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Nem megfelelő hardvert észleltünk !</p><p>A processzorból hiányzik az SSE2 támogatás, az SSE2 szükséges a szükséges szoftverekhez.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Nem megfelelő hardvert észleltünk !</p><p>A számítógépen kevés hardver erőforrás áll rendelkezésre a kiválasztott profilhoz, nem ajánlott a profil telepítése.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>Maradjon a <span style=„font-weight:600”>Trinity</span> asztali környezet az alapértelmezett, nem lesz telepítve a Plasma. A Plasma telepítését később az Asztali profilozó eszközzel indíthatod el.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>A csomag telepítő rendszer elfoglalt, most nem áll készen a telepítésre. A telepítés nem folytatható.</p><p>A zárolást valószínűleg a háttérben futó rendszerfrissítések okozzák. Ha ez a helyzet, várnod kell egy pillanatot, amíg a csomagrendszer befejezi ezeket a műveleteket. Győződj meg róla, hogy nem telepítesz más alkalmazást, és néhány perccel később ismételd meg a telepítést.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Figyelmeztetés: A telepítés megszakítása ebben a fázisban a csomag telepítő rendszer meghibásodását eredményezheti.</p><p>Biztos vagy benne, hogy meg szakítod a telepítési folyamatot?</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "Erre a rendszerre már alkalmaztak egy profilt."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "További tárolók:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "Az asztali környezet profilozó egy másik példánya fut, így ..."
 
 msgid "Apply profile"
-msgstr ""
+msgstr "Profil alkalmazása"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "A profilok alkalmazása az éles rendszereken belül nem támogatott."
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "Biztos vagy benne, hogy felül kell írni az előző profilt ?"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 msgid "Cancel installation"
-msgstr ""
+msgstr "Telepítés visszavonása"
 
 msgid "Cancel menu"
-msgstr ""
+msgstr "A menü visszavonása"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "Válassz új fájlnevet az aktuális állapot exportálásához."
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "Válassz új fájlnevet a profil mentéséhez."
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "Válassz egy további telepítendő asztali környezetet."
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "Válassz egy további telepítendő asztali környezetet. Ne használd ezt a lehetőséget, hacsak nem vagy teljesen biztos benne, hogy mit csinálsz."
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "Válassz asztali környezetet"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "Kattints a profil kiválasztásához"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "Konfigurációs fájl:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "Az aktuális asztali állapot el lett mentve a profilba:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "DEB csomagok telepítése:"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Asztali környezet profilozó"
 
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "Asztali környezet profilozó - telepítés folyamata"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "Az Asztali környezet profilozó segítségével kiválaszthatod és alkalmazhatod a számítógép számára legmegfelelőbb asztali  környezet profilt."
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "Asztali környezet:"
 
 msgid "Desktop environments:"
-msgstr ""
+msgstr "Asztali környezetek:"
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Asztali környezet profilozó - alapértelmezett asztali környezet kiválasztása"
 
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Szeretnéd folytatni?"
 
 msgid "ESH applications to install:"
-msgstr ""
+msgstr "ESH alkalmazások telepítése:"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "Hiba: nem található profil, fájl:"
 
 msgid "Export profile"
-msgstr ""
+msgstr "Profil exportálása"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "Nem sikerült beolvasni a csomaglistát, fájl:"
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "Nem sikerült beolvasni a tárolók listáját, fájl:  "
 
 msgid "Get snapshot profile"
-msgstr ""
+msgstr "Pillanatkép-profil lekérése"
 
 msgid "Help"
-msgstr ""
+msgstr "Súgó"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "Ha nem vagy biztos benne, csak nyomd meg a <b>[ KDE Plasma ]</b> gombot az ajánlott beállítás kiválasztásához."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "Ha folytatod, a kiválasztott új profil felváltja az előzőt, és a rendszer ennek megfelelően lesz konfigurálva."
 
 msgid "Import a profile"
-msgstr ""
+msgstr "Profil importálása"
 
 msgid "Import local profile"
-msgstr ""
+msgstr "Helyi profil importálása"
 
 msgid "Import shared profile"
-msgstr ""
+msgstr "Megosztott profil importálása"
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr ""
+msgstr "A telepítési folyamat kérte a munkamenet kijelentkezését. Szeretnél most újra bejelentkezni ?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "Telepítés indítása"
 
 msgid "Next >"
-msgstr ""
+msgstr "Tovább >"
 
 msgid "No configuration found."
-msgstr ""
+msgstr "Nem találtunk konfigurációt."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "Nincs profil kiválasztva. Válassz egy profilt."
 
 msgid "None selected"
-msgstr ""
+msgstr "Nincs kijelölve"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "Még nem került végrehajtásra."
 
 msgid "Note "
-msgstr ""
+msgstr "Megjegyzés"
 
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "Options"
-msgstr ""
+msgstr "Opciók"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "Add meg a megosztott profilkódot vagy az internetcímet:"
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgstr "Minél hamarabb indítsd újra a számítógépet. Most szeretnéd ujra indítani a számítógépet ?"
 
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "Kérlek, minél hamarabb indítsd újra az X-kiszolgálót."
 
 msgid "Please select default desktop environment."
-msgstr ""
+msgstr "Válaszd ki az alapértelmezett asztali környezetet."
 
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
+msgstr "Válaszd ki az alapértelmezett asztali környezetet. Jelenleg a könnyű és hatékony Trinity asztali környezet van telepítve és előre konfigurálva alapértelmezettként. Azonban, a Q4OS telepítője automatikusan érzékelte, hogy a számítógép elég erős ahhoz, hogy a fejlettebb KDE Plasma asztali környezetet használd."
 
 msgid "Previous profile:"
-msgstr ""
+msgstr "Korábbi profil:"
 
 msgid "Profile description"
-msgstr ""
+msgstr "Profil leírás"
 
 msgid "Profile export"
-msgstr ""
+msgstr "Profil exportálása"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "A profil importálása megtörtént."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "A profil eltávolításra került."
 
 msgid "Profile info"
-msgstr ""
+msgstr "Profil információk"
 
 msgid "Profile:"
-msgstr ""
+msgstr "Profil:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "A távoli profil nem található."
 
 msgid "Remove profile"
-msgstr ""
+msgstr "Profil eltávolítása"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "Felesleges csomagok eltávolítása"
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "Válassz egy profilt a listából."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "A kiválasztott profil el lett mentve a fájlba:"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "Szoftverprofil:"
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "A rendszerprofilok nem távolíthatók el."
 
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
+msgstr "A könnyű és hatékony <b>Trinity</b>desktop alapértelmezettként van telepítve és előre konfigurálva. Azonban, a Q4OS telepítő automatikusan érzékelte, hogy a számítógép elég erős ahhoz, hogy fejlettebb <b>KDE Plasma</b>asztali környezetet használd."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "Ez a profil már importálva lett."
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "Töröld a jelölőnégyzetet a jelenleg telepített csomagok megőrzéséhez."
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "Igen, tényleg szeretnék további asztali környezeteket"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "Igen, továbbra is érvényes"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "Asztali környezet profilozót, profil telepítése nélkül készülsz megszüntetni. Biztos vagy benne ?"
 
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr ""
+msgstr "Egy alternatív asztali telepítést kérsz, de az nem kompatibilis a kiválasztott profillal. Kérlek, válassz másik profilt vagy asztali környezetet."
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "Most már szerkesztheted a fájlt a kívánt módon."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "egyes telepített alkalmazások és csomagok eltávolításra kerülhetnek, mivel nem részei az új profilnak."

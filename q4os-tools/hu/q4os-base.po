@@ -9,346 +9,347 @@ msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 21:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-02-12 18:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr ""
+msgstr "<b>Nyomd meg az Igen</b> gombot az automatikus telepítési varázsló futtatásához, amely végigvezet a legújabb stabil verzió automatikus frissítésekkel történő telepítési folyamatán. Ellenkező esetben kattints a Nem gombra, és használd a Konqueror alapértelmezett opciót. A ${APF1} telepítőhöz bármikor hozzáférhetsz a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr ""
+msgstr "<b>A legjobb teljesítmény elérése érdekében a <b>Q4OS optimalizált</b> ${APD} előnyben részesül az eredeti Oracle CD-vel szemben. Ez a telepítés letölti és automatikusan telepíti az összes szükségeset fájlt."
 
 #, sh-format
 msgid "<b>Warning</b>"
-msgstr ""
+msgstr "<b>Figyelmeztetés</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Asus Eee PC laptop észlelése, extra konfiguráció kerül végrehajtásra."
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
+msgstr "Kérjük, ellenőrizd az internetkapcsolatot."
 
 #, sh-format
 msgid "Click \"Ok\" button to run the tool."
-msgstr ""
+msgstr "Kattints az „Ok” gombra az eszköz futtatásához."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr ""
+msgstr "Kattints az „Ok” gombra a Menü szerkesztő ablak megjelenítéséhez."
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr ""
+msgstr "Kattints az OK gombra a bejelentkezési képernyő megjelenítéséhez."
 
 #, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr ""
+msgstr "Kattints az OK gombra a WiFi-kapcsolódás futtatásához és hálózati kapcsolat létrehozásához."
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr ""
+msgstr "Kattints az Ok gombra a számítógép újraindításához."
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr ""
+msgstr "Asztali téma beállítása ..."
 
 #, sh-format
 msgid "Configuring the profile ..."
-msgstr ""
+msgstr "A Profil beállítása ..."
 
 #, sh-format
 msgid "Configuring the system ..."
-msgstr ""
+msgstr "A rendszer beállítása ..."
 
 #, sh-format
 msgid "Congratulations, setup has finished."
-msgstr ""
+msgstr "Gratulálunk, a telepítés befejeződött."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "A csatlakozás nem sikerül, ellenőrizd a Wifi jelszót."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
-msgstr ""
+msgstr "A jelenlegi rendszer nyelve: <b>Angol</b>"
 
 #, sh-format
 msgid "Default language: <b>${LANC}</b>"
-msgstr ""
+msgstr "Alapértelmezett nyelv: <b>${LANC}</b>"
 
 #, sh-format
 msgid "Display setup"
-msgstr ""
+msgstr "Kijelző beállítása"
 
 #, sh-format
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Szeretnéd folytatni ?"
 
 #, sh-format
 msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr ""
+msgstr "Szeretnéd letölteni és telepíteni a <b>Megjelenés váltót</b> most rögtön ?"
 
 #, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
-msgstr ""
+msgstr "Most szeretnéd telepíteni a <b>${APF1}</b>-t ?"
 
 #, sh-format
 msgid "Do you want to keep English as default system language ?"
-msgstr ""
+msgstr "Szeretnéd az angol nyelvet megtartani a rendszer alapértelmezett nyelveként ?"
 
 #, sh-format
 msgid "Download failed !"
-msgstr ""
+msgstr "A letöltés nem sikerült !"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
-msgstr ""
+msgstr "Nyelvi csomag letöltése, kérlek várj ..."
 
 #, sh-format
 msgid "External repositories"
-msgstr ""
+msgstr "Külső adattárak"
 
 #, sh-format
 msgid "External repositories to add"
-msgstr ""
+msgstr "Külső tárolók hozzáadása"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
-msgstr ""
+msgstr "Részletesebb információért olvasd el a Q4OS dokumentációját a https://www.q4os.org oldalon."
 
 #, sh-format
 msgid "Generating system wide locales, please wait ..."
-msgstr ""
+msgstr "Rendszer szintű lokalizációk generálása, kérlek várj ..."
 
 #, sh-format
 msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "IBM Thinkpad R51 laptop észlelve, extra konfiguráció kerül végrehajtásra."
 
 #, sh-format
 msgid "If you want to get the best experience and latest Internet technologies, we recommend you to install <b>${APF1}</b> within Q4OS system."
-msgstr ""
+msgstr "Ha a legjobb élményt és a legújabb internetes technológiákat szeretnéd élvezni, javasoljuk, hogy telepítsd a <b>${APF1}</b>-t a Q4OS rendszerben."
 
 #, sh-format
 msgid "Install wizard"
-msgstr ""
+msgstr "Telepítő varázsló"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. Try it few minutes later please."
-msgstr ""
+msgstr "A telepítés nem fejeződött be, a csomagtelepítő rendszer foglalt. Próbáld meg néhány perc múlva."
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "A telepítés nem fejeződött be, a csomagtelepítő rendszer foglalt. A nyelvi csomagot később könnyen telepítheted, egy asztali ikon segítségével."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr ""
+msgstr "A telepítőnek csomagokat kell letöltenie a Q4OS internetes erőforrásaiból, de nem sikerült információt szerezni."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "A telepítőnek csomagokat kell letöltenie a Q4OS internetes erőforrásaiból, de nem sikerült információt szerezni. A ${APD} telepítésre a következő bejelentkezéskor kérni fogja, vagy bármikor telepítheted a Szoftverközpontból."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "A telepítőnek csomagokat kell letöltenie a Q4OS internetes erőforrásaiból, de nem sikerült információt szerezni. A ${APF1} telepítésre a következő Konqueror futtatáskor fog kérni, vagy bármikor telepítheted a Q4OS Szoftverközpontból."
 
 #, sh-format
 msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
-msgstr ""
+msgstr "Ne feledd, hogy a külső, harmadik féltől származó tárolók hozzáadása alacsony szintű rendszerművelet, és mélyen befolyásolhatja a csomagadatbázis integritását és a függőségeket. Szerencsére az APT csomagkezelő rendszer erős eszközöket tartalmaz a rendszergazdák számára a sérült függőségek javítására, így mindig képes a tiszta állapotba való visszatérésre."
 
 #, sh-format
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 #, sh-format
 msgid "Language <b>${LANC}</b> has been added to system."
-msgstr ""
+msgstr "A <b>${LANC}</b> nyelv hozzá lett adva a rendszerhez."
 
 #, sh-format
 msgid "Language pack"
-msgstr ""
+msgstr "Nyelvi csomag"
 
 #, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
-msgstr ""
+msgstr "Live média észlelve. A nyomtatók kezelése korlátozott lehet az adathordozókról futtatott Live környezetben. A Q4OS telepítése után teljes mértékben elérhető lesz."
 
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr ""
+msgstr "A megjelenésváltó telepítője és ikonjai mostantól eltávolításra kerülnek a vezérlőpultról, bármikor letöltheted a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
-msgstr ""
+msgstr "A fájlrendszer RAM-ba történő áthelyezése eltart egy darabig. Kérlek, várj ..."
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
-msgstr ""
+msgstr "Az újonnan létrehozott elemek <b>a Menü Szerkesztő ablak bezárása</b> után jelennek meg a Start menüben."
 
 #, sh-format
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
-msgstr ""
+msgstr "Nincs vagy még nem alkalmaztál Asztali profil-t . Erősen ajánlott az <b>Asztali profilkészítő</b> eszköz futtatása és a rendelkezésre álló profilok egyikének mielőbbi alkalmazása."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A telepítést bármikor elvégezheted a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A ${APD} telepítését a következő bejelentkezéskor kérni fogja, vagy bármikor telepítheted a szoftverközpontból."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A ${APF1} telepítésre később újra felkérünk, vagy bármikor telepítheted a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "A csomagkezelő rendszer most foglalt, valami más beállítás fut ! A ${APD} telepítését később újra kérni fogja, vagy bármikor telepítheted a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "A csomagkezelő rendszer most foglalt, valami más beállítás fut ! A ${APF1} telepítésre később újra felkérünk, vagy bármikor telepítheted a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "Please login again to take changes effect."
-msgstr ""
+msgstr "Kérlek, jelentkezz be újra, hogy a módosítások érvénybe lépjenek."
 
 #, sh-format
 msgid "Please use this tool only if you exactly understand what you are doing."
-msgstr ""
+msgstr "Kérlek, csak akkor használd ezt az eszközt, ha pontosan tudod, hogy mit csinálsz."
 
 #, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
-msgstr ""
+msgstr "A nyomtatási alrendszer mostantól ki van kapcsolva, először telepítened kell a <b>CUPS réteget és a nyomtatóillesztőt</b>. Ha aktiválni szeretnéd a nyomtatási alrendszert és a teljes illesztőprogramkészletet, telepítsd a következő csomagokat:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr ""
+msgstr "Q4OS automatikusan észlelve <b>${APF}</b> elérhető <b>!</b>"
 
 #, sh-format
 msgid "Select a repository:"
-msgstr ""
+msgstr "Válasz egy tárolót:"
 
 #, sh-format
 msgid "Select your language:"
-msgstr ""
+msgstr "Válaszd ki a nyelvet:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr ""
+msgstr "A telepítés nem folytatható..."
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr ""
+msgstr "A telepítés nem folytatható."
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
-msgstr ""
+msgstr "A hangkártya nem lett felismerve, a rendszerhangot letiltottuk."
 
 #, sh-format
 msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
-msgstr ""
+msgstr "A Start menü szerkezete két logikai részből áll, a <b>rendszer globális és a felhasználói részből</b>. Csak a felhasználói részben lehet egyéni menübejegyzéseket szerkeszteni, törölni és hozzáadni, a globális ménű bejegyzések nem láthatók a Menü szerkesztőben."
 
 #, sh-format
 msgid "System is ready to download and install ${LANC} language pack, you need an active Internet link."
-msgstr ""
+msgstr "A rendszer készen áll a ${LANC} nyelvi csomag letöltésére és telepítésére, aktív internetkapcsolatra van szükség."
 
 #, sh-format
 msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
-msgstr ""
+msgstr "Köszönjük, hogy a Konqueror webböngészőt használod. A Konqueror egy minimalista és nagyon gyors böngésző azoknak a felhasználóknak, akiknek könnyű internet-hozzáférésre van szükségük."
 
 #, sh-format
 msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr ""
+msgstr "Köszönjük, hogy a Q4OS operációs rendszert használod. A <b>Megjelenésváltó</b> beállítása után válthatsz a különböző vizuális témák között."
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "A Trinity munkamenet nem található. Kérlek, futtasd ezt az eszközt a Trinity asztalon belül."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Vezeték nélküli hálózat beállítása ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
-msgstr ""
+msgstr "Nem sikerült letölteni ${APD}, ellenőrizd az internetkapcsolatot."
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "Letöltés nem lehetséges, ellenőrizd az internetkapcsolatot. A nyelvi csomagot később könnyedén telepítheted egy asztali ikon segítségével."
 
 #, sh-format
 msgid "Unable to update, check Internet connection please."
-msgstr ""
+msgstr "Nem lehet frissíteni, ellenőrizd az internetkapcsolatot."
 
 #, sh-format
 msgid "Virtualbox Guest Additions setup"
-msgstr ""
+msgstr "Virtualbox Vendég kiegészítések beállítása"
 
 #, sh-format
 msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
-msgstr ""
+msgstr "Figyelmeztetés: Ez a rendszer kevés memóriával rendelkezik, valószínűleg használhatatlan lesz a Plazma asztallal. Kérlek, használd helyette a Trinity asztal telepítő médiát."
 
 #, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
-msgstr ""
+msgstr "Vezeték nélküli hálózati kártya észlelve, WiFi támogatás engedélyezve."
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr ""
+msgstr "Szeretnél <b>értesítést kapni a következő bejelentkezéskor</b>? Ha „Nem”-et mondasz, ez a párbeszédablak többet nem jelenik meg. A ${APD}-t bármikor telepítheted a <b>Szoftverközpontból</b>."
 
 #, sh-format
 msgid "Would you like to be notified later ?"
-msgstr ""
+msgstr "Szeretnéd, ha később értesítenénk ?"
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
-msgstr ""
+msgstr "Szeretnéd most azonnal telepíteni a nyelvet ?"
 
 #, sh-format
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
-msgstr ""
+msgstr "Wow, a Q4OS automatikusan észlelte, hogy a(z) <b>${APF}</b> gazdagépen belül fut: <b>!</b>"
 
 #, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
-msgstr ""
+msgstr "Igen, ez a megfelelő módja a Q4OS operációs rendszer tesztelésének. <b>Erősen ajánlott</b> a(z) <b>${APD}</b> telepítése ezen a virtuális gépen. Így lehetővé válik a teljes képernyős megjelenítés, a ${APF} hálózat, az egérillesztőprogramok és egyéb funkciók használata."
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
+msgstr "Igen, már most is telepíthetsz saját NVIDIA videóillesztő-programokat. Ez a telepítő letölti és automatikusan telepíti az összes szükséges fájlt."
 
 #, sh-format
 msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
-msgstr ""
+msgstr "Egy külső tárolót adsz hozzá. Ez kifejezetten a Debian csomagkezelő rendszerben jártas profi felhasználóknak szól."
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "A Start menü szerkesztése."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr ""
+msgstr "A szöveg és a widgetek méretét érdemes megnövelni az olvashatóság javítása érdekében. Kattints az OK gombra a képernyő beállításához és méretezéséhez szükséges konfigurációs eszköz futtatásához."
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
-msgstr ""
+msgstr "Új egyéni almenük/mappák struktúráját hozhatod létre, és töltheted ki a kívánt ménű pontokkal. Új parancsikonokat hozhatsz létre a jobb egérgombbal történő kattintással, vagy húzhatod és ejtheted az ikonokat a Start menüből vagy az asztalról a Menü szerkesztő ablakba."
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "letöltés"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
+msgstr "letöltés ..."
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "üzenet"

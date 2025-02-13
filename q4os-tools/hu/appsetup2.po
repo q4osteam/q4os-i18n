@@ -9,28 +9,29 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-06 15:39+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-02-12 19:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< Vissza"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>Gyors rendszerellenőrzés</b><br>&nbsp;&nbsp;&nbsp;A rendszer előzetesen ellenőrzi a telepítési környezetet"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>Engedélyek beszerzése</b><br>&nbsp;&nbsp;&nbsp;A rendszer telepítési engedélyeket kér"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>Telepítés</b><br>&nbsp;&nbsp;&nbsp;Kérlek, várj, amíg a szoftver telepítése folyamatban van"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>Licencszerződés</b><br>&nbsp;&nbsp;&nbsp;Telepítés előtt tekintsd át a licencfeltételeket"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
@@ -38,360 +39,367 @@ msgid ""
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
 msgstr ""
+"<p><h2>A _SUBST_SWNAME_ beállítási varázsló befejezése</h2><br></p>\n"
+"<p>A _SUBST_SWNAME_ szoftver telepítve van a számítógépre.<br></p>\n"
+"<p>Kattints a Befejezés gombra a varázsló bezárásához.<br><br><br><br><br></p>\n"
+"<p>A legfrissebb hírekért, GYIK-ért és támogatásért keresd fel a _SUBST_SWNAME_ webhelyet.</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
 msgstr ""
+"<p><h2>Üdvözölünk a _SUBST_SWNAME_ beállítási varázslójában</h2></p>\n"
+"<p>Ez a varázsló végig vezet a _SUBST_SWNAME_ alkalmazás telepítésén.</p>\n"
+"<p>A folytatáshoz kattints a Tovább gombra.</p>\n"
 
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>A CPU architektúrája nem egyezik!</p><p> Telepítés megszakítása...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>A kezdeti adatok hiányosak!</p><p> Telepítés megszakítása...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>Az internetkapcsolat nem aktív vagy nagyon lassú. A telepítőnek le kell töltenie az alkalmazáscsomagokat a Q4OS internetes forrásaiból. A telepítés nem folytatható ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>A csomagkezelő rendszer elfoglalt, most nem áll készen a telepítésre. A telepítés nem folytatható.</p><p>A zárolást nagy valószínűséggel a háttérben futó rendszerfrissítések okozzák. Ha ez a helyzet, várnod kell egy pillanatot, amíg a csomagkezelő rendszer befejezi ezeket a műveleteket. Kérlek, győződj meg arról, hogy nem telepítesz-e másik alkalmazást, és néhány perc múlva ismételd meg a telepítést.</p><p>Tisztítás és törlés most ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>A csomagkezelő rendszer nincs konzisztens állapotban, kézzel kell helyreállítani. A telepítés most nem folytatható.</p><p>Tisztítás és törlés...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>A csomagokat nem sikerült letölteni, kérlek ellenőrizd az internetkapcsolatod. Sajnálom, most nem tudom telepíteni.</p><p>Tisztítás és törlés ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Szimuláció nem sikeres, sajnálom, most nem tudom telepíteni.</p><p>Tisztítás és törlés ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Figyelmeztetés: A telepítés megszakítása ebben a fázisban a csomagrendszer meghibásodásához vezethet.</p><p>Biztos vagy benne, hogy most meg szakítod a telepítési folyamatot?</p>Megszakítás?"
 
 msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
-msgstr ""
+msgstr "<p>eredmény:&nbsp;&nbsp;&nbsp;<b>megfelelt OK !</b></p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "Biztonsági kulcsok hozzáadása ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "Biztonsági kulcsok hozzáadása ...OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "Autofix nem szükséges ... OK"
 
 msgid "Busy !"
-msgstr ""
+msgstr "Elfoglalt!"
 
 msgid "CPU architecture doesn't match !"
-msgstr ""
+msgstr "A CPU architektúra nem egyezik !"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "Az előrehaladás kiszámítása ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégse"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "A telepítés törlése ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "Nem lehet lezárni az APT adatbázist, kilépés ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Nem lehet lezárni a Flatpak keretrendszert, kilépés ..."
 
 msgid "Checking distro"
-msgstr ""
+msgstr "A disztribúció ellenőrzése"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "A telepítés ellenőrzése ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "A telepítés ellenőrzése ... Hiba !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "A telepítés ellenőrzése ... OK"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "Csomagrendszer ellenőrzése ..."
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "Takarítás és törlés most ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Apt konfigurálása ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "Apt konfigurálása ... Kész"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "Rendszercsomagok másolása ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "Rendszercsomagok másolása ... Kész"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "Nem sikerült inicializálni, hibás adatfejléc !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "Nem sikerült inicializálni, hibás adatfejléc."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Nem sikerült futtatni a Q4OS alacsony szintű apt segédprogramjait ! Ez egy komoly probléma, megszakítja a telepítést ..."
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "Flatpak konfiguráció meghatározása ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "Disztribúció"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Tényleg törölni szeretnéd a függőben lévő műveletet ?"
 
 msgid "Done"
-msgstr ""
+msgstr "Kész"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Csomagok letöltése ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Csomagok letöltése ... Kész"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "A folytatáshoz add meg a jelszavad:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Archívum kibontása ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Archívum kibontása ... Kész"
 
 msgid "Failed"
-msgstr ""
+msgstr "Sikertelen"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "Nem sikerült. A konfigurációs fájl nem létezik."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "Sikertelen. A bemeneti fájl nem létezik."
 
 msgid "Finish >"
-msgstr ""
+msgstr "Befejezés >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Telepítés véglegesítése ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "A Flatpak keretrendszer elfoglalt, egy másik alkalmazás telepítése folyik éppen."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "A Flatpak telepítve van, de a Flathub tároló nincs benne. Kérlek, először add hozzá a Flathub tárolót. Telepítés törlése ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "A Flatpak nincs telepítve, ezért a telepítést törlöm. Kérlek, először telepítsd a flatpak csomagot ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "A Flatpak nincs telepítve ... Mégse !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "A Flatpak nincs telepítve, kilépés ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "Elfogadom"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "Ha elfogadod a megállapodás feltételeit, a folytatáshoz kattints az Elfogadom gombra. A _SUBST_SWNAME_ szoftver telepítéséhez el kell fogadni a megállapodást."
 
 msgid "Install >"
-msgstr ""
+msgstr "Telepítés >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "A telepítés nem sikerült !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "Telepítés nem sikerült."
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "A telepítés sikeresen befejeződött :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "Fájlok telepítése ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "Fájlok telepítése ... OK"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "Csomag telepítése ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "Elégtelen jogosultságok, a felhasználó nem tagja a „sudo” csoportnak, kilépés ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "Licenc szöveg ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "Tovább >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Nincs Flathub tároló ... Mégse !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Nincs Flathub tároló, kilépés ..."
 
 msgid "Package"
-msgstr ""
+msgstr "Csomag"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "A csomagrendszer ... Elfoglalt !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "A csomagrendszer elfoglalt, egy másik alkalmazás telepítése folyik éppen."
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "Csomagrendszer nem konzisztens ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "A csomagrendszer még mindig nem konzisztens, a telepítés törlése ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "Sw adatbázis részleges frissítése ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "Sw adatbázis részleges frissítése ... Kész"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "Kérlek, győződj meg róla, hogy nem telepítesz-e másik szoftvert, ismételd meg a telepítést pár perc múlva."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "Kérlek, győződj meg arról, hogy nem telepítesz-e másik szoftvert, és ismételd meg a telepítést."
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "A telepítést követő műveletek ...."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "Telepítést követő műveletek ... Kész"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "Telepítést követő műveletek, további parancsok ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "Telepítési fájlok előkészítése ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "Telepítési fájlok előkészítése ... OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "Az előfutás szkriptje kilépést kért. Kilépési kód:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "Nyomd meg a Page Down gombot a megállapodás többi részének megtekintéséhez."
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "Q4OS telepítő rendszer v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "Helyreállítás ... OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "Alkalmazás regisztrálása ... OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Root jogosultságok szükségesek, kilépés ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "Egyedi szkriptek futtatása ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "Egyedi szkriptek futtatása ... Kész"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "Nyelvi csomagok keresése ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "Nyelvi csomagok keresése ... Kész"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "Telepítési művelet:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "Telepítési művelet:  "
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "A telepítési üzeneteket a naplófájlba rögzítettük:"
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "Telepítés varázsló"
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "Internetkapcsolat tesztelése ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "Internetkapcsolat tesztelése ... Nem sikerült !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "Internetkapcsolat tesztelése ... OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "Telepítés tesztelése ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "Telepítés tesztelése ... Kész"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "A zárolást a háttérben futó rendszerfrissítés is okozhatja. Ebben az esetben néhány percet várnod kell, amíg a csomagrendszer befejezi ezeket a műveleteket."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "A telepítés utáni ellenőrzés sikertelen volt, a szoftver telepítése lehet, hogy nem megfelelően történt."
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "Az APT integritásának helyreállítása ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "Nem támogatott disztribúció"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "Apt adatbázis frissítése ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "Sw adatbázis frissítése ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "Sw adatbázis frissítése ... Kész"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "A rendszer gyorsítótár frissítése ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "A rendszer gyorsítótár frissítése ... Kész"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "Apt adatbázis frissítése ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "Ellenőrizve ... OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "Várakozás az aktuális művelet befejezésére ... Kész"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "Figyelmeztetés: nem lehet lezárni a proc_lock-ot !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "Figyelmeztetés: a proc_lock már fut, próbáld újraindítani a qprocess-t !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "Flatpak alapú szoftvert próbálsz telepíteni."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "már telepítve, kilépés ..."
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "telepítve ... Mégse !"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "nem támogatott, kilépés ..."
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "a szoftver már telepítve van, ezért a telepítés megszakítása ..."

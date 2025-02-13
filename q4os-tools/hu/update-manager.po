@@ -9,169 +9,170 @@ msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-09 13:22+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-02-12 13:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "! Reboot required"
-msgstr ""
+msgstr "! Újraindítás szükséges"
 
 msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr ""
+msgstr "<b>Újraindítás szükséges<b> a frissítés befejezéséhez."
 
 msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr ""
+msgstr "<p>A Frissítéskezelő egy másik példánya fut, így ...<p>"
 
 msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr ""
+msgstr "<p>Ha be van jelölve, a következő frissítések a felhasználói megerősítés nélkül fognak végrehajtódni.</p><p>A frissítéskezelőt a Vezérlőpult -> Rendszeradminisztráció menü pontban is beállíthatod.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>A csomagtelepítő rendszer elfoglalt, most nem áll készen a telepítésre. A telepítés nem folytatható.</p><p>A zárolást nagy valószínűséggel a háttérben futó rendszerfrissítések okozzák. Ha ez a helyzet, várnod kell egy pillanatot, amíg a csomagtelepítő rendszer befejezi ezeket a műveleteket.</p><p>Kérlek, győződj meg arról, hogy nem telepítesz más alkalmazást, és ismételd meg a telepítést néhány perc múlva.</p>"
 
 msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr ""
+msgstr "<p>A rendszer biztonsági javításokat és fontos frissítéseket kapott.</p><p>Kérlek, amint lehetséges <b>indítsd újra</b> a számítógépet, a frissítés befejezéséhez.</p>"
 
 msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr ""
+msgstr "<p>Nem végezhetsz rendszerfrissítést. Először a „sudo” rendszergazdai csoport tagjának kell lenned, kérlek, fordulj a rendszergazdához.</p>"
 
 msgid "Additional updates have been detected"
-msgstr ""
+msgstr "További frissítéseket észleltünk"
 
 msgid "Available updates"
-msgstr ""
+msgstr "Elérhető frissítések"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 msgid "Canceled !"
-msgstr ""
+msgstr "Visszavonva !"
 
 msgid "Checking Internet connection"
-msgstr ""
+msgstr "Internetkapcsolat ellenőrzése"
 
 msgid "Checking SW database to be free"
-msgstr ""
+msgstr "SW adatbázis ellenőrzése, hogy szabad legyen"
 
 msgid "Checking apt database"
-msgstr ""
+msgstr "Az apt adatbázis ellenőrzése"
 
 msgid "Checking apt pinning"
-msgstr ""
+msgstr "Az apt rögzítés ellenőrzése"
 
 msgid "Checking permissions"
-msgstr ""
+msgstr "Jogosultságok ellenőrzése"
 
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 msgid "Closing.."
-msgstr ""
+msgstr "Bezárás.."
 
 msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
-msgstr ""
+msgstr "Nem található a Synaptic bináris változata, kérlek, először telepítsd. Egyelőre az alapértelmezett frissítőt használom ..."
 
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Szeretnéd folytatni?"
 
 msgid "Don't show this dialog again"
-msgstr ""
+msgstr "Ne jelenítse meg újra ezt a párbeszédpanelt"
 
 msgid "Done"
-msgstr ""
+msgstr "Kész"
 
 msgid "Downloading packages"
-msgstr ""
+msgstr "Csomagok letöltése"
 
 msgid "Failed"
-msgstr ""
+msgstr "Sikertelen"
 
 msgid "Failed!"
-msgstr ""
+msgstr "Sikertelen!"
 
 msgid "Finish >"
-msgstr ""
+msgstr "Befejezés >"
 
 msgid "Finished :)"
-msgstr ""
+msgstr "Befejezve :)"
 
 msgid "Fixing apt database"
-msgstr ""
+msgstr "Az apt adatbázis javítása"
 
 msgid "Installing.."
-msgstr ""
+msgstr "Telepítés.."
 
 msgid "Listing updates"
-msgstr ""
+msgstr "Frissítések listázása"
 
 msgid "Locking SW database"
-msgstr ""
+msgstr "SW adatbázis lezárása"
 
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 msgid "Not available!"
-msgstr ""
+msgstr "Nem érhető el!"
 
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "Performing upgrade"
-msgstr ""
+msgstr "Frissítés végrehajtása"
 
 msgid "Please, try to run Update Manager a few minutes later again."
-msgstr ""
+msgstr "Kérlek, néhány perccel múlva próbáld meg újra futtatni a Frissítéskezelőt."
 
 msgid "Removing unnecessary packages"
-msgstr ""
+msgstr "A felesleges csomagok eltávolítása"
 
 msgid "Show details"
-msgstr ""
+msgstr "Részletek mutatása"
 
 msgid "Success. The most recent update has been implemented."
-msgstr ""
+msgstr "Sikeres. A legutóbbi frissítés végrehajtásra került."
 
 msgid "System update completed successfully."
-msgstr ""
+msgstr "A rendszerfrissítés sikeresen befejeződött."
 
 msgid "System updater has been started.."
-msgstr ""
+msgstr "A rendszerfrissítő elindult.."
 
 msgid "Update Manager - install progress"
-msgstr ""
+msgstr "Frissítéskezelő - a telepítés folyamata"
 
 msgid "Update SW database"
-msgstr ""
+msgstr "SW adatbázis frissítése"
 
 msgid "Update manager has been exited with <b>error code: "
-msgstr ""
+msgstr "A frissítéskezelő <b>hibakóddal kilépett: "
 
 msgid "Waiting"
-msgstr ""
+msgstr "Várakozás"
 
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 msgid "Your system is up to date and healthy."
-msgstr ""
+msgstr "A rendszer naprakész és egészséges."
 
 msgid "need to be fixed"
-msgstr ""
+msgstr "javításra szorul"
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"
 
 msgid "textLabel2"
-msgstr ""
+msgstr "textLabel2"
 
 msgid "textLabel3"
-msgstr ""
+msgstr "textLabel3"

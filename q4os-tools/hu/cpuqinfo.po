@@ -9,163 +9,164 @@ msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-04 22:02+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-01-28 21:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "(C) 2019 Q4OS"
-msgstr ""
+msgstr "(C) 2019 Q4OS"
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bites"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "BogoMIPS"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Buszsebesség"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Órajel"
 
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Kódnév"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Mag sebesség"
 
 msgid "Cores"
-msgstr ""
+msgstr "Magok"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Asztali környezet"
 
 msgid "Details"
-msgstr ""
+msgstr "Részletek"
 
 msgid "Distro"
-msgstr ""
+msgstr "Disztribúció"
 
 msgid "FW Date"
-msgstr ""
+msgstr "FW Dátum"
 
 msgid "Family"
-msgstr ""
+msgstr "Család"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
 
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Hardware összefoglaló"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Hardver információk"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Hardver információk - Részletek"
 
 msgid "Host"
-msgstr ""
+msgstr "Kiszolgáló"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Utasítás készlet"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Adat"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 Inst."
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 Cache"
 
 msgid "Level 2"
-msgstr ""
+msgstr "2. szintű"
 
 msgid "Level 3"
-msgstr ""
+msgstr "3. szintű"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Alaplap"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Max sebesség"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Mikrokód"
 
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Szorzó"
 
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 msgid "Package"
-msgstr ""
+msgstr "Tokozás"
 
 msgid "Processor"
-msgstr ""
+msgstr "Processzor"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Processzor #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "Összes RAM"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Névleges FSB"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "SecureBoot"
 
 msgid "Selection"
-msgstr ""
+msgstr "Kiválasztás"
 
 msgid "Specification"
-msgstr ""
+msgstr "Specifikáció"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Verzió"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Összes tárhely"
 
 msgid "System"
-msgstr ""
+msgstr "Rendszer"
 
 msgid "Threads"
-msgstr ""
+msgstr "Szálak"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topológia"
 
 msgid "Type"
-msgstr ""
+msgstr "Típus"

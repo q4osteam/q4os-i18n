@@ -9,343 +9,344 @@ msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 11:25+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-02-12 14:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "A KDE panel applet for a WINE menu"
-msgstr ""
+msgstr "A KDE panel alkalmazás egy WINE menü számára"
 
 msgid "Access the Internet"
-msgstr ""
+msgstr "Internet hozzáférés"
 
 msgid "Accessories"
-msgstr ""
+msgstr "Kellékek"
 
 msgid "Air"
-msgstr ""
+msgstr "Légi"
 
 msgid "Autumn Leaves"
-msgstr ""
+msgstr "Őszi levelek"
 
 msgid "Blueman Bluetooth Manager"
-msgstr ""
+msgstr "Blueman Bluetooth Kezelő"
 
 msgid "Bluetooth Manager"
-msgstr ""
+msgstr "Bluetooth Kezelő"
 
 msgid "Browse the World Wide Web"
-msgstr ""
+msgstr "Böngészés a világhálón"
 
 msgid "Burning tool"
-msgstr ""
+msgstr "Író szoftver"
 
 msgid "Centaurus constellation"
-msgstr ""
+msgstr "Kentaur csillagkép"
 
 msgid "Configure NVIDIA X Server Settings"
-msgstr ""
+msgstr "NVIDIA X-kiszolgáló beállításainak konfigurálása"
 
 msgid "Control Panel"
-msgstr ""
+msgstr "Vezérlőpult"
 
 msgid "Control panel"
-msgstr ""
+msgstr "Vezérlőpult"
 
 msgid "Create, reorganize, and delete partitions"
-msgstr ""
+msgstr "Partíciók létrehozása, átszervezése és törlése"
 
 msgid "Curls on Green"
-msgstr ""
+msgstr "Fürtök a zöldben"
 
 msgid "Damselfly"
-msgstr ""
+msgstr "Szitakötő"
 
 msgid "Debian Future prototype"
-msgstr ""
+msgstr "A Debian jövő prototípusa"
 
 msgid "Debian Lines"
-msgstr ""
+msgstr "Debian vonalak"
 
 msgid "Debian Softwaves"
-msgstr ""
+msgstr "Debian Lágy hullámok"
 
 msgid "Debonaire"
-msgstr ""
+msgstr "Debonaire"
 
 msgid "Documents"
-msgstr ""
+msgstr "Dokumentumok"
 
 msgid "Dolomiti"
-msgstr ""
+msgstr "Dolomitok"
 
 msgid "Dolomiti Cimerlo"
-msgstr ""
+msgstr "Dolomiti Cimerlo"
 
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 msgid "Ethais"
-msgstr ""
+msgstr "Ethais"
 
 msgid "File Synchronizer"
-msgstr ""
+msgstr "Fájl szinkronizáló"
 
 msgid "Files and folders"
-msgstr ""
+msgstr "Fájlok és mappák"
 
 msgid "Find"
-msgstr ""
+msgstr "Keres"
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "GParted"
-msgstr ""
+msgstr "GParted"
 
 msgid "Games"
-msgstr ""
+msgstr "Játékok"
 
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 msgid "Green curtain"
-msgstr ""
+msgstr "Zöld függöny"
 
 msgid "Help"
-msgstr ""
+msgstr "Súgó"
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Alkalmazások telepítése"
 
 msgid "Install Q4OS to Pinebook"
-msgstr ""
+msgstr "A Q4OS telepítése a Pinebook-ra"
 
 msgid "Install, remove and upgrade software packages"
-msgstr ""
+msgstr "Szoftvercsomagok telepítése, eltávolítása és frissítése"
 
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 msgid "K3B"
-msgstr ""
+msgstr "K3B"
 
 msgid "Konqueror"
-msgstr ""
+msgstr "Konqueror"
 
 msgid "Konsole"
-msgstr ""
+msgstr "Konzol"
 
 msgid "Landscape Keltern"
-msgstr ""
+msgstr "Keltern tájkép"
 
 msgid "Language Pack installation"
-msgstr ""
+msgstr "Nyelvi csomag telepítése"
 
 msgid "Lineart Logo"
-msgstr ""
+msgstr "Vonalazott logó"
 
 msgid "Look Switcher"
-msgstr ""
+msgstr "Nézetváltó"
 
 msgid "Mail Client"
-msgstr ""
+msgstr "Levelező kliens"
 
 msgid "Media player"
-msgstr ""
+msgstr "Media player"
 
 msgid "Mozilla Thunderbird"
-msgstr ""
+msgstr "Mozilla Thunderbird"
 
 msgid "My Documents"
-msgstr ""
+msgstr "Saját dokumentumok"
 
 msgid "NVIDIA X Server Settings"
-msgstr ""
+msgstr "NVIDIA X Server beállítások"
 
 msgid "Network Shares"
-msgstr ""
+msgstr "Hálózatmegosztás"
 
 msgid "Network connections"
-msgstr ""
+msgstr "Hálózati kapcsolatok"
 
 msgid "Nightfear"
-msgstr ""
+msgstr "Nightfear"
 
 msgid "Open Terminal"
-msgstr ""
+msgstr "Terminál megnyitása"
 
 msgid "Origami 1"
-msgstr ""
+msgstr "Origami 1"
 
 msgid "Origami 2"
-msgstr ""
+msgstr "Origami 2"
 
 msgid "Origami 3"
-msgstr ""
+msgstr "Origami 3"
 
 msgid "Package Manager"
-msgstr ""
+msgstr "Csomagkezelő"
 
 msgid "Partition Editor"
-msgstr ""
+msgstr "Partíció szerkesztő"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Képek"
 
 msgid "Print system"
-msgstr ""
+msgstr "Nyomtató rendszer"
 
 msgid "Programs"
-msgstr ""
+msgstr "Programok"
 
 msgid "Q-Blue flat"
-msgstr ""
+msgstr "Q-Blue flat"
 
 msgid "Q4OS Centaurus1"
-msgstr ""
+msgstr "Q4OS Kentaur1"
 
 msgid "Q4OS Design 1"
-msgstr ""
+msgstr "Q4OS Design 1"
 
 msgid "Q4OS Design 2"
-msgstr ""
+msgstr "Q4OS Design 2"
 
 msgid "Q4OS Hex2"
-msgstr ""
+msgstr "Q4OS Hex2"
 
 msgid "Q4OS Matrix"
-msgstr ""
+msgstr "Q4OS Mátrix"
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Q4OS Szoftverközpont"
 
 msgid "Q4OS Welcome Screen"
-msgstr ""
+msgstr "Q4OS Üdvözlő Képernyő"
 
 msgid "Q4OS documentation on-line"
-msgstr ""
+msgstr "Q4OS online dokumentáció"
 
 msgid "Read, capture, broadcast your multimedia streams"
-msgstr ""
+msgstr "Olvas, rögzíts, sugározz multimédiás adatfolyamot"
 
 msgid "Read/Write Mail/News with Thunderbird"
-msgstr ""
+msgstr "Levelek/hírek olvasása/írása a Thunderbirddel"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Képernyő méretezés"
 
 msgid "Settings"
-msgstr ""
+msgstr "Beállítás"
 
 msgid "Simple Screen Recorder"
-msgstr ""
+msgstr "Egyszerű képernyőfelvevő"
 
 msgid "SimpleOutlook Glass"
-msgstr ""
+msgstr "Egyszerű Üveg Kilátás"
 
 msgid "SimpleOutlook Glass Adaptive"
-msgstr ""
+msgstr "Egyszerű Üveg Kilátás adaptív"
 
 msgid "SimpleOutlook Pyramids"
-msgstr ""
+msgstr "Egyszerű Kilátás Piramisok"
 
 msgid "SimpleOutlook Ridge"
-msgstr ""
+msgstr "Egyszerű Kilátás Gerinc"
 
 msgid "SimpleOutlook Sunset"
-msgstr ""
+msgstr "Egyszerű Kilátás Naplemente"
 
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgid "Skype Internet Telephony"
-msgstr ""
+msgstr "Skype internetes telefonálás"
 
 msgid "Start menu"
-msgstr ""
+msgstr "Start menü"
 
 msgid "StartUp"
-msgstr ""
+msgstr "StartUp"
 
 msgid "Storm Blue"
-msgstr ""
+msgstr "Viharkék"
 
 msgid "Synaptic Package Manager"
-msgstr ""
+msgstr "Synaptic csomagkezelő"
 
 msgid "Sync your files across computers and to the web"
-msgstr ""
+msgstr "Szinkronizáld a fájljaid a számítógépek között és a weben"
 
 msgid "System"
-msgstr ""
+msgstr "Rendszer"
 
 msgid "TDevelop - Q4OS Development Pack"
-msgstr ""
+msgstr "TDevelop - Q40S fejlesztési csomag"
 
 msgid "TDevelop Q4OS"
-msgstr ""
+msgstr "TDevelop Q4OS"
 
 msgid "Terminal Program"
-msgstr ""
+msgstr "Terminál program"
 
 msgid "The Bay"
-msgstr ""
+msgstr "The Bay"
 
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 msgid "Trash"
-msgstr ""
+msgstr "Szemetes"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Eltávolítás"
 
 msgid "Uninstall Chromium"
-msgstr ""
+msgstr "A Chromium Eltávolítása"
 
 msgid "Uninstall Q4OS Development Pack"
-msgstr ""
+msgstr "Q4OS Fejlesztői csomag eltávolítása"
 
 msgid "Uninstall substitute_application_name_desc"
-msgstr ""
+msgstr "substitute_application_name_desc eltávolítása"
 
 msgid "Update Manager"
-msgstr ""
+msgstr "Frissítéskezelő"
 
 msgid "Users and groups"
-msgstr ""
+msgstr "Felhasználók és csoportok"
 
 msgid "VLC media player"
-msgstr ""
+msgstr "VLC media player"
 
 msgid "Vector 2"
-msgstr ""
+msgstr "Vector 2"
 
 msgid "Web Browser"
-msgstr ""
+msgstr "Webböngésző"
 
 msgid "Wine Configuration"
-msgstr ""
+msgstr "Wine Konfiguráció"
 
 msgid "Wine Menu"
-msgstr ""
+msgstr "Wine Menü"
 
 msgid "Wine control panel"
-msgstr ""
+msgstr "Wine vezérlőpult"
 
 msgid "X2Go Client"
-msgstr ""
+msgstr "X2Go Kliens"
 
 msgid "crystalsvg-kde4"
-msgstr ""
+msgstr "crystalsvg-kde4"
 
 msgid "substitute_application_name for Q4OS"
-msgstr ""
+msgstr "substitute_application_name a Q4OS számára"
 
 msgid "substitute_application_name_desc"
-msgstr ""
+msgstr "substitute_application_name_desc"

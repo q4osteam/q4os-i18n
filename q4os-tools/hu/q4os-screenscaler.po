@@ -9,61 +9,62 @@ msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-26 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-02-12 12:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "1.00"
-msgstr ""
+msgstr "1.00"
 
 msgid "Apply"
-msgstr ""
+msgstr "Alkalmazás"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Űrlap (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "Űrlap1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
+msgstr "Ha összehangolod a méretarányt, az elsődleges képernyőn megjelenő betűtípusok és elemek a valós méretnek fognak megfelelni."
 
 msgid "Reset"
-msgstr ""
+msgstr "Visszaállítás"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "A képernyő méretezési konfigurációjának visszaállítása a rendszer alapértelmezett beállításaira"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Vonalzó [cm]:"
 
 msgid "Sample:"
-msgstr ""
+msgstr "Minta:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Mentsd el a változtatásokat, majd jelentkezz be újra"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Méretezési faktor"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Méretezési faktor  /  alkalmazandó DPI érté  /  Elsődleges képernyő becslés"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "A képernyő méretezési konfigurációja mentésre került. A módosítások érvénybe lépéséhez újra be kell jelentkezni."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Képernyő méretezés beállítása"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Speciális opciók megjelenítése"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "Ez az eszköz a képernyő méretezését csak a Trinity desktopra állítja be, kilépés ..."
