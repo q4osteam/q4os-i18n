@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 15:39+0200\n"
+"POT-Creation-Date: 2025-02-21 12:30+0100\n"
 "PO-Revision-Date: 2024-10-16 17:54+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -55,9 +55,6 @@ msgstr ""
 "<p>Este assistente irá guiá-lo através da instalação da aplicação _SUBST_SWNAME_.</p>\n"
 "<p>Clique em Seguinte para continuar.</p>\n"
 
-msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
-msgstr "<p>A arquitetura da CPU não coincide !</p><p> A cancelar a instalação ...</p>"
-
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr "<p>Dados iniciais incompletos !</p><p> A cancelar a instalação ...</p>"
 
@@ -94,7 +91,8 @@ msgstr "A correção automática não é necessária ... OK"
 msgid "Busy !"
 msgstr "Ocupado !"
 
-msgid "CPU architecture doesn't match !"
+#, fuzzy
+msgid "CPU architecture doesn't match, exiting"
 msgstr "A arquitetura da CPU não corresponde !"
 
 msgid "Calculating progress ..."
@@ -123,6 +121,10 @@ msgstr "A verificar a instalação ... Erro !"
 
 msgid "Checking installation ... OK"
 msgstr "A verificar a instalação ... OK"
+
+#, fuzzy
+msgid "Checking package system"
+msgstr "A verificar o sistema de pacotes ..."
 
 msgid "Checking package system ..."
 msgstr "A verificar o sistema de pacotes ..."
@@ -349,6 +351,9 @@ msgstr "A testar a instalação ..."
 msgid "Testing installation ... Done"
 msgstr "A testar a instalação ... Concluído"
 
+msgid "The application doesn't support this system CPU architecture:"
+msgstr ""
+
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
 msgstr "O bloqueio também pode ser causado por uma atualização do sistema em curso em segundo plano. Neste caso, é necessário aguardar alguns minutos para que o sistema de pacotes conclua estas operações."
 
@@ -397,14 +402,29 @@ msgstr "Está a tentar instalar software baseado em flatpak."
 msgid "already installed, exiting ..."
 msgstr "já está instalado, a sair ..."
 
+msgid "clean"
+msgstr ""
+
+msgid "fine"
+msgstr ""
+
 msgid "installed ... Cancel !"
 msgstr "instalado ... Cancelar !"
+
+msgid "not installed"
+msgstr ""
 
 msgid "not supported, exiting ..."
 msgstr "não suportado, a sair ..."
 
+msgid "ready"
+msgstr ""
+
 msgid "software is already installed, so cancelling installation ..."
 msgstr "o software já está instalado, a cancelar a instalação ..."
+
+#~ msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
+#~ msgstr "<p>A arquitetura da CPU não coincide !</p><p> A cancelar a instalação ...</p>"
 
 #~ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
 #~ msgstr "<p>Erro ao instalar a aplicação, não foi possível instalar.</p><p>As mensagens de configuração foram gravadas no ficheiro de registo: <b>"

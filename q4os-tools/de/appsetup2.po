@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 15:39+0200\n"
+"POT-Creation-Date: 2025-02-21 12:30+0100\n"
 "PO-Revision-Date: 2015-12-30 01:20+0100\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -57,9 +57,6 @@ msgstr ""
 "<p>Dieser Assistent wird Sie durch die Installation von _SUBST_SWNAME_ begleiten.</p>\n"
 "<p>Klicken Sie zum Fortfahren auf Fortfahren.</p>\n"
 
-msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
-msgstr ""
-
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr ""
 
@@ -96,7 +93,7 @@ msgstr ""
 msgid "Busy !"
 msgstr ""
 
-msgid "CPU architecture doesn't match !"
+msgid "CPU architecture doesn't match, exiting"
 msgstr ""
 
 msgid "Calculating progress ..."
@@ -124,6 +121,9 @@ msgid "Checking installation ... Error !"
 msgstr ""
 
 msgid "Checking installation ... OK"
+msgstr ""
+
+msgid "Checking package system"
 msgstr ""
 
 msgid "Checking package system ..."
@@ -354,6 +354,9 @@ msgstr ""
 msgid "Testing installation ... Done"
 msgstr ""
 
+msgid "The application doesn't support this system CPU architecture:"
+msgstr ""
+
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
 msgstr ""
 
@@ -402,10 +405,22 @@ msgstr ""
 msgid "already installed, exiting ..."
 msgstr ""
 
+msgid "clean"
+msgstr ""
+
+msgid "fine"
+msgstr ""
+
 msgid "installed ... Cancel !"
 msgstr ""
 
+msgid "not installed"
+msgstr ""
+
 msgid "not supported, exiting ..."
+msgstr ""
+
+msgid "ready"
 msgstr ""
 
 msgid "software is already installed, so cancelling installation ..."
