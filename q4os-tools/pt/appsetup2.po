@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
+# Portuguese translation for appsetup2.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-21 12:30+0100\n"
-"PO-Revision-Date: 2024-10-16 17:54+0100\n"
+"PO-Revision-Date: 2025-03-02 17:34+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Language: pt_PT\n"
 "X-Source-Language: C\n"
 
@@ -91,9 +91,8 @@ msgstr "A correção automática não é necessária ... OK"
 msgid "Busy !"
 msgstr "Ocupado !"
 
-#, fuzzy
 msgid "CPU architecture doesn't match, exiting"
-msgstr "A arquitetura da CPU não corresponde !"
+msgstr "A arquitetura da CPU não corresponde, a sair"
 
 msgid "Calculating progress ..."
 msgstr "A calcular a evolução ..."
@@ -122,9 +121,8 @@ msgstr "A verificar a instalação ... Erro !"
 msgid "Checking installation ... OK"
 msgstr "A verificar a instalação ... OK"
 
-#, fuzzy
 msgid "Checking package system"
-msgstr "A verificar o sistema de pacotes ..."
+msgstr "A verificar o sistema de pacotes"
 
 msgid "Checking package system ..."
 msgstr "A verificar o sistema de pacotes ..."
@@ -352,7 +350,7 @@ msgid "Testing installation ... Done"
 msgstr "A testar a instalação ... Concluído"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "A aplicação não é compatível com esta arquitetura de CPU do sistema:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
 msgstr "O bloqueio também pode ser causado por uma atualização do sistema em curso em segundo plano. Neste caso, é necessário aguardar alguns minutos para que o sistema de pacotes conclua estas operações."
@@ -403,22 +401,22 @@ msgid "already installed, exiting ..."
 msgstr "já está instalado, a sair ..."
 
 msgid "clean"
-msgstr ""
+msgstr "limpar"
 
 msgid "fine"
-msgstr ""
+msgstr "ótimo"
 
 msgid "installed ... Cancel !"
 msgstr "instalado ... Cancelar !"
 
 msgid "not installed"
-msgstr ""
+msgstr "não instalado"
 
 msgid "not supported, exiting ..."
 msgstr "não suportado, a sair ..."
 
 msgid "ready"
-msgstr ""
+msgstr "pronto"
 
 msgid "software is already installed, so cancelling installation ..."
 msgstr "o software já está instalado, a cancelar a instalação ..."

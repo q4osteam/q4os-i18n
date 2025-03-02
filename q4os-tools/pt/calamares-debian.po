@@ -58,9 +58,8 @@ msgstr "Dezenas de milhares de aplicações de software gratuitas estão dispon�
 msgid "Thank you for choosing us."
 msgstr "Obrigado por nos escolher."
 
-#, fuzzy
 msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
-msgstr "O gestor de atualizações do Q4OS vigia o seu sistema e atualiza-o automaticamente assim que as atualizações estiverem disponíveis."
+msgstr "O gestor de atualizações do Q4OS vigia o seu sistema e mostra um ícone de atualização assim que as atualizações ficam disponíveis."
 
 msgid "This is Q4OS"
 msgstr "Este é o Q4OS"
