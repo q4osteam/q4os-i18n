@@ -310,47 +310,43 @@ msgstr ""
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
-msgstr ""
+msgstr "¿Le gustaría instalar el idioma ahora mismo?"
 
 #, sh-format
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
-msgstr ""
+msgstr "¡Vaya, Q4OS ha detectado automáticamente, que se está ejecutando dentro de<b>${APF}</b>host<b>!</b>"
 
 #, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
-msgstr ""
+msgstr "Sí, esta es la forma correcta de probar el sistema operativo Q4OS. Es<b>muy recomendable</b>instalar <b>${APD}</b>dentro de esta máquina virtual. Será posible mostrar en modo de pantalla completa, usar redes ${APF}, controladores de mouse y otras funciones."
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
+msgstr "Sí, puede instalar controladores de vídeo propietarios de NVIDIA ahora mismo. Esta configuración descargará e instalará automáticamente todo lo necesario."
 
 #, sh-format
 msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
-msgstr ""
+msgstr "Vas a agregar un repositorio externo. Esto está destinado específicamente a usuarios avanzados familiarizados con el sistema de gestión de paquetes Debian."
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "Vas a editar el menú de inicio."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr ""
+msgstr "Es posible que desees ampliar el tamaño del texto y accesorios para mejorar la legibilidad. Hacé clic en Ok para ejecutar una herramienta de configuración para configurar y escalar la pantalla."
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
-msgstr ""
+msgstr "Podrás crear una nueva estructura de submenús / carpetas personalizadas y llenarla con las entradas de menú deseadas. Podés crear nuevos accesos directos haciendo clic con el botón derecho del mouse, o arrastrar y soltar iconos desde el menú de inicio o el escritorio en la ventana del editor de menús."
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "descargar"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
-
-#, sh-format
-msgid "message"
-msgstr ""
+msgstr "descargando ..."
 
 #, sh-format
 msgid "message"
