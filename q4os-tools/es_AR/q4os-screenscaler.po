@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Screen scaler for Trinity desktop package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2025.
 #
 #, fuzzy
 msgid ""
@@ -18,52 +18,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "1.00"
-msgstr ""
+msgstr "1.00"
 
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Formulario (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "Formulario1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
+msgstr "Si ajustás la escala, las fuentes y los elementos en la pantalla principal van a coincidir con el tamaño real."
 
 msgid "Reset"
-msgstr ""
+msgstr "Restablecer"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "Restablecer la configuración de escala de pantalla a los valores predeterminados del sistema"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Regla [cm]:"
 
 msgid "Sample:"
-msgstr ""
+msgstr "Ejemplo:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Guardá los cambios, vas a tener que iniciar sesión de nuevo"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Factor de escala"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Factor de escala  /  Valor de DPI a aplicar  /  Pantalla principal detectada"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "La configuración de escala de pantalla se guardó. Tenés que iniciar sesión de nuevo para que los cambios tengan efecto."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Configuración de escala de pantalla"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Mostrar opciones avanzadas"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "Esta herramienta solo configura la escala de pantalla para Trinity Desktop, saliendo..."
