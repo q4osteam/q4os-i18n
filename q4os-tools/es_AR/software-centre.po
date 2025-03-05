@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Q4OS Software Centre package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2025.
 #
 #, fuzzy
 msgid ""
@@ -18,163 +18,163 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#Filtro: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#Registros: "
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  Menú  ---"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p>"
-msgstr ""
+msgstr "<p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>¡Se detectó una instalación de NVIDIA!</p><p>Las acciones están deshabilitadas mientras se configura NVIDIA. Esperá a que termine la instalación.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>El sistema de paquetes está ocupado y no puede instalar en este momento. La instalación no puede continuar.</p><p>Lo más probable es que haya actualizaciones en segundo plano. Si es así, esperá un momento a que el sistema termine. Asegurate de no estar instalando otra aplicación e intentá de nuevo en unos minutos.</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
-msgstr ""
+msgstr "<p>Seleccioná una aplicación de la lista de destacadas para instalar.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>¡Se detectó una instalación de VirtualBox!</p><p>Las acciones están deshabilitadas mientras se configura VirtualBox. Esperá a que termine la instalación.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>No aplicaste ningún perfil de escritorio todavía. Es muy recomendable aplicar uno antes de instalar aplicaciones.</p><p>Ejecutá la herramienta <b>Desktop Profiler</b> para elegir y aplicar un perfil.</p>"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "La base de datos de APT todavía no se actualizó."
 
 msgid "Application"
-msgstr ""
+msgstr "Aplicación"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Perfilador de escritorio"
 
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Perfilador de escritorio"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "El gestor de software Discover no está instalado. ¿Querés instalarlo ahora?"
 
 msgid "Featured applications"
-msgstr ""
+msgstr "Aplicaciones destacadas"
 
 msgid "Featured applications: #"
-msgstr ""
+msgstr "Aplicaciones destacadas: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Aplicaciones de Flathub"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Para ver más aplicaciones en la lista de destacadas, actualizá la base de datos de APT y volvé a abrir el Centro de Software."
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Install"
-msgstr ""
+msgstr "Instalar"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "¿Instalar Discover?"
 
 msgid "Install Synaptic ?"
-msgstr ""
+msgstr "¿Instalar Synaptic?"
 
 msgid "Install application"
-msgstr ""
+msgstr "Instalar aplicación"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "Instalá o desinstalá la aplicación seleccionada de la lista de destacadas"
 
 msgid "More options"
-msgstr ""
+msgstr "Más opciones"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "Abrir el repositorio de Flathub en el navegador web preferido"
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Centro de Software de Q4OS"
 
 msgid "Rating"
-msgstr ""
+msgstr "Calificación"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr ""
+msgstr "Ejecutar la herramienta 'Desktop Profiler'"
 
 msgid "Run 'Discover' advanced software manager"
-msgstr ""
+msgstr "Ejecutar 'Discover', el gestor de software avanzado"
 
 msgid "Run 'Synaptic' advanced software manager"
-msgstr ""
+msgstr "Ejecutar 'Synaptic', el gestor de software avanzado"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "Ejecutar un instalador de paquetes cómodo y el instalador de Flatpak"
 
 msgid "Search:"
-msgstr ""
+msgstr "Buscar:"
 
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 msgid "Status:"
-msgstr ""
+msgstr "Estado:"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "El gestor de paquetes Synaptic no está instalado. ¿Querés instalarlo ahora?"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Desinstalar"
 
 msgid "Uninstall now"
-msgstr ""
+msgstr "Desinstalar ahora"
 
 msgid "action1"
-msgstr ""
+msgstr "acción1"
 
 msgid "action2"
-msgstr ""
+msgstr "acción2"
 
 msgid "config_file"
-msgstr ""
+msgstr "archivo_config"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencias"
 
 msgid "download"
-msgstr ""
+msgstr "descargar"
 
 msgid "no selection"
-msgstr ""
+msgstr "ninguna selección"
 
 msgid "origin"
-msgstr ""
+msgstr "origen"
 
 msgid "package"
-msgstr ""
+msgstr "paquete"
 
 msgid "rating_num"
-msgstr ""
+msgstr "número_calificación"
 
 msgid "recordnum"
-msgstr ""
+msgstr "número_registro"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositorios"
 
 msgid "textLabel"
-msgstr ""
+msgstr "etiquetaTexto"
