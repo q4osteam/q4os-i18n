@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Q4OS Update Manager package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2025.
 #
 #, fuzzy
 msgid ""
@@ -18,22 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 msgid "Auto close updater window on finish"
-msgstr ""
+msgstr "Cerrar automáticamente la ventana del actualizador al terminar"
 
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgstr "Usar el gestor de paquetes Synaptic si está disponible"
 
 msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
+msgstr "Mostrar la lista de paquetes actualizables y los diálogos de confirmación"
 
 msgid "Start updater window minimized"
-msgstr ""
+msgstr "Iniciar la ventana del actualizador minimizada"
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Administrador de actualizaciones - configuración"
