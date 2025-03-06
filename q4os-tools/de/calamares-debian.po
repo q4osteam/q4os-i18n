@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_DE\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "A great desktop OS"
 msgstr "Ein großartiges Desktop-Betriebssystem"
@@ -27,9 +27,8 @@ msgstr "Google Chrome, Firefox, Thunderbird und LibreOffice sind leicht zu insta
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
 msgstr "Es ist sicher und stabil, Sie benötigen kein Antivirenprogramm, keine Anti-Spyware, kein Defragmentierungstool oder keinen Registry Cleaner."
 
-#, fuzzy
 msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Andere beliebte Anwendungen <! - wie Google Picasa, Skype, Dropbox, TeamViewer und mehr -> können mit einem Mausklick installiert werden."
+msgstr "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
 
 msgid "Out of the box"
 msgstr "Aus der Box"
@@ -58,9 +57,8 @@ msgstr "Zehntausende kostenlose Softwareanwendungen sind im Paketmanager verfüg
 msgid "Thank you for choosing us."
 msgstr "Danke, daß Sie uns gewählt haben."
 
-#, fuzzy
 msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
-msgstr "Der Q4OS Update Manager überwacht Ihr System und aktualisiert es automatisch, sobald Updates verfügbar sind."
+msgstr "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 
 msgid "This is Q4OS"
 msgstr "Das ist Q4OS"
