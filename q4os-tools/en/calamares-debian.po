@@ -9,56 +9,74 @@ msgstr ""
 "X-Language: en_US\n"
 "X-Qt-Contexts: true\n"
 
-msgid "A great desktop OS"
+msgctxt "show|"
+msgid "Welcome to Q4OS"
 msgstr ""
 
-msgid "An alternative to mainstream operating systems"
-msgstr ""
-
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr ""
-
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr ""
-
-msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr ""
-
-msgid "Out of the box"
-msgstr ""
-
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr ""
-
-msgid "Q4OS is Free and Open Source."
-msgstr ""
-
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr ""
-
-msgid "Q4OS is easy to use, powerful and configurable."
-msgstr ""
-
-msgid "Safe updates"
-msgstr ""
-
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr ""
-
-msgid "Tens of thousands free software applications are available from package manager."
-msgstr ""
-
-msgid "Thank you for choosing us."
-msgstr ""
-
-msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
-msgstr ""
-
+msgctxt "show|"
 msgid "This is Q4OS"
 msgstr ""
 
+msgctxt "show|"
 msgid "We hope you'll enjoy your operating system."
 msgstr ""
 
-msgid "Welcome to Q4OS"
+msgctxt "show|"
+msgid "Thank you for choosing us."
+msgstr ""
+
+msgctxt "show|"
+msgid "A great desktop OS"
+msgstr ""
+
+msgctxt "show|"
+msgid "Q4OS is Free and Open Source."
+msgstr ""
+
+msgctxt "show|"
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr ""
+
+msgctxt "show|"
+msgid "Out of the box"
+msgstr ""
+
+msgctxt "show|"
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr ""
+
+msgctxt "show|"
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgstr ""
+
+msgctxt "show|"
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr ""
+
+msgctxt "show|"
+msgid "An alternative to mainstream operating systems"
+msgstr ""
+
+msgctxt "show|"
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr ""
+
+msgctxt "show|"
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr ""
+
+msgctxt "show|"
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr ""
+
+msgctxt "show|"
+msgid "Safe updates"
+msgstr ""
+
+msgctxt "show|"
+msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
+msgstr ""
+
+msgctxt "show|"
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
 msgstr ""

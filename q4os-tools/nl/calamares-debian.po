@@ -17,58 +17,92 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 19.08.2\n"
 
-msgid "A great desktop OS"
-msgstr "Een geweldig besturingssysteem"
-
-msgid "An alternative to mainstream operating systems"
-msgstr "Een alternatief voor de bekende besturingssystemen"
-
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr "Google Chrome, Firefox, Thunderbird en LibreOffice kunnen gemakkelijk worden geïnstalleerd, zodat u snel aan de slag kunt met het systeem en het internet."
-
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr "Het is veilig en stabiel: geen antivirus- en antispywareprogramma nodig, en geen defragmentatie of registeropschoning nodig."
+#, fuzzy
+msgctxt "show|"
+msgid "Welcome to Q4OS"
+msgstr "Welkom bij Q4OS"
 
 #, fuzzy
-msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Andere populaire programma's, <!--zoals Google Picasa, Skype, Dropbox, TeamViewer en nog véél meer -->, kunnen met één muisklik worden geïnstalleerd."
+msgctxt "show|"
+msgid "This is Q4OS"
+msgstr "Dit is Q4OS"
 
-msgid "Out of the box"
-msgstr "Direct aan de slag"
+#, fuzzy
+msgctxt "show|"
+msgid "We hope you'll enjoy your operating system."
+msgstr "We hopen dat u veel plezier gaat beleven aan uw besturingssysteem."
 
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr "Q4OS detecteert andere besturingssystemen en installeert zichzelf ernaast. Na het aanzetten van de computer kunt u kiezen welk besturingssysteem u wilt opstarten."
-
-msgid "Q4OS is Free and Open Source."
-msgstr "Q4OS is vrij en open source."
-
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "Q4OS is kan omgaan met de populairste bestandsformaten: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov, etc."
-
-msgid "Q4OS is easy to use, powerful and configurable."
-msgstr "Q4OS is eenvoudig in het gebruik, maar ook veelzijdig en aanpasbaar."
-
-msgid "Safe updates"
-msgstr "Veilige updates"
-
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr "U krijgt alle benodigde software- en beveiligingsupdates, zowel voor het systeem als voor de geïnstalleerde software."
-
-msgid "Tens of thousands free software applications are available from package manager."
-msgstr "U kunt tienduizenden vrijesoftwareprogramma's installeren middels de pakketbeheerder."
-
+#, fuzzy
+msgctxt "show|"
 msgid "Thank you for choosing us."
 msgstr "Bedankt dat u voor ons hebt gekozen."
 
 #, fuzzy
+msgctxt "show|"
+msgid "A great desktop OS"
+msgstr "Een geweldig besturingssysteem"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is Free and Open Source."
+msgstr "Q4OS is vrij en open source."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr "U kunt tienduizenden vrijesoftwareprogramma's installeren middels de pakketbeheerder."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Out of the box"
+msgstr "Direct aan de slag"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr "Google Chrome, Firefox, Thunderbird en LibreOffice kunnen gemakkelijk worden geïnstalleerd, zodat u snel aan de slag kunt met het systeem en het internet."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgstr "Andere populaire programma's, <!--zoals Google Picasa, Skype, Dropbox, TeamViewer en nog véél meer -->, kunnen met één muisklik worden geïnstalleerd."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "Q4OS is kan omgaan met de populairste bestandsformaten: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov, etc."
+
+#, fuzzy
+msgctxt "show|"
+msgid "An alternative to mainstream operating systems"
+msgstr "Een alternatief voor de bekende besturingssystemen"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "Q4OS is eenvoudig in het gebruik, maar ook veelzijdig en aanpasbaar."
+
+#, fuzzy
+msgctxt "show|"
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr "Het is veilig en stabiel: geen antivirus- en antispywareprogramma nodig, en geen defragmentatie of registeropschoning nodig."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr "Q4OS detecteert andere besturingssystemen en installeert zichzelf ernaast. Na het aanzetten van de computer kunt u kiezen welk besturingssysteem u wilt opstarten."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Safe updates"
+msgstr "Veilige updates"
+
+#, fuzzy
+msgctxt "show|"
 msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 msgstr "De Q4OS-updatebeheerder houdt uw systeem in de gaten en werkt het automatisch bij zodra er updates beschikbaar zijn."
 
-msgid "This is Q4OS"
-msgstr "Dit is Q4OS"
-
-msgid "We hope you'll enjoy your operating system."
-msgstr "We hopen dat u veel plezier gaat beleven aan uw besturingssysteem."
-
-msgid "Welcome to Q4OS"
-msgstr "Welkom bij Q4OS"
+#, fuzzy
+msgctxt "show|"
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr "U krijgt alle benodigde software- en beveiligingsupdates, zowel voor het systeem als voor de geïnstalleerde software."

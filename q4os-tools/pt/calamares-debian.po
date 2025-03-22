@@ -16,56 +16,92 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Source-Language: C\n"
 
-msgid "A great desktop OS"
-msgstr "Um excelente sistema operativo para o computador"
+#, fuzzy
+msgctxt "show|"
+msgid "Welcome to Q4OS"
+msgstr "Bem-vindo ao Q4OS"
 
-msgid "An alternative to mainstream operating systems"
-msgstr "Uma alternativa aos sistemas operativos convencionais"
-
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr "O Google Chrome, Firefox, Thunderbird e o LibreOffice são facilmente instaláveis, para que possa começar a usar o ambiente de trabalho e a Internet."
-
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr "É seguro e estável, não precisa de um antivírus, um anti-spyware, uma ferramenta de desfragmentação ou uma ferramenta de limpeza de registo."
-
-msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Outras aplicações populares <!--como o Skype, Dropbox, TeamViewer, Opera e outras -->podem ser instaladas com um simples clique."
-
-msgid "Out of the box"
-msgstr "Pronto a utilizar"
-
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr "O Q4OS pode detetar outros sistemas operativos e instalar-se ao lado deles. Pode escolher o sistema operativo a lançar ao iniciar o computador."
-
-msgid "Q4OS is Free and Open Source."
-msgstr "O Q4OS é gratuito e de código aberto."
-
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "O Q4OS é compatível com os formatos de ficheiros mais populares: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-
-msgid "Q4OS is easy to use, powerful and configurable."
-msgstr "O Q4OS é fácil de usar, poderoso e configurável."
-
-msgid "Safe updates"
-msgstr "Atualizações seguras"
-
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr "Atualizações de software e atualizações de segurança são fornecidas, não apenas para o sistema operativo, mas também para o software que instala."
-
-msgid "Tens of thousands free software applications are available from package manager."
-msgstr "Dezenas de milhares de aplicações de software gratuitas estão disponíveis no gestor de pacotes."
-
-msgid "Thank you for choosing us."
-msgstr "Obrigado por nos escolher."
-
-msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
-msgstr "O gestor de atualizações do Q4OS vigia o seu sistema e mostra um ícone de atualização assim que as atualizações ficam disponíveis."
-
+#, fuzzy
+msgctxt "show|"
 msgid "This is Q4OS"
 msgstr "Este é o Q4OS"
 
+#, fuzzy
+msgctxt "show|"
 msgid "We hope you'll enjoy your operating system."
 msgstr "Esperamos que goste do seu sistema operativo."
 
-msgid "Welcome to Q4OS"
-msgstr "Bem-vindo ao Q4OS"
+#, fuzzy
+msgctxt "show|"
+msgid "Thank you for choosing us."
+msgstr "Obrigado por nos escolher."
+
+#, fuzzy
+msgctxt "show|"
+msgid "A great desktop OS"
+msgstr "Um excelente sistema operativo para o computador"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is Free and Open Source."
+msgstr "O Q4OS é gratuito e de código aberto."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr "Dezenas de milhares de aplicações de software gratuitas estão disponíveis no gestor de pacotes."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Out of the box"
+msgstr "Pronto a utilizar"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr "O Google Chrome, Firefox, Thunderbird e o LibreOffice são facilmente instaláveis, para que possa começar a usar o ambiente de trabalho e a Internet."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgstr "Outras aplicações populares <!--como o Skype, Dropbox, TeamViewer, Opera e outras -->podem ser instaladas com um simples clique."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "O Q4OS é compatível com os formatos de ficheiros mais populares: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+
+#, fuzzy
+msgctxt "show|"
+msgid "An alternative to mainstream operating systems"
+msgstr "Uma alternativa aos sistemas operativos convencionais"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "O Q4OS é fácil de usar, poderoso e configurável."
+
+#, fuzzy
+msgctxt "show|"
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr "É seguro e estável, não precisa de um antivírus, um anti-spyware, uma ferramenta de desfragmentação ou uma ferramenta de limpeza de registo."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr "O Q4OS pode detetar outros sistemas operativos e instalar-se ao lado deles. Pode escolher o sistema operativo a lançar ao iniciar o computador."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Safe updates"
+msgstr "Atualizações seguras"
+
+#, fuzzy
+msgctxt "show|"
+msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
+msgstr "O gestor de atualizações do Q4OS vigia o seu sistema e mostra um ícone de atualização assim que as atualizações ficam disponíveis."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr "Atualizações de software e atualizações de segurança são fornecidas, não apenas para o sistema operativo, mas também para o software que instala."

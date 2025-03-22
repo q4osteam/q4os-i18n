@@ -15,58 +15,92 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Generator: Poedit 1.8.11\n"
 
-msgid "A great desktop OS"
-msgstr "Отличная настольная ОС"
-
-msgid "An alternative to mainstream operating systems"
-msgstr "Альтернатива основным операционным системам"
-
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr "Google Chrome, Firefox, Thunderbird и LibreOffice легко устанавливаются, поэтому вы можете начать работу с настольным компьютером и Интернетом."
-
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr "Это безопасно и стабильно, вам не нужен антивирус, антишпион, инструмент дефрагментации или средство для очистки реестра."
+#, fuzzy
+msgctxt "show|"
+msgid "Welcome to Q4OS"
+msgstr "Добро пожаловать в Q4OS"
 
 #, fuzzy
-msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Другие популярные приложения, <!--такие как Google Picasa, Skype, Dropbox, TeamViewer и другие, -->можно установить одним щелчком мыши."
+msgctxt "show|"
+msgid "This is Q4OS"
+msgstr "Это Q4OS"
 
-msgid "Out of the box"
-msgstr "Из коробки"
+#, fuzzy
+msgctxt "show|"
+msgid "We hope you'll enjoy your operating system."
+msgstr "Мы надеемся, что вам понравится ваша операционная система."
 
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr "Q4OS может обнаруживать другие операционные системы и устанавливать себя рядом с ними. Вы можете выбрать, какую операционную систему запускать при запуске компьютера."
-
-msgid "Q4OS is Free and Open Source."
-msgstr "Q4OS — бесплатный и свободный."
-
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "Q4OS совместим с большинством популярных форматов файлов: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov и т. п."
-
-msgid "Q4OS is easy to use, powerful and configurable."
-msgstr "Q4OS прост в использовании, мощный и настраиваемый."
-
-msgid "Safe updates"
-msgstr "Безопасные обновления"
-
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr "Обновления программного обеспечения и обновления безопасности предоставляются не только для операционной системы, но и для программного обеспечения, которое вы устанавливаете."
-
-msgid "Tens of thousands free software applications are available from package manager."
-msgstr "Десятки тысяч бесплатных программных приложений доступны в диспетчере пакетов."
-
+#, fuzzy
+msgctxt "show|"
 msgid "Thank you for choosing us."
 msgstr "Спасибо, что выбрали нас."
 
 #, fuzzy
+msgctxt "show|"
+msgid "A great desktop OS"
+msgstr "Отличная настольная ОС"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is Free and Open Source."
+msgstr "Q4OS — бесплатный и свободный."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr "Десятки тысяч бесплатных программных приложений доступны в диспетчере пакетов."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Out of the box"
+msgstr "Из коробки"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr "Google Chrome, Firefox, Thunderbird и LibreOffice легко устанавливаются, поэтому вы можете начать работу с настольным компьютером и Интернетом."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgstr "Другие популярные приложения, <!--такие как Google Picasa, Skype, Dropbox, TeamViewer и другие, -->можно установить одним щелчком мыши."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "Q4OS совместим с большинством популярных форматов файлов: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov и т. п."
+
+#, fuzzy
+msgctxt "show|"
+msgid "An alternative to mainstream operating systems"
+msgstr "Альтернатива основным операционным системам"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "Q4OS прост в использовании, мощный и настраиваемый."
+
+#, fuzzy
+msgctxt "show|"
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr "Это безопасно и стабильно, вам не нужен антивирус, антишпион, инструмент дефрагментации или средство для очистки реестра."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr "Q4OS может обнаруживать другие операционные системы и устанавливать себя рядом с ними. Вы можете выбрать, какую операционную систему запускать при запуске компьютера."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Safe updates"
+msgstr "Безопасные обновления"
+
+#, fuzzy
+msgctxt "show|"
 msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 msgstr "Менеджер обновлений Q4OS следит за вашей системой и обновляет её автоматически, как только будут доступны обновления."
 
-msgid "This is Q4OS"
-msgstr "Это Q4OS"
-
-msgid "We hope you'll enjoy your operating system."
-msgstr "Мы надеемся, что вам понравится ваша операционная система."
-
-msgid "Welcome to Q4OS"
-msgstr "Добро пожаловать в Q4OS"
+#, fuzzy
+msgctxt "show|"
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr "Обновления программного обеспечения и обновления безопасности предоставляются не только для операционной системы, но и для программного обеспечения, которое вы устанавливаете."

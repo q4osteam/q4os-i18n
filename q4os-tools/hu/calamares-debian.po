@@ -18,57 +18,92 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "A great desktop OS"
-msgstr "Remek asztali operációs rendszer"
+#, fuzzy
+msgctxt "show|"
+msgid "Welcome to Q4OS"
+msgstr "Üdvözlünk a Q4OS-ban"
 
-msgid "An alternative to mainstream operating systems"
-msgstr "A meghatározó operációs rendszerek alternatívája"
+#, fuzzy
+msgctxt "show|"
+msgid "This is Q4OS"
+msgstr "Ez itt a Q4OS"
 
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr "A Google Chrome, a Firefox, a Thunderbird és a LibreOffice egyszerűen telepíthető, így az asztali gépen és az internettel is könnyen használható."
+#, fuzzy
+msgctxt "show|"
+msgid "We hope you'll enjoy your operating system."
+msgstr "Reméljük, hasznos lesz számodra a Q4OS operációs rendszer."
 
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr "Biztonságos és stabil, nincs szükség vírusirtóra, kémelhárítóra, defragmentáló eszközre vagy registry cleanerre."
-
-msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Más népszerű alkalmazások <!- mint például a Skype, Dropbox, TeamViewer, Opera és még sok más --> egy kattintással telepíthetők."
-
-msgid "Out of the box"
-msgstr "A dobozból kivéve"
-
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr "A Q4OS képes felismerni más operációs rendszereket és telepíteni magát melléjük. Kiválaszthatod, hogy a számítógép indításakor melyik operációs rendszer induljon el."
-
-msgid "Q4OS is Free and Open Source."
-msgstr "A Q4OS ingyenes és nyílt forráskódú."
-
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "A Q4OS kompatibilis a legtöbb népszerű fájlformátummal: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...stb"
-
-msgid "Q4OS is easy to use, powerful and configurable."
-msgstr "A Q4OS könnyen használható, hatékony és konfigurálható."
-
-msgid "Safe updates"
-msgstr "Biztonságos frissítések"
-
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr "A szoftverfrissítések és biztonsági frissítések nemcsak az operációs rendszerhez, hanem a telepített szoftverekhez is rendelkezésre állnak."
-
-msgid "Tens of thousands free software applications are available from package manager."
-msgstr "Több ezer ingyenes szoftveralkalmazás érhető el a csomagkezelőből."
-
+#, fuzzy
+msgctxt "show|"
 msgid "Thank you for choosing us."
 msgstr "Köszönjük, hogy minket választottál."
 
 #, fuzzy
+msgctxt "show|"
+msgid "A great desktop OS"
+msgstr "Remek asztali operációs rendszer"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is Free and Open Source."
+msgstr "A Q4OS ingyenes és nyílt forráskódú."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Tens of thousands free software applications are available from package manager."
+msgstr "Több ezer ingyenes szoftveralkalmazás érhető el a csomagkezelőből."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Out of the box"
+msgstr "A dobozból kivéve"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgstr "A Google Chrome, a Firefox, a Thunderbird és a LibreOffice egyszerűen telepíthető, így az asztali gépen és az internettel is könnyen használható."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgstr "Más népszerű alkalmazások <!- mint például a Skype, Dropbox, TeamViewer, Opera és még sok más --> egy kattintással telepíthetők."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "A Q4OS kompatibilis a legtöbb népszerű fájlformátummal: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...stb"
+
+#, fuzzy
+msgctxt "show|"
+msgid "An alternative to mainstream operating systems"
+msgstr "A meghatározó operációs rendszerek alternatívája"
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS is easy to use, powerful and configurable."
+msgstr "A Q4OS könnyen használható, hatékony és konfigurálható."
+
+#, fuzzy
+msgctxt "show|"
+msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgstr "Biztonságos és stabil, nincs szükség vírusirtóra, kémelhárítóra, defragmentáló eszközre vagy registry cleanerre."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgstr "A Q4OS képes felismerni más operációs rendszereket és telepíteni magát melléjük. Kiválaszthatod, hogy a számítógép indításakor melyik operációs rendszer induljon el."
+
+#, fuzzy
+msgctxt "show|"
+msgid "Safe updates"
+msgstr "Biztonságos frissítések"
+
+#, fuzzy
+msgctxt "show|"
 msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
 msgstr "A Q4OS frissítéskezelő figyeli a rendszert, és automatikusan frissíti, amint frissítések állnak rendelkezésre."
 
-msgid "This is Q4OS"
-msgstr "Ez itt a Q4OS"
-
-msgid "We hope you'll enjoy your operating system."
-msgstr "Reméljük, hasznos lesz számodra a Q4OS operációs rendszer."
-
-msgid "Welcome to Q4OS"
-msgstr "Üdvözlünk a Q4OS-ban"
+#, fuzzy
+msgctxt "show|"
+msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgstr "A szoftverfrissítések és biztonsági frissítések nemcsak az operációs rendszerhez, hanem a telepített szoftverekhez is rendelkezésre állnak."
