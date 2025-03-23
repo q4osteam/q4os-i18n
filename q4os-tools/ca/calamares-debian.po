@@ -1,21 +1,9 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Calamares package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Calamares\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-13 14:30+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
 
 msgctxt "show|"
 msgid "Welcome to Q4OS"
@@ -42,7 +30,9 @@ msgid "Q4OS is Free and Open Source."
 msgstr ""
 
 msgctxt "show|"
-msgid "Tens of thousands free software applications are available from package manager."
+msgid ""
+"Tens of thousands free software applications are available from package "
+"manager."
 msgstr ""
 
 msgctxt "show|"
@@ -50,15 +40,21 @@ msgid "Out of the box"
 msgstr ""
 
 msgctxt "show|"
-msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
+msgid ""
+"Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, "
+"so you can get started with the desktop and the Internet."
 msgstr ""
 
 msgctxt "show|"
-msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgid ""
+"Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and "
+"more -->can be installed with a click of the mouse."
 msgstr ""
 
 msgctxt "show|"
-msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgid ""
+"Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, "
+"mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
 msgstr ""
 
 msgctxt "show|"
@@ -70,11 +66,15 @@ msgid "Q4OS is easy to use, powerful and configurable."
 msgstr ""
 
 msgctxt "show|"
-msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
+msgid ""
+"It's safe and stable, you don't need an antivirus, an anti-spyware, a "
+"defragmentation tool or a registry cleaner."
 msgstr ""
 
 msgctxt "show|"
-msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
+msgid ""
+"Q4OS can detect other operating systems and install itself beside them. You "
+"can choose which operating system to launch when you start the computer."
 msgstr ""
 
 msgctxt "show|"
@@ -82,9 +82,13 @@ msgid "Safe updates"
 msgstr ""
 
 msgctxt "show|"
-msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
+msgid ""
+"The Q4OS update manager watches your system and shows an upgrade icon as "
+"soon as updates become available."
 msgstr ""
 
 msgctxt "show|"
-msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
+msgid ""
+"Software updates and security updates are provided, not only for the "
+"operating system but also for the software you install."
 msgstr ""
