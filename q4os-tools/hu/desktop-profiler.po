@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-26 15:31+0200\n"
+"POT-Creation-Date: 2025-03-21 10:49+0100\n"
 "PO-Revision-Date: 2025-02-10 17:42+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -114,6 +114,12 @@ msgstr "Profil alkalmazása"
 msgid "Applying a profile within the live systems isn't supported."
 msgstr "A profilok alkalmazása az éles rendszereken belül nem támogatott."
 
+msgid "Apt configured, no additional action needed."
+msgstr ""
+
+msgid "Apt plugin completed, Ok"
+msgstr ""
+
 msgid "Are you really sure to overwrite the previous profile ?"
 msgstr "Biztos vagy benne, hogy felül kell írni az előző profilt ?"
 
@@ -174,11 +180,11 @@ msgstr "Asztali környezet profilozó - alapértelmezett asztali környezet kiv�
 msgid "Do you want to continue ?"
 msgstr "Szeretnéd folytatni?"
 
-msgid "ESH applications to install:"
-msgstr "ESH alkalmazások telepítése:"
-
 msgid "Error: profile not found, file: "
 msgstr "Hiba: nem található profil, fájl:"
+
+msgid "Exit code: "
+msgstr ""
 
 msgid "Export profile"
 msgstr "Profil exportálása"
@@ -188,6 +194,13 @@ msgstr "Nem sikerült beolvasni a csomaglistát, fájl:"
 
 msgid "Failed to read repositories list, file: "
 msgstr "Nem sikerült beolvasni a tárolók listáját, fájl:  "
+
+#, fuzzy
+msgid "Flatpak applications to install:"
+msgstr "ESH alkalmazások telepítése:"
+
+msgid "Flatpak plugin completed, Ok"
+msgstr ""
 
 msgid "Get snapshot profile"
 msgstr "Pillanatkép-profil lekérése"
@@ -210,6 +223,9 @@ msgstr "Helyi profil importálása"
 msgid "Import shared profile"
 msgstr "Megosztott profil importálása"
 
+msgid "Initializing environment ..."
+msgstr ""
+
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "A telepítési folyamat kérte a munkamenet kijelentkezését. Szeretnél most újra bejelentkezni ?"
 
@@ -221,6 +237,12 @@ msgstr "KDE Plasma >"
 
 msgid "Launch installation"
 msgstr "Telepítés indítása"
+
+msgid "Launching Apt plugin ..."
+msgstr ""
+
+msgid "Launching Flatpak plugin ..."
+msgstr ""
 
 msgid "Next >"
 msgstr "Tovább >"
@@ -249,6 +271,14 @@ msgstr "Opciók"
 msgid "Please enter shared profile code, or Internet address:"
 msgstr "Add meg a megosztott profilkódot vagy az internetcímet:"
 
+#, fuzzy
+msgid "Please re-login active session as soon as possible."
+msgstr "Kérlek, minél hamarabb indítsd újra az X-kiszolgálót."
+
+#, fuzzy
+msgid "Please reboot as soon as possible."
+msgstr "Kérlek, minél hamarabb indítsd újra az X-kiszolgálót."
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Minél hamarabb indítsd újra a számítógépet. Most szeretnéd ujra indítani a számítógépet ?"
 
@@ -263,6 +293,9 @@ msgstr "Válaszd ki az alapértelmezett asztali környezetet. Jelenleg a könny�
 
 msgid "Previous profile:"
 msgstr "Korábbi profil:"
+
+msgid "Profile applied, installation successful."
+msgstr ""
 
 msgid "Profile description"
 msgstr "Profil leírás"
@@ -279,8 +312,13 @@ msgstr "A profil eltávolításra került."
 msgid "Profile info"
 msgstr "Profil információk"
 
-msgid "Profile:"
+#, fuzzy
+msgid "Profile name:"
 msgstr "Profil:"
+
+#, fuzzy
+msgid "QSI applications to install:"
+msgstr "ESH alkalmazások telepítése:"
 
 msgid "Remote profile not found."
 msgstr "A távoli profil nem található."
@@ -291,6 +329,9 @@ msgstr "Profil eltávolítása"
 msgid "Remove superfluous packages"
 msgstr "Felesleges csomagok eltávolítása"
 
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
 msgid "Select a profile from the list please."
 msgstr "Válassz egy profilt a listából."
 
@@ -299,6 +340,10 @@ msgstr "A kiválasztott profil el lett mentve a fájlba:"
 
 msgid "Software profile:"
 msgstr "Szoftverprofil:"
+
+#, fuzzy
+msgid "Starting profile installation ... "
+msgstr "Telepítés visszavonása"
 
 msgid "System profiles cannot be removed."
 msgstr "A rendszerprofilok nem távolíthatók el."
@@ -317,6 +362,12 @@ msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
 msgstr "Töröld a jelölőnégyzetet a jelenleg telepített csomagok megőrzéséhez."
+
+msgid "Writing log info ..."
+msgstr ""
+
+msgid "Writing profile status ..."
+msgstr ""
 
 msgid "Yes, I really want to install additional DE"
 msgstr "Igen, tényleg szeretnék további asztali környezeteket"

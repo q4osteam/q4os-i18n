@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-26 15:31+0200\n"
+"POT-Creation-Date: 2025-03-21 10:49+0100\n"
 "PO-Revision-Date: 2019-10-22 14:50+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
@@ -116,6 +116,12 @@ msgstr "Selecione um perfil"
 msgid "Applying a profile within the live systems isn't supported."
 msgstr ""
 
+msgid "Apt configured, no additional action needed."
+msgstr ""
+
+msgid "Apt plugin completed, Ok"
+msgstr ""
+
 msgid "Are you really sure to overwrite the previous profile ?"
 msgstr ""
 
@@ -180,10 +186,10 @@ msgstr "Perfil do ambiente de trabalho - selecione o ambiente de trabalho padrã
 msgid "Do you want to continue ?"
 msgstr "<p>Deseja cancelar a operação pendente?</p>"
 
-msgid "ESH applications to install:"
+msgid "Error: profile not found, file: "
 msgstr ""
 
-msgid "Error: profile not found, file: "
+msgid "Exit code: "
 msgstr ""
 
 #, fuzzy
@@ -194,6 +200,12 @@ msgid "Failed to read packages list, file: "
 msgstr ""
 
 msgid "Failed to read repositories list, file: "
+msgstr ""
+
+msgid "Flatpak applications to install:"
+msgstr ""
+
+msgid "Flatpak plugin completed, Ok"
 msgstr ""
 
 #, fuzzy
@@ -221,6 +233,9 @@ msgstr "Selecione um perfil"
 msgid "Import shared profile"
 msgstr "Perfil de software:"
 
+msgid "Initializing environment ..."
+msgstr ""
+
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "O processo de instalação solicitou o término desta sessão. Você quer reiniciar a sessão agora mesmo ?"
 
@@ -232,6 +247,12 @@ msgstr "KDE Plasma >"
 
 msgid "Launch installation"
 msgstr "Iniciar a instalação"
+
+msgid "Launching Apt plugin ..."
+msgstr ""
+
+msgid "Launching Flatpak plugin ..."
+msgstr ""
 
 msgid "Next >"
 msgstr "Avançar >"
@@ -261,6 +282,14 @@ msgstr ""
 msgid "Please enter shared profile code, or Internet address:"
 msgstr ""
 
+#, fuzzy
+msgid "Please re-login active session as soon as possible."
+msgstr "Por favor, reinicie o servidor X, o mais rapidamente possível."
+
+#, fuzzy
+msgid "Please reboot as soon as possible."
+msgstr "Por favor, reinicie o servidor X, o mais rapidamente possível."
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Por favor, reinicie o seu computador assim que possível. Você deseja reiniciar agora ?"
 
@@ -283,6 +312,9 @@ msgstr ""
 msgid "Previous profile:"
 msgstr "Perfil de software:"
 
+msgid "Profile applied, installation successful."
+msgstr ""
+
 msgid "Profile description"
 msgstr "Descrição do perfil"
 
@@ -300,7 +332,11 @@ msgstr ""
 msgid "Profile info"
 msgstr "Descrição do perfil"
 
-msgid "Profile:"
+#, fuzzy
+msgid "Profile name:"
+msgstr "Descrição do perfil"
+
+msgid "QSI applications to install:"
 msgstr ""
 
 msgid "Remote profile not found."
@@ -313,6 +349,9 @@ msgstr "Selecione um perfil"
 msgid "Remove superfluous packages"
 msgstr ""
 
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
 msgid "Select a profile from the list please."
 msgstr ""
 
@@ -321,6 +360,10 @@ msgstr ""
 
 msgid "Software profile:"
 msgstr "Perfil de software:"
+
+#, fuzzy
+msgid "Starting profile installation ... "
+msgstr "Iniciar a instalação"
 
 msgid "System profiles cannot be removed."
 msgstr ""
@@ -343,6 +386,12 @@ msgid "Trinity >"
 msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
+msgid "Writing log info ..."
+msgstr ""
+
+msgid "Writing profile status ..."
 msgstr ""
 
 msgid "Yes, I really want to install additional DE"

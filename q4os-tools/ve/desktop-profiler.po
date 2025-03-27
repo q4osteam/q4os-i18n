@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-26 15:31+0200\n"
+"POT-Creation-Date: 2025-03-21 10:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -113,6 +113,12 @@ msgstr ""
 msgid "Applying a profile within the live systems isn't supported."
 msgstr ""
 
+msgid "Apt configured, no additional action needed."
+msgstr ""
+
+msgid "Apt plugin completed, Ok"
+msgstr ""
+
 msgid "Are you really sure to overwrite the previous profile ?"
 msgstr ""
 
@@ -173,10 +179,10 @@ msgstr ""
 msgid "Do you want to continue ?"
 msgstr ""
 
-msgid "ESH applications to install:"
+msgid "Error: profile not found, file: "
 msgstr ""
 
-msgid "Error: profile not found, file: "
+msgid "Exit code: "
 msgstr ""
 
 msgid "Export profile"
@@ -186,6 +192,12 @@ msgid "Failed to read packages list, file: "
 msgstr ""
 
 msgid "Failed to read repositories list, file: "
+msgstr ""
+
+msgid "Flatpak applications to install:"
+msgstr ""
+
+msgid "Flatpak plugin completed, Ok"
 msgstr ""
 
 msgid "Get snapshot profile"
@@ -209,6 +221,9 @@ msgstr ""
 msgid "Import shared profile"
 msgstr ""
 
+msgid "Initializing environment ..."
+msgstr ""
+
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr ""
 
@@ -219,6 +234,12 @@ msgid "KDE Plasma >"
 msgstr ""
 
 msgid "Launch installation"
+msgstr ""
+
+msgid "Launching Apt plugin ..."
+msgstr ""
+
+msgid "Launching Flatpak plugin ..."
 msgstr ""
 
 msgid "Next >"
@@ -248,6 +269,12 @@ msgstr ""
 msgid "Please enter shared profile code, or Internet address:"
 msgstr ""
 
+msgid "Please re-login active session as soon as possible."
+msgstr ""
+
+msgid "Please reboot as soon as possible."
+msgstr ""
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr ""
 
@@ -261,6 +288,9 @@ msgid "Please select default desktop environment. The lightweight and efficient 
 msgstr ""
 
 msgid "Previous profile:"
+msgstr ""
+
+msgid "Profile applied, installation successful."
 msgstr ""
 
 msgid "Profile description"
@@ -278,7 +308,10 @@ msgstr ""
 msgid "Profile info"
 msgstr ""
 
-msgid "Profile:"
+msgid "Profile name:"
+msgstr ""
+
+msgid "QSI applications to install:"
 msgstr ""
 
 msgid "Remote profile not found."
@@ -290,6 +323,9 @@ msgstr ""
 msgid "Remove superfluous packages"
 msgstr ""
 
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
 msgid "Select a profile from the list please."
 msgstr ""
 
@@ -297,6 +333,9 @@ msgid "Selected profile has been saved to file:"
 msgstr ""
 
 msgid "Software profile:"
+msgstr ""
+
+msgid "Starting profile installation ... "
 msgstr ""
 
 msgid "System profiles cannot be removed."
@@ -315,6 +354,12 @@ msgid "Trinity >"
 msgstr ""
 
 msgid "Uncheck to preserve currently installed packages."
+msgstr ""
+
+msgid "Writing log info ..."
+msgstr ""
+
+msgid "Writing profile status ..."
 msgstr ""
 
 msgid "Yes, I really want to install additional DE"

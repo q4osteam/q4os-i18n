@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-26 15:31+0200\n"
+"POT-Creation-Date: 2025-03-21 10:49+0100\n"
 "PO-Revision-Date: 2024-08-14 22:49+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -115,6 +115,12 @@ msgstr "Aplicar perfil"
 msgid "Applying a profile within the live systems isn't supported."
 msgstr "A aplicação de um perfil nos sistemas live não é suportada."
 
+msgid "Apt configured, no additional action needed."
+msgstr ""
+
+msgid "Apt plugin completed, Ok"
+msgstr ""
+
 msgid "Are you really sure to overwrite the previous profile ?"
 msgstr "Tem mesmo a certeza de que pretende substituir o perfil anterior ?"
 
@@ -175,11 +181,11 @@ msgstr "Perfil do ambiente de trabalho - selecione o ambiente de trabalho padrã
 msgid "Do you want to continue ?"
 msgstr "Quer continuar ?"
 
-msgid "ESH applications to install:"
-msgstr "Aplicações ESH a instalar:"
-
 msgid "Error: profile not found, file: "
 msgstr "Erro: perfil não encontrado, ficheiro: "
+
+msgid "Exit code: "
+msgstr ""
 
 msgid "Export profile"
 msgstr "Exportar perfil"
@@ -189,6 +195,13 @@ msgstr "Ocorreu um erro na leitura da lista de pacotes, ficheiro: "
 
 msgid "Failed to read repositories list, file: "
 msgstr "Ocorreu um erro na leitura da lista de repositórios, ficheiro: "
+
+#, fuzzy
+msgid "Flatpak applications to install:"
+msgstr "Aplicações ESH a instalar:"
+
+msgid "Flatpak plugin completed, Ok"
+msgstr ""
 
 msgid "Get snapshot profile"
 msgstr "Obter uma cópia de perfil"
@@ -211,6 +224,9 @@ msgstr "Importar perfil local"
 msgid "Import shared profile"
 msgstr "Importar perfil partilhado"
 
+msgid "Initializing environment ..."
+msgstr ""
+
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "O processo de instalação solicitou o término desta sessão. Deseja reiniciar a sessão agora mesmo ?"
 
@@ -222,6 +238,12 @@ msgstr "KDE Plasma >"
 
 msgid "Launch installation"
 msgstr "Iniciar a instalação"
+
+msgid "Launching Apt plugin ..."
+msgstr ""
+
+msgid "Launching Flatpak plugin ..."
+msgstr ""
 
 msgid "Next >"
 msgstr "Avançar >"
@@ -250,6 +272,14 @@ msgstr "Opções"
 msgid "Please enter shared profile code, or Internet address:"
 msgstr "Introduza o código de perfil partilhado ou o endereço de Internet:"
 
+#, fuzzy
+msgid "Please re-login active session as soon as possible."
+msgstr "Reinicie o servidor X, o mais rapidamente possível."
+
+#, fuzzy
+msgid "Please reboot as soon as possible."
+msgstr "Reinicie o servidor X, o mais rapidamente possível."
+
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Reinicie o seu computador assim que possível. Deseja reiniciar agora ?"
 
@@ -264,6 +294,9 @@ msgstr "Selecione o ambiente de trabalho predefinido. O leve e eficiente ambient
 
 msgid "Previous profile:"
 msgstr "Perfil anterior:"
+
+msgid "Profile applied, installation successful."
+msgstr ""
 
 msgid "Profile description"
 msgstr "Descrição do perfil"
@@ -280,8 +313,13 @@ msgstr "O perfil foi removido."
 msgid "Profile info"
 msgstr "Informação do perfil"
 
-msgid "Profile:"
+#, fuzzy
+msgid "Profile name:"
 msgstr "Perfil:"
+
+#, fuzzy
+msgid "QSI applications to install:"
+msgstr "Aplicações ESH a instalar:"
 
 msgid "Remote profile not found."
 msgstr "Perfil remoto não encontrado."
@@ -292,6 +330,9 @@ msgstr "Remover perfil"
 msgid "Remove superfluous packages"
 msgstr "Remover pacotes supérfluos"
 
+msgid "Root permissions needed, exiting ..."
+msgstr ""
+
 msgid "Select a profile from the list please."
 msgstr "Selecione um perfil da lista."
 
@@ -300,6 +341,10 @@ msgstr "O perfil selecionado foi guardado no ficheiro:"
 
 msgid "Software profile:"
 msgstr "Perfil de software:"
+
+#, fuzzy
+msgid "Starting profile installation ... "
+msgstr "Cancelar a instalação"
 
 msgid "System profiles cannot be removed."
 msgstr "Os perfis de sistema não podem ser removidos."
@@ -318,6 +363,12 @@ msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
 msgstr "Desmarque para preservar os pacotes atualmente instalados."
+
+msgid "Writing log info ..."
+msgstr ""
+
+msgid "Writing profile status ..."
+msgstr ""
 
 msgid "Yes, I really want to install additional DE"
 msgstr "Sim, eu quero instalar um DE adicional"
