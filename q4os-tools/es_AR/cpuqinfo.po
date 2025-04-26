@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-04 22:02+0200\n"
+"POT-Creation-Date: 2025-04-26 10:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,11 +23,11 @@ msgstr "(C) 2019 Q4OS"
 msgid "BIOS"
 msgstr "BIOS"
 
-msgid "Bits"
-msgstr "Bits"
-
 msgid "Bogomips"
 msgstr "Bogomips"
+
+msgid "Bus"
+msgstr ""
 
 msgid "Bus Speed"
 msgstr "Velocidad del Bus"
@@ -169,3 +169,6 @@ msgstr "Topología"
 
 msgid "Type"
 msgstr "Tipo"
+
+#~ msgid "Bits"
+#~ msgstr "Bits"
