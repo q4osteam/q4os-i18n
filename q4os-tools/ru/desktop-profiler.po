@@ -24,14 +24,13 @@ msgid "* select please *"
 msgstr "* пожалуйста, выберите *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- Основное ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- Прочее ---"
 
-#, fuzzy
 msgid "--- Selected profile ---"
-msgstr "Выберите профиль"
+msgstr "--- Выбранный профиль ---"
 
 msgid "0"
 msgstr "0"
@@ -100,40 +99,37 @@ msgid ">"
 msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "Для этой системы уже создан профиль."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "Дополнительные репозитории:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr "Другой экземпляр Профайлера рабочего стола уже запущен, производится выход…"
 
-#, fuzzy
 msgid "Apply profile"
-msgstr "Выберите профиль"
+msgstr "Применить профиль"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "Применение профиля в загрузочных системах не поддерживается."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt настроен, никаких иных действий не требуется."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Плагин Apt завершён, ОК"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "Уверены, что нужно перезаписать предыдущий профиль?"
 
 msgid "Cancel"
 msgstr "Отмена"
 
-#, fuzzy
 msgid "Cancel installation"
-msgstr "Запуск установки"
+msgstr "Отменить установку"
 
-#, fuzzy
 msgid "Cancel menu"
-msgstr "Отмена"
+msgstr "Отменить меню"
 
 msgid "Choose a new filename to export current status to"
 msgstr ""
@@ -174,26 +170,23 @@ msgstr "Профайлер рабочего стола позволяет выб
 msgid "Desktop environment:"
 msgstr "Среда рабочего стола:"
 
-#, fuzzy
 msgid "Desktop environments:"
-msgstr "Среда рабочего стола:"
+msgstr "Среды рабочего стола:"
 
 msgid "Desktop profiler - select default desktop environment"
 msgstr "Профайлер рабочего стола — выбор среды рабочего стола по умолчанию"
 
-#, fuzzy
 msgid "Do you want to continue ?"
-msgstr "<p>Хотите отменить отложенную операцию?</p>"
+msgstr "Хотите продолжить?"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "Ошибка: профиль не найден, файл: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "Код завершения: "
 
-#, fuzzy
 msgid "Export profile"
-msgstr "Профиль ПО:"
+msgstr "Экспорт профиля"
 
 msgid "Failed to read packages list, file: "
 msgstr ""
@@ -248,7 +241,7 @@ msgid "Launch installation"
 msgstr "Запуск установки"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "Запускается плагин Apt…"
 
 msgid "Launching Flatpak plugin ..."
 msgstr ""
@@ -256,9 +249,8 @@ msgstr ""
 msgid "Next >"
 msgstr "Далее >"
 
-#, fuzzy
 msgid "No configuration found."
-msgstr "Конфигурация не найдена, производится выход…"
+msgstr "Конфигурация не найдена."
 
 msgid "No profile selected. Select a profile please."
 msgstr ""
@@ -276,7 +268,7 @@ msgid "Ok"
 msgstr "Хорошо"
 
 msgid "Options"
-msgstr ""
+msgstr "Параметры"
 
 msgid "Please enter shared profile code, or Internet address:"
 msgstr ""
@@ -307,46 +299,41 @@ msgstr ""
 "<p align=justify>Лёгкий и эффективный рабочий стол <b>Trinity</b> установлен и предварительно настроен по умолчанию на данный момент. Тем не менее, программа установки Q4OS автоматически определила, что ваш компьютер достаточно мощный для работы с более продвинутой средой<b>KDE Plasma</b>.</p>\n"
 "</html>"
 
-#, fuzzy
 msgid "Previous profile:"
-msgstr "Профиль ПО:"
+msgstr "Предыдущий профиль:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "Профиль применён, установка прошла успешно."
 
 msgid "Profile description"
 msgstr "Описание профиля"
 
-#, fuzzy
 msgid "Profile export"
-msgstr "Описание профиля"
+msgstr "Экспорт профиля"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "Профиль был импортирован."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "Профиль был удалён"
 
-#, fuzzy
 msgid "Profile info"
-msgstr "Описание профиля"
+msgstr "Сведения профиля"
 
-#, fuzzy
 msgid "Profile name:"
-msgstr "Описание профиля"
+msgstr "Имя профиля:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "Приложения QSI для установки:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "Внешний профиль не найден."
 
-#, fuzzy
 msgid "Remove profile"
-msgstr "Выберите профиль"
+msgstr "Удалить профиль"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "Удалить лишние пакеты"
 
 msgid "Root permissions needed, exiting ..."
 msgstr ""
@@ -360,9 +347,8 @@ msgstr ""
 msgid "Software profile:"
 msgstr "Профиль ПО:"
 
-#, fuzzy
 msgid "Starting profile installation ... "
-msgstr "Запуск установки"
+msgstr "Запускается установка профиля…"
 
 msgid "System profiles cannot be removed."
 msgstr ""
@@ -388,29 +374,29 @@ msgid "Uncheck to preserve currently installed packages."
 msgstr ""
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "Записываются сведения журнала…"
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "Записывается состояние профиля…"
 
 msgid "Yes, I really want to install additional DE"
 msgstr "Да, я хочу установить дополнительную среду"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "Да, всё равно применить"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "Вы собираетесь отменить профилировщик рабочего стола без установки профиля. Уверены?"
 
 #, fuzzy
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
 msgstr "<p>Вы вызываете установку альтернативного рабочего стола, но он не совместим с выбранным профилем. Пожалуйста, выберите другой профиль.</p>"
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "Теперь вы можете изменить файл в соответствии со своими предпочтениями."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "некоторые установленные приложения и пакеты можно удалить, поскольку они не являются частью нового профиля."
 
 #~ msgid "Default (TDE)"
 #~ msgstr "По умолчанию (TDE)"
