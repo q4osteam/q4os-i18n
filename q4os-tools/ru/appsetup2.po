@@ -88,9 +88,8 @@ msgstr "Автоисправление не требуется… ОК"
 msgid "Busy !"
 msgstr "В работе!"
 
-#, fuzzy
 msgid "CPU architecture doesn't match, exiting"
-msgstr "Архитектура процессора не подходит!"
+msgstr "Архитектура процессора не подходит, выход"
 
 msgid "Calculating progress ..."
 msgstr "Вычисляется прогресс…"
@@ -119,9 +118,8 @@ msgstr "Проверяется установка… Ошибка!"
 msgid "Checking installation ... OK"
 msgstr "Проверяется установка… ОК"
 
-#, fuzzy
 msgid "Checking package system"
-msgstr "Проверяется система пакетов…"
+msgstr "Проверяется система пакетов"
 
 msgid "Checking package system ..."
 msgstr "Проверяется система пакетов…"
@@ -400,22 +398,22 @@ msgid "already installed, exiting ..."
 msgstr "уже установлено, выход…"
 
 msgid "clean"
-msgstr ""
+msgstr "чисто"
 
 msgid "fine"
-msgstr ""
+msgstr "хорошо"
 
 msgid "installed ... Cancel !"
 msgstr "установлено… Отмена!"
 
 msgid "not installed"
-msgstr ""
+msgstr "не установлено"
 
 msgid "not supported, exiting ..."
 msgstr "не поддерживается, выход…"
 
 msgid "ready"
-msgstr ""
+msgstr "готово"
 
 msgid "software is already installed, so cancelling installation ..."
 msgstr "программное обеспечение уже установлено, поэтому установка отменяется…"
