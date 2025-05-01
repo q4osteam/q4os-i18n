@@ -51,7 +51,7 @@ msgid "<p>You have applied no desktop profile yet. It's highly recommended to ap
 msgstr "<p>Мы настоятельно рекомендуем Вам применить один из профилей перед установкой отдельных приложений.</p><p>Пожалуйста, запустите Профайлер рабочего стола, выберите и установите профиль.</p>"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "База данных APT всё ещё не обновлена."
 
 msgid "Application"
 msgstr "Приложение"
@@ -68,9 +68,8 @@ msgstr "Профайлер рабочего стола"
 msgid "Desktop profiler"
 msgstr "Профайлер рабочего стола"
 
-#, fuzzy
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr "<p>У вас не установлен менеджер программ, пожалуйста, сначала установите его.</p>"
+msgstr "Менеджер программ Discover не установлен, хотите установить его?"
 
 msgid "Featured applications"
 msgstr "Рекомендуемые приложения"
@@ -79,24 +78,22 @@ msgid "Featured applications: #"
 msgstr "Рекомендуемые приложения: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Приложения Flathub"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Чтобы получить больше приложений в списке предлагаемых, обновите базу данных APT и снова запустите Центр приложений."
 
 msgid "Info"
 msgstr "Сведения"
 
-#, fuzzy
 msgid "Install"
-msgstr "Удалить"
+msgstr "Установить"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "Установить Discover?"
 
-#, fuzzy
 msgid "Install Synaptic ?"
-msgstr "Установить программу"
+msgstr "Установить Synaptic?"
 
 msgid "Install application"
 msgstr "Установить программу"
@@ -108,7 +105,7 @@ msgid "More options"
 msgstr "Больше параметров"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "Открыть репозиторий Flathub в предпочитаемом веб-браузере"
 
 msgid "Q4OS Software Centre"
 msgstr "Центр приложений Q4OS"
@@ -137,9 +134,8 @@ msgstr "Состояние"
 msgid "Status:"
 msgstr "Состояние:"
 
-#, fuzzy
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr "<p>Менеджер пакетов Synaptic не установлен, пожалуйста, сначала установите его.</p>"
+msgstr "Менеджер пакетов Synaptic не установлен, хотите установить его?"
 
 msgid "Uninstall"
 msgstr "Удалить"
@@ -157,7 +153,7 @@ msgid "config_file"
 msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "зависимости"
 
 msgid "download"
 msgstr "загрузка"
@@ -166,7 +162,7 @@ msgid "no selection"
 msgstr "нет выбора"
 
 msgid "origin"
-msgstr ""
+msgstr "исходный"
 
 msgid "package"
 msgstr "пакет"
@@ -178,7 +174,7 @@ msgid "recordnum"
 msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "репозитории"
 
 msgid "textLabel"
 msgstr "текстоваяМетка"
