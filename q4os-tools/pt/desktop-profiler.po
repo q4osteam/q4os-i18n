@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: 2024-08-14 22:49+0100\n"
+"PO-Revision-Date: 2025-05-01 23:00+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "  Install >"
 msgstr "  Instalar >"
@@ -116,10 +116,10 @@ msgid "Applying a profile within the live systems isn't supported."
 msgstr "A aplicação de um perfil nos sistemas live não é suportada."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt configurado, não é necessária qualquer ação adicional."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Plugin Apt concluído, Ok"
 
 msgid "Are you really sure to overwrite the previous profile ?"
 msgstr "Tem mesmo a certeza de que pretende substituir o perfil anterior ?"
@@ -185,7 +185,7 @@ msgid "Error: profile not found, file: "
 msgstr "Erro: perfil não encontrado, ficheiro: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "Código de saída: "
 
 msgid "Export profile"
 msgstr "Exportar perfil"
@@ -196,12 +196,11 @@ msgstr "Ocorreu um erro na leitura da lista de pacotes, ficheiro: "
 msgid "Failed to read repositories list, file: "
 msgstr "Ocorreu um erro na leitura da lista de repositórios, ficheiro: "
 
-#, fuzzy
 msgid "Flatpak applications to install:"
-msgstr "Aplicações ESH a instalar:"
+msgstr "Aplicações Flatpak a instalar:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Plugin Flatpak concluído, Ok"
 
 msgid "Get snapshot profile"
 msgstr "Obter uma cópia de perfil"
@@ -225,7 +224,7 @@ msgid "Import shared profile"
 msgstr "Importar perfil partilhado"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "A inicializar o ambiente ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "O processo de instalação solicitou o término desta sessão. Deseja reiniciar a sessão agora mesmo ?"
@@ -240,10 +239,10 @@ msgid "Launch installation"
 msgstr "Iniciar a instalação"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "A iniciar o plugin Apt ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "A iniciar o plugin Flatpak ..."
 
 msgid "Next >"
 msgstr "Avançar >"
@@ -272,13 +271,11 @@ msgstr "Opções"
 msgid "Please enter shared profile code, or Internet address:"
 msgstr "Introduza o código de perfil partilhado ou o endereço de Internet:"
 
-#, fuzzy
 msgid "Please re-login active session as soon as possible."
-msgstr "Reinicie o servidor X, o mais rapidamente possível."
+msgstr "Volte a iniciar a sessão ativa o mais rapidamente possível."
 
-#, fuzzy
 msgid "Please reboot as soon as possible."
-msgstr "Reinicie o servidor X, o mais rapidamente possível."
+msgstr "Reinicie o mais rapidamente possível."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Reinicie o seu computador assim que possível. Deseja reiniciar agora ?"
@@ -296,7 +293,7 @@ msgid "Previous profile:"
 msgstr "Perfil anterior:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "Perfil aplicado, instalação bem sucedida."
 
 msgid "Profile description"
 msgstr "Descrição do perfil"
@@ -313,13 +310,11 @@ msgstr "O perfil foi removido."
 msgid "Profile info"
 msgstr "Informação do perfil"
 
-#, fuzzy
 msgid "Profile name:"
-msgstr "Perfil:"
+msgstr "Nome do perfil:"
 
-#, fuzzy
 msgid "QSI applications to install:"
-msgstr "Aplicações ESH a instalar:"
+msgstr "Aplicações QSI a instalar:"
 
 msgid "Remote profile not found."
 msgstr "Perfil remoto não encontrado."
@@ -331,7 +326,7 @@ msgid "Remove superfluous packages"
 msgstr "Remover pacotes supérfluos"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Necessita de permissões root, a sair ..."
 
 msgid "Select a profile from the list please."
 msgstr "Selecione um perfil da lista."
@@ -342,9 +337,8 @@ msgstr "O perfil selecionado foi guardado no ficheiro:"
 msgid "Software profile:"
 msgstr "Perfil de software:"
 
-#, fuzzy
 msgid "Starting profile installation ... "
-msgstr "Cancelar a instalação"
+msgstr "A iniciar a instalação do perfil … "
 
 msgid "System profiles cannot be removed."
 msgstr "Os perfis de sistema não podem ser removidos."
@@ -365,10 +359,10 @@ msgid "Uncheck to preserve currently installed packages."
 msgstr "Desmarque para preservar os pacotes atualmente instalados."
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "A gravar informações de registo ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "A gravar estado do perfil ..."
 
 msgid "Yes, I really want to install additional DE"
 msgstr "Sim, eu quero instalar um DE adicional"
