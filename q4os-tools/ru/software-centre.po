@@ -81,7 +81,7 @@ msgid "Flathub apps"
 msgstr "Приложения Flathub"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Чтобы получить больше приложений в списке предлагаемых, обновите базу данных APT и снова запустите Центр приложений."
 
 msgid "Info"
 msgstr "Сведения"
