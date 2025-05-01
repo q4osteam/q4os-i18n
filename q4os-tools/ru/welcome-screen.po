@@ -30,7 +30,7 @@ msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
 msgstr "<font size=\"4\"><p>Другие полезные параметры настройки.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr "<font size=\"4\"><p>Запуск скрипта для установки коллекции профессиональных кодеков.</p><p>Они используются проигрывателями мультимедиа (например VLC, MPlayer) для воспроизведения DVD-дисков и отдельных файлов аудио и видео.</p></font>"
+msgstr "<font size=\"4\"><p>Запуск скрипта для установки коллекции профессиональных кодеков.</p><p>Их используют проигрыватели мультимедиа, такие как VLC или MPlayer, для воспроизведения DVD-дисков и отдельных файлов аудио и видео.</p></font>"
 
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
 msgstr "<font size=\"4\"><p>Позволяет переключиться на Kickoff, альтернативный стиль Главного меню.</p><p>Хорошо организованное современное меню, сочетающее в себе функции поиска, избранного, истории запуска и многое другое.</p></font>"
@@ -117,7 +117,7 @@ msgid "Donate to Q4OS"
 msgstr "Пожертвовать для Q4OS"
 
 msgid "Enable Autologin"
-msgstr "Включить Автовход"
+msgstr "Включить автовход"
 
 msgid "Form2"
 msgstr "Форма2"

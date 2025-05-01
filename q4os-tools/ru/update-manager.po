@@ -39,7 +39,6 @@ msgstr "<p>Система получила исправления безопас
 msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
 msgstr "<p>Вам не разрешено выполнять обновление системы. Вам необходимо сначала стать частью административной группы «sudo». Пожалуйста, обратитесь к системному администратору.</p>"
 
-#, fuzzy
 msgid "Additional updates have been detected"
 msgstr "Обнаружены дополнительные обновления"
 
