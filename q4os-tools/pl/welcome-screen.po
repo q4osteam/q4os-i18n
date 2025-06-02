@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:44+0200\n"
+"POT-Creation-Date: 2025-05-14 21:11+0200\n"
 "PO-Revision-Date: 2021-04-21 15:39+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
 "Language-Team: \n"
@@ -183,6 +183,10 @@ msgstr "Uruchom Konfigurator Pulpitu"
 
 #, fuzzy
 msgid "Screen scaling"
+msgstr "Skonfiguruj skalowanie ekranu ..."
+
+#, fuzzy
+msgid "Screen scaling tool not found."
 msgstr "Skonfiguruj skalowanie ekranu ..."
 
 msgid "Set Autologin"

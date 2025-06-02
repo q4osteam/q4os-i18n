@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:44+0200\n"
+"POT-Creation-Date: 2025-05-14 21:11+0200\n"
 "PO-Revision-Date: 2022-09-30 15:23+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -179,6 +179,10 @@ msgid "Run Desktop Profiler"
 msgstr "Executar o perfil de ambiente de trabalho"
 
 msgid "Screen scaling"
+msgstr "Escala de ecrã"
+
+#, fuzzy
+msgid "Screen scaling tool not found."
 msgstr "Escala de ecrã"
 
 msgid "Set Autologin"
