@@ -48,7 +48,8 @@ msgstr "<p>Seleccione una aplicación para instalar.</p>"
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>¡Se ha detectado la instalación de Virtualbox! </p><p> Las acciones están deshabilitadas durante la configuración de Virtualbox, espere hasta el final de la instalación de Virtualbox.</p>"
 
-msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
+#, fuzzy
+msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Aún no ha aplicado ningún perfil de escritorio. Se recomienda aplicar un perfil de escritorio antes de instalar aplicaciones.</p><p>Ejecute la herramienta <b>Dektop Profiler</b> para elegir y aplicar un perfil.</p>"
 
 msgid "APT database hasn't been updated yet."
