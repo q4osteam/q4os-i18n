@@ -347,7 +347,7 @@ msgid "Testing installation ... Done"
 msgstr "Проверяется установка… Готово"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "Приложение не поддерживает архитектуру этого системного процессора:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
 msgstr "Блокировка также может быть вызвана обновлением системы, выполняемым в фоновом режиме. В этом случае необходимо подождать несколько минут, пока система пакета завершит эти операции."

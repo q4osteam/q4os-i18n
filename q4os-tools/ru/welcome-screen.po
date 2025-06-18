@@ -179,9 +179,8 @@ msgstr "Запуск Профайлера"
 msgid "Screen scaling"
 msgstr "Масштаб экрана"
 
-#, fuzzy
 msgid "Screen scaling tool not found."
-msgstr "Масштаб экрана"
+msgstr "Инструмент масштабирования экрана не найден."
 
 msgid "Set Autologin"
 msgstr "Настроить Автовход"
