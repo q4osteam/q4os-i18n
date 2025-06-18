@@ -132,10 +132,10 @@ msgid "Cancel menu"
 msgstr "Отменить меню"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "Выберите новое имя файла для экспорта текущего состояния"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "Выберите новое имя файла для сохранения профиля"
 
 msgid "Choose an additional desktop environment to install."
 msgstr "Выберите дополнительную среду рабочего стола для установки."
@@ -150,13 +150,13 @@ msgid "Click to select profile"
 msgstr "Щёлкните, чтобы выбрать профиль"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "Файл конфигурации:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "Текущее состояние рабочего стола сохранено в профиле:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "Пакеты DEB для установки:"
 
 msgid "Desktop Profiler"
 msgstr "Профайлер рабочего стола"
@@ -189,44 +189,40 @@ msgid "Export profile"
 msgstr "Экспорт профиля"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "Не удалось прочитать список пакетов, файл: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "Не удалось прочитать список репозиториев, файл: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "Приложения Flatpak для установки:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Плагин Flatpak завершен, все хорошо"
 
-#, fuzzy
 msgid "Get snapshot profile"
-msgstr "Выберите профиль"
+msgstr "Получить профиль снимка"
 
 msgid "Help"
-msgstr ""
+msgstr "Справка"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "Если вы не уверены, просто нажмите кнопку <b>[ KDE Plasma ]</b>, чтобы выбрать рекомендуемый вариант."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "Если вы продолжите, выбранный новый профиль заменит предыдущий, и система будет настроена соответствующим образом."
 
-#, fuzzy
 msgid "Import a profile"
-msgstr "Выберите профиль"
+msgstr "Импорт профиля"
 
-#, fuzzy
 msgid "Import local profile"
-msgstr "Выберите профиль"
+msgstr "Импорт локального профиля"
 
-#, fuzzy
 msgid "Import shared profile"
-msgstr "Профиль ПО:"
+msgstr "Импорт общего профиля"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "Инициализация окружения…"
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Для завершения установки необходимо повторно войти в систему. Вы хотите сделать это прямо сейчас?"
@@ -244,7 +240,7 @@ msgid "Launching Apt plugin ..."
 msgstr "Запускается плагин Apt…"
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "Запускается плагин Flatpak…"
 
 msgid "Next >"
 msgstr "Далее >"
@@ -253,13 +249,13 @@ msgid "No configuration found."
 msgstr "Конфигурация не найдена."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "Профиль не выбран. Пожалуйста, выберите профиль."
 
 msgid "None selected"
 msgstr "Не выбрано"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "Пока не реализовано."
 
 msgid "Note "
 msgstr "Заметка "
@@ -271,15 +267,13 @@ msgid "Options"
 msgstr "Параметры"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "Пожалуйста, введите общий код профиля или интернет-адрес:"
 
-#, fuzzy
 msgid "Please re-login active session as soon as possible."
-msgstr "Пожалуйста, перезапустите X сервер."
+msgstr "Пожалуйста, перевойдите в активный сеанс как можно скорее."
 
-#, fuzzy
 msgid "Please reboot as soon as possible."
-msgstr "Пожалуйста, перезапустите X сервер."
+msgstr "Пожалуйста, перезапустите компьютер как можно скорее."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Необходимо перезагрузить компьютер. Перезагрузить компьютер сейчас?"
@@ -287,17 +281,11 @@ msgstr "Необходимо перезагрузить компьютер. Пе
 msgid "Please restart X server as soon as possible."
 msgstr "Пожалуйста, перезапустите X сервер."
 
-#, fuzzy
 msgid "Please select default desktop environment."
-msgstr "Профайлер рабочего стола — выбор среды рабочего стола по умолчанию"
+msgstr "Пожалуйста, выберите среду рабочего стола по умолчанию."
 
-#, fuzzy
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Выберите среду рабочего стола по умолчанию.</p></font>\n"
-"<p align=justify>Лёгкий и эффективный рабочий стол <b>Trinity</b> установлен и предварительно настроен по умолчанию на данный момент. Тем не менее, программа установки Q4OS автоматически определила, что ваш компьютер достаточно мощный для работы с более продвинутой средой<b>KDE Plasma</b>.</p>\n"
-"</html>"
+msgstr "Пожалуйста, выберите среду рабочего стола по умолчанию. На данный момент установлен и предварительно настроен лёгкий и эффективный рабочий стол Trinity. Тем не менее, программа установки Q4OS автоматически определила, что ваш компьютер достаточно мощный для работы с более совершенной средой рабочего стола KDE Plasma."
 
 msgid "Previous profile:"
 msgstr "Предыдущий профиль:"
@@ -336,13 +324,13 @@ msgid "Remove superfluous packages"
 msgstr "Удалить лишние пакеты"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Требуются права суперпользователя, производится выход…"
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "Пожалуйста, выберите профиль из списка."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "Выбранный профиль был сохранён в файле:"
 
 msgid "Software profile:"
 msgstr "Профиль ПО:"
@@ -351,18 +339,13 @@ msgid "Starting profile installation ... "
 msgstr "Запускается установка профиля…"
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "Системные профили нельзя удалить."
 
-#, fuzzy
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Выберите среду рабочего стола по умолчанию.</p></font>\n"
-"<p align=justify>Лёгкий и эффективный рабочий стол <b>Trinity</b> установлен и предварительно настроен по умолчанию на данный момент. Тем не менее, программа установки Q4OS автоматически определила, что ваш компьютер достаточно мощный для работы с более продвинутой средой<b>KDE Plasma</b>.</p>\n"
-"</html>"
+msgstr "На данный момент установлен и предварительно настроен по умолчанию лёгкий и эффективный рабочий стол Trinity. Тем не менее, программа установки Q4OS автоматически определила, что ваш компьютер достаточно мощный для работы с более совершенной рабочей средой KDE Plasma."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "Этот профиль уже был импортирован."
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -371,7 +354,7 @@ msgid "Trinity >"
 msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "Снимите флажок, чтобы сохранить установленные в данный момент пакеты."
 
 msgid "Writing log info ..."
 msgstr "Записываются сведения журнала…"
@@ -388,12 +371,11 @@ msgstr "Да, всё равно применить"
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
 msgstr "Вы собираетесь отменить профилировщик рабочего стола без установки профиля. Уверены?"
 
-#, fuzzy
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr "<p>Вы вызываете установку альтернативного рабочего стола, но он не совместим с выбранным профилем. Пожалуйста, выберите другой профиль.</p>"
+msgstr "Вы запрашиваете установку альтернативного рабочего стола, но она несовместима с выбранным профилем. Пожалуйста, выберите другой профиль или рабочий стол."
 
 msgid "You can now edit the file to your preferences."
-msgstr "Теперь вы можете изменить файл в соответствии со своими предпочтениями."
+msgstr "Теперь вы можете изменить файл в соответствии с вашими предпочтениями."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "некоторые установленные приложения и пакеты можно удалить, поскольку они не являются частью нового профиля."

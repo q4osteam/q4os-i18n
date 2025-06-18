@@ -272,11 +272,11 @@ msgstr "Благодарим вас за использование операц
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Сеанс Trinity не обнаружен. Пожалуйста, запустите этот инструмент внутри рабочего стола Trinity."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Попытка настроить беспроводную сеть…"
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
