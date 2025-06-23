@@ -9,13 +9,14 @@ msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 11:25+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-06-23 15:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "A KDE panel applet for a WINE menu"
 msgstr ""
@@ -117,7 +118,7 @@ msgid "Green curtain"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Hilfe"
 
 msgid "Install Applications"
 msgstr ""
@@ -201,7 +202,7 @@ msgid "Print system"
 msgstr ""
 
 msgid "Programs"
-msgstr ""
+msgstr "Programme"
 
 msgid "Q-Blue flat"
 msgstr ""
@@ -240,7 +241,7 @@ msgid "Screen scaling"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 msgid "Simple Screen Recorder"
 msgstr ""
@@ -261,7 +262,7 @@ msgid "SimpleOutlook Sunset"
 msgstr ""
 
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgid "Skype Internet Telephony"
 msgstr ""
@@ -282,7 +283,7 @@ msgid "Sync your files across computers and to the web"
 msgstr ""
 
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgid "TDevelop - Q4OS Development Pack"
 msgstr ""
@@ -291,22 +292,22 @@ msgid "TDevelop Q4OS"
 msgstr ""
 
 msgid "Terminal Program"
-msgstr ""
+msgstr "Terminal-Programm"
 
 msgid "The Bay"
 msgstr ""
 
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 msgid "Trash"
 msgstr ""
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Deinstallieren"
 
 msgid "Uninstall Chromium"
-msgstr ""
+msgstr "Chromium deinstallieren"
 
 msgid "Uninstall Q4OS Development Pack"
 msgstr ""
@@ -315,25 +316,25 @@ msgid "Uninstall substitute_application_name_desc"
 msgstr ""
 
 msgid "Update Manager"
-msgstr ""
+msgstr "Update-Manager"
 
 msgid "Users and groups"
-msgstr ""
+msgstr "Benutzer und Gruppen"
 
 msgid "VLC media player"
-msgstr ""
+msgstr "VLC media player"
 
 msgid "Vector 2"
 msgstr ""
 
 msgid "Web Browser"
-msgstr ""
+msgstr "Webbrowser"
 
 msgid "Wine Configuration"
-msgstr ""
+msgstr "Wine-Konfiguration"
 
 msgid "Wine Menu"
-msgstr ""
+msgstr "Wine-Menü"
 
 msgid "Wine control panel"
 msgstr ""

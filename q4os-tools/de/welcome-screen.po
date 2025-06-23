@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2023-09-13 18:42+0000\n"
+"PO-Revision-Date: 2025-06-23 14:54+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Willkommen beim Q4OS</b>, dem schnellen und effizienten Desktop-Betriebssystem, fokussierend auf langhaltige Stabilität, Zuverlässigkeit und einer Klassisch-aussehender Benutzeroberfläche.</p><p align=justify>Q4OS ist als ein sehr einfaches Desktop-System mit minimaler Software aufgebaut. Jetzt ist es an der Zeit, um ihr Desktop einzustellen, wobei sie die untenstehenden Verknüpfungen benutzen können.</p></font>"
@@ -105,17 +105,17 @@ msgid "Classic style cascading menu"
 msgstr ""
 
 msgid "Desktop effects"
-msgstr "Schreibtisch-Effekte"
+msgstr "Desktop-Effekte"
 
 #, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "<p>Wollen sie die Desktop-Effekte einschalten ?</p>"
 
 msgid "Documents online"
-msgstr "Dokumente im Netz"
+msgstr "Dokumente online"
 
 msgid "Donate to Q4OS"
-msgstr "Spenden Sie für Q4OS"
+msgstr "An Q4OS spenden"
 
 msgid "Enable Autologin"
 msgstr "Automatische Anmeldung aktivieren"
@@ -130,7 +130,7 @@ msgid "Info"
 msgstr "Info"
 
 msgid "Install Applications"
-msgstr "Programme installieren"
+msgstr "Anwendungen installieren"
 
 msgid "Install Proprietary Codecs"
 msgstr "Propritäre Codecs installieren"
@@ -171,16 +171,16 @@ msgid "Resize fonts and icons to adjust them according to the current screen res
 msgstr ""
 
 msgid "Revert to Classic"
-msgstr "Das Classic-Design anwenden"
+msgstr "Zu Classic zurückkehren"
 
 msgid "Revert to defaults"
-msgstr "Zurücksetzen"
+msgstr "Zu Defaults zurückkehren"
 
 msgid "Run Desktop Profiler"
 msgstr "Desktop-Profiler starten"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Bildschirm-Skalierung"
 
 msgid "Screen scaling tool not found."
 msgstr ""

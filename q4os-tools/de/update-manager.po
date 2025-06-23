@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-09 13:22+0200\n"
-"PO-Revision-Date: 2023-09-13 18:44+0000\n"
+"PO-Revision-Date: 2025-06-23 14:51+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "! Reboot required"
 msgstr "! Neustart erforderlich"
 
 msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Neustart erforderlich<b> um  das Update abzuschließen."
+msgstr "<b>Neustart ist erforderlich<b>, um das Upgrade abzuschließen."
 
 msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
 msgstr ""
@@ -66,10 +66,10 @@ msgid "Checking permissions"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 msgid "Closing.."
-msgstr "Schliessen.."
+msgstr "Schließen.."
 
 msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
 msgstr ""
@@ -96,7 +96,7 @@ msgid "Finish >"
 msgstr "Fertigstellen >"
 
 msgid "Finished :)"
-msgstr "Fertiggestellt"
+msgstr "Fertiggestellt :)"
 
 msgid "Fixing apt database"
 msgstr ""
@@ -129,7 +129,7 @@ msgid "Removing unnecessary packages"
 msgstr ""
 
 msgid "Show details"
-msgstr ""
+msgstr "Details zeigen"
 
 msgid "Success. The most recent update has been implemented."
 msgstr ""
@@ -144,13 +144,13 @@ msgid "Update Manager - install progress"
 msgstr ""
 
 msgid "Update SW database"
-msgstr ""
+msgstr "SW-Datenbank aktualisieren"
 
 msgid "Update manager has been exited with <b>error code: "
 msgstr ""
 
 msgid "Waiting"
-msgstr ""
+msgstr "Wartend"
 
 msgid "Yes"
 msgstr "Ja"

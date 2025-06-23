@@ -13,94 +13,76 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_DE\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 
-#, fuzzy
 msgctxt "show|"
 msgid "Welcome to Q4OS"
 msgstr "Willkommen bei Q4OS"
 
-#, fuzzy
 msgctxt "show|"
 msgid "This is Q4OS"
-msgstr "Das ist Q4OS"
+msgstr "Dies ist Q4OS"
 
-#, fuzzy
 msgctxt "show|"
 msgid "We hope you'll enjoy your operating system."
-msgstr "Wir hoffen, daß Sie Ihr Betriebssystem genießen können."
+msgstr "Wir hoffen, dass Sie Ihr Betriebssystem genießen werden."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Thank you for choosing us."
-msgstr "Danke, daß Sie uns gewählt haben."
+msgstr "Danke, dass Sie sich für uns entschieden haben."
 
-#, fuzzy
 msgctxt "show|"
 msgid "A great desktop OS"
 msgstr "Ein großartiges Desktop-Betriebssystem"
 
-#, fuzzy
 msgctxt "show|"
 msgid "Q4OS is Free and Open Source."
-msgstr "Q4OS ist frei und Open Source."
+msgstr "Q4OS ist Free und Open Source."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Tens of thousands free software applications are available from package manager."
-msgstr "Zehntausende kostenlose Softwareanwendungen sind im Paketmanager verfügbar."
+msgstr "Zehntausende freie Softwareanwendungen sind über den Paketmanager verfügbar."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Out of the box"
-msgstr "Aus der Box"
+msgstr "Out of the Box"
 
-#, fuzzy
 msgctxt "show|"
 msgid "Google Chrome, Firefox, Thunderbird and LibreOffice are easily installable, so you can get started with the desktop and the Internet."
-msgstr "Google Chrome, Firefox, Thunderbird und LibreOffice sind leicht zu installieren, so daß Sie mit dem Desktop und dem Internet beginnen können."
+msgstr "Google Chrome, Firefox, Thunderbird und LibreOffice sind leicht zu installieren, sodass Sie mit dem Desktop und Internet loslegen können."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
-msgstr "Other popular applications <!--such as Skype, Dropbox, TeamViewer, Opera and more -->can be installed with a click of the mouse."
+msgstr "Andere populäre Anwendungen <!--wie etwa Skype, Dropbox, TeamViewer, Opera und mehr -->können mit einem Mausklick installiert werden."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "Q4OS ist mit den meisten gängigen Dateiformaten kompatibel: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ... etc"
+msgstr "Q4OS ist mit den meisten gängigen Dateiformaten kompatibel: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
 
-#, fuzzy
 msgctxt "show|"
 msgid "An alternative to mainstream operating systems"
-msgstr "Eine Alternative zu Mainstream-Betriebssystemen"
+msgstr "Eine Alternative zu etablierten (Mainstream-) Betriebssystemen"
 
-#, fuzzy
 msgctxt "show|"
 msgid "Q4OS is easy to use, powerful and configurable."
 msgstr "Q4OS ist einfach zu bedienen, leistungsstark und konfigurierbar."
 
-#, fuzzy
 msgctxt "show|"
 msgid "It's safe and stable, you don't need an antivirus, an anti-spyware, a defragmentation tool or a registry cleaner."
-msgstr "Es ist sicher und stabil, Sie benötigen kein Antivirenprogramm, keine Anti-Spyware, kein Defragmentierungstool oder keinen Registry Cleaner."
+msgstr "Es ist sicher und stabil, Sie brauchen kein Antivirusprogramm, keine Anti-Spyware, kein Defragmentierungstool oder einen Registry Cleaner."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Q4OS can detect other operating systems and install itself beside them. You can choose which operating system to launch when you start the computer."
-msgstr "Q4OS kann andere Betriebssysteme erkennen und sich neben ihnen installieren. Sie können auswählen, welches Betriebssystem beim Starten des Computers gestartet werden soll."
+msgstr "Q4OS kann andere Betriebssysteme erkennen und sich neben diesen installieren. Sie können wählen, welches Betriebssystem beim Start des Computers gestartet werden soll."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Safe updates"
-msgstr "Sichere Updates"
+msgstr "Sichere Aktualisierungen"
 
-#, fuzzy
 msgctxt "show|"
 msgid "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
-msgstr "The Q4OS update manager watches your system and shows an upgrade icon as soon as updates become available."
+msgstr "Der Q4OS-Update-Manager überwacht Ihr System und zeigt ein Upgrade-Icon, sobald Aktualisierungen zur Verfügung stehen."
 
-#, fuzzy
 msgctxt "show|"
 msgid "Software updates and security updates are provided, not only for the operating system but also for the software you install."
-msgstr "Softwareupdates und Sicherheitsupdates werden nicht nur für das Betriebssystem, sondern auch für die von Ihnen installierte Software bereitgestellt."
+msgstr "Software- und Sicherheitsaktualisierungen werden nicht nur für das Betriebssystem, sondern auch für die von Ihnen installierte Software bereitgestellt."

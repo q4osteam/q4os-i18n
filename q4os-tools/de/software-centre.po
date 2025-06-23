@@ -8,23 +8,23 @@ msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-06 17:15+0200\n"
-"PO-Revision-Date: 2019-10-15 16:37+0200\n"
+"PO-Revision-Date: 2025-06-23 14:47+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#Filter: "
 
 msgid "#Records: "
 msgstr ""
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  Menü  ---"
 
 msgid "1"
 msgstr ""
@@ -33,7 +33,7 @@ msgid "<"
 msgstr ""
 
 msgid "<p>"
-msgstr ""
+msgstr "<p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr ""
@@ -51,7 +51,7 @@ msgid "<p>You have applied no desktop profile yet. It's highly recommended to ap
 msgstr "<p>Sie haben noch kein Desktop-Profil festgelegt. Es wird strengstens empfohlen, ein Desktop-Profil anzuwenden, BEVOR Sie ein Programm installieren.</p><p>Bitte starten Sie den <b>Desktop-Profiler</b>, um ein Profil auszuwählen.</p>"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "APT-Datenbank ist noch nicht aktualisiert worden."
 
 msgid "Application"
 msgstr "Programm"
@@ -62,7 +62,6 @@ msgstr "Abbrechen"
 msgid "Description"
 msgstr "Beschreibung"
 
-#, fuzzy
 msgid "Desktop Profiler"
 msgstr "Desktop-Profiler"
 
@@ -72,16 +71,14 @@ msgstr "Desktop-Profiler"
 msgid "Discover software manager isn't installed, do you want to install it now ?"
 msgstr ""
 
-#, fuzzy
 msgid "Featured applications"
-msgstr "Installiere die ausgewählten Programme"
+msgstr "Gekennzeichnete Anwendungen"
 
-#, fuzzy
 msgid "Featured applications: #"
-msgstr "Installiere die ausgewählten Programme"
+msgstr "Gekennzeichnete Anwendungen: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Flathub-Apps"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr ""
@@ -89,16 +86,14 @@ msgstr ""
 msgid "Info"
 msgstr "Info"
 
-#, fuzzy
 msgid "Install"
-msgstr "Deinstallieren"
+msgstr "Installieren"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "Discover installieren?"
 
-#, fuzzy
 msgid "Install Synaptic ?"
-msgstr "Installieren"
+msgstr "Synaptic installieren?"
 
 msgid "Install application"
 msgstr "Installieren"
@@ -107,27 +102,25 @@ msgid "Install or uninstall selected application from the featured applications 
 msgstr ""
 
 msgid "More options"
-msgstr "Mehr Möglichkeiten"
+msgstr "Mehr Optionen"
 
 msgid "Open Flathub repository in the preferred web browser"
 msgstr ""
 
 msgid "Q4OS Software Centre"
-msgstr "Q4OS Software Center"
+msgstr "Q4OS-Software-Center"
 
 msgid "Rating"
 msgstr "Bewertung"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr "Starte den 'Desktop-Profiler'"
+msgstr "Tool 'Desktop-Profiler' ausführten"
 
-#, fuzzy
 msgid "Run 'Discover' advanced software manager"
-msgstr "Starte 'Discover' - System-Paket-Manager"
+msgstr "Erweiterten Software-Manager 'Discover' ausführen"
 
-#, fuzzy
 msgid "Run 'Synaptic' advanced software manager"
-msgstr "Starte 'Discover' - System-Paket-Manager"
+msgstr "Erweiterten Software-Manager 'Synaptic' ausführen"
 
 msgid "Run comfortable package installer and Flatpak installer"
 msgstr ""
@@ -136,10 +129,10 @@ msgid "Search:"
 msgstr "Suche:"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
 msgstr ""
@@ -148,7 +141,7 @@ msgid "Uninstall"
 msgstr "Deinstallieren"
 
 msgid "Uninstall now"
-msgstr "Jetzt Deinstallieren"
+msgstr "Jetzt deinstallieren"
 
 msgid "action1"
 msgstr ""
@@ -166,7 +159,7 @@ msgid "download"
 msgstr "Herunterladen"
 
 msgid "no selection"
-msgstr ""
+msgstr "Keine Auswahl"
 
 msgid "origin"
 msgstr ""
@@ -181,7 +174,7 @@ msgid "recordnum"
 msgstr ""
 
 msgid "repositories"
-msgstr ""
+msgstr "Repositories"
 
 msgid "textLabel"
 msgstr ""

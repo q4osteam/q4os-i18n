@@ -9,19 +9,20 @@ msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-06-23 15:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "(C) 2019 Q4OS"
-msgstr ""
+msgstr "(C) 2019 Q4OS"
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
 msgstr ""
@@ -33,19 +34,19 @@ msgid "Bus Speed"
 msgstr ""
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgid "Clocks"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Codename"
 
 msgid "Core Speed"
 msgstr ""
@@ -54,19 +55,19 @@ msgid "Cores"
 msgstr ""
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 msgid "Distro"
-msgstr ""
+msgstr "Distro"
 
 msgid "FW Date"
 msgstr ""
 
 msgid "Family"
-msgstr ""
+msgstr "Familie"
 
 msgid "Form (ui_form0)"
 msgstr ""
@@ -81,19 +82,19 @@ msgid "HW Summary"
 msgstr ""
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Hardware-Info"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Hardware-Info - Details"
 
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 msgid "Instructions"
 msgstr ""
 
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 msgid "L1 Data"
 msgstr ""
@@ -102,70 +103,70 @@ msgid "L1 Inst."
 msgstr ""
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 Cache"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Level 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Level 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Mainboard"
 
 msgid "Max Speed"
 msgstr ""
 
 msgid "Microcode"
-msgstr ""
+msgstr "Microcode"
 
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 msgid "Multiplier"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 msgid "Package"
-msgstr ""
+msgstr "Package"
 
 msgid "Processor"
-msgstr ""
+msgstr "Prozessor"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Prozessor #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "RAM total"
 
 msgid "Rated FSB"
 msgstr ""
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "SecureBoot"
 
 msgid "Selection"
-msgstr ""
+msgstr "Auswahl"
 
 msgid "Specification"
-msgstr ""
+msgstr "Spezifikation"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
 msgstr ""
 
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgid "Threads"
-msgstr ""
+msgstr "Threads"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologie"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
