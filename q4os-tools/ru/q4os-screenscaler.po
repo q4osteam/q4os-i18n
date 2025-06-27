@@ -54,7 +54,7 @@ msgid "Scaling factor"
 msgstr "Коэффициент масштаба"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr "Коэффициент масштаба / Значение DPI для применения / Предполагаемый основной экран"
+msgstr "Коэффициент масштаба / Применяемое значение DPI / Полагаемый основной экран"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
 msgstr "Настройка масштабирования экрана была сохранена. Чтобы изменения вступили в силу, необходимо снова войти в систему."
