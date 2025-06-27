@@ -336,7 +336,7 @@ msgstr "Вы собираетесь изменить Главное меню."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr "Возможно, вам захочется увеличить размер текста и виджетов, чтобы улучшить читаемость. Щёлкните «Хорошо», чтобы запустить инструмент настройки экрана и масштабирования."
+msgstr "Возможно, вам захочется увеличить размер текста и виджетов, чтобы улучшить читаемость. Щёлкните «ОК», чтобы запустить инструмент настройки экрана и масштабирования."
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."

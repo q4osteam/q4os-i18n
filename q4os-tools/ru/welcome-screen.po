@@ -18,10 +18,10 @@ msgstr ""
 "X-Generator: Poedit 3.4.2\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надёжность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете заняться расширением и настройкой системы \"под себя\", используя ссылки ниже.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Добро пожаловать в Q4OS</b>, быструю и мощную операционную систему, нацеленную на долгосрочную стабильность, надёжность и поддержку классического пользовательского интерфейса.</p><p align=justify>Система установлена с минимальным набором программного обеспечения. Вы можете настроить ваш новый рабочий стол с помощью ссылок ниже.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr "<font size=\"4\"><p>Позволяет после загрузки системы входить в систему сразу, без ввода Вашего пароля.</p></font>"
+msgstr "<font size=\"4\"><p>Позволяет после загрузки системы входить в систему сразу, без ввода вашего пароля.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
 msgstr "<font size=\"4\"><p>Профайлер — это мастер настройки, который за один клик установит и настроит набор дополнительных программ и утилит .</p><p>Вам будет предложено на выбор несколько наборов.</p></font>"
@@ -84,7 +84,7 @@ msgid "Apply"
 msgstr "Применить"
 
 msgid "Autologin configuration"
-msgstr "Настройка Автовхода"
+msgstr "Настройка автовхода"
 
 msgid "Automatic login"
 msgstr "Автоматический вход"
@@ -183,7 +183,7 @@ msgid "Screen scaling tool not found."
 msgstr "Инструмент масштабирования экрана не найден."
 
 msgid "Set Autologin"
-msgstr "Настроить Автовход"
+msgstr "Настроить автовход"
 
 msgid "Show this dialog on startup"
 msgstr "Показывать это окно при запуске"

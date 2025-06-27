@@ -66,13 +66,13 @@ msgid "9"
 msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>В этом диалоговом окне можно выбрать дополнительную среду рабочего стола (СРС) для установки рядом со стандартной средой Q4OS.</p><p align=justify>Пожалуйста, не используйте этот параметр, если вы не уверены в том, что делаете.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>Не удалось открыть файл.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Хотите отменить отложенную операцию?</p>"
