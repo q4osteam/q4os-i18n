@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: 2025-06-23 15:26+0200\n"
+"PO-Revision-Date: 2025-06-27 16:30+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -25,13 +25,13 @@ msgid "BIOS"
 msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "BogoMips"
 
 msgid "Bus"
-msgstr ""
+msgstr "Bus"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Bus=Speed"
 
 msgid "CPU"
 msgstr "CPU"
@@ -40,7 +40,7 @@ msgid "Cache"
 msgstr "Cache"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Taktfrequenz"
 
 msgid "Close"
 msgstr "Schließen"
@@ -49,10 +49,10 @@ msgid "Code Name"
 msgstr "Codename"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Core-Speed"
 
 msgid "Cores"
-msgstr ""
+msgstr "Cores"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -64,22 +64,22 @@ msgid "Distro"
 msgstr "Distro"
 
 msgid "FW Date"
-msgstr ""
+msgstr "FW-Datum"
 
 msgid "Family"
 msgstr "Familie"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
 
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "HW-Zusammenfassung"
 
 msgid "Hardware Info"
 msgstr "Hardware-Info"
@@ -91,16 +91,16 @@ msgid "Host"
 msgstr "Host"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instruktionen"
 
 msgid "Kernel"
 msgstr "Kernel"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Data"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 Inst."
 
 msgid "L2 Cache"
 msgstr "L2 Cache"
@@ -115,7 +115,7 @@ msgid "Mainboard"
 msgstr "Mainboard"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Max. Speed"
 
 msgid "Microcode"
 msgstr "Microcode"
@@ -124,7 +124,7 @@ msgid "Model"
 msgstr "Modell"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Multiplikator"
 
 msgid "Name"
 msgstr "Name"
@@ -142,7 +142,7 @@ msgid "RAM Total"
 msgstr "RAM total"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Nenn-FSB"
 
 msgid "SecureBoot"
 msgstr "SecureBoot"
@@ -157,7 +157,7 @@ msgid "Stepping"
 msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Speicher total"
 
 msgid "System"
 msgstr "System"
