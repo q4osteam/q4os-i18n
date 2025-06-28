@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-09 13:22+0200\n"
+"POT-Creation-Date: 2025-06-27 14:26+0200\n"
 "PO-Revision-Date: 2024-05-06 20:06+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,149 +18,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
 
-msgid "! Reboot required"
-msgstr "! Требуется перезагрузка"
+msgid "Update Manager - install progress"
+msgstr "Менеджер обновлений — прогресс установки"
 
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Требуется перезагрузка<b> для завершения обновления."
-
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>Другой экземпляр диспетчера обновлений запущен, осуществляется выход…<p>"
-
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr "<p>Если флажок установлен, следующие обновления будут выполняться без подтверждения пользователя.</p><p>Также вы можете настроить менеджер обновлений в панели управления -> системное администрирование.</p>"
-
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Система пакетов занята и не готова к установке. Установку невозможно продолжить.</p><p>Блокировка вызвана, скорее всего, текущими фоновыми обновлениями системы. В этом случае вам придётся дождаться, пока система пакетов не завершит эти операции.</p><p>Убедитесь, что вы не устанавливаете другое приложение, и повторите установку через несколько минут.</p>"
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>Система получила исправления безопасности и важные обновления.</p><p>Пожалуйста, <b>перезагрузите</b> свой компьютер как можно скорее для завершения обновление.</p>"
-
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>Вам не разрешено выполнять обновление системы. Вам необходимо сначала стать частью административной группы «sudo». Пожалуйста, обратитесь к системному администратору.</p>"
-
-msgid "Additional updates have been detected"
-msgstr "Обнаружены дополнительные обновления"
-
-msgid "Available updates"
-msgstr "Доступные обновления"
+msgid "textLabel1"
+msgstr "textLabel1"
 
 msgid "Cancel"
 msgstr "Отмена"
 
-msgid "Canceled !"
-msgstr "Отменено!"
+msgid "Available updates"
+msgstr "Доступные обновления"
 
-msgid "Checking Internet connection"
-msgstr "Проверяется подключение к Интернету"
+msgid "textLabel2"
+msgstr "textLabel2"
 
-msgid "Checking SW database to be free"
-msgstr "Проверка доступны базы программного обеспечения"
-
-msgid "Checking apt database"
-msgstr "Проверка базы данных apt"
-
-msgid "Checking apt pinning"
-msgstr "Проверка привязки apt"
-
-msgid "Checking permissions"
-msgstr "Проверка разрешений"
-
-msgid "Close"
-msgstr "Закрыть"
-
-msgid "Closing.."
-msgstr "Закрывается…"
-
-msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
-msgstr "Не удалось найти исполняемый файл Synaptic, пожалуйста, для начала установите его. Сейчас используется стандартное средство обновления…"
-
-msgid "Do you want to continue ?"
-msgstr "Хотите продолжить?"
+msgid "textLabel3"
+msgstr "textLabel3"
 
 msgid "Don't show this dialog again"
 msgstr "Больше не показывать это диалоговое окно"
 
-msgid "Done"
-msgstr "Готово"
-
-msgid "Downloading packages"
-msgstr "Загружаются пакеты"
-
-msgid "Failed"
-msgstr "Не удалось"
-
-msgid "Failed!"
-msgstr "Не удалось!"
-
-msgid "Finish >"
-msgstr "Завершить >"
-
-msgid "Finished :)"
-msgstr "Завершено :)"
-
-msgid "Fixing apt database"
-msgstr "Исправляется база данных apt"
-
-msgid "Installing.."
-msgstr "Устанавливается…"
-
-msgid "Listing updates"
-msgstr "Перечисление обновлений"
-
-msgid "Locking SW database"
-msgstr "Блокируется база программного обеспечения"
-
-msgid "No"
-msgstr "Нет"
-
-msgid "Not available!"
-msgstr "Не доступно!"
-
-msgid "Ok"
-msgstr "Хорошо"
-
-msgid "Performing upgrade"
-msgstr "Выполняется обновление"
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Пожалуйста, попробуйте снова запустить Менеджер обновлений через несколько минут."
-
-msgid "Removing unnecessary packages"
-msgstr "Удаление ненужных пакетов"
-
-msgid "Show details"
-msgstr "Показать подробности"
-
-msgid "Success. The most recent update has been implemented."
-msgstr "Успешно. Самое свежее обновление было применено."
-
-msgid "System update completed successfully."
-msgstr "Обновление системы успешно завершено."
-
-msgid "System updater has been started.."
-msgstr "Запущена программа обновления системы."
-
-msgid "Update Manager - install progress"
-msgstr "Менеджер обновлений — прогресс установки"
-
-msgid "Update SW database"
-msgstr "Обновить базу данных ПО"
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr "Менеджер обновлений завершился с <b>кодом ошибки: "
-
-msgid "Waiting"
-msgstr "Ожидание"
-
-msgid "Yes"
-msgstr "Да"
-
-msgid "Your system is up to date and healthy."
-msgstr "Ваша система полностью обновлена и работоспособна."
-
-msgid "need to be fixed"
-msgstr "требует исправления"
+msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
+msgstr "<p>Если флажок установлен, следующие обновления будут выполняться без подтверждения пользователя.</p><p>Также вы можете настроить менеджер обновлений в панели управления -> системное администрирование.</p>"
 
 msgid "pushButton1"
 msgstr "pushButton1"
@@ -168,11 +48,135 @@ msgstr "pushButton1"
 msgid "pushButton2"
 msgstr "pushButton2"
 
-msgid "textLabel1"
-msgstr "textLabel1"
+msgid "Show details"
+msgstr "Показать подробности"
 
-msgid "textLabel2"
-msgstr "textLabel2"
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr "<p>Другой экземпляр диспетчера обновлений запущен, осуществляется выход…<p>"
 
-msgid "textLabel3"
-msgstr "textLabel3"
+msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr "<p>Вам не разрешено выполнять обновление системы. Вам необходимо сначала стать частью административной группы «sudo». Пожалуйста, обратитесь к системному администратору.</p>"
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr "<p>Система пакетов занята и не готова к установке. Установку невозможно продолжить.</p><p>Блокировка вызвана, скорее всего, текущими фоновыми обновлениями системы. В этом случае вам придётся дождаться, пока система пакетов не завершит эти операции.</p><p>Убедитесь, что вы не устанавливаете другое приложение, и повторите установку через несколько минут.</p>"
+
+msgid "Checking permissions"
+msgstr "Проверка разрешений"
+
+msgid "Ok"
+msgstr "Хорошо"
+
+msgid "Checking SW database to be free"
+msgstr "Проверка доступны базы программного обеспечения"
+
+msgid "Locking SW database"
+msgstr "Блокируется база программного обеспечения"
+
+msgid "System updater has been started.."
+msgstr "Запущена программа обновления системы."
+
+msgid "Waiting"
+msgstr "Ожидание"
+
+msgid "Canceled !"
+msgstr "Отменено!"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "! Reboot required"
+msgstr "! Требуется перезагрузка"
+
+msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr "<p>Система получила исправления безопасности и важные обновления.</p><p>Пожалуйста, <b>перезагрузите</b> свой компьютер как можно скорее для завершения обновление.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr "Пожалуйста, попробуйте снова запустить Менеджер обновлений через несколько минут."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr "Менеджер обновлений завершился с <b>кодом ошибки: "
+
+msgid "Additional updates have been detected"
+msgstr "Обнаружены дополнительные обновления"
+
+msgid "Running Synaptic"
+msgstr ""
+
+#, fuzzy
+msgid "Synaptic package manager is not installed so using default updater for now ..."
+msgstr "Не удалось найти исполняемый файл Synaptic, пожалуйста, для начала установите его. Сейчас используется стандартное средство обновления…"
+
+msgid "Closing.."
+msgstr "Закрывается…"
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "<b>Требуется перезагрузка<b> для завершения обновления."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "Успешно. Самое свежее обновление было применено."
+
+msgid "Your system is up to date and healthy."
+msgstr "Ваша система полностью обновлена и работоспособна."
+
+msgid "Finish >"
+msgstr "Завершить >"
+
+msgid "Do you want to continue ?"
+msgstr "Хотите продолжить?"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Checking apt pinning"
+msgstr "Проверка привязки apt"
+
+msgid "need to be fixed"
+msgstr "требует исправления"
+
+msgid "Performing upgrade"
+msgstr "Выполняется обновление"
+
+msgid "Failed!"
+msgstr "Не удалось!"
+
+msgid "System update completed successfully."
+msgstr "Обновление системы успешно завершено."
+
+msgid "Finished :)"
+msgstr "Завершено :)"
+
+msgid "Checking Internet connection"
+msgstr "Проверяется подключение к Интернету"
+
+msgid "Not available!"
+msgstr "Не доступно!"
+
+msgid "Update SW database"
+msgstr "Обновить базу данных ПО"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Failed"
+msgstr "Не удалось"
+
+msgid "Checking apt database"
+msgstr "Проверка базы данных apt"
+
+msgid "Fixing apt database"
+msgstr "Исправляется база данных apt"
+
+msgid "Downloading packages"
+msgstr "Загружаются пакеты"
+
+msgid "Listing updates"
+msgstr "Перечисление обновлений"
+
+msgid "Removing unnecessary packages"
+msgstr "Удаление ненужных пакетов"
+
+msgid "Installing.."
+msgstr "Устанавливается…"

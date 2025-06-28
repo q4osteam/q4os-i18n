@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-09 13:22+0200\n"
+"POT-Creation-Date: 2025-06-27 14:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,149 +17,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "! Reboot required"
-msgstr "¡Reinicio requerido!"
+msgid "Update Manager - install progress"
+msgstr "Administrador de actualizaciones - progreso de instalación"
 
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Se necesita reiniciar</b> para completar la actualización."
-
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>Otra instancia del Administrador de Actualizaciones está en ejecución, saliendo...</p>"
-
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr "<p>Si marcás esta opción, las próximas actualizaciones se harán sin pedir confirmación.</p><p>También podés configurar el administrador de actualizaciones en el panel de control -> administración del sistema.</p>"
-
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>El sistema de paquetes está ocupado y no se puede instalar ahora. La instalación no puede continuar.</p><p>Probablemente haya actualizaciones del sistema corriendo en segundo plano. Si es así, esperá un momento a que termine.</p><p>Asegurate de que no estés instalando otra aplicación y probá de nuevo en unos minutos.</p>"
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>El sistema recibió correcciones de seguridad y actualizaciones importantes.</p><p>Por favor, <b>reiniciá</b> tu computadora lo antes posible para completar la actualización.</p>"
-
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>No tenés permisos para actualizar el sistema. Necesitás ser parte del grupo administrativo \"sudo\". Contactá al administrador del sistema.</p>"
-
-msgid "Additional updates have been detected"
-msgstr "Se detectaron actualizaciones adicionales"
-
-msgid "Available updates"
-msgstr "Actualizaciones disponibles"
+msgid "textLabel1"
+msgstr "etiqueta1"
 
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgid "Canceled !"
-msgstr "¡Cancelado!"
+msgid "Available updates"
+msgstr "Actualizaciones disponibles"
 
-msgid "Checking Internet connection"
-msgstr "Verificando conexión a Internet"
+msgid "textLabel2"
+msgstr "etiqueta2"
 
-msgid "Checking SW database to be free"
-msgstr "Verificando que la base de datos de software esté libre"
-
-msgid "Checking apt database"
-msgstr "Verificando la base de datos de APT"
-
-msgid "Checking apt pinning"
-msgstr "Verificando configuración de APT"
-
-msgid "Checking permissions"
-msgstr "Verificando permisos"
-
-msgid "Close"
-msgstr "Cerrar"
-
-msgid "Closing.."
-msgstr "Cerrando..."
-
-msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
-msgstr "No se encontró el ejecutable de Synaptic, instalalo primero. Usando el actualizador por defecto por ahora..."
-
-msgid "Do you want to continue ?"
-msgstr "¿Querés continuar?"
+msgid "textLabel3"
+msgstr "etiqueta3"
 
 msgid "Don't show this dialog again"
 msgstr "No mostrar este mensaje de nuevo"
 
-msgid "Done"
-msgstr "Listo"
-
-msgid "Downloading packages"
-msgstr "Descargando paquetes"
-
-msgid "Failed"
-msgstr "Falló"
-
-msgid "Failed!"
-msgstr "¡Falló!"
-
-msgid "Finish >"
-msgstr "Finalizar >"
-
-msgid "Finished :)"
-msgstr "¡Listo! :)"
-
-msgid "Fixing apt database"
-msgstr "Corrigiendo la base de datos de APT"
-
-msgid "Installing.."
-msgstr "Instalando..."
-
-msgid "Listing updates"
-msgstr "Listando actualizaciones"
-
-msgid "Locking SW database"
-msgstr "Bloqueando la base de datos de software"
-
-msgid "No"
-msgstr "No"
-
-msgid "Not available!"
-msgstr "¡No disponible!"
-
-msgid "Ok"
-msgstr "Ok"
-
-msgid "Performing upgrade"
-msgstr "Realizando actualización"
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Por favor, intentá ejecutar el Administrador de Actualizaciones de nuevo en unos minutos."
-
-msgid "Removing unnecessary packages"
-msgstr "Eliminando paquetes innecesarios"
-
-msgid "Show details"
-msgstr "Mostrar detalles"
-
-msgid "Success. The most recent update has been implemented."
-msgstr "¡Éxito! La última actualización se aplicó correctamente."
-
-msgid "System update completed successfully."
-msgstr "Actualización del sistema completada con éxito."
-
-msgid "System updater has been started.."
-msgstr "El actualizador del sistema ha iniciado..."
-
-msgid "Update Manager - install progress"
-msgstr "Administrador de actualizaciones - progreso de instalación"
-
-msgid "Update SW database"
-msgstr "Actualizar base de datos de software"
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr "El administrador de actualizaciones se cerró con <b>código de error: "
-
-msgid "Waiting"
-msgstr "Esperando"
-
-msgid "Yes"
-msgstr "Sí"
-
-msgid "Your system is up to date and healthy."
-msgstr "Tu sistema está actualizado y en buen estado."
-
-msgid "need to be fixed"
-msgstr "necesita ser corregido"
+msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
+msgstr "<p>Si marcás esta opción, las próximas actualizaciones se harán sin pedir confirmación.</p><p>También podés configurar el administrador de actualizaciones en el panel de control -> administración del sistema.</p>"
 
 msgid "pushButton1"
 msgstr "botón1"
@@ -167,11 +47,135 @@ msgstr "botón1"
 msgid "pushButton2"
 msgstr "botón2"
 
-msgid "textLabel1"
-msgstr "etiqueta1"
+msgid "Show details"
+msgstr "Mostrar detalles"
 
-msgid "textLabel2"
-msgstr "etiqueta2"
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr "<p>Otra instancia del Administrador de Actualizaciones está en ejecución, saliendo...</p>"
 
-msgid "textLabel3"
-msgstr "etiqueta3"
+msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr "<p>No tenés permisos para actualizar el sistema. Necesitás ser parte del grupo administrativo \"sudo\". Contactá al administrador del sistema.</p>"
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr "<p>El sistema de paquetes está ocupado y no se puede instalar ahora. La instalación no puede continuar.</p><p>Probablemente haya actualizaciones del sistema corriendo en segundo plano. Si es así, esperá un momento a que termine.</p><p>Asegurate de que no estés instalando otra aplicación y probá de nuevo en unos minutos.</p>"
+
+msgid "Checking permissions"
+msgstr "Verificando permisos"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Checking SW database to be free"
+msgstr "Verificando que la base de datos de software esté libre"
+
+msgid "Locking SW database"
+msgstr "Bloqueando la base de datos de software"
+
+msgid "System updater has been started.."
+msgstr "El actualizador del sistema ha iniciado..."
+
+msgid "Waiting"
+msgstr "Esperando"
+
+msgid "Canceled !"
+msgstr "¡Cancelado!"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "! Reboot required"
+msgstr "¡Reinicio requerido!"
+
+msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr "<p>El sistema recibió correcciones de seguridad y actualizaciones importantes.</p><p>Por favor, <b>reiniciá</b> tu computadora lo antes posible para completar la actualización.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr "Por favor, intentá ejecutar el Administrador de Actualizaciones de nuevo en unos minutos."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr "El administrador de actualizaciones se cerró con <b>código de error: "
+
+msgid "Additional updates have been detected"
+msgstr "Se detectaron actualizaciones adicionales"
+
+msgid "Running Synaptic"
+msgstr ""
+
+#, fuzzy
+msgid "Synaptic package manager is not installed so using default updater for now ..."
+msgstr "No se encontró el ejecutable de Synaptic, instalalo primero. Usando el actualizador por defecto por ahora..."
+
+msgid "Closing.."
+msgstr "Cerrando..."
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "<b>Se necesita reiniciar</b> para completar la actualización."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "¡Éxito! La última actualización se aplicó correctamente."
+
+msgid "Your system is up to date and healthy."
+msgstr "Tu sistema está actualizado y en buen estado."
+
+msgid "Finish >"
+msgstr "Finalizar >"
+
+msgid "Do you want to continue ?"
+msgstr "¿Querés continuar?"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Checking apt pinning"
+msgstr "Verificando configuración de APT"
+
+msgid "need to be fixed"
+msgstr "necesita ser corregido"
+
+msgid "Performing upgrade"
+msgstr "Realizando actualización"
+
+msgid "Failed!"
+msgstr "¡Falló!"
+
+msgid "System update completed successfully."
+msgstr "Actualización del sistema completada con éxito."
+
+msgid "Finished :)"
+msgstr "¡Listo! :)"
+
+msgid "Checking Internet connection"
+msgstr "Verificando conexión a Internet"
+
+msgid "Not available!"
+msgstr "¡No disponible!"
+
+msgid "Update SW database"
+msgstr "Actualizar base de datos de software"
+
+msgid "Done"
+msgstr "Listo"
+
+msgid "Failed"
+msgstr "Falló"
+
+msgid "Checking apt database"
+msgstr "Verificando la base de datos de APT"
+
+msgid "Fixing apt database"
+msgstr "Corrigiendo la base de datos de APT"
+
+msgid "Downloading packages"
+msgstr "Descargando paquetes"
+
+msgid "Listing updates"
+msgstr "Listando actualizaciones"
+
+msgid "Removing unnecessary packages"
+msgstr "Eliminando paquetes innecesarios"
+
+msgid "Installing.."
+msgstr "Instalando..."

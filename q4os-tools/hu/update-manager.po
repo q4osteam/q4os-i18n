@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-09 13:22+0200\n"
+"POT-Creation-Date: 2025-06-27 14:26+0200\n"
 "PO-Revision-Date: 2025-02-12 13:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,149 +18,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "! Reboot required"
-msgstr "! Újraindítás szükséges"
+msgid "Update Manager - install progress"
+msgstr "Frissítéskezelő - a telepítés folyamata"
 
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Újraindítás szükséges<b> a frissítés befejezéséhez."
-
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>A Frissítéskezelő egy másik példánya fut, így ...<p>"
-
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr "<p>Ha be van jelölve, a következő frissítések a felhasználói megerősítés nélkül fognak végrehajtódni.</p><p>A frissítéskezelőt a Vezérlőpult -> Rendszeradminisztráció menü pontban is beállíthatod.</p>"
-
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>A csomagtelepítő rendszer elfoglalt, most nem áll készen a telepítésre. A telepítés nem folytatható.</p><p>A zárolást nagy valószínűséggel a háttérben futó rendszerfrissítések okozzák. Ha ez a helyzet, várnod kell egy pillanatot, amíg a csomagtelepítő rendszer befejezi ezeket a műveleteket.</p><p>Kérlek, győződj meg arról, hogy nem telepítesz más alkalmazást, és ismételd meg a telepítést néhány perc múlva.</p>"
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>A rendszer biztonsági javításokat és fontos frissítéseket kapott.</p><p>Kérlek, amint lehetséges <b>indítsd újra</b> a számítógépet, a frissítés befejezéséhez.</p>"
-
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>Nem végezhetsz rendszerfrissítést. Először a „sudo” rendszergazdai csoport tagjának kell lenned, kérlek, fordulj a rendszergazdához.</p>"
-
-msgid "Additional updates have been detected"
-msgstr "További frissítéseket észleltünk"
-
-msgid "Available updates"
-msgstr "Elérhető frissítések"
+msgid "textLabel1"
+msgstr "textLabel1"
 
 msgid "Cancel"
 msgstr "Mégsem"
 
-msgid "Canceled !"
-msgstr "Visszavonva !"
+msgid "Available updates"
+msgstr "Elérhető frissítések"
 
-msgid "Checking Internet connection"
-msgstr "Internetkapcsolat ellenőrzése"
+msgid "textLabel2"
+msgstr "textLabel2"
 
-msgid "Checking SW database to be free"
-msgstr "SW adatbázis ellenőrzése, hogy szabad legyen"
-
-msgid "Checking apt database"
-msgstr "Az apt adatbázis ellenőrzése"
-
-msgid "Checking apt pinning"
-msgstr "Az apt rögzítés ellenőrzése"
-
-msgid "Checking permissions"
-msgstr "Jogosultságok ellenőrzése"
-
-msgid "Close"
-msgstr "Bezár"
-
-msgid "Closing.."
-msgstr "Bezárás.."
-
-msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
-msgstr "Nem található a Synaptic bináris változata, kérlek, először telepítsd. Egyelőre az alapértelmezett frissítőt használom ..."
-
-msgid "Do you want to continue ?"
-msgstr "Szeretnéd folytatni?"
+msgid "textLabel3"
+msgstr "textLabel3"
 
 msgid "Don't show this dialog again"
 msgstr "Ne jelenítse meg újra ezt a párbeszédpanelt"
 
-msgid "Done"
-msgstr "Kész"
-
-msgid "Downloading packages"
-msgstr "Csomagok letöltése"
-
-msgid "Failed"
-msgstr "Sikertelen"
-
-msgid "Failed!"
-msgstr "Sikertelen!"
-
-msgid "Finish >"
-msgstr "Befejezés >"
-
-msgid "Finished :)"
-msgstr "Befejezve :)"
-
-msgid "Fixing apt database"
-msgstr "Az apt adatbázis javítása"
-
-msgid "Installing.."
-msgstr "Telepítés.."
-
-msgid "Listing updates"
-msgstr "Frissítések listázása"
-
-msgid "Locking SW database"
-msgstr "SW adatbázis lezárása"
-
-msgid "No"
-msgstr "Nem"
-
-msgid "Not available!"
-msgstr "Nem érhető el!"
-
-msgid "Ok"
-msgstr "Ok"
-
-msgid "Performing upgrade"
-msgstr "Frissítés végrehajtása"
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Kérlek, néhány perccel múlva próbáld meg újra futtatni a Frissítéskezelőt."
-
-msgid "Removing unnecessary packages"
-msgstr "A felesleges csomagok eltávolítása"
-
-msgid "Show details"
-msgstr "Részletek mutatása"
-
-msgid "Success. The most recent update has been implemented."
-msgstr "Sikeres. A legutóbbi frissítés végrehajtásra került."
-
-msgid "System update completed successfully."
-msgstr "A rendszerfrissítés sikeresen befejeződött."
-
-msgid "System updater has been started.."
-msgstr "A rendszerfrissítő elindult.."
-
-msgid "Update Manager - install progress"
-msgstr "Frissítéskezelő - a telepítés folyamata"
-
-msgid "Update SW database"
-msgstr "SW adatbázis frissítése"
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr "A frissítéskezelő <b>hibakóddal kilépett: "
-
-msgid "Waiting"
-msgstr "Várakozás"
-
-msgid "Yes"
-msgstr "Igen"
-
-msgid "Your system is up to date and healthy."
-msgstr "A rendszer naprakész és egészséges."
-
-msgid "need to be fixed"
-msgstr "javításra szorul"
+msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
+msgstr "<p>Ha be van jelölve, a következő frissítések a felhasználói megerősítés nélkül fognak végrehajtódni.</p><p>A frissítéskezelőt a Vezérlőpult -> Rendszeradminisztráció menü pontban is beállíthatod.</p>"
 
 msgid "pushButton1"
 msgstr "pushButton1"
@@ -168,11 +48,135 @@ msgstr "pushButton1"
 msgid "pushButton2"
 msgstr "pushButton2"
 
-msgid "textLabel1"
-msgstr "textLabel1"
+msgid "Show details"
+msgstr "Részletek mutatása"
 
-msgid "textLabel2"
-msgstr "textLabel2"
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr "<p>A Frissítéskezelő egy másik példánya fut, így ...<p>"
 
-msgid "textLabel3"
-msgstr "textLabel3"
+msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr "<p>Nem végezhetsz rendszerfrissítést. Először a „sudo” rendszergazdai csoport tagjának kell lenned, kérlek, fordulj a rendszergazdához.</p>"
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+msgstr "<p>A csomagtelepítő rendszer elfoglalt, most nem áll készen a telepítésre. A telepítés nem folytatható.</p><p>A zárolást nagy valószínűséggel a háttérben futó rendszerfrissítések okozzák. Ha ez a helyzet, várnod kell egy pillanatot, amíg a csomagtelepítő rendszer befejezi ezeket a műveleteket.</p><p>Kérlek, győződj meg arról, hogy nem telepítesz más alkalmazást, és ismételd meg a telepítést néhány perc múlva.</p>"
+
+msgid "Checking permissions"
+msgstr "Jogosultságok ellenőrzése"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Checking SW database to be free"
+msgstr "SW adatbázis ellenőrzése, hogy szabad legyen"
+
+msgid "Locking SW database"
+msgstr "SW adatbázis lezárása"
+
+msgid "System updater has been started.."
+msgstr "A rendszerfrissítő elindult.."
+
+msgid "Waiting"
+msgstr "Várakozás"
+
+msgid "Canceled !"
+msgstr "Visszavonva !"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "! Reboot required"
+msgstr "! Újraindítás szükséges"
+
+msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr "<p>A rendszer biztonsági javításokat és fontos frissítéseket kapott.</p><p>Kérlek, amint lehetséges <b>indítsd újra</b> a számítógépet, a frissítés befejezéséhez.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr "Kérlek, néhány perccel múlva próbáld meg újra futtatni a Frissítéskezelőt."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr "A frissítéskezelő <b>hibakóddal kilépett: "
+
+msgid "Additional updates have been detected"
+msgstr "További frissítéseket észleltünk"
+
+msgid "Running Synaptic"
+msgstr ""
+
+#, fuzzy
+msgid "Synaptic package manager is not installed so using default updater for now ..."
+msgstr "Nem található a Synaptic bináris változata, kérlek, először telepítsd. Egyelőre az alapértelmezett frissítőt használom ..."
+
+msgid "Closing.."
+msgstr "Bezárás.."
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "<b>Újraindítás szükséges<b> a frissítés befejezéséhez."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "Sikeres. A legutóbbi frissítés végrehajtásra került."
+
+msgid "Your system is up to date and healthy."
+msgstr "A rendszer naprakész és egészséges."
+
+msgid "Finish >"
+msgstr "Befejezés >"
+
+msgid "Do you want to continue ?"
+msgstr "Szeretnéd folytatni?"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Checking apt pinning"
+msgstr "Az apt rögzítés ellenőrzése"
+
+msgid "need to be fixed"
+msgstr "javításra szorul"
+
+msgid "Performing upgrade"
+msgstr "Frissítés végrehajtása"
+
+msgid "Failed!"
+msgstr "Sikertelen!"
+
+msgid "System update completed successfully."
+msgstr "A rendszerfrissítés sikeresen befejeződött."
+
+msgid "Finished :)"
+msgstr "Befejezve :)"
+
+msgid "Checking Internet connection"
+msgstr "Internetkapcsolat ellenőrzése"
+
+msgid "Not available!"
+msgstr "Nem érhető el!"
+
+msgid "Update SW database"
+msgstr "SW adatbázis frissítése"
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "Failed"
+msgstr "Sikertelen"
+
+msgid "Checking apt database"
+msgstr "Az apt adatbázis ellenőrzése"
+
+msgid "Fixing apt database"
+msgstr "Az apt adatbázis javítása"
+
+msgid "Downloading packages"
+msgstr "Csomagok letöltése"
+
+msgid "Listing updates"
+msgstr "Frissítések listázása"
+
+msgid "Removing unnecessary packages"
+msgstr "A felesleges csomagok eltávolítása"
+
+msgid "Installing.."
+msgstr "Telepítés.."
