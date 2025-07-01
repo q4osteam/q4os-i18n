@@ -19,7 +19,7 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr "<b>Presioná Sí</b> para ejecutar el asistente de instalación automática, que te va a guiar en la instalación de la última versión estable con actualizaciones automáticas. Si no, hacé clic en No y usá Konqueror como opción predeterminada. Podés conseguir el instalador de ${APF1} en el Centro de Software de Q4
+msgstr "<b>Presioná Sí</b> para ejecutar el asistente de instalación automática, que te va a guiar en la instalación de la última versión estable con actualizaciones automáticas. Si no, hacé clic en No y usá Konqueror como opción predeterminada. Podés conseguir el instalador de ${APF1} en el Centro de Software de Q4OS"
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
