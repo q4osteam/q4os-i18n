@@ -57,7 +57,7 @@ msgstr "Andere populäre Anwendungen <!--wie etwa Skype, Dropbox, TeamViewer, Op
 
 msgctxt "show|"
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
-msgstr "Q4OS ist mit den meisten gängigen Dateiformaten kompatibel: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
+msgstr "Q4OS ist kompatibel mit den gängigsten Dateiformaten: *.zip, *.doc, *.xls, *.pdf, *.rar, *.mp3, *.wmv, *.mpg, *.mp4, *.mkv, *.avi, *.mov … und so weiter"
 
 msgctxt "show|"
 msgid "An alternative to mainstream operating systems"
