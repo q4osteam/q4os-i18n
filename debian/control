@@ -1,0 +1,17 @@
+Source: q4os-i18n
+Section: none
+Priority: optional
+Maintainer: Q4OS Team <devteam@q4os.org>
+Build-Depends: debhelper (>= 9~)
+Standards-Version: 3.8.4
+
+Package: q4os-i18n
+Architecture: all
+Pre-Depends:
+Depends:
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Localisation for Q4OS

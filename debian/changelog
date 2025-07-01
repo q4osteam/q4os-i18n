@@ -1,0 +1,343 @@
+q4os-i18n (3.16.1-a1) UNRELEASED; urgency=medium
+
+  [ Q4OS Team ]
+  * Initial commit
+  * Russian translations, etc ...
+  * French translations, etc ..
+  * Added pt and pt_br .po files
+  * new empty src files added
+
+  [ nicram ]
+  * First commit, i hope it will work well.
+  * First full translated files.
+  * Polish translation tweaks and fixes.
+  * Tweaks in Polish language for welcome screen and app setup.
+
+  [ Q4OS Team ]
+  * version q4os-i18n-1.1.2-a1
+  * minor correction in ru - welcome screen
+  * added desktop-profiler and software-centre translations into i18n package
+
+  [ nicram ]
+  * Few tweaks in polish language.
+  * Software centre Polish translation tweak.
+  * Software centre typo fix - Polish language
+
+  [ Q4OS Team ]
+  * scripts update
+  * Added pt_pt directory
+  * pt and pt_pt translations added
+  * fix pt_ strings on welcome screen buttons, copy pt to pt_br
+  * German translations ; added lu directory
+  * minor fixes in de
+  * Fixed typo in German translation
+  * Italian translations added
+  * Fixed Italian
+  * minor fix in german translation
+  * Merged new welcome-screen, minor updates
+  * new version
+  * minor fix in de, new version
+  * pt, pt_pt and pt_br welcome screen updates, new version
+  * added update-manager translation .po files
+  * minor build script fix
+  * rearrange .pot files
+  * update-manager - a few minor updates in de
+  * update manager - new strings, code update
+
+  [ Hugo Carvalho ]
+  * Add files via upload
+
+  [ Q4OS Team ]
+  * .po files updated
+  * French translations improved
+  * update manager translations splitted to update-manager and um_config new version
+  * Added live-installer translations A complete remake of directory structure
+  * Added Calamares translations
+  * Added Danish translation files
+  * Minor fixes in templates
+  * Added license Added readme
+
+  [ Hugo Carvalho ]
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Delete welcome-screen.po
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+
+  [ Q4OS Team ]
+  * templates minor fix
+  * copy translations pt -> pt_br
+  * Remove pt_pt as duplicates pt
+  * fix a glitch in calamares/pt
+
+  [ Hugo Carvalho ]
+  * Add files via upload
+  * Add files via upload
+
+  [ HierraStrunger ]
+  * Add files via upload
+  * Add files via upload
+
+  [ Q4OS Team ]
+  * change pt_br to pt_BR folder name
+  * Remove live-installer completely, we don't use it anymore
+  * Added more languages Restructured directory system completely
+  * Merge fuzzy Calamares translations Add en_GB folder
+  * Update readme
+  * Added Screen scaler Welcome screen updated
+
+  [ hugok79 ]
+  * Update welcome-screen.po
+  * Create q4os-screenscaler.po
+
+  [ Q4OS Team ]
+  * Updated welcome-screen for all locales Added q4os-screenscaler for all locales
+  * Applied pt/q4os-screenscaler to pt_BR/q4os-screenscaler
+
+  [ Hugo Carvalho ]
+  * Add files via upload
+  * Add files via upload
+  * Add files via upload
+
+  [ Q4OS Team ]
+  * Added q4os-base catalog Added q4os-shortcuts catalog
+  * Update q4os-base
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translations
+
+  [ Q4OS Team ]
+  * Added qrepoadd tool translations some pt to pt_BR strings
+  * Minor fix of fuzzy translations
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translations
+  * Update Brazilian Portuguese translations
+
+  [ Q4OS Team ]
+  * Fuzzy translations fix
+  * Desktop-profiler - fuzzy translations fix
+
+  [ Heimen Stoffels ]
+  * Added Dutch translation
+
+  [ Q4OS Team ]
+  * Added a few Desktop profiler strings
+
+  [ Hugo Carvalho ]
+  * Portuguese translations updated
+  * Brazilian Portuguese updated
+
+  [ Q4OS Team ]
+  * Add "cpuqinfo" template - brand new application Update "welcome-screen"
+
+  [ Heimen Stoffels ]
+  * Updated Dutch translation
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translation
+  * Update Portuguese translation
+  * Update welcome-screen.po
+
+  [ Q4OS Team ]
+  * Spanish translations updated by Tolkem
+  * Fixes to Spanish translations by Tolkem
+
+  [ Hugo Carvalho ]
+  * Some portuguese grammar corrected
+
+  [ Q4OS Team ]
+  * Italian translations updated by Fiflagar L.
+
+  [ olokelo ]
+  * Complete Polish translations
+
+  [ Q4OS Team ]
+  * Fixes in Spanish translations.
+
+  [ Hugo Carvalho ]
+  * Fixes in Portuguese translation
+  * Fixes in Portuguese translations
+
+  [ Q4OS Team ]
+  * Update software-centre.pot and q4os-base.pot
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translations
+
+  [ Heimen Stoffels ]
+  * Updated Dutch translation
+
+  [ amel_ancoli@hotmail.com ]
+  * Updated q4os-base.po
+
+  [ Q4OS Team ]
+  * French translation updated
+
+  [ Hugo Carvalho ]
+  * Fix typo in french(fr) welcome screen
+
+  [ Q4OS Team ]
+  * A superfluous file removed.
+  * New strings in welcome-screen and cpuqinfo
+
+  [ Heimen Stoffels ]
+  * Updated Dutch translation
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translation
+  * Delete cpuqinfo.po
+  * Delete update-manager.po
+  * Delete welcome-screen.po
+  * Update Dutch translation
+
+  [ Slandais ]
+  * Update welcome-screen.po
+  * welcome
+  * Delete modules.xml
+
+  [ Q4OS Team ]
+  * Minor fix in French, see https://www.q4os.org/forum/viewtopic.php?id=4344
+  * Japanese translations by MPI3508
+  * Update templates
+  * Update desktop-profiler template
+
+  [ user0-tb ]
+  * Updated some German translations
+
+  [ seb3773 ]
+  * Update q4os-screenscaler.po
+  * Update q4os-base.po
+  * Update calamares-debian.po
+
+  [ Hugo Carvalho ]
+  * Update Portuguese tranlation
+
+  [ adem ]
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Revert Poedit's linebreaks
+  * Update Russian translation
+  * Update Russian translation
+
+  [ Q4OS Team ]
+  * Update localization templates
+  * Update desktop-profiler.po strings
+
+  [ eruedin ]
+  * Update welcome-screen.po
+  * Update update-manager.po
+  * Update software-centre.po
+
+  [ Hugo Carvalho ]
+  * Update Portuguese `pt` translations
+
+  [ Q4OS Team ]
+  * Update appsetup2.po and software-centre.po strings
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translation
+
+  [ adem ]
+  * Update Russian translation
+
+  [ Q4OS Team ]
+  * Added es_AR locale
+
+  [ Alejo ]
+  * First contribution in es_AR
+  * Update appsetup2.po
+  * Update calamares-debian.po
+  * Update cpuqinfo.po
+  * Update desktop-profiler.po
+
+  [ Q4OS Team ]
+  * Added Hungarian translation by BalkL
+  * Fix es_AR/desktop-profiler.po flaw
+  * Update calamares-debian templates
+  * Update appsetup2 template
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translations
+
+  [ Alejo ]
+  * Update q4os-base.po
+  * Update q4os-base.po
+  * Update q4os-base.po
+  * Update q4os-screenscaler.po
+  * Update q4os-shortcuts.po
+  * Update q4os-shortcuts.po
+  * Update q4os-shortcuts.po
+  * Update software-centre.po
+  * Update um_config.po
+  * Update update-manager.po
+  * Update welcome-screen.po
+
+  [ Q4OS Team ]
+  * Fix German Calamares strings
+  * Update Calamares translations
+  * Fix Calamares translations
+  * Update Desktop profiler translations
+
+  [ adem ]
+  * Update Russian translation
+
+  [ Q4OS Team ]
+  * Small update of cpuqinfo localization
+
+  [ adem ]
+  * Update Russian translation
+  * Update Russian transalation
+
+  [ Hugo Carvalho ]
+  * Update Portuguese translation
+
+  [ Omer I.S. ]
+  * Add Hebrew translations
+
+  [ Q4OS Team ]
+  * Update Welcome screen strings
+  * Fix typo https://github.com/q4os/q4os-i18n/issues/45
+
+  [ adem ]
+  * Update Russian translation
+
+  [ Q4OS Team ]
+  * Update German translations
+  * Update German translations
+  * Update German translations
+  * Update German translations
+  * Update German translations
+  * Update German translations
+
+  [ adem ]
+  * Update Russian translation
+
+  [ Q4OS Team ]
+  * Update German translations
+  * Add new update-manager strings to tranlate
+  * Update German translations
+  * Update German translations
+  * Fix typo
+
+ -- Q4OS Team <devteam@q4os.org>  Tue, 01 Jul 2025 19:28:16 +0200
