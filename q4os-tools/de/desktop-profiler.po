@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: 2025-06-30 19:20+0200\n"
+"PO-Revision-Date: 2025-07-01 22:35+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -90,10 +90,10 @@ msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as def
 msgstr "<p>Behalten Sie den <span style=\"font-weight:600\">Trinity</span>-Desktop als Default, es wird kein Plasma installiert. Sie können die Plasma-Installation später unter Verwendung des Desktop-Profiler-Tools starten.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Paketsystem ist ausgelastet, nicht bereit, jetzt zu installieren. Setup kann nicht fortgesetzt werden.</p><p>Die Sperre wird höchstwahrscheinlich durch kontinuierliche Systemaktualisierungen im Hintergrund verursacht. Wenn dies der Fall ist, müssen Sie einen Moment warten, bis das Paketsystem diese Operationen abgeschlossen hat. Bitte vergewissern Sie sich, dass Sie keine andere Anwendung installieren und wiederholen Sie das Setup einige Minuten später.</p>"
+msgstr "<p>Paketsystem ist ausgelastet, nicht bereit, jetzt zu installieren. Setup kann nicht fortgesetzt werden.</p><p>Die Sperre wird höchstwahrscheinlich durch kontinuierliche Systemaktualisierungen im Hintergrund verursacht. Wenn dies der Fall ist, müssen Sie einen Moment warten, bis das Paketsystem diese Operationen abgeschlossen hat. Bitte vergewissern Sie sich, dass Sie keine andere Anwendung installieren und wiederholen Sie das Setup wenige Minuten später.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr "<p>Warnung: Ein Abbruch der Installation während dieser Phase könnte in einem Ausfall des Paketsystems resultieren..</p><p>Sind Sie wirklich sicher, dass Sie den Installationsprozess jetzt unterbrechen wollen?</p>"
+msgstr "<p>Warnung: Ein Abbruch der Installation während dieser Phase könnte in einem Ausfall des Paketsystems resultieren.</p><p>Sind Sie wirklich sicher, dass Sie den Installationsprozess jetzt unterbrechen wollen?</p>"
 
 msgid ">"
 msgstr ">"
